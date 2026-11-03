@@ -1,0 +1,453 @@
+{
+ "country": {
+  "id": "benin",
+  "name": "Bénin",
+  "flag": "🇧🇯",
+  "fr": "Histoire du Bénin",
+  "en": "History of Benin",
+  "old_names": [
+   "Dahomey",
+   "Porto-Novo",
+   "Abomey",
+   "Ouidah"
+  ],
+  "places": [
+   "porto-novo-marche",
+   "cotonou-wharf"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin",
+   "source": 1,
+   "summary": "Cet article couvre l'histoire du territoire du Bénin depuis le XVIe siècle, pour la zone géographique incluse en 1960 dans ce qui a été appelé à l'époque la république du Dahomey avant de devenir la république populaire du Bénin.",
+   "events": [],
+   "start": null,
+   "end": null,
+   "photos": [],
+   "narrative": "Cette introduction délimite le cadre de l'étude consacrée à l'histoire du territoire du Bénin [S1]. Elle précise que la période considérée commence au XVIe siècle [S1]. Elle indique que l'espace étudié correspond à la zone géographique incluse en 1960 dans l'entité alors nommée république du Dahomey [S1]. Elle précise que cette entité est ensuite devenue la république populaire du Bénin [S1]. Ce cadrage associe donc une borne chronologique et une définition territoriale précise [S1]. Les extraits fournis se limitent à cette présentation générale et ne détaillent aucun événement particulier [S1]. Ils ne reflètent ainsi qu'un cadre introductif et non un récit complet ou pluraliste [S1]."
+  },
+  {
+   "title": "Premiers habitants",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#Premiers_habitants",
+   "source": 2,
+   "summary": "Dans la chaîne de l'Atacora, au nord-ouest du Bénin, des prospections et des fouilles systématiques ont identifié des grottes, des abris sous roche et des sites de plein air présentant des industries lithiques couvrant l'âge de la pierre ancien, l'âge de la pierre moyen et l'âge de la pierre récent. Ces sites ont livré divers artefacts, dont de grands éclats et des nucléus associés à des technologies de l'âge de la pierre moyen, ainsi que des microlithes, des meules, des haches polies et de la céramique indiquant d",
+   "events": [
+    {
+     "year": 1250,
+     "label": "XIIIe s.",
+     "text": "Les traditions orales font remonter de nombreuses entités politiques gbe à des dispersions dynastiques issues de la ville de Tado, que l'on pense fondée par des migrants venus d'Oyo ou de Ketu au XIIIe siècle.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": 1250,
+   "end": 1250,
+   "photos": [],
+   "narrative": "Dans la chaîne de l'Atacora, au nord-ouest du Bénin, des prospections et des fouilles systématiques ont identifié des grottes, des abris sous roche et des sites de plein air [S2]. Ces sites présentent des industries lithiques couvrant l'âge de la pierre ancien, l'âge de la pierre moyen et l'âge de la pierre récent [S2]. Ils ont livré divers artefacts, dont de grands éclats et des nucléus associés aux technologies de l'âge de la pierre moyen, ainsi que des microlithes, des meules, des haches polies et de la céramique [S2]. Par ailleurs, les traditions orales font remonter de nombreuses entités politiques gbe à des dispersions dynastiques issues de la ville de Tado [S2]. Cette ville est présentée comme fondée par des migrants venus d'Oyo ou de Ketu au XIIIe siècle [S2]."
+  },
+  {
+   "title": "Les royaumes africains (~1500-~1850)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#Les_royaumes_africains_(~1500-~1850)",
+   "source": 3,
+   "summary": "Les trois royaumes d’Allada, de Porto-Novo et de Dã Homè - dans le ventre du serpent Dã (dan) - sont fondés par les Fons, qui occupent le sud du pays (le nom de Dahomey est donné à l’ensemble du pays après la conquête française). Selon la légende, la fille du roi de la ville de Tado (sur le fleuve Mono, Pays-Adja) fut fécondée par un léopard, alors qu'elle allait puiser de l'eau.",
+   "events": [
+    {
+     "year": 1550,
+     "label": "XVIe s.",
+     "text": "Ses descendants fondent un royaume à Allada au XVIe siècle : royaume d'Ardra.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1818,
+     "label": "1818",
+     "text": "Le roi Ghézo (règne : 1818-1858) consolide le royaume en attaquant régulièrement les Yorubas au Nigeria, se procurant ainsi des esclaves.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1845,
+     "label": "1845",
+     "text": "Mais la présence des Français, ainsi que leur captation des droits de douane qui lui revenaient antérieurement , excède le roi Gbê han zin (1845-1906, règne : 1890-1894, Béhanzin) qui lutte contre les Français pour recouvrer la souveraineté du royaume.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1858,
+     "label": "1858",
+     "text": "Son successeur, le roi Glélé (règne : 1858-1889), irrite cependant les Français par son attitude belliqueuse et par son non-conformisme.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1863,
+     "label": "1863",
+     "text": "Par le traité de 1863, il autorise les Français à s'installer à Cotonou.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1890,
+     "label": "1890",
+     "text": "Le traité de Ouidah (1890), signé en octobre 1890, place Porto-Novo et Cotonou sous tutelle française.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 1550,
+   "end": 1890,
+   "photos": [
+    {
+     "title": "Gbeto women elephant hunters (1860)",
+     "year": 1860,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Gbeto_women_elephant_hunters_%281860%29.png/960px-Gbeto_women_elephant_hunters_%281860%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gbeto_women_elephant_hunters_(1860).png",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Les royaumes d’Allada, de Porto-Novo et de Dã Homè sont fondés par les Fons du sud [S3]. Selon la légende, la fille du roi de Tado fut fécondée par un léopard en puisant de l’eau [S3]. Ses descendants fondent au XVIe siècle à Allada le royaume d’Ardra [S3]. Ghézo, régnant de 1818 à 1858, consolide le royaume en attaquant les Yorubas pour des esclaves [S3]. Glélé, régnant de 1858 à 1889, irrite les Français par son attitude belliqueuse mais les autorise en 1863 à s’installer à Cotonou [S3]. Béhanzin, régnant de 1890 à 1894, lutte contre les Français pour les douanes, et le traité de Ouidah d’octobre 1890 place Porto-Novo et Cotonou sous tutelle française [S3]. Ces extraits reflètent un point de vue centré sur les Français [S3]."
+  },
+  {
+   "title": "La colonie du Dahomey (1894-1958)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#La_colonie_du_Dahomey_(1894-1958)",
+   "source": 4,
+   "summary": "Au début du XXe siècle, les trois royaumes cessent d'être autonomes et sont confondus dans un ensemble divisé en cercles gérés par des administrateurs et cantons gérés par des chefs africains. Pendant la Première Guerre mondiale, des troubles éclatent dans le nord du pays après l'envoi de troupes autochtones sur le front européen.",
+   "events": [
+    {
+     "year": 1944,
+     "label": "1944",
+     "text": "Le 8 février 1944 se termine à Brazzaville une conférence réunissant les dix-huit gouverneurs et gouverneurs généraux de l’AOF, de l’Afrique-Équatoriale française, de la Côte française des Somalis, de Madagascar et de La Réunion.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1946,
+     "label": "1946",
+     "text": "La Constituante adopte le 11 avril 1946, la loi n° 46-645, dite loi Houphouët-Boigny, portant sur l’abolition du travail forcé ou obligatoire dans les colonies françaises, étend le code pénal métropolitain aux colonies le 30 avril et accorde le 7 mai la citoyenneté française « à tous les ressortissants des territoires d’outre-mer sans qu’il soit porté atteinte au statut personnel » (Loi Lamine Guèye).",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1950,
+     "label": "XXe s.",
+     "text": "Au début du XXe siècle, les trois royaumes cessent d'être autonomes et sont confondus dans un ensemble divisé en cercles gérés par des administrateurs et cantons gérés par des chefs africains.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1951,
+     "label": "1951",
+     "text": "Le 17 juin 1951, Hubert Maga (liste du Groupement ethnique du Nord-Dahomey, GEND) et Sourou Migan Apithy (liste d’Union Française) sont élus députés à la deuxième législature de la Quatrième République.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1955,
+     "label": "1955",
+     "text": "Émile Derlin Zinsou parvient cependant à se faire élire conseiller de la République en juin 1955 en se présentant sans étiquette au premier collège et, en bénéficiant des voix des indépendants et du RPF.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1960,
+     "label": "1960",
+     "text": "Mais soucieux de barrer la route au PPD, l’UDD-RDA soutient la candidature d’Hubert Maga qui est élu premier président du Dahomey le 26 juillet 1960 et qui proclame l’indépendance du Dahomey le 1er août de cette même année en présence de Louis Jacquinot, qui représente la France.",
+     "source": 4,
+     "corroborated": false
+    }
+   ],
+   "start": 1944,
+   "end": 1960,
+   "photos": [
+    {
+     "title": "Bovins au pâturage (Dahomey) - btv1b10119834d (1 of 2)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bovins_au_p%C3%A2turage_%28Dahomey%29_-_btv1b10119834d_%281_of_2%29.jpg/960px-Bovins_au_p%C3%A2turage_%28Dahomey%29_-_btv1b10119834d_%281_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Bovins_au_p%C3%A2turage_(Dahomey)_-_btv1b10119834d_(1_of_2).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Bovins au pâturage (Dahomey) - btv1b10119834d (2 of 2)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Bovins_au_p%C3%A2turage_%28Dahomey%29_-_btv1b10119834d_%282_of_2%29.jpg/960px-Bovins_au_p%C3%A2turage_%28Dahomey%29_-_btv1b10119834d_%282_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Bovins_au_p%C3%A2turage_(Dahomey)_-_btv1b10119834d_(2_of_2).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Dahomey. (Culture de l'amarante) - Grubben, G. - btv1b101239307 (1 of 4)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%281_of_4%29.jpg/960px-Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%281_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._(Culture_de_l%27amarante)_-_Grubben,_G._-_btv1b101239307_(1_of_4).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Dahomey. (Culture de l'amarante) - Grubben, G. - btv1b101239307 (2 of 4)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%282_of_4%29.jpg/960px-Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%282_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._(Culture_de_l%27amarante)_-_Grubben,_G._-_btv1b101239307_(2_of_4).jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Au début du XXe siècle, les trois royaumes cessent d'être autonomes et sont confondus dans un ensemble divisé en cercles gérés par des administrateurs et en cantons gérés par des chefs africains [S4]. Pendant la Première Guerre mondiale, des troubles éclatent dans le nord après l'envoi de troupes autochtones sur le front européen [S4]. Le 8 février 1944 se termine à Brazzaville une conférence réunissant dix-huit gouverneurs et gouverneurs généraux [S4]. En 1946, la loi Houphouët-Boigny abolit le travail forcé, puis la citoyenneté française est accordée aux ressortissants des territoires d'outre-mer [S4]. Hubert Maga est élu premier président du Dahomey le 26 juillet 1960 et proclame l'indépendance le 1er août en présence de Louis Jacquinot [S4]. Ces extraits reflètent uniquement un point de vue institutionnel colonial français [S4]."
+  },
+  {
+   "title": "Le Dahomey indépendant (1960-1972)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#Le_Dahomey_indépendant_(1960-1972)",
+   "source": 5,
+   "summary": "Comme beaucoup de pays africains, le Dahomey accède à l’indépendance en 1960, le 1er août. Le chef de gouvernement, Hubert Maga, devient le premier président de la jeune république, et affirme la volonté de garder des liens vivaces avec l'ancienne puissance coloniale.",
+   "events": [
+    {
+     "year": 1960,
+     "label": "1960",
+     "text": "Comme beaucoup de pays africains, le Dahomey accède à l’indépendance en 1960, le 1er août.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1963,
+     "label": "1963",
+     "text": "Pour éviter les effets néfastes du tripartisme dahoméen, un parti unique (Parti dahoméen de l'unité) est formé, mais des troubles sociaux et politiques entraînent, le 28 octobre 1963, un coup d’État militaire mené par le colonel Christophe Soglo.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1964,
+     "label": "1964",
+     "text": "En janvier 1964, le pays revient à la gestion civile.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1968,
+     "label": "1968",
+     "text": "La nouvelle Constitution, approuvée le 31 mars 1968, établit un régime de type présidentiel.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1969,
+     "label": "1969",
+     "text": "Émile Derlin Zinsou devient président, mais est renversé par un nouveau coup d’État qui le remplace par un directoire militaire présidé par Paul Emile de Souza le 10 décembre 1969.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1970,
+     "label": "1970",
+     "text": "Un Conseil présidentiel composé des trois partis traditionnels est instauré le 7 mai 1970 ; il met en place une organisation qui doit permettre la cohabitation des trois chefs des partis traditionnels.",
+     "source": 5,
+     "corroborated": false
+    }
+   ],
+   "start": 1960,
+   "end": 1970,
+   "photos": [],
+   "narrative": "Le Dahomey accède à l’indépendance le 1er août 1960 [S5]. Hubert Maga, chef de gouvernement, devient le premier président et affirme la volonté de garder des liens vivaces avec l'ancienne puissance coloniale [S5]. Pour éviter les effets néfastes du tripartisme dahoméen, le Parti dahoméen de l'unité est formé, mais des troubles sociaux et politiques entraînent le 28 octobre 1963 un coup d’État du colonel Christophe Soglo [S5]. Le pays revient à la gestion civile en janvier 1964 [S5]. La Constitution approuvée le 31 mars 1968 établit un régime présidentiel [S5]. Émile Derlin Zinsou devient président, puis est renversé le 10 décembre 1969 et remplacé par un directoire militaire présidé par Paul Emile de Souza [S5]. Un Conseil présidentiel des trois partis traditionnels est instauré le 7 mai 1970 pour permettre leur cohabitation [S5]."
+  },
+  {
+   "title": "La république populaire du Bénin (1972-1990)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#La_république_populaire_du_Bénin_(1972-1990)",
+   "source": 6,
+   "summary": "Mais le 26 octobre 1972, le commandant Mathieu Kérékou prend le pouvoir et établit un gouvernement militaire révolutionnaire. Le 30 novembre 1975, le pays devient la république populaire du Bénin, adhère au marxisme-léninisme et le Parti de la révolution populaire du Bénin (PRPB) est créé.",
+   "events": [
+    {
+     "year": 1972,
+     "label": "1972",
+     "text": "Mais le 26 octobre 1972, le commandant Mathieu Kérékou prend le pouvoir et établit un gouvernement militaire révolutionnaire.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1974,
+     "label": "1974",
+     "text": "En 1974, sous l'influence de jeunes révolutionnaires – les « Ligueurs » – le gouvernement engagea un programme de nature socialiste : nationalisation des secteurs stratégiques de l'économie, réforme du système éducatif, mise en place de coopératives agricoles et de nouvelles structures d'administration locale, lancement d'une campagne d'éradication des « forces féodales » dont notamment le tribalisme.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1975,
+     "label": "1975",
+     "text": "Le 30 novembre 1975, le pays devient la république populaire du Bénin, adhère au marxisme-léninisme et le Parti de la révolution populaire du Bénin (PRPB) est créé.",
+     "source": 6,
+     "corroborated": true
+    },
+    {
+     "year": 1977,
+     "label": "1977",
+     "text": "Une nouvelle constitution est adoptée le 9 septembre 1977 et restera en vigueur jusqu’en 1990.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1980,
+     "label": "1980",
+     "text": "Dans les années 1980, la situation économique du Bénin est de plus en plus critique.",
+     "source": 6,
+     "corroborated": false
+    }
+   ],
+   "start": 1972,
+   "end": 1980,
+   "photos": [],
+   "narrative": "Le 26 octobre 1972, le commandant Mathieu Kérékou prend le pouvoir et établit un gouvernement militaire révolutionnaire [S6]. En 1974, sous l'influence de jeunes révolutionnaires – les « Ligueurs » – le gouvernement engagea un programme de nature socialiste [S6]. Il comprenait la nationalisation des secteurs stratégiques de l'économie, la réforme du système éducatif, la mise en place de coopératives agricoles et de nouvelles structures d'administration locale, et le lancement d'une campagne d'éradication des « forces féodales » dont le tribalisme [S6]. Le 30 novembre 1975, le pays devient la république populaire du Bénin, adhère au marxisme-léninisme et le Parti de la révolution populaire du Bénin (PRPB) est créé [S6]. Une nouvelle constitution est adoptée le 9 septembre 1977 et restera en vigueur jusqu’en 1990 [S6]. Dans les années 1980, la situation économique du Bénin est de plus en plus critique [S6]."
+  },
+  {
+   "title": "La république du Bénin (depuis 1990)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#La_république_du_Bénin_(depuis_1990)",
+   "source": 7,
+   "summary": "En février 1990, une Conférence nationale abroge la Constitution et met en place de nouvelles institutions pour une période transitoire : création d'un poste de Premier ministre, abandon de la référence « populaire » dans la dénomination du pays qui devient la république du Bénin, limitation de l'âge des candidats-présidents à 70 ans afin d'empêcher la candidature des anciens présidents Zinsou, Maga et Ahomadegbé. À la suite de l'élection présidentielle de mars 1991, Nicéphore Soglo (1934-) remplace Mathieu Kérékou",
+   "events": [
+    {
+     "year": 1990,
+     "label": "1990",
+     "text": "En février 1990, une Conférence nationale abroge la Constitution et met en place de nouvelles institutions pour une période transitoire : création d'un poste de Premier ministre, abandon de la référence « populaire » dans la dénomination du pays qui devient la république du Bénin, limitation de l'âge des candidats-présidents à 70 ans afin d'empêcher la candidature des anciens présidents Zinsou, Maga et Ahomadegbé.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 1991,
+     "label": "1991",
+     "text": "À la suite de l'élection présidentielle de mars 1991, Nicéphore Soglo (1934-) remplace Mathieu Kérékou à la présidence de la République.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 1996,
+     "label": "1996",
+     "text": "Ce dernier est élu à son tour en mars 1996 puis réélu en mars 2001.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 2006,
+     "label": "2006",
+     "text": "En mars 2006, Thomas Boni Yayi (1952-), ancien directeur de la Banque ouest-africaine de développement, est élu président du Bénin et de nouveau en mars 2011.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "text": "En décembre 2019, l’annonce, par le président ivoirien Alassane Ouattara et le président français Emmanuel Macron, de la fin du franc CFA pour les huit pays de la CEDEAO, au profit de l'Eco est diversement qualifiée.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 2021,
+     "label": "2021",
+     "text": "Le 11 avril 2021, Patrice Talon est réélu président de la République.",
+     "source": 7,
+     "corroborated": true
+    }
+   ],
+   "start": 1990,
+   "end": 2021,
+   "photos": [],
+   "narrative": "En février 1990, une Conférence nationale abroge la Constitution et met en place de nouvelles institutions transitoires [S7]. Elle crée un poste de Premier ministre, abandonne la référence « populaire » pour la république du Bénin et limite à 70 ans l’âge des candidats afin d’empêcher les candidatures des anciens présidents Zinsou, Maga et Ahomadegbé [S7]. En mars 1991, Nicéphore Soglo remplace Mathieu Kérékou à la présidence [S7]. Ce dernier est élu en mars 1996 puis réélu en mars 2001 [S7]. Thomas Boni Yayi, ancien directeur de la Banque ouest-africaine de développement, est élu en mars 2006 puis en mars 2011 [S7]. En décembre 2019, la fin annoncée du franc CFA pour huit pays de la CEDEAO au profit de l’Eco est diversement qualifiée [S7]. Patrice Talon est réélu le 11 avril 2021 [S7]."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire du Bénin › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire du Bénin › Premiers habitants",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#Premiers_habitants",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire du Bénin › Les royaumes africains (~1500-~1850)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#Les_royaumes_africains_(~1500-~1850)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "Histoire du Bénin › La colonie du Dahomey (1894-1958)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#La_colonie_du_Dahomey_(1894-1958)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 5,
+   "title": "Histoire du Bénin › Le Dahomey indépendant (1960-1972)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#Le_Dahomey_indépendant_(1960-1972)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 6,
+   "title": "Histoire du Bénin › La république populaire du Bénin (1972-1990)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#La_république_populaire_du_Bénin_(1972-1990)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 7,
+   "title": "Histoire du Bénin › La république du Bénin (depuis 1990)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin#La_république_du_Bénin_(depuis_1990)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 8,
+   "title": "History of Benin",
+   "url": "https://en.wikipedia.org/wiki/History_of_Benin",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": 1250,
+   "text": "Avant 1250, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  },
+  {
+   "from": 1250,
+   "to": 1550,
+   "text": "Entre 1250 et 1550, les sources consultées ne donnent aucune date précise."
+  },
+  {
+   "from": null,
+   "to": null,
+   "text": "Chapitres peu datés : Premiers habitants."
+  }
+ ],
+ "stats": {
+  "chapters": 7,
+  "events": 30,
+  "corroborated": 5,
+  "share": 0.17,
+  "span": [
+   "1250",
+   "2021"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-1.3"
+ },
+ "run": "041d24ad18"
+}

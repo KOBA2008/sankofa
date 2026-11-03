@@ -1,0 +1,194 @@
+{
+ "country": {
+  "id": "maroc",
+  "name": "Maroc",
+  "flag": "🇲🇦",
+  "fr": "Histoire du Maroc",
+  "en": "History of Morocco",
+  "old_names": [
+   "Morocco",
+   "Marrakech",
+   "Fès",
+   "Tanger"
+  ],
+  "places": [
+   "marrakech-jemaa-el-fna"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+   "source": 1,
+   "summary": "L'histoire du Maroc et de son territoire remonte aux premiers peuplements du Paléolithique inférieur, dont certaines des plus anciennes traces ont été mises au jour à Djebel Irhoud. Durant l'Antiquité, la région connaît successivement des influences phéniciennes puis carthaginoises, parallèlement à l'émergence de royaumes berbères, notamment le royaume de Maurétanie.",
+   "events": [
+    {
+     "year": 757,
+     "label": "757",
+     "text": "La carte du Maghreb se morcelle alors en une série de petits États indépendants dont les principaux sont les royaumes sufrite de Tlemcen ainsi que l'Émirat de Nekor, le royaume Berghouata et l'Émirat de Sijilmassa (fondé en 757).",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 788,
+     "label": "788",
+     "text": "En 788, Idris Ier, réfugié au Maghreb afin d'échapper aux persécutions du califat des Abbassides, fonde un État gouverné par la dynastie des Idrissides, dont l'autorité disparaît progressivement au cours du Xe siècle.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1850,
+     "label": "XIXe s.",
+     "text": "Au cours du XIXe siècle, le Maroc fait face à une pression croissante des puissances européennes et se trouve impliqué dans plusieurs conflits liés à l'expansion coloniale, notamment dans le contexte de la conquête de l'Algérie par la France, de la guerre franco-marocaine de 1844 et de la guerre hispano-marocaine de 1859-1860.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1908,
+     "label": "1908",
+     "text": "La politique menée par Abd al-Aziz conduit le pays à une quasi-faillite financière, et accélère le processus de domination précoloniale puis coloniale qui sera confirmé durant le court règne de Moulay Abd el-Hafid entre 1908 et 1912, qui se conclut par la mise en place d'un protectorat franco-espagnol sur l'Empire chérifien.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1912,
+     "label": "1912",
+     "text": "Elles aboutissent en 1912 à la signature du traité de Fès, qui instaure le protectorat français, tandis que plusieurs zones du nord et du sud passent sous protectorat espagnol.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1934,
+     "label": "1934",
+     "text": "Mohamed Hassan Ouazzani, alors en exil intérieur au Sud marocain, rival d'Allal El Fassi depuis 1934, fonde son propre parti, le modeste PDI (Parti démocratique de l'indépendance).",
+     "source": 1,
+     "corroborated": false
+    }
+   ],
+   "start": 757,
+   "end": 1934,
+   "photos": [
+    {
+     "title": "Marrakech-Koutoubia 1919",
+     "year": 1919,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/dc0399ee9b48.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Marrakech-Koutoubia_1919.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Koutoubia Moskee in Marrakech",
+     "year": 1923,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/61c3119c6df9.jpg",
+     "page_url": "https://www.europeana.eu/item/90402/RP_T_1949_677_15?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Rijksmuseum"
+    },
+    {
+     "title": "Toren van de Koutoubia Moskee in Marrakech",
+     "year": 1923,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/2a71ebe42035.jpg",
+     "page_url": "https://www.europeana.eu/item/90402/RP_T_1949_677_17?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Rijksmuseum"
+    },
+    {
+     "title": "Historical photo of Jamaa el Fna in Marrakech",
+     "year": 1925,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/bf047ccbeb9c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Historical_photo_of_Jamaa_el_Fna_in_Marrakech.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L’histoire du Maroc remonte aux premiers peuplements du Paléolithique inférieur, dont certaines des plus anciennes traces ont été mises au jour à Djebel Irhoud [S1]. Durant l’Antiquité, la région connaît des influences phéniciennes puis carthaginoises parallèlement à l’émergence de royaumes berbères comme celui de Maurétanie [S1]. Au VIIIe siècle, le Maghreb se morcelle en petits États dont l’Émirat de Sijilmassa fondé en 757, puis Idris Ier fonde en 788 l’État idrisside [S1]. Au XIXe siècle, le Maroc subit la pression européenne avec la guerre franco-marocaine de 1844 et la guerre hispano-marocaine de 1859-1860 [S1]. La politique d’Abd al-Aziz mène à la quasi-faillite et aboutit en 1912 au traité de Fès instaurant le protectorat français et espagnol [S1]. En 1934, Mohamed Hassan Ouazzani, rival d’Allal El Fassi, fonde le PDI en exil intérieur [S1]."
+  },
+  {
+   "title": "Historiographie du Maroc",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc#Historiographie_du_Maroc",
+   "source": 2,
+   "summary": "L'établissement d'une synthèse encyclopédique ou chronologique sur l'histoire du Maroc se heurte à plusieurs défits méthodologiques récurrents. D'une part, la divergence entre spécialistes quant à la datation exacte de certains événements ou règnes nécessité fréquemment des arbitrages critiques entre sources primaires et historiographie secondaire.",
+   "events": [
+    {
+     "year": 1050,
+     "label": "XIe s.",
+     "text": "Mohammed El Fasi, « L'Afrique du VIIe au XIe siècle », dans Histoire générale de l'Afrique, vol.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1326,
+     "label": "1326",
+     "text": "Alī ibn Abd Allāh ibn Abī Zar al-Fāsī, Rawd al-qirtās, Histoire des souverains du Maghreb et annales de la ville de Fès (des Idrissides aux Mérinides), écrit vers 1326, trad.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1550,
+     "label": "XVIe s.",
+     "text": "Djibril Tamsir Niane (dir.), Comité scientifique international pour la rédaction d'une Histoire générale de l'Afrique, Histoire générale de l'Afrique : L’Afrique du XIIe au XVIe siècle, vol.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1750,
+     "label": "XVIIIe s.",
+     "text": "Mohammed El Fasi, Histoire générale de l’Afrique : L'Afrique du XVIe au XVIIIe siècle, UNESCO Publishing, 31 décembre 1999, 1089 p.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": 1050,
+   "end": 1750,
+   "photos": [],
+   "narrative": "L'histoire du Maroc pose des défis méthodologiques pour toute synthèse encyclopédique ou chronologique, notamment la divergence entre spécialistes sur la datation de certains événements ou règnes qui impose des arbitrages entre sources primaires et historiographie secondaire [S2]. La période du VIIe au XIe siècle est traitée par Mohammed El Fasi dans l'Histoire générale de l'Afrique [S2]. Le Rawd al-qirtas d'Alī ibn Abd Allāh ibn Abī Zar al-Fāsī, écrit vers 1326, couvre l'histoire des souverains du Maghreb et les annales de Fès des Idrissides aux Mérinides [S2]. Les volumes dirigés par Djibril Tamsir Niane et Mohammed El Fasi couvrent respectivement L'Afrique du XIIe au XVIe siècle et du XVIe au XVIIIe siècle [S2]."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire du Maroc › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire du Maroc › Historiographie du Maroc",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc#Historiographie_du_Maroc",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "History of Morocco",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": 757,
+   "text": "Avant 757, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  }
+ ],
+ "stats": {
+  "chapters": 2,
+  "events": 10,
+  "corroborated": 1,
+  "share": 0.1,
+  "span": [
+   "757",
+   "1934"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "6128b103cf"
+}

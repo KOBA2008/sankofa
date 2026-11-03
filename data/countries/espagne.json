@@ -1,0 +1,341 @@
+{
+ "country": {
+  "id": "espagne",
+  "name": "Espagne",
+  "flag": "🇪🇸",
+  "fr": "Histoire de l'Espagne",
+  "en": "History of Spain",
+  "old_names": [
+   "Madrid",
+   "España",
+   "Sevilla"
+  ],
+  "places": [
+   "madrid-puerta-del-sol"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Espagne",
+   "source": 1,
+   "summary": "Le pays s'enrichit du XVe siècle au XVIIIe siècle, mais son influence décroît avec l’accession à l'indépendance de ses colonies tout au long du XIXe siècle. Après une guerre civile et la période franquiste, le pays connaît une transition démocratique et devient membre de l'OTAN en 1982 et de l'Union européenne en 1986.",
+   "events": [
+    {
+     "year": 1450,
+     "label": "XVe s.",
+     "text": "Le pays s'enrichit du XVe siècle au XVIIIe siècle, mais son influence décroît avec l’accession à l'indépendance de ses colonies tout au long du XIXe siècle.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1982,
+     "label": "1982",
+     "text": "Après une guerre civile et la période franquiste, le pays connaît une transition démocratique et devient membre de l'OTAN en 1982 et de l'Union européenne en 1986.",
+     "source": 1,
+     "corroborated": false
+    }
+   ],
+   "start": 1450,
+   "end": 1982,
+   "photos": [
+    {
+     "title": "Fotografi av Madrid. Vista general de la Puerta del Sol - Hallwylska museet - 104981",
+     "year": 1895,
+     "license": "Public domain",
+     "image": "/media/places/madrid-puerta-del-sol/archive/476705a325fc.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Fotografi_av_Madrid._Vista_general_de_la_Puerta_del_Sol_-_Hallwylska_museet_-_104981.tif",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "1905-11-06, La Ilustración Artística, Viaje de M. Loubet á Madrid, Azpiazu (cropped) Puerta del Sol",
+     "year": 1905,
+     "license": "Public domain",
+     "image": "/media/places/madrid-puerta-del-sol/archive/8d33eed12481.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1905-11-06,_La_Ilustraci%C3%B3n_Art%C3%ADstica,_Viaje_de_M._Loubet_%C3%A1_Madrid,_Azpiazu_(cropped)_Puerta_del_Sol.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Recuerdo de Madrid [Material gráfico]: en el IV Centenario del Descubrimiento de América",
+     "year": 1892,
+     "license": "Public domain",
+     "image": "/media/places/madrid-puerta-del-sol/archive/706d3200a9ed.jpg",
+     "page_url": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_5421_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Digital Library of Madrid"
+    },
+    {
+     "title": "Puerta del Sol i Madrid - TEK - TEKA0117495",
+     "year": 1910,
+     "license": "Public domain",
+     "image": "/media/places/madrid-puerta-del-sol/archive/09e9b4088366.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Puerta_del_Sol_i_Madrid_-_TEK_-_TEKA0117495.tif",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Selon les extraits fournis, le pays s'enrichit du XVe siècle au XVIIIe siècle [S1]. Son influence décroît cependant avec l'accession à l'indépendance de ses colonies tout au long du XIXe siècle [S1]. Après une guerre civile et la période franquiste, il connaît une transition démocratique [S1]. Il devient ensuite membre de l'OTAN en 1982 et de l'Union européenne en 1986 [S1]. Il convient de noter que ces extraits ne reflètent qu'un point de vue centré sur la métropole et ne donnent pas la perspective des populations colonisées [S1]. Aucune autre information n'est fournie dans les extraits disponibles [S1]."
+  },
+  {
+   "title": "Préhistoire",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Espagne#Préhistoire",
+   "source": 2,
+   "summary": "La péninsule Ibérique abrite de nombreux sites préhistoriques de renommée mondiale. Les découvertes témoignent d'une occupation humaine dès le Paléolithique inférieur (sites d'Orce, Pinedo, Aridos, Torralba, Ambrona, Atapuerca).",
+   "events": [
+    {
+     "year": -550,
+     "label": "VIe s. av. J.-C.",
+     "text": "Au VIe siècle av. J.-C., les habitants de Tartessos élaborèrent une langue et une écriture différentes de celles des peuples voisins, et connurent l'influence culturelle des Phéniciens et des Égyptiens.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -264,
+     "label": "264 av. J.-C.",
+     "text": "Après la première guerre punique (264-240 av. J.-C.), les Carthaginois étendent leur influence à partir de Carthagène dans le sud de l'Hispanie, sous la conduite des Barcides (famille des Barca).",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -250,
+     "label": "IIIe s. av. J.-C.",
+     "text": "Rome arrive en Espagne à la fin du IIIe siècle av. J.-C., et en fait lentement la conquête au cours du IIe siècle av. J.-C. L'empereur Auguste achève la conquête de la péninsule au Ier siècle av. J.-C. avec la soumission des populations du nord.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -218,
+     "label": "218 av. J.-C.",
+     "text": "En 218 av. J.-C., Hannibal part de Tarragone et marche sur Rome par la Gaule avec 37 éléphants.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -202,
+     "label": "202 av. J.-C.",
+     "text": "Les Carthaginois sont finalement écrasés à la bataille de Zama en Afrique, en 202 av. J.-C. En Hispanie, la guérilla menée par les Celtibères entrave la romanisation complète et rapide de la région.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 150,
+     "label": "IIe s.",
+     "text": "Plusieurs Espagnols furent même empereurs au IIe siècle (Trajan et Hadrien) et au IVe siècle (Théodose Ier, Maxime).",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": -550,
+   "end": 150,
+   "photos": [],
+   "narrative": "La péninsule Ibérique abrite des sites témoignant d'une occupation dès le Paléolithique inférieur à Orce, Pinedo, Aridos, Torralba, Ambrona et Atapuerca [S2]. Au VIe siècle av. J.-C., les habitants de Tartessos élaborèrent une langue et une écriture sous influence phénicienne et égyptienne [S2]. Après la première guerre punique (264-240 av. J.-C.), les Carthaginois étendirent leur influence depuis Carthagène sous les Barcides [S2]. En 218 av. J.-C., Hannibal partit de Tarragone avec 37 éléphants pour marcher sur Rome par la Gaule [S2]. Écrasés à Zama en 202 av. J.-C., les Carthaginois cédèrent l'Hispanie à Rome arrivée fin IIIe siècle av. J.-C. [S2]. Celle-ci acheva sa conquête sous Auguste au Ier siècle av. J.-C. avec la soumission du nord malgré la guérilla celtibère [S2]. Trajan et Hadrien furent empereurs au IIe siècle [S2]."
+  },
+  {
+   "title": "Époque médiévale",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Espagne#Époque_médiévale",
+   "source": 3,
+   "summary": "Pendant le haut Moyen Âge, la péninsule ibérique a vu l'arrivée et l'installation de plusieurs peuples barbares venus d'Europe centrale et d'Asie. Dès 408, les Vandales, les Suèves et une partie des Alains passent en Espagne.",
+   "events": [
+    {
+     "year": 418,
+     "label": "418",
+     "text": "Lorsque la paix fut conclue par le fœdus de 418, l'empereur romain Honorius accorda aux Wisigoths des terres dans la région de l'actuelle Aquitaine, suivies d'autres en Espagne.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 507,
+     "label": "507",
+     "text": "Chassés d'Aquitaine par les Francs de Clovis après la bataille de Vouillé en 507, ils se replièrent dans la péninsule avec pour capitale Tolède.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 718,
+     "label": "718",
+     "text": "Mais dès 718, les souverains chrétiens du Nord-Ouest amorcent lentement la Reconquista à partir du royaume des Asturies, qui s'achèvera par la conquête du Royaume de Grenade en 1492 et, à la suite de cette victoire, de l'élimination complète de l'islam et du judaïsme en terre ibérique, avec l'expulsion des Juifs d'Espagne en 1492 et celle des Morisques en 1609.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1050,
+     "label": "XIe s.",
+     "text": "Au XIe siècle, le califat de Cordoue se morcelle en petits royaumes : l'époque des taïfas (1031-1094) est troublée par des guerres intestines.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1212,
+     "label": "1212",
+     "text": "En 1212, après l'appel à la croisade d'Innocent III en 1209, c'est l'union des royaumes chrétiens aidés notamment des Templiers et des croisés, qui défait l'Empire almohade à la bataille de Las Navas de Tolosa.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1491,
+     "label": "1491",
+     "text": "À la fin de l'année 1491, après dix ans de guerre, le Royaume de Grenade, déjà vassal du Royaume de Castille, est vaincu.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 418,
+   "end": 1491,
+   "photos": [],
+   "narrative": "Au haut Moyen Âge, Vandales, Suèves et Alains passent en Espagne dès 408 [S3]. Par le fœdus de 418, Honorius accorde aux Wisigoths des terres en Aquitaine puis en Espagne [S3]. Chassés d'Aquitaine par Clovis après Vouillé en 507, ils se replient à Tolède [S3]. Dès 718, les chrétiens des Asturies amorcent la Reconquista, achevée en 1492 avec Grenade, suivie des expulsions des Juifs en 1492 et des Morisques en 1609 [S3]. Au XIe siècle, le califat de Cordoue éclate en taïfas entre 1031 et 1094 [S3]. En 1212, après l'appel d'Innocent III en 1209, les royaumes chrétiens et les Templiers défont les Almohades à Las Navas de Tolosa [S3]. Ces extraits reflètent un point de vue centré sur les chrétiens [S3]."
+  },
+  {
+   "title": "Construction d'un État centralisé et d'un empire colonial",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Espagne#Construction_d'un_État_centralisé_et_d'un_empire_colonial",
+   "source": 4,
+   "summary": "Datation : XVe / XVIIe siècles Cette partie amorce l'Histoire moderne de l'Espagne. Au mois de juillet 1501, les Portugais lancent une expédition pour tenter d'accoster sur la plage des Andalouses.",
+   "events": [
+    {
+     "year": 1492,
+     "label": "1492",
+     "text": "Les rois achèvent également la Reconquista (voir plus haut) en conquérant le Royaume de Grenade en 1492, année cruciale.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1515,
+     "label": "1515",
+     "text": "Sainte Thérèse d'Avila (1515-1582) réforme et fonde de nombreux couvents et s'impose comme un maître de la spiritualité chrétienne.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1700,
+     "label": "1700",
+     "text": "Sa mort sans héritier, en 1700, ouvre la guerre de Succession d'Espagne (1701-1713) entre les dynasties française et autrichienne.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1750,
+     "label": "XVIIIe s.",
+     "text": "Il faudra attendre la guerre de Succession d'Espagne, au XVIIIe siècle pour que ces différentes entités soient fondues au sein du royaume d'Espagne.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1793,
+     "label": "1793",
+     "text": "Et après l'exécution de Louis XVI en 1793, le souverain madrilène de la dynastie Bourbon déclare la guerre à la jeune République.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1868,
+     "label": "1868",
+     "text": "En 1868, le général Joan Prim lance une révolution et force la reine Isabelle, le 30 septembre, à s'exiler en France.",
+     "source": 4,
+     "corroborated": true
+    }
+   ],
+   "start": 1492,
+   "end": 1868,
+   "photos": [
+    {
+     "title": "1850-Jose-Maria-Romillo-papeles-libros-plumas",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/1850-Jose-Maria-Romillo-papeles-libros-plumas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1850-Jose-Maria-Romillo-papeles-libros-plumas.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Aventuras estraordinarias de los viageros célebres 1850 Mellado",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Aventuras_estraordinarias_de_los_viageros_c%C3%A9lebres_1850_Mellado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Aventuras_estraordinarias_de_los_viageros_c%C3%A9lebres_1850_Mellado.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "F. de Madrazo - 1850, Mariano Roca de Togores, I Marqués de Molíns (Colección particular, Madrid, 103 x 80 cm)",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/F._de_Madrazo_-_1850%2C_Mariano_Roca_de_Togores%2C_I_Marqu%C3%A9s_de_Mol%C3%ADns_%28Colecci%C3%B3n_particular%2C_Madrid%2C_103_x_80_cm%29.jpg/960px-F._de_Madrazo_-_1850%2C_Mariano_Roca_de_Togores%2C_I_Marqu%C3%A9s_de_Mol%C3%ADns_%28Colecci%C3%B3n_particular%2C_Madrid%2C_103_x_80_cm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:F._de_Madrazo_-_1850,_Mariano_Roca_de_Togores,_I_Marqu%C3%A9s_de_Mol%C3%ADns_(Colecci%C3%B3n_particular,_Madrid,_103_x_80_cm).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Jenaro Pérez Villaamil (España artística y monumental, 1850) Palacio Arzobispal de Alcalá de Henares, patio de Fonseca",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Jenaro_P%C3%A9rez_Villaamil_%28Espa%C3%B1a_art%C3%ADstica_y_monumental%2C_1850%29_Palacio_Arzobispal_de_Alcal%C3%A1_de_Henares%2C_patio_de_Fonseca.png/960px-Jenaro_P%C3%A9rez_Villaamil_%28Espa%C3%B1a_art%C3%ADstica_y_monumental%2C_1850%29_Palacio_Arzobispal_de_Alcal%C3%A1_de_Henares%2C_patio_de_Fonseca.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jenaro_P%C3%A9rez_Villaamil_(Espa%C3%B1a_art%C3%ADstica_y_monumental,_1850)_Palacio_Arzobispal_de_Alcal%C3%A1_de_Henares,_patio_de_Fonseca.png",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Cette partie amorce l'Histoire moderne de l'Espagne au XVe / XVIIe siècles [S4]. Au mois de juillet 1501, les Portugais lancent une expédition pour tenter d'accoster sur la plage des Andalouses [S4]. En 1492, année cruciale, les rois achèvent également la Reconquista en conquérant le Royaume de Grenade [S4]. Sainte Thérèse d'Avila (1515-1582) réforme et fonde de nombreux couvents et s'impose comme un maître de la spiritualité chrétienne [S4]. Il faudra attendre la guerre de Succession d'Espagne, au XVIIIe siècle pour que ces différentes entités soient fondues au sein du royaume d'Espagne [S4]. Ces extraits ne reflètent qu'un point de vue centré sur la monarchie espagnole et européenne, sans perspective des populations colonisées ou autres acteurs [S4]."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire de l'Espagne › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Espagne",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire de l'Espagne › Préhistoire",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Espagne#Préhistoire",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire de l'Espagne › Époque médiévale",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Espagne#Époque_médiévale",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "Histoire de l'Espagne › Construction d'un État centralisé et d'un empire colonial",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Espagne#Construction_d'un_État_centralisé_et_d'un_empire_colonial",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 5,
+   "title": "History of Spain",
+   "url": "https://en.wikipedia.org/wiki/History_of_Spain",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": -550,
+   "text": "Avant 550 av. J.-C., l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  },
+  {
+   "from": 150,
+   "to": 418,
+   "text": "Entre 150 et 418, les sources consultées ne donnent aucune date précise."
+  }
+ ],
+ "stats": {
+  "chapters": 4,
+  "events": 20,
+  "corroborated": 3,
+  "share": 0.15,
+  "span": [
+   "550 av. J.-C.",
+   "1982"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "d6331ed0ef"
+}

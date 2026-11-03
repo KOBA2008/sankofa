@@ -1,0 +1,387 @@
+{
+ "country": {
+  "id": "france",
+  "name": "France",
+  "flag": "🇫🇷",
+  "fr": "Histoire de France",
+  "en": "History of France",
+  "old_names": [
+   "Paris",
+   "France"
+  ],
+  "places": [
+   "paris-parvis-notre-dame"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France",
+   "source": 1,
+   "summary": "L'histoire de France commence avec les premières occupations humaines du territoire correspondant au pays actuel. Aux groupes présents depuis le Paléolithique et le Néolithique sont venues s'ajouter, à l'âge du bronze et à l'âge du fer, des vagues successives de Celtes, de Romains dès le IIe siècle av.",
+   "events": [
+    {
+     "year": 751,
+     "label": "751",
+     "text": "Il unit les tribus franques salienne et ripuaire et conquiert un ensemble de territoires en Gaule et en Germanie qui sont agrandis par ses descendants mérovingiens, puis par la dynastie des Carolingiens fondée en 751.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 843,
+     "label": "843",
+     "text": "L'Empire carolingien est finalement partagé en 843 entre ses petits-fils par le traité de Verdun qui sépare la Francie occidentale de la Francie orientale, qui deviendra le royaume de Germanie.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 987,
+     "label": "987",
+     "text": "Paris, appelée à devenir la capitale par l'avènement en 987 de la dynastie capétienne, devient un centre universitaire renommé.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1190,
+     "label": "1190",
+     "text": "Le nom de France n'est employé de façon officielle qu'à partir de 1190 environ, quand la chancellerie du roi Philippe Auguste commence à employer le terme de rex Franciæ (roi de France) à la place de rex Francorum (roi des Francs) pour désigner le souverain.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1349,
+     "label": "1349",
+     "text": "Philippe Auguste et ses successeurs donnent une nouvelle impulsion à l'unification territoriale du royaume de France et repoussent les frontières orientales du Rhône sur les Alpes et de la Saône sur le Rhin, à partir de l'achat du Dauphiné (1349) jusqu'à l'annexion de l'Alsace (1648-1697).",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1750,
+     "label": "XVIIIe s.",
+     "text": "Le XVIIIe siècle est le siècle de la philosophie des Lumières, marqué par la promotion de la raison par les philosophes français dans les cours et capitales européennes et qui s'achève par la Révolution française.",
+     "source": 1,
+     "corroborated": true
+    }
+   ],
+   "start": 751,
+   "end": 1750,
+   "photos": [],
+   "narrative": "L'histoire de France commence avec les occupations humaines du territoire actuel, avec des groupes présents depuis le Paléolithique et le Néolithique puis l'arrivée de Celtes et de Romains dès le IIe siècle av. [S1]. La dynastie carolingienne fondée en 751 unit les tribus franques salienne et ripuaire et conquiert des territoires en Gaule et Germanie agrandis par les Mérovingiens puis les Carolingiens [S1]. En 843 le traité de Verdun partage l'Empire entre ses petits-fils en Francie occidentale et orientale [S1]. Paris devient capitale avec l'avènement capétien en 987 et centre universitaire [S1]. Le nom France s'officialise vers 1190 avec rex Franciæ [S1]. L'unification progresse de l'achat du Dauphiné en 1349 à l'annexion de l'Alsace entre 1648 et 1697 [S1]. Le XVIIIe siècle des Lumières promeut la raison et s'achève par la Révolution [S1]."
+  },
+  {
+   "title": "Le Moyen Âge et la formation de la France",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#Le_Moyen_Âge_et_la_formation_de_la_France",
+   "source": 2,
+   "summary": "L'histoire de la France au Moyen Âge de 476 à 1453 se caractérise par plusieurs périodes et événements marquants durant dix siècles de Clovis à Charles VIII : l'affirmation du christianisme, la désintégration de l'Empire romain, la longue genèse du royaume de France, la grande peste, la guerre de Cent Ans, etc. La société est marquée par l'essor des campagnes et de la population française, le développement du commerce (foires et marchés) et la renaissance urbaine, l'apparition des universités et la formation de la ",
+   "events": [
+    {
+     "year": 476,
+     "label": "476",
+     "text": "L'histoire de la France au Moyen Âge de 476 à 1453 se caractérise par plusieurs périodes et événements marquants durant dix siècles de Clovis à Charles VIII : l'affirmation du christianisme, la désintégration de l'Empire romain, la longue genèse du royaume de France, la grande peste, la guerre de Cent Ans, etc.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1360,
+     "label": "1360",
+     "text": "Le dauphin Charles est contraint de signer le traité de Brétigny en 1360 qui concède aux Anglais un bon tiers du royaume de France, prévoit le paiement d'une énorme rançon de 3 millions d'écus d'or pour la libération de Jean II le Bon, soit l'équivalent des recettes du roi pendant deux ans.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1688,
+     "label": "1688",
+     "text": "Le 25 septembre 1688, Louis XIV lance un ultimatum exigeant que la trêve qui lui accordait l'occupation des « réunions » pour 20 ans soit transformée en traité définitif.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1689,
+     "label": "1689",
+     "text": "À partir de 1689, commence une série de guerres coloniales contre les Anglais, les deux adversaires ajoutant à leurs rivalités continentales une concurrence commerciale, maritime et territoriale dont les colonies constituent la principale scène de conflit.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1755,
+     "label": "1755",
+     "text": "La Corse, indépendante de facto depuis 1755, est symboliquement cédée par la république de Gênes en 1768 puis soumise militairement après la bataille de Ponte-Novo en mai 1769.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1759,
+     "label": "1759",
+     "text": "L'issue en est désastreuse pour l'empire colonial français : Québec est prise en 1759, Montréal se rend en 1760, et le traité de Paris de 1763 entérine la perte par la France du Canada et de la Louisiane.",
+     "source": 2,
+     "corroborated": true
+    }
+   ],
+   "start": 476,
+   "end": 1759,
+   "photos": [],
+   "narrative": "L'histoire de la France au Moyen Âge s'étend de 476 à 1453 et couvre dix siècles de Clovis à Charles VIII [S2]. Cette période est marquée par l'affirmation du christianisme, la désintégration de l'Empire romain et la longue genèse du royaume de France, ainsi que par la grande peste et la guerre de Cent Ans [S2]. En 1360, le dauphin Charles signe le traité de Brétigny qui concède aux Anglais un tiers du royaume et prévoit une rançon de 3 millions d'écus d'or pour libérer Jean II le Bon [S2]. Les extraits fournis reflètent principalement un point de vue centré sur la formation politique et territoriale du royaume de France [S2]."
+  },
+  {
+   "title": "La période révolutionnaire",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#La_période_révolutionnaire",
+   "source": 3,
+   "summary": "La période révolutionnaire commence vers 1787. À cette époque la monarchie absolue est incapable de conduire les réformes, notamment fiscales, indispensables à la modernisation de la France face à la contestation des groupes privilégiés, parlements et noblesse en tête.",
+   "events": [
+    {
+     "year": 1789,
+     "label": "1789",
+     "text": "Avec le retour forcé du roi à Paris les 5 et 6 octobre 1789, la Révolution semble avoir atteint ses buts : faire naître une monarchie parlementaire en rabaissant le prestige du roi et en restreignant ses pouvoirs.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1792,
+     "label": "1792",
+     "text": "Les défaites des premiers combats et l'invasion du territoire national ont pour conséquence la chute de la monarchie le 10 août 1792 et la proclamation de la République le 22 septembre 1792.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1814,
+     "label": "1814",
+     "text": "La période révolutionnaire se termine en 1814-1815, quand l'empereur Napoléon Ier est envoyé en exil d'abord à l'île d'Elbe et ensuite dans l'île de Sainte-Hélène.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1848,
+     "label": "1848",
+     "text": "La constitution du 4 novembre 1848 choisit de confier le pouvoir exécutif à un président élu au suffrage universel direct pour une durée de quatre ans.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1861,
+     "label": "1861",
+     "text": "En échange de ses bons offices, la France reçoit du royaume de Sardaigne le duché de Savoie et le comté de Nice annexés à la France en 1861 après la signature du traité de Turin.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1866,
+     "label": "1866",
+     "text": "En échange de sa neutralité bienveillante lors de la guerre austro-prussienne de 1866, l'empereur réclame des compensations territoriales que Bismarck, le chancelier prussien, refuse de lui accorder.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 1789,
+   "end": 1866,
+   "photos": [
+    {
+     "title": "Chambre de Commerce de Paris. Enquête sur l'industrie. Paris divisé par quartiers et arrondissements, 1850 - BHVP",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements%2C_1850_-_BHVP.jpg/960px-Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements%2C_1850_-_BHVP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements,_1850_-_BHVP.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Illustration of the Jung Bahadur Rana's visit in Paris in 1850",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png/960px-Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Facade de la Cathédrale Notre Dame de Paris Archives nationales CP-332AP-26-E",
+     "year": 1856,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/b445006ab8c7.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Facade_de_la_Cath%C3%A9drale_Notre_Dame_de_Paris_Archives_nationales_CP-332AP-26-E.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Eglise Notre-Dame. PH13442",
+     "year": 1860,
+     "license": "CC0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/0cc5d165e8a2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Eglise_Notre-Dame._PH13442.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "La période révolutionnaire commence vers 1787 [S3]. À cette époque la monarchie absolue est incapable de conduire les réformes indispensables à la modernisation de la France face à la contestation des groupes privilégiés [S3]. Avec le retour forcé du roi à Paris les 5 et 6 octobre 1789, la Révolution semble avoir atteint ses buts : faire naître une monarchie parlementaire en rabaissant le prestige du roi et en restreignant ses pouvoirs [S3]. Les défaites des premiers combats et l'invasion du territoire national ont pour conséquence la chute de la monarchie le 10 août 1792 et la proclamation de la République le 22 septembre 1792 [S3]. La période révolutionnaire se termine en 1814-1815, quand l'empereur Napoléon Ier est envoyé en exil d'abord à l'île d'Elbe et ensuite dans l'île de Sainte-Hélène [S3]."
+  },
+  {
+   "title": "D'une guerre à l'autre (1914 - 1945)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#D'une_guerre_à_l'autre_(1914_-_1945)",
+   "source": 4,
+   "summary": "Au début du XXe siècle, l'affrontement entre la France et l'Allemagne à propos du Maroc conduit à des incidents diplomatiques (coup de Tanger, crise d'Agadir). L'antagonisme franco-allemand puise sa force dans plusieurs problèmes dont dans la question de l'Alsace-Lorraine, les revendications coloniales tardives de l'Allemagne et son attitude agressive (weltpolitik).",
+   "events": [
+    {
+     "year": 1912,
+     "label": "1912",
+     "text": "Le 9 janvier 1912, le président de la République, Armand Fallières, chef constitutionnel des armées, avait déclaré : « Nous sommes résolus à marcher droit à l'ennemi sans arrière-pensée, l'offensive convient au tempérament de nos soldats et doit nous assurer la victoire, à condition de consacrer à la lutte toutes nos forces actives sans exception ».",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1940,
+     "label": "1940",
+     "text": "Dès 1940, les Japonais qui occupent l'Indochine française encouragent le mouvement de décolonisation qui aboutira le 2 septembre 1945 à la proclamation de l'indépendance du Viêt Nam par Hô Chi Minh.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1946,
+     "label": "1946",
+     "text": "En 1946, le Gouvernement provisoire cède la place à la Quatrième République, instaurée par une nouvelle constitution approuvée par référendum.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "Vincent Auriol est le premier président de la IVe République, de 1947 à 1954.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1958,
+     "label": "1958",
+     "text": "Charles de Gaulle, élu président de la République le 21 décembre 1958, réélu en 1965 face à François Mitterrand, demeure président jusqu'en 1969, date à laquelle l'ancien premier ministre Georges Pompidou lui succède.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1981,
+     "label": "1981",
+     "text": "En 1981, François Mitterrand est élu président de la République, battant le chef de l'État sortant Valéry Giscard d'Estaing et ramenant la gauche au pouvoir pour la première fois depuis la Quatrième République.",
+     "source": 4,
+     "corroborated": false
+    }
+   ],
+   "start": 1912,
+   "end": 1981,
+   "photos": [
+    {
+     "title": "9-11-33, obsèques du Prof. Roux (vue générale du parvis de Notre-Dame de Paris) - btv1b53286418t",
+     "year": 1933,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/6fbc333212cb.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:9-11-33,_obs%C3%A8ques_du_Prof._Roux_(vue_g%C3%A9n%C3%A9rale_du_parvis_de_Notre-Dame_de_Paris)_-_btv1b53286418t.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "1930-Jean Maréchal-Paris-Roubaix",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1930-Jean_Mar%C3%A9chal-Paris-Roubaix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1930-Jean_Mar%C3%A9chal-Paris-Roubaix.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "1930 Paris-Nice Chenard-Walcker Y8 Chauvierre",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/1930_Paris-Nice_Chenard-Walcker_Y8_Chauvierre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1930_Paris-Nice_Chenard-Walcker_Y8_Chauvierre.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Char de la Reine des Corses - Mi-Carême à Paris 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg/960px-Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Au début du XXe siècle, l'antagonisme franco-allemand s'alimente de la question de l'Alsace-Lorraine, des revendications coloniales tardives de l'Allemagne et de sa weltpolitik agressive, avec des incidents diplomatiques comme le coup de Tanger et la crise d'Agadir au sujet du Maroc [S4]. En 1912, le président Armand Fallières affirme la volonté de marcher à l'offensive avec toutes les forces actives [S4]. Les extraits fournis ne couvrent que très partiellement la période 1914-1945 et reflètent essentiellement un point de vue français centré sur la rivalité avec l'Allemagne [S4]. Ils mentionnent également qu'en 1940 l'occupation de l'Indochine par les Japonais encourage le mouvement de décolonisation qui aboutit à la proclamation de l'indépendance du Viêt Nam par Hô Chi Minh le 2 septembre 1945 [S4]."
+  },
+  {
+   "title": "Historiographie",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#Historiographie",
+   "source": 5,
+   "summary": "Jusqu'à la Révolution française, l'histoire de France est partielle et partiale, consistant essentiellement en chroniques commandées par les rois qui s'inventent des ancêtres troyens. L'historiographie monarchique se nourrit ainsi de nombreux mythes.",
+   "events": [],
+   "start": null,
+   "end": null,
+   "photos": [],
+   "narrative": "Les extraits fournis, limités à une seule source, reflètent un point de vue unique sur l'historiographie française [S5]. Jusqu'à la Révolution française, celle-ci est présentée comme partielle et partiale [S5]. Elle consisterait essentiellement en chroniques commandées par les rois [S5]. Ces rois s'inventeraient des ancêtres troyens [S5]. De ce fait, l'historiographie monarchique se nourrirait de nombreux mythes [S5]. La rubrique Événements fournie ne contient aucune information complémentaire permettant de nuancer ou d'élargir cette description. Il convient de souligner que cette caractérisation provient exclusivement du résumé fourni et qu'aucune autre perspective n'est disponible dans les extraits."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire de France › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire de France › Le Moyen Âge et la formation de la France",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#Le_Moyen_Âge_et_la_formation_de_la_France",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire de France › La période révolutionnaire",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#La_période_révolutionnaire",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "Histoire de France › D'une guerre à l'autre (1914 - 1945)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#D'une_guerre_à_l'autre_(1914_-_1945)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 5,
+   "title": "Histoire de France › Historiographie",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#Historiographie",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 6,
+   "title": "History of France",
+   "url": "https://en.wikipedia.org/wiki/History_of_France",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": 476,
+   "text": "Avant 476, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  },
+  {
+   "from": null,
+   "to": null,
+   "text": "Chapitres peu datés : Historiographie."
+  }
+ ],
+ "stats": {
+  "chapters": 5,
+  "events": 24,
+  "corroborated": 5,
+  "share": 0.21,
+  "span": [
+   "476",
+   "1981"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "92d79f7ed3"
+}

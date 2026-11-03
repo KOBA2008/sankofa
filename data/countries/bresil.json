@@ -1,0 +1,927 @@
+{
+ "country": {
+  "id": "bresil",
+  "name": "Brésil",
+  "flag": "🇧🇷",
+  "fr": "Histoire du Brésil",
+  "en": "History of Brazil",
+  "old_names": [
+   "Brasil",
+   "Rio de Janeiro",
+   "Bahia",
+   "Salvador"
+  ],
+  "places": [
+   "salvador-pelourinho"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil",
+   "source": 1,
+   "summary": "Le Brésil, le plus grand pays d'Amérique du Sud, possède une histoire riche et complexe qui commence bien avant l'arrivée des Européens. Avant la colonisation, le territoire était peuplé par divers groupes autochtones, vivant de la chasse, de la pêche et de l'agriculture.",
+   "events": [
+    {
+     "year": 1500,
+     "label": "1500",
+     "text": "En 1500, l'explorateur portugais Pedro Álvares Cabral accosta sur les côtes brésiliennes, marquant le début de la colonisation par le Portugal.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1822,
+     "label": "1822",
+     "text": "En 1822, le Brésil déclara son indépendance du Portugal sous l'initiative de Pierre Ier, fils du roi portugais Jean VI, qui devint le premier empereur du pays.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1888,
+     "label": "1888",
+     "text": "Ce dernier fut aboli en 1888, un an avant la chute de la monarchie.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1889,
+     "label": "1889",
+     "text": "En 1889, le Brésil devint une république, inaugurant une ère de changements politiques et économiques.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1985,
+     "label": "1985",
+     "text": "Le pays traversa plusieurs phases : oligarchie des caféiers, dictatures militaires, réformes sociales, et une transition démocratique marquée par la fin de la dictature militaire en 1985.",
+     "source": 1,
+     "corroborated": false
+    }
+   ],
+   "start": 1500,
+   "end": 1985,
+   "photos": [
+    {
+     "title": "Código Penal do Brasil de 1890",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/C%C3%B3digo_Penal_do_Brasil_de_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:C%C3%B3digo_Penal_do_Brasil_de_1890.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Documento da queima dos arquivos da escravidão no Brasil em 1890",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png/960px-Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Pelourinho 1920",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/ecfde1436d40.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Pelourinho_1920.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Salvador Bahia 1875",
+     "year": 1875,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/1de08cec0600.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Bahia_1875.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Le Brésil, le plus grand pays d'Amérique du Sud, possède une histoire riche et complexe qui commence bien avant l'arrivée des Européens [S1]. Avant la colonisation, le territoire était peuplé par divers groupes autochtones vivant de la chasse, de la pêche et de l'agriculture [S1]. En 1500, l'explorateur portugais Pedro Álvares Cabral accosta sur les côtes brésiliennes, marquant le début de la colonisation par le Portugal [S1]. En 1822, le Brésil déclara son indépendance du Portugal sous l'initiative de Pierre Ier, fils du roi Jean VI, devenu premier empereur [S1]. Ce dernier fut aboli en 1888, un an avant que le Brésil ne devienne une république en 1889 [S1]. Le pays connut ensuite l'oligarchie des caféiers, des dictatures militaires et une transition démocratique avec la fin de la dictature militaire en 1985 [S1]. Les extraits reflètent un point de vue centré sur la colonisation portugaise et l'histoire politique officielle."
+  },
+  {
+   "title": "Préhistoire",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#Préhistoire",
+   "source": 2,
+   "summary": "Le territoire du Brésil, avant l'arrivée des Portugais en 1500, abritait une multitude de peuples autochtones et possédait une riche histoire précolombienne, encore en partie méconnue. L'étude de la préhistoire brésilienne nous plonge dans des périodes bien antérieures à la colonisation européenne, où l'on découvre des civilisations complexes, des modes de vie variés, et une interaction intense avec l'environnement.",
+   "events": [
+    {
+     "year": 1500,
+     "label": "1500",
+     "text": "Le territoire du Brésil, avant l'arrivée des Portugais en 1500, abritait une multitude de peuples autochtones et possédait une riche histoire précolombienne, encore en partie méconnue.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": 1500,
+   "end": 1500,
+   "photos": [],
+   "narrative": "Le territoire du Brésil, avant l'arrivée des Portugais en 1500, abritait une multitude de peuples autochtones et possédait une riche histoire précolombienne encore en partie méconnue [S2]. L'étude de la préhistoire brésilienne nous plonge dans des périodes bien antérieures à la colonisation européenne [S2]. On y découvre alors des civilisations complexes, des modes de vie variés et une interaction intense avec l'environnement [S2]. Ainsi, cette histoire précolombienne témoigne de la présence d'une multitude de peuples autochtones aux modes de vie variés avant 1500 [S2]. Les extraits fournis se concentrent sur cette riche période précolombienne encore en partie méconnue [S2]."
+  },
+  {
+   "title": "Période coloniale (1500-1815)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#Période_coloniale_(1500-1815)",
+   "source": 3,
+   "summary": "La période coloniale du Brésil s'étend de l'arrivée des explorateurs portugais en 1500 jusqu'à la naissance du Royaume-Uni de Portugal, du Brésil et des Algarves à la suite du transfert de la cour portugaise à Rio de Janeiro pendant les invasions napoléoniennes du Portugal. Ce long chapitre de l'histoire brésilienne est marqué par l'exploitation des ressources naturelles, l'introduction de l'esclavage et la construction d'une société multiculturelle.",
+   "events": [
+    {
+     "year": 1500,
+     "label": "1500",
+     "text": "La période coloniale du Brésil s'étend de l'arrivée des explorateurs portugais en 1500 jusqu'à la naissance du Royaume-Uni de Portugal, du Brésil et des Algarves à la suite du transfert de la cour portugaise à Rio de Janeiro pendant les invasions napoléoniennes du Portugal.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1550,
+     "label": "1550",
+     "text": "Il rend obligatoire le service militaire en 1550 et fait venir des jeunes femmes choisies par la reine en personne, dont la seule mission est d'épouser les colons et de fonder des familles pour peupler la colonie.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1580,
+     "label": "1580",
+     "text": "Les origines de l'occupation hollandaise remontent à la mort du roi Sébastien Ier en 1580 et à la réunion des deux royaumes au sein de l'Union ibérique.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1581,
+     "label": "1581",
+     "text": "Les Provinces-Unies proclament leur indépendance en 1581 et fondent en 1602 la Compagnie néerlandaise des Indes orientales, dont le rôle est de financer des expéditions maritimes en Afrique et en Asie.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1808,
+     "label": "1808",
+     "text": "En 1808, fuyant l'invasion napoléonienne après avoir refusé d'appliquer le blocus continental, la famille royale portugaise se réfugie au Brésil, faisant de Rio de Janeiro la capitale de l'empire portugais ; le convoi arrive au Brésil le 7 mars 1808.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1888,
+     "label": "1888",
+     "text": "La pression des colons puis des bandeirantes fait que l'esclavage devient monnaie courante et malgré l'évolution des choses, fut encouragée jusqu'à son abolition définitive en 1888 (loi d'Or).",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 1500,
+   "end": 1888,
+   "photos": [
+    {
+     "title": "Panorama do Rio de Janeiro (século XIX) 2 AN",
+     "year": 1861,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_2_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_2_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_2_AN.tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Panorama do Rio de Janeiro (século XIX) 3 AN",
+     "year": 1861,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_3_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_3_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_3_AN.tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Panorama do Rio de Janeiro (século XIX) 4 – Arcos da Lapa – Aqueduto AN",
+     "year": 1861,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Panorama do Rio de Janeiro (século XIX) AN",
+     "year": 1861,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_AN.tiff",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "La période coloniale du Brésil s'étend de l'arrivée des explorateurs portugais en 1500 jusqu'à la naissance du Royaume-Uni de Portugal, du Brésil et des Algarves à la suite du transfert de la cour portugaise à Rio de Janeiro pendant les invasions napoléoniennes du Portugal [S3]. Ce long chapitre est marqué par l'exploitation des ressources naturelles, l'introduction de l'esclavage et la construction d'une société multiculturelle [S3]. En 1550, le service militaire est rendu obligatoire et des jeunes femmes choisies par la reine sont envoyées pour épouser les colons et fonder des familles [S3]. En 1808, fuyant l'invasion napoléonienne, la famille royale se réfugie au Brésil et fait de Rio la capitale de l'empire portugais [S3]. Les extraits fournis ne reflètent qu'un point de vue colonial centré sur l'administration portugaise [S3]."
+  },
+  {
+   "title": "L'éphémère union (1815-1822)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#L'éphémère_union_(1815-1822)",
+   "source": 4,
+   "summary": "Entre 1815 et 1822, le Brésil connaît une période clé de son histoire, marquée par sa transition de colonie portugaise à nation indépendante. En 1815, le régent et futur roi Jean VI décide de transformer le Brésil, alors une colonie portugaise, en un royaume à part entière au sein du Royaume-Uni de Portugal, du Brésil et des Algarves avec l'assentiment des Alliés lors du Congrès de Vienne.",
+   "events": [
+    {
+     "year": 1815,
+     "label": "1815",
+     "text": "En 1815, le régent et futur roi Jean VI décide de transformer le Brésil, alors une colonie portugaise, en un royaume à part entière au sein du Royaume-Uni de Portugal, du Brésil et des Algarves avec l'assentiment des Alliés lors du Congrès de Vienne.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1817,
+     "label": "1817",
+     "text": "En 1817, la Révolution pernamboucaine est écrasée par l'armée, ce qui suscite du mécontentement au sein de la population.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1818,
+     "label": "1818",
+     "text": "Une amnistie royale n'est proclamée que le 6 février 1818.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1820,
+     "label": "1820",
+     "text": "En 1820, une révolution libérale éclate au Portugal, exigeant le retour du roi Jean VI et la rédaction d'une constitution, sur la base de la Constitution espagnole de 1812.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1821,
+     "label": "1821",
+     "text": "Le roi retourne donc à Lisbonne en 1821, laissant son fils, Pierre (Dom Pedro), comme prince régent du Brésil.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1822,
+     "label": "1822",
+     "text": "Le 7 septembre 1822, sur les rives de l'Ipiranga, près de São Paulo, Dom Pedro proclame l'indépendance du Brésil en prononçant le fameux cri d'Ipiranga (O Grito do Ipiranga en portugais) :  Cet acte symbolise la rupture définitive avec le Portugal.",
+     "source": 4,
+     "corroborated": true
+    }
+   ],
+   "start": 1815,
+   "end": 1822,
+   "photos": [],
+   "narrative": "Entre 1815 et 1822, le Brésil connaît une période clé de transition de colonie portugaise à nation indépendante [S4]. En 1815, le régent et futur roi Jean VI le transforme en royaume au sein du Royaume-Uni de Portugal, du Brésil et des Algarves avec l'assentiment des Alliés lors du Congrès de Vienne [S4]. En 1817 la Révolution pernamboucaine est écrasée par l'armée, ce qui suscite du mécontentement, et une amnistie royale n'est proclamée que le 6 février 1818 [S4]. En 1820 une révolution libérale éclate au Portugal exigeant le retour du roi et une constitution sur la base de celle espagnole de 1812 [S4]. Le roi retourne à Lisbonne en 1821 laissant son fils Pierre comme prince régent [S4]. Le 7 septembre 1822, sur les rives de l'Ipiranga près de São Paulo, Dom Pedro proclame l'indépendance par le cri d'Ipiranga, rupture définitive avec le Portugal [S4]. Les extraits fournis ne reflètent qu'un point de vue institutionnel centré sur la Couronne [S4]."
+  },
+  {
+   "title": "La monarchie constitutionnelle (1822-1889)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#La_monarchie_constitutionnelle_(1822-1889)",
+   "source": 5,
+   "summary": "L'empire du Brésil est une période marquante de l'histoire brésilienne qui s'étend de 1822 à 1889. Il a vu la naissance et la consolidation d'une monarchie constitutionnelle, dirigée d'abord par Pierre Ier, puis par son fils Pierre II, et a marqué la transition du Brésil d'une colonie portugaise à une nation indépendante.",
+   "events": [
+    {
+     "year": 1824,
+     "label": "1824",
+     "text": "En 1824, Pierre Ier impose une constitution autoritaire qui accorde de larges pouvoirs au souverain, notamment un « pouvoir modérateur » qui lui permet d'intervenir dans les autres branches du gouvernement.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1825,
+     "label": "1825",
+     "text": "Sur le plan international, le Brésil se retrouve également en guerre contre l'Argentine dans la guerre de Cisplatine (1825-1828), à propos de la possession de la province de Cisplatine (l'actuel Uruguay).",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1850,
+     "label": "1850",
+     "text": "Plusieurs lois marquent le chemin vers l'abolition : Loi Eusébio de Queirós (1850), qui interdit la traite des esclaves, bien que l'esclavage lui-même reste légal.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1888,
+     "label": "1888",
+     "text": "L'abolition complète de l'esclavage survient le 13 mai 1888 avec la signature de la Loi d'or (Lei Áurea) par la princesse Isabelle, fille de Pierre II, abolissant définitivement l'esclavage au Brésil. 700 000 esclaves sont libérés après la promulgation de la loi.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1889,
+     "label": "1889",
+     "text": "Cette phase est dominée par le règne de l'empereur Pierre II et la fin de la monarchie avec la proclamation de la République en 1889.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1891,
+     "label": "1891",
+     "text": "Cette constitution reste en vigueur jusqu'en 1891, date de la première constitution républicaine.",
+     "source": 5,
+     "corroborated": false
+    }
+   ],
+   "start": 1824,
+   "end": 1891,
+   "photos": [
+    {
+     "title": "Botafogo (Rio de Janeiro), Aleksei Vysheslavtsev, page 549 (1867)",
+     "year": 1867,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Botafogo_%28Rio_de_Janeiro%29%2C_Aleksei_Vysheslavtsev%2C_page_549_%281867%29.jpg/960px-Botafogo_%28Rio_de_Janeiro%29%2C_Aleksei_Vysheslavtsev%2C_page_549_%281867%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Botafogo_(Rio_de_Janeiro),_Aleksei_Vysheslavtsev,_page_549_(1867).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Panorama do Rio de Janeiro (século XIX) 2 AN",
+     "year": 1861,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_2_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_2_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_2_AN.tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Panorama do Rio de Janeiro (século XIX) 3 AN",
+     "year": 1861,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_3_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_3_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_3_AN.tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Panorama do Rio de Janeiro (século XIX) 4 – Arcos da Lapa – Aqueduto AN",
+     "year": 1861,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'empire du Brésil de 1822 à 1889 voit la naissance et la consolidation d'une monarchie constitutionnelle dirigée par Pierre Ier puis par son fils Pierre II, marquant la transition d'une colonie portugaise à une nation indépendante [S5]. En 1824 Pierre Ier impose une constitution autoritaire accordant au souverain un « pouvoir modérateur » pour intervenir dans les autres branches du gouvernement [S5]. Le Brésil est en guerre contre l'Argentine lors de la guerre de Cisplatine de 1825 à 1828 pour la possession de la Cisplatine, l'actuel Uruguay [S5]. La loi Eusébio de Queirós de 1850 interdit la traite des esclaves sans abolir l'esclavage [S5]. Le 13 mai 1888 la princesse Isabelle, fille de Pierre II, signe la Loi d'or qui libère 700 000 esclaves [S5]. La monarchie s'achève avec la proclamation de la République en 1889, la constitution restant en vigueur jusqu'en 1891 [S5]. Les extraits fournis ne reflètent qu'un point de vue institutionnel centré sur la monarchie [S5]."
+  },
+  {
+   "title": "La Première République (1889-1930)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#La_Première_République_(1889-1930)",
+   "source": 6,
+   "summary": "L'histoire du Brésil de 1889 à 1930 est marquée par une période de transitions politiques et sociales importantes. Ce laps de temps correspond à l’ère de la Première République ou « Vieille République » (República Velha), qui commence avec la chute de l'Empire brésilien en 1889 et s'achève avec la Révolution de 1930.",
+   "events": [
+    {
+     "year": 1888,
+     "label": "1888",
+     "text": "La chute de l'Empire est favorisée par plusieurs facteurs : Le mécontentement des élites terriennes face à l'abolition de l'esclavage en 1888.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1889,
+     "label": "1889",
+     "text": "Ce laps de temps correspond à l’ère de la Première République ou « Vieille République » (República Velha), qui commence avec la chute de l'Empire brésilien en 1889 et s'achève avec la Révolution de 1930.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1891,
+     "label": "1891",
+     "text": "La marine, qui avait soutenu le gouvernement en 1891 lors de la tentative de fermeture du Congrès, décide de bombarder la capitale pour obliger Peixoto à céder dans la lutte contre les fédéralistes.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1898,
+     "label": "1898",
+     "text": "En 1898, le futur président Manuel de Campos Sales doit se rendre en urgence à Londres pour négocier un échelonnement du remboursement de la dette.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1906,
+     "label": "1906",
+     "text": "En 1906, un accord est trouvé entre les gouverneurs de São Paulo, du Minas Gerais et de Rio de Janeiro pour protéger les producteurs de café : l'accord de Taubaté.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1930,
+     "label": "1930",
+     "text": "La « Vieille République » prend fin avec la Révolution de 1930.",
+     "source": 6,
+     "corroborated": false
+    }
+   ],
+   "start": 1888,
+   "end": 1930,
+   "photos": [
+    {
+     "title": "Plaza de mayo adornada presidente de brasil 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Plaza_de_mayo_adornada_presidente_de_brasil_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Plaza_de_mayo_adornada_presidente_de_brasil_1900.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Ponta do dionísio 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ponta_do_dion%C3%ADsio_1900.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Ponta_do_dion%C3%ADsio_1900.JPG",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Selo Brasil 400 anos 1500 1900 100 reis",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Selo_Brasil_400_anos_1500_1900_100_reis.jpg/960px-Selo_Brasil_400_anos_1500_1900_100_reis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Selo_Brasil_400_anos_1500_1900_100_reis.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Selo Brasil 400 anos 1500 1900 200 reis",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Selo_Brasil_400_anos_1500_1900_200_reis.jpg/960px-Selo_Brasil_400_anos_1500_1900_200_reis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Selo_Brasil_400_anos_1500_1900_200_reis.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "La Première République ou « Vieille République » (República Velha) s'étend de la chute de l'Empire brésilien en 1889 à la Révolution de 1930 [S6]. Cette période de transitions politiques et sociales importantes est favorisée par le mécontentement des élites terriennes face à l'abolition de l'esclavage en 1888 [S6]. En 1891, la marine qui avait soutenu le gouvernement lors de la tentative de fermeture du Congrès décide de bombarder la capitale pour obliger Peixoto à céder dans la lutte contre les fédéralistes [S6]. En 1898, le futur président Manuel de Campos Sales doit se rendre en urgence à Londres pour négocier un échelonnement du remboursement de la dette [S6]. En 1906, l'accord de Taubaté entre les gouverneurs de São Paulo, du Minas Gerais et de Rio de Janeiro protège les producteurs de café [S6]."
+  },
+  {
+   "title": "Le gouvernement provisoire et la Deuxième République (1930-1937)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#Le_gouvernement_provisoire_et_la_Deuxième_République_(1930-1937)",
+   "source": 7,
+   "summary": "L’histoire du Brésil de 1930 à 1937 est marquée par une période de changements politiques et sociaux profonds, centrés autour de la montée au pouvoir de Getúlio Vargas et la mise en place de l'Estado Novo. À son arrivée au pouvoir, Vargas gouverna le Brésil sous un régime provisoire, sans constitution ni cadre légal défini.",
+   "events": [
+    {
+     "year": 1930,
+     "label": "1930",
+     "text": "L’histoire du Brésil de 1930 à 1937 est marquée par une période de changements politiques et sociaux profonds, centrés autour de la montée au pouvoir de Getúlio Vargas et la mise en place de l'Estado Novo.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 1932,
+     "label": "1932",
+     "text": "En 1932, la situation est telle que le cruzeiro est dévalué de 40 %.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1933,
+     "label": "1933",
+     "text": "Face aux pressions politiques et sociales croissantes, Vargas convoqua une Assemblée constituante en 1933.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 1934,
+     "label": "1934",
+     "text": "La Constitution de 1934 (pt) introduisit des éléments de démocratie représentative tout en renforçant les pouvoirs de l'exécutif : Vote obligatoire et secret : Les citoyens, y compris les femmes, obtinrent le droit de vote.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1935,
+     "label": "1935",
+     "text": "En 1935, une tentative de coup d'État communiste, soutenue par l'ANL et dirigée par le Parti communiste, échoua.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1937,
+     "label": "1937",
+     "text": "En novembre 1937, il organisa un coup d’État qui suspendit la Constitution de 1934 et mit fin au régime démocratique.",
+     "source": 7,
+     "corroborated": false
+    }
+   ],
+   "start": 1930,
+   "end": 1937,
+   "photos": [
+    {
+     "title": "Largo do Pelourinho, 1931",
+     "year": 1931,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/238778a25a93.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Largo_do_Pelourinho,_1931.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Assis Brasil chega a Porto Alegre em 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Assis_Brasil_chega_a_Porto_Alegre_em_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Assis_Brasil_chega_a_Porto_Alegre_em_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Avenida del Brasil, Lima",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Avenida_del_Brasil%2C_Lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Avenida_del_Brasil,_Lima.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil - Mundial - 1930-2",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Brasil_-_Mundial_-_1930-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_-_Mundial_-_1930-2.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L’histoire du Brésil de 1930 à 1937 est marquée par une période de changements politiques et sociaux profonds, centrés autour de la montée au pouvoir de Getúlio Vargas et la mise en place de l'Estado Novo [S7]. À son arrivée au pouvoir, Vargas gouverna le Brésil sous un régime provisoire, sans constitution ni cadre légal défini [S7]. Face aux pressions politiques et sociales croissantes, Vargas convoqua une Assemblée constituante en 1933 [S7]. La Constitution de 1934 introduisit des éléments de démocratie représentative tout en renforçant les pouvoirs de l'exécutif, et les citoyens, y compris les femmes, obtinrent le droit de vote obligatoire et secret [S7]. En novembre 1937, il organisa un coup d’État qui suspendit la Constitution de 1934 et mit fin au régime démocratique [S7]."
+  },
+  {
+   "title": "L'Estado Novo (1937-1945)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#L'Estado_Novo_(1937-1945)",
+   "source": 8,
+   "summary": "L'Estado Novo (1937-1945) est une période marquante de l'histoire politique du Brésil, dirigée par Getúlio Vargas, qui a instauré un régime autoritaire inspiré du fascisme européen. Ce régime a consolidé l'État brésilien autour d'une centralisation du pouvoir, d'un contrôle strict des institutions et d'une politique de développement nationaliste.",
+   "events": [
+    {
+     "year": 1930,
+     "label": "1930",
+     "text": "Entre 1930 et 1937, Vargas gouverne sous des régimes plus ou moins démocratiques, mais il fait face à des menaces de divers groupes, notamment des communistes et des intégralistes (influencés par les idéologies fascistes).",
+     "source": 8,
+     "corroborated": true
+    },
+    {
+     "year": 1937,
+     "label": "1937",
+     "text": "Le tournant se produit en 1937 avec la découverte supposée du « Plan Cohen », un faux complot communiste que le gouvernement utilise pour justifier un coup d'État.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1939,
+     "label": "1939",
+     "text": "En 1939, le pays déclare sa neutralité lors du déclenchement de la Seconde Guerre mondiale.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1942,
+     "label": "1942",
+     "text": "Cependant, avec l'entrée du Brésil dans le conflit aux côtés des Alliés en 1942, le gouvernement modifie son orientation internationale.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1943,
+     "label": "1943",
+     "text": "Il faut dire qu'il avait promis une élection présidentielle pour 1943 et que, une fois le pays entré en guerre, il avait changé d'avis.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1945,
+     "label": "1945",
+     "text": "L'Estado Novo prend fin en 1945, lorsque Getúlio Vargas, sous pression militaire et populaire, démissionne.",
+     "source": 8,
+     "corroborated": false
+    }
+   ],
+   "start": 1930,
+   "end": 1945,
+   "photos": [
+    {
+     "title": "Largo do Pelourinho, 1931",
+     "year": 1931,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/238778a25a93.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Largo_do_Pelourinho,_1931.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Assis Brasil chega a Porto Alegre em 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Assis_Brasil_chega_a_Porto_Alegre_em_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Assis_Brasil_chega_a_Porto_Alegre_em_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Avenida del Brasil, Lima",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Avenida_del_Brasil%2C_Lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Avenida_del_Brasil,_Lima.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil - Mundial - 1930-2",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Brasil_-_Mundial_-_1930-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_-_Mundial_-_1930-2.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'Estado Novo (1937-1945) est une période marquante dirigée par Getúlio Vargas, qui instaure un régime autoritaire inspiré du fascisme européen, consolidant l'État par centralisation du pouvoir, contrôle strict des institutions et politique de développement nationaliste [S8]. Entre 1930 et 1937, Vargas gouverne sous des régimes plus ou moins démocratiques face à des menaces de communistes et d'intégralistes influencés par le fascisme [S8]. En 1937, la découverte supposée du faux complot communiste du « Plan Cohen » justifie un coup d'État [S8]. Neutre en 1939, le Brésil entre en guerre aux côtés des Alliés en 1942 et modifie son orientation internationale [S8]. Ayant promis une élection pour 1943, Vargas change d'avis après l'entrée en guerre [S8]. Sous pression militaire et populaire, il démissionne en 1945, mettant fin à l'Estado Novo [S8]."
+  },
+  {
+   "title": "La Quatrième République (1946-1964)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#La_Quatrième_République_(1946-1964)",
+   "source": 9,
+   "summary": "L’histoire du Brésil entre 1946 et 1964 est marquée par une période complexe, durant laquelle le pays traverse des changements politiques importants, des tensions sociales et une évolution économique rapide. Après la chute de l'Estado Novo (1937-1945) de Getúlio Vargas, une nouvelle Constitution est adoptée en 1946, ouvrant la voie à une période de démocratie représentative.",
+   "events": [
+    {
+     "year": 1937,
+     "label": "1937",
+     "text": "Après la chute de l'Estado Novo (1937-1945) de Getúlio Vargas, une nouvelle Constitution est adoptée en 1946, ouvrant la voie à une période de démocratie représentative.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1951,
+     "label": "1951",
+     "text": "Getúlio Vargas, figure centrale de la politique brésilienne, revient au pouvoir en 1951, cette fois par le biais d'une élection démocratique.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1954,
+     "label": "1954",
+     "text": "En 1954, après un scandale politique, des pressions croissantes et la menace d'un coup d'État, Vargas se suicide, déclenchant une crise politique mais en évitant au pays de basculer dans la dictature.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1955,
+     "label": "1955",
+     "text": "Après une courte période de transition, Juscelino Kubitschek est élu président en 1955.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1961,
+     "label": "1961",
+     "text": "En 1961, Jânio Quadros est élu président, mais il démissionne après seulement sept mois, invoquant des pressions politiques.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1964,
+     "label": "1964",
+     "text": "Face à la montée des tensions et à une profonde polarisation politique, les forces armées, soutenues par des secteurs conservateurs et des États-Unis dans le contexte de la guerre froide, organisent un coup d'État en avril 1964.",
+     "source": 9,
+     "corroborated": false
+    }
+   ],
+   "start": 1937,
+   "end": 1964,
+   "photos": [
+    {
+     "title": "Avisos Funebres-Jornal do Brasil-Janeiro de 1940",
+     "year": 1940,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Avisos_Funebres-Jornal_do_Brasil-Janeiro_de_1940.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Avisos_Funebres-Jornal_do_Brasil-Janeiro_de_1940.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Beatriz Costa no Brasil (1940's)",
+     "year": 1940,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Beatriz_Costa_no_Brasil_%281940%27s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Beatriz_Costa_no_Brasil_(1940%27s).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Biscoitos Aymore (Jornal do Brasil - 1940)",
+     "year": 1940,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Biscoitos_Aymore_%28Jornal_do_Brasil_-_1940%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Biscoitos_Aymore_(Jornal_do_Brasil_-_1940).png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Geisel e Vargas - 1940",
+     "year": 1940,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Geisel_e_Vargas_-_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Geisel_e_Vargas_-_1940.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'histoire du Brésil entre 1946 et 1964 est marquée par une période complexe avec des changements politiques importants, des tensions sociales et une évolution économique rapide [S9]. Après la chute de l'Estado Novo (1937-1945) de Getúlio Vargas, une nouvelle Constitution est adoptée en 1946, ouvrant la voie à une période de démocratie représentative [S9]. Getúlio Vargas revient au pouvoir en 1951 par une élection démocratique [S9]. En 1954, après un scandale politique et la menace d'un coup d'État, il se suicide, évitant au pays de basculer dans la dictature [S9]. Juscelino Kubitschek est élu président en 1955 [S9]. En 1961, Jânio Quadros est élu puis démissionne après sept mois [S9]. En avril 1964, les forces armées, soutenues par des secteurs conservateurs et les États-Unis dans le contexte de la guerre froide, organisent un coup d'État [S9]."
+  },
+  {
+   "title": "La dictature militaire (1964-1985)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#La_dictature_militaire_(1964-1985)",
+   "source": 10,
+   "summary": "La dictature militaire au Brésil, qui a duré de 1964 à 1985, est une période marquante de l'histoire contemporaine du pays. Elle s'inscrit dans un contexte de guerre froide, où les tensions idéologiques entre les États-Unis et l'Union soviétique ont influencé de nombreux gouvernements en Amérique latine, notamment par la peur du communisme.",
+   "events": [
+    {
+     "year": 1964,
+     "label": "1964",
+     "text": "Le coup d'État militaire du 31 mars 1964 a renversé le président João Goulart, considéré par les militaires et une partie de la population comme étant trop proche des idées socialistes et communistes.",
+     "source": 10,
+     "corroborated": true
+    },
+    {
+     "year": 1970,
+     "label": "1970",
+     "text": "La fin des années 1970 a vu une montée des mouvements pour la démocratie.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1974,
+     "label": "1974",
+     "text": "À partir de 1974, le nouveau président Ernesto Geisel lance le mouvement de « libéralisation » du régime, qui est qualifié de « détente » (distensão).",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1978,
+     "label": "1978",
+     "text": "Pour autant, Geisel reste le président qui a le plus utilisé de l'Acte institutionnel no 5 jusqu'à son abrogation en 1978.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1984,
+     "label": "1984",
+     "text": "En 1984, le mouvement Diretas Já a mobilisé des millions de Brésiliens réclamant des élections présidentielles directes.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1985,
+     "label": "1985",
+     "text": "Finalement, en 1985, un président civil, Tancredo Neves, a été élu par un collège électoral, marquant la fin de la dictature militaire.",
+     "source": 10,
+     "corroborated": true
+    }
+   ],
+   "start": 1964,
+   "end": 1985,
+   "photos": [],
+   "narrative": "La dictature militaire au Brésil dure de 1964 à 1985 dans le contexte de la guerre froide marqué par les tensions entre les États-Unis et l'Union soviétique et la peur du communisme [S10]. Le coup d'État du 31 mars 1964 renverse le président João Goulart, considéré par les militaires et une partie de la population comme trop proche des idées socialistes et communistes [S10]. La fin des années 1970 voit une montée des mouvements pour la démocratie [S10]. À partir de 1974, le président Ernesto Geisel lance la « libéralisation » du régime qualifiée de « détente » (distensão) [S10]. Il reste le président qui a le plus utilisé l'Acte institutionnel no 5 jusqu'à son abrogation en 1978 [S10]. En 1984, le mouvement Diretas Já mobilise des millions de Brésiliens réclamant des élections présidentielles directes [S10]. En 1985, le civil Tancredo Neves est élu par un collège électoral, marquant la fin de la dictature [S10]."
+  },
+  {
+   "title": "Le retour à la démocratie : un équilibre fragile (depuis 1985)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#Le_retour_à_la_démocratie_:_un_équilibre_fragile_(depuis_1985)",
+   "source": 11,
+   "summary": "L'histoire du Brésil depuis 1985 est marquée par des transformations politiques, économiques et sociales majeures. Ce tournant commence avec la transition vers la démocratie, après plus de 20 ans de dictature militaire.",
+   "events": [
+    {
+     "year": 1985,
+     "label": "1985",
+     "text": "La mort soudaine de Tancredo Neves, élu président lors des élections indirectes de 1985, conduit à l'investiture de son vice-président, José Sarney, qui fut pourtant un serviteur de l'État pendant la dictature.",
+     "source": 11,
+     "corroborated": true
+    },
+    {
+     "year": 1988,
+     "label": "1988",
+     "text": "Sous la présidence de Sarney, la Constitution de 1988 est adoptée, une étape essentielle dans la consolidation démocratique du pays.",
+     "source": 11,
+     "corroborated": true
+    },
+    {
+     "year": 1990,
+     "label": "1990",
+     "text": "En 1990, Fernando Collor de Mello est élu président lors des premières élections présidentielles directes depuis la dictature.",
+     "source": 11,
+     "corroborated": true
+    },
+    {
+     "year": 1993,
+     "label": "1993",
+     "text": "Cette nouvelle constitution garantit des droits sociaux et civils, renforce les institutions démocratiques, mais il faut attendre 1993 pour que la nature du régime soit clairement définie.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
+     "year": 1998,
+     "label": "1998",
+     "text": "Bénéficiant du soutien de 75 % des membres du Congrès, même s'il est constamment contraint de négocier, Cardoso fait adopter seize amendements constitutionnels dont celui qui lui permet d'être réélu en 1998.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
+     "year": 2002,
+     "label": "2002",
+     "text": "En 2002, Luiz Inácio Lula da Silva, issu du Parti des travailleurs (PT), est élu président.",
+     "source": 11,
+     "corroborated": true
+    }
+   ],
+   "start": 1985,
+   "end": 2002,
+   "photos": [],
+   "narrative": "L'histoire du Brésil depuis 1985 est marquée par des transformations politiques, économiques et sociales majeures amorcées par la transition vers la démocratie après plus de 20 ans de dictature militaire [S11]. En 1985, la mort soudaine de Tancredo Neves élu lors d'élections indirectes conduit à l'investiture de son vice-président José Sarney pourtant serviteur de l'État pendant la dictature [S11]. Sous sa présidence la Constitution de 1988 est adoptée comme étape essentielle de la consolidation démocratique [S11]. Soutenu par 75 % du Congrès malgré des négociations constantes, Cardoso fait adopter seize amendements dont celui permettant sa réélection en 1998, avant l'élection en 2002 de Luiz Inácio Lula da Silva issu du Parti des travailleurs [S11]."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire du Brésil › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire du Brésil › Préhistoire",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#Préhistoire",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire du Brésil › Période coloniale (1500-1815)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#Période_coloniale_(1500-1815)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "Histoire du Brésil › L'éphémère union (1815-1822)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#L'éphémère_union_(1815-1822)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 5,
+   "title": "Histoire du Brésil › La monarchie constitutionnelle (1822-1889)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#La_monarchie_constitutionnelle_(1822-1889)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 6,
+   "title": "Histoire du Brésil › La Première République (1889-1930)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#La_Première_République_(1889-1930)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 7,
+   "title": "Histoire du Brésil › Le gouvernement provisoire et la Deuxième République (1930-1937)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#Le_gouvernement_provisoire_et_la_Deuxième_République_(1930-1937)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 8,
+   "title": "Histoire du Brésil › L'Estado Novo (1937-1945)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#L'Estado_Novo_(1937-1945)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 9,
+   "title": "Histoire du Brésil › La Quatrième République (1946-1964)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#La_Quatrième_République_(1946-1964)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 10,
+   "title": "Histoire du Brésil › La dictature militaire (1964-1985)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#La_dictature_militaire_(1964-1985)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 11,
+   "title": "Histoire du Brésil › Le retour à la démocratie : un équilibre fragile (depuis 1985)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil#Le_retour_à_la_démocratie_:_un_équilibre_fragile_(depuis_1985)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 12,
+   "title": "History of Brazil",
+   "url": "https://en.wikipedia.org/wiki/History_of_Brazil",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": 1500,
+   "text": "Avant 1500, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  },
+  {
+   "from": null,
+   "to": null,
+   "text": "Chapitres peu datés : Préhistoire."
+  }
+ ],
+ "stats": {
+  "chapters": 11,
+  "events": 60,
+  "corroborated": 17,
+  "share": 0.28,
+  "span": [
+   "1500",
+   "2002"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "121376286b"
+}

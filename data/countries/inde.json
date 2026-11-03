@@ -1,0 +1,361 @@
+{
+ "country": {
+  "id": "inde",
+  "name": "Inde",
+  "flag": "🇮🇳",
+  "fr": "Histoire de l'Inde",
+  "en": "History of India",
+  "old_names": [
+   "India",
+   "Delhi",
+   "Calcutta",
+   "Bombay"
+  ],
+  "places": [
+   "agra-taj-mahal"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Inde",
+   "source": 1,
+   "summary": "L'histoire de l'Inde est particulièrement riche et peut se diviser en trois grandes ères : des origines à l'Empire moghol (dynasties musulmanes venues de Perse et d'Afghanistan), dominant jusqu'au milieu du XVIIIe siècle ; la période coloniale européenne, dont l'Empire britannique des Indes comprend alors le Bangladesh et le Pakistan contemporains ; et depuis l'indépendance de l'Inde (1947-). Depuis 1947, l'histoire de l'Inde est dominée par des conflits répétés avec le Pakistan (les trois guerres indo-pakistanaise",
+   "events": [
+    {
+     "year": 1750,
+     "label": "XVIIIe s.",
+     "text": "L'histoire de l'Inde est particulièrement riche et peut se diviser en trois grandes ères : des origines à l'Empire moghol (dynasties musulmanes venues de Perse et d'Afghanistan), dominant jusqu'au milieu du XVIIIe siècle ; la période coloniale européenne, dont l'Empire britannique des Indes comprend alors le Bangladesh et le Pakistan contemporains ; et depuis l'indépendance de l'Inde (1947-).",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "Depuis 1947, l'histoire de l'Inde est dominée par des conflits répétés avec le Pakistan (les trois guerres indo-pakistanaises de 1947-1948, 1965 et 1971), par la domination intérieure du Parti du Congrès (ancien parti de Nehru et Gandhi) et par des tensions religieuses récurrentes entre hindous et musulmans (émeutes de 1992 et de 2002).",
+     "source": 1,
+     "corroborated": true
+    }
+   ],
+   "start": 1750,
+   "end": 1947,
+   "photos": [
+    {
+     "title": "Agra, Taj Mahal LCCN95505064",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/8f98f717d270.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Agra,_Taj_Mahal_LCCN95505064.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj (Rear View), Agra",
+     "year": 1885,
+     "license": "CC0",
+     "image": "/media/places/agra-taj-mahal/archive/b298577f39a4.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_(Rear_View),_Agra.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Taj Mahal in 1874",
+     "year": 1874,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/13bdefe502e9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_1874.JPG",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Toegangspoort tot de Taj Mahal, Darwaza-i rauza, RP-F-F80407",
+     "year": 1864,
+     "license": "CC0",
+     "image": "/media/places/agra-taj-mahal/archive/8d84695b2f2c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Toegangspoort_tot_de_Taj_Mahal,_Darwaza-i_rauza,_RP-F-F80407.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'histoire de l'Inde est particulièrement riche et peut se diviser en trois grandes ères : des origines à l'Empire moghol, dynasties musulmanes venues de Perse et d'Afghanistan dominant jusqu'au milieu du XVIIIe siècle, puis la période coloniale européenne [S1]. L'Empire britannique des Indes comprend alors le Bangladesh et le Pakistan contemporains [S1]. Depuis l'indépendance de l'Inde en 1947, son histoire est dominée par des conflits répétés avec le Pakistan, notamment les trois guerres de 1947-1948, 1965 et 1971 [S1]. Elle est également marquée par la domination intérieure du Parti du Congrès, ancien parti de Nehru et Gandhi, et par des tensions religieuses récurrentes entre hindous et musulmans, comme les émeutes de 1992 et 2002 [S1]."
+  },
+  {
+   "title": "Préhistoire",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Inde#Préhistoire",
+   "source": 2,
+   "summary": "Les premières colonies d'humains modernes en Inde sont estimées à des dates entre 60 et 70 000 ans. Les plus anciennes traces humaines trouvées en Asie du Sud remontent à environ 30 000 ans.",
+   "events": [
+    {
+     "year": -250,
+     "label": "IIIe s. av. J.-C.",
+     "text": "Politiquement, au cours du IIIe siècle av. J.-C., le royaume de Magadha annexe ou réduit d'autres États pour émerger comme entité principale parmi les différents royaumes qui occupent l'espace de l'Inde ancienne.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 320,
+     "label": "320",
+     "text": "Antiquité et Moyen Âge indien Royaume gréco-bactrien, Royaumes indo-grecs, Royaume indo-parthe Empire kouchan, Royaume kidarite (320-467) Shvetahûna (Huns Hephtalites) Alkhon (Alakhana, 360-670), Toramana (roi de 493 à 515 environ)",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1050,
+     "label": "XIe s.",
+     "text": "Du XIe siècle au XVe siècle, l'Inde du Nord est dominée par les sultans turco-afghans (sultanat de Delhi), et l'Inde méridionale par les dynasties hindoues Chola et du Vijayanagar.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1526,
+     "label": "1526",
+     "text": "Cet empire est fondé en Inde par Babur, le descendant de Tamerlan, en 1526, lorsqu'il défait Ibrahim Lodi, le dernier sultan de Delhi à la bataille de Pânipat.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1782,
+     "label": "1782",
+     "text": "Les Britanniques rencontrent encore une forte résistance de Haidar Alî, sultan de Mysore, jusqu'en 1782, de l'Empire marathe jusqu'en 1819, de l'Empire sikh du Penjab jusqu'en 1849.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1950,
+     "label": "1950",
+     "text": "La Constitution, composée de 395 articles, entre en vigueur le 26 janvier 1950 et Rajendra Prasad est élu premier Président de l'Inde.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": -250,
+   "end": 1950,
+   "photos": [
+    {
+     "title": "Agra, Taj Mahal LCCN95505064",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/8f98f717d270.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Agra,_Taj_Mahal_LCCN95505064.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj (Rear View), Agra",
+     "year": 1885,
+     "license": "CC0",
+     "image": "/media/places/agra-taj-mahal/archive/b298577f39a4.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_(Rear_View),_Agra.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Taj Mahal in 1874",
+     "year": 1874,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/13bdefe502e9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_1874.JPG",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Toegangspoort tot de Taj Mahal, Darwaza-i rauza, RP-F-F80407",
+     "year": 1864,
+     "license": "CC0",
+     "image": "/media/places/agra-taj-mahal/archive/8d84695b2f2c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Toegangspoort_tot_de_Taj_Mahal,_Darwaza-i_rauza,_RP-F-F80407.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Les premières colonies d'humains modernes en Inde sont estimées entre 60 et 70 000 ans, les plus anciennes traces en Asie du Sud remontant à environ 30 000 ans [S2]. Au IIIe siècle av. J.-C., le royaume de Magadha annexe ou réduit d'autres États [S2]. Du XIe au XVe siècle, l'Inde du Nord est dominée par les sultans turco-afghans du sultanat de Delhi et le Sud par les Chola et Vijayanagar [S2]. En 1526, Babur descendant de Tamerlan défait Ibrahim Lodi à Pânipat [S2]. Les Britanniques rencontrent la résistance de Haidar Alî jusqu'en 1782, des Marathes jusqu'en 1819 et des Sikhs jusqu'en 1849 [S2]. La Constitution de 395 articles entre en vigueur le 26 janvier 1950 et Rajendra Prasad est élu premier Président [S2]."
+  },
+  {
+   "title": "Relations internationales depuis 1947",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Inde#Relations_internationales_depuis_1947",
+   "source": 3,
+   "summary": "1947-1949 : Première guerre indo-pakistanaise à propos du Cachemire. 1955 : Conférence de Bandung, création du mouvement des non-alignés 1962 : Guerre sino-indienne, défaite de l'Inde à propos des frontières de l'Himalaya 1965 : Deuxième guerre indo-pakistanaise à propos du Cachemire. Décembre 1971 : Troisième guerre indo-pakistanaise ; le Pakistan Oriental devient le Bangladesh avec l'aide militaire de l'Inde. 18 mai 1974 : Essai nucléaire indien au Rajahstan.",
+   "events": [
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "1947-1949 : Première guerre indo-pakistanaise à propos du Cachemire. 1955 : Conférence de Bandung, création du mouvement des non-alignés 1962 : Guerre sino-indienne, défaite de l'Inde à propos des frontières de l'Himalaya 1965 : Deuxième guerre indo-pakistanaise à propos du Cachemire.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1971,
+     "label": "1971",
+     "text": "Décembre 1971 : Troisième guerre indo-pakistanaise ; le Pakistan Oriental devient le Bangladesh avec l'aide militaire de l'Inde. 18 mai 1974 : Essai nucléaire indien au Rajahstan.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1998,
+     "label": "1998",
+     "text": "Mai 1998 : L'Inde et le Pakistan se dotent successivement de l'arme nucléaire à la suite d'essais nucléaires souterrains.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 2002,
+     "label": "2002",
+     "text": "Source : « Inde-Pakistan : de la crise au dialogue ? » Rapport d'information du Sénat fait au nom de la Commission des affaires étrangères, de la défense et des forces armées à la suite d'une mission effectuée du 3 au 10 mars 2002 en Inde et au Pakistan",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 1947,
+   "end": 2002,
+   "photos": [
+    {
+     "title": "1950 India showing Political Divisions in the New Republic by Survey of India",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/1950_India_showing_Political_Divisions_in_the_New_Republic_by_Survey_of_India.jpg/960px-1950_India_showing_Political_Divisions_in_the_New_Republic_by_Survey_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1950_India_showing_Political_Divisions_in_the_New_Republic_by_Survey_of_India.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "A Constituent Assembly of India meeting in 1950",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/A_Constituent_Assembly_of_India_meeting_in_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:A_Constituent_Assembly_of_India_meeting_in_1950.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "ITO crossroads, New Delhi in 1950",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/ITO_crossroads%2C_New_Delhi_in_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:ITO_crossroads,_New_Delhi_in_1950.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Indian National Savings Card 1950",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Indian_National_Savings_Card_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Indian_National_Savings_Card_1950.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "De 1947 à 1949, la première guerre indo-pakistanaise a lieu à propos du Cachemire [S3]. En 1955, la conférence de Bandung voit la création du mouvement des non-alignés, tandis qu'en 1962 l'Inde est défaite lors de la guerre sino-indienne à propos des frontières de l'Himalaya [S3]. En 1965, une deuxième guerre indo-pakistanaise éclate à nouveau à propos du Cachemire [S3]. En décembre 1971, la troisième guerre indo-pakistanaise permet au Pakistan Oriental de devenir le Bangladesh avec l'aide militaire de l'Inde [S3]. Le 18 mai 1974, l'Inde réalise un essai nucléaire au Rajahstan [S3]. En mai 1998, l'Inde et le Pakistan se dotent successivement de l'arme nucléaire à la suite d'essais souterrains [S3]."
+  },
+  {
+   "title": "Historiographie",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Inde#Historiographie",
+   "source": 4,
+   "summary": "Sont distinguées, dans les études sur l'Inde au cours des dernières décennies, quatre grands courants historiographiques : la « Cambridge school », l'historiographie nationaliste, l'historiographie marxiste et les « études subalternes ». L'approche «orientaliste» jadis commune, qui renvoyait de l'Inde l'image d'un pays entièrement spirituel, ou sensuel et impénétrable, s'est éteinte dans les études académiques.",
+   "events": [
+    {
+     "year": 1857,
+     "label": "1857",
+     "text": "Elle a présenté la mutinerie de 1857 comme une guerre de libération, et le «Quit India» de Gandhi commencé en 1942, comme des événements historiques.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "Les Subaltern Studies se concentrent sur l'ère coloniale avant 1947 et mettent généralement l'accent sur la caste plutôt que sur la classe sociale, au grand dam de l'école marxiste.",
+     "source": 4,
+     "corroborated": false
+    }
+   ],
+   "start": 1857,
+   "end": 1947,
+   "photos": [
+    {
+     "title": "Agra, Taj Mahal LCCN95505064",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/8f98f717d270.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Agra,_Taj_Mahal_LCCN95505064.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj (Rear View), Agra",
+     "year": 1885,
+     "license": "CC0",
+     "image": "/media/places/agra-taj-mahal/archive/b298577f39a4.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_(Rear_View),_Agra.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Taj Mahal in 1874",
+     "year": 1874,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/13bdefe502e9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_1874.JPG",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Toegangspoort tot de Taj Mahal, Darwaza-i rauza, RP-F-F80407",
+     "year": 1864,
+     "license": "CC0",
+     "image": "/media/places/agra-taj-mahal/archive/8d84695b2f2c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Toegangspoort_tot_de_Taj_Mahal,_Darwaza-i_rauza,_RP-F-F80407.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Dans les études sur l'Inde au cours des dernières décennies, quatre grands courants historiographiques sont distingués : la « Cambridge school », l'historiographie nationaliste, l'historiographie marxiste et les « études subalternes » [S4]. L'approche « orientaliste » jadis commune, qui renvoyait de l'Inde l'image d'un pays entièrement spirituel, ou sensuel et impénétrable, s'est éteinte dans les études académiques [S4]. Elle a présenté la mutinerie de 1857 comme une guerre de libération [S4]. Le « Quit India » de Gandhi commencé en 1942 est présenté comme un événement historique [S4]. Les Subaltern Studies se concentrent sur l'ère coloniale avant 1947 et mettent généralement l'accent sur la caste plutôt que sur la classe sociale, au grand dam de l'école marxiste [S4]."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire de l'Inde › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Inde",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire de l'Inde › Préhistoire",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Inde#Préhistoire",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire de l'Inde › Relations internationales depuis 1947",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Inde#Relations_internationales_depuis_1947",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "Histoire de l'Inde › Historiographie",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Inde#Historiographie",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 5,
+   "title": "History of India",
+   "url": "https://en.wikipedia.org/wiki/History_of_India",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": -250,
+   "text": "Avant 250 av. J.-C., l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  }
+ ],
+ "stats": {
+  "chapters": 4,
+  "events": 14,
+  "corroborated": 4,
+  "share": 0.29,
+  "span": [
+   "250 av. J.-C.",
+   "2002"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "efd8563b67"
+}

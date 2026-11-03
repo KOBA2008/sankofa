@@ -1,0 +1,403 @@
+{
+ "country": {
+  "id": "etats-unis",
+  "name": "États-Unis",
+  "flag": "🇺🇸",
+  "fr": "Histoire des États-Unis",
+  "en": "History of the United States",
+  "old_names": [
+   "New York",
+   "Washington",
+   "Chicago"
+  ],
+  "places": [
+   "new-york-flatiron"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+   "source": 1,
+   "summary": "Lorsque les premiers colons anglais arrivent à Jamestown (Virginie) en 1607, le continent américain connait une faible densité de population depuis plusieurs millénaires. Le territoire américain est ensuite colonisé à partir du XVIIe siècle par différentes puissances européennes (Espagne, Royaume-Uni, France (Nouvelle-France)).",
+   "events": [
+    {
+     "year": 1775,
+     "label": "1775",
+     "text": "La bataille de Lexington (19 avril 1775) est le signal de la rupture et du début de la guerre d'indépendance américaine.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1776,
+     "label": "1776",
+     "text": "Désireux de s'affranchir de la métropole britannique et de gouverner par eux-mêmes, les colons des Treize colonies proclament leur indépendance en 1776.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1783,
+     "label": "1783",
+     "text": "En 1783, le traité de Paris met un terme à la guerre et reconnaît l'indépendance des États-Unis d'Amérique.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1787,
+     "label": "1787",
+     "text": "Dès 1787, les Pères fondateurs s'étaient posés la question de l'abolition de l'esclavage, mais jugeant l'esclavage comme une forme de propriété, ils n'avaient rien statué.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1833,
+     "label": "1833",
+     "text": "Les esclavagistes sont sur la défensive, le Royaume-Uni en 1833, la France en 1848, abolissent l'esclavage.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1861,
+     "label": "1861",
+     "text": "Ces derniers constituent, en février 1861, un nouvel État indépendant, les États confédérés avec Jefferson Davis comme président et Alex Stephens de Georgie comme vice-président.",
+     "source": 1,
+     "corroborated": false
+    }
+   ],
+   "start": 1775,
+   "end": 1861,
+   "photos": [
+    {
+     "title": "George Pomutz - Passenger List of Vessel Mount Stuart Elphinston Arriving at New York - 1850-02-25 - P1",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/George_Pomutz_-_Passenger_List_of_Vessel_Mount_Stuart_Elphinston_Arriving_at_New_York_-_1850-02-25_-_P1.jpg/960px-George_Pomutz_-_Passenger_List_of_Vessel_Mount_Stuart_Elphinston_Arriving_at_New_York_-_1850-02-25_-_P1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:George_Pomutz_-_Passenger_List_of_Vessel_Mount_Stuart_Elphinston_Arriving_at_New_York_-_1850-02-25_-_P1.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "George Pomutz - Passenger List of Vessel Mount Stuart Elphinston Arriving at New York - 1850-02-25 - P2",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/George_Pomutz_-_Passenger_List_of_Vessel_Mount_Stuart_Elphinston_Arriving_at_New_York_-_1850-02-25_-_P2.jpg/960px-George_Pomutz_-_Passenger_List_of_Vessel_Mount_Stuart_Elphinston_Arriving_at_New_York_-_1850-02-25_-_P2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:George_Pomutz_-_Passenger_List_of_Vessel_Mount_Stuart_Elphinston_Arriving_at_New_York_-_1850-02-25_-_P2.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Main building, New York Central College",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Main_building%2C_New_York_Central_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Main_building,_New_York_Central_College.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "New-York, past, present, and future - comprising a history of the city of New-York, a description of its present condition, and an estimate of its future increase (1850) (14781407961)",
+     "year": 1850,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/New-York%2C_past%2C_present%2C_and_future_-_comprising_a_history_of_the_city_of_New-York%2C_a_description_of_its_present_condition%2C_and_an_estimate_of_its_future_increase_%281850%29_%2814781407961%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:New-York,_past,_present,_and_future_-_comprising_a_history_of_the_city_of_New-York,_a_description_of_its_present_condition,_and_an_estimate_of_its_future_increase_(1850)_(14781407961).jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Les extraits fournis ne reflètent qu'un point de vue colonial centré sur l'histoire des colons européens [S1]. Ils indiquent que lors de l'arrivée des Anglais à Jamestown en 1607, le continent connaissait une faible densité de population depuis plusieurs millénaires [S1]. Le territoire est ensuite colonisé dès le XVIIe siècle par l'Espagne, le Royaume-Uni et la France [S1]. Les colons des Treize colonies proclament leur indépendance en 1776 après la bataille de Lexington de 1775, reconnue par le traité de Paris en 1783 [S1]. Dès 1787, les Pères fondateurs évoquent l'abolition de l'esclavage sans statuer, le considérant comme une propriété [S1]."
+  },
+  {
+   "title": "De 1918 à 1945",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1918_à_1945",
+   "source": 2,
+   "summary": "Les États-Unis sortent très largement renforcés de la Première Guerre mondiale. L'Europe détruite et ruinée, ils renforcent leur domination économique, et deviennent même un centre de la culture mondiale dans les années 1920.",
+   "events": [
+    {
+     "year": 1920,
+     "label": "1920",
+     "text": "L'Europe détruite et ruinée, ils renforcent leur domination économique, et deviennent même un centre de la culture mondiale dans les années 1920.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1929,
+     "label": "1929",
+     "text": "Cependant, la crise de 1929 remet en cause le modèle américain, et les réponses du New Deal restent insuffisantes, les États-Unis ne retrouvant la prospérité que, et ce paradoxalement, grâce au déclenchement de la Seconde Guerre mondiale, au cours de laquelle ils triomphent de l'Axe.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1945,
+     "label": "1945",
+     "text": "Leur victoire fait d'eux en 1945 l'un des deux Supergrands, avec l'Union soviétique.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": 1920,
+   "end": 1945,
+   "photos": [
+    {
+     "title": "Daily News of New York City, New York on March 11, 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Daily_News_of_New_York_City%2C_New_York_on_March_11%2C_1930.jpg/960px-Daily_News_of_New_York_City%2C_New_York_on_March_11%2C_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Daily_News_of_New_York_City,_New_York_on_March_11,_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "David Vernon Naar (1899-1930) in the Times Union of Brooklyn, New York on November 29, 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/David_Vernon_Naar_%281899-1930%29_in_the_Times_Union_of_Brooklyn%2C_New_York_on_November_29%2C_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:David_Vernon_Naar_(1899-1930)_in_the_Times_Union_of_Brooklyn,_New_York_on_November_29,_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Eddie August Schneider (1910-1940) in an article written by the Associated Press and published in the New York Times on August 17, 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eddie_August_Schneider_%281910-1940%29_in_an_article_written_by_the_Associated_Press_and_published_in_the_New_York_Times_on_August_17%2C_1930.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Eddie_August_Schneider_(1910-1940)_in_an_article_written_by_the_Associated_Press_and_published_in_the_New_York_Times_on_August_17,_1930.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Exhibit 2 of the \"1930 Agreement\" between the Port of New York Authority and the City of New York",
+     "year": 1930,
+     "license": "CC BY-SA 4.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Exhibit_2_of_the_%221930_Agreement%22_between_the_Port_of_New_York_Authority_and_the_City_of_New_York.jpg/960px-Exhibit_2_of_the_%221930_Agreement%22_between_the_Port_of_New_York_Authority_and_the_City_of_New_York.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Exhibit_2_of_the_%221930_Agreement%22_between_the_Port_of_New_York_Authority_and_the_City_of_New_York.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Les États-Unis sortent très largement renforcés de la Première Guerre mondiale [S2]. L'Europe détruite et ruinée, ils renforcent leur domination économique et deviennent même un centre de la culture mondiale dans les années 1920 [S2]. Cependant, la crise de 1929 remet en cause le modèle américain [S2]. Les réponses du New Deal restent insuffisantes et les États-Unis ne retrouvent la prospérité que, et ce paradoxalement, grâce au déclenchement de la Seconde Guerre mondiale, au cours de laquelle ils triomphent de l'Axe [S2]. Leur victoire fait d'eux en 1945 l'un des deux Supergrands, avec l'Union soviétique [S2]. Ce résumé repose uniquement sur les extraits fournis qui ne reflètent qu'une seule source [S2]."
+  },
+  {
+   "title": "De 1945 à 1964",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1945_à_1964",
+   "source": 3,
+   "summary": "Les États-Unis sont un des grands pays victorieux de la Seconde Guerre mondiale, avec l'URSS. Très vite, les relations entre les deux grands vont se dégrader, les deux pays n'ayant rien à voir au niveau idéologique.",
+   "events": [
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "En 1947, dans le cadre de la doctrine Truman, les États-Unis lancent le plan Marshall, pour contrer l'expansion du communisme en Europe.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1949,
+     "label": "1949",
+     "text": "Le 20 janvier 1949, le président Harry Truman prononce son discours sur l'état de l'Union.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1954,
+     "label": "1954",
+     "text": "Guerre de Corée Débarquement de la baie des Cochons Crise des fusées à Cuba Assassinat de Kennedy Mouvement des droits civiques aux États-Unis depuis 1954 Histoire des États-Unis de 1964 à 1980",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1964,
+     "label": "1964",
+     "text": "En 1964, les États-Unis font la guerre du Viêt Nam.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 1947,
+   "end": 1964,
+   "photos": [
+    {
+     "title": "New York Yanks Media Guide, 1950",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/New_York_Yanks_Media_Guide%2C_1950.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:New_York_Yanks_Media_Guide,_1950.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "1950-51 Washington Caps",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/1950-51_Washington_Caps.jpeg/960px-1950-51_Washington_Caps.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1950-51_Washington_Caps.jpeg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "1950 - Hotel Washington - 13 May MC - Allentown PA",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1950_-_Hotel_Washington_-_13_May_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1950_-_Hotel_Washington_-_13_May_MC_-_Allentown_PA.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Boating on Lake Washington, 1950 (43741664441)",
+     "year": 1950,
+     "license": "CC BY 2.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Boating_on_Lake_Washington%2C_1950_%2843741664441%29.jpg/960px-Boating_on_Lake_Washington%2C_1950_%2843741664441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Boating_on_Lake_Washington,_1950_(43741664441).jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Les États-Unis sont l'un des grands pays victorieux de la Seconde Guerre mondiale avec l'URSS, mais leurs relations se dégradent rapidement en raison de différences idéologiques [S3]. En 1947, dans le cadre de la doctrine Truman, les États-Unis lancent le plan Marshall pour contrer l'expansion du communisme en Europe [S3]. Le 20 janvier 1949, le président Harry Truman prononce son discours sur l'état de l'Union [S3]. Les événements listés incluent la guerre de Corée, le débarquement de la baie des Cochons, la crise des fusées à Cuba, l'assassinat de Kennedy et le mouvement des droits civiques depuis 1954 [S3]. En 1964, les États-Unis font la guerre du Viêt Nam [S3]. Les extraits fournis reflètent uniquement ce point de vue [S3]."
+  },
+  {
+   "title": "De 1964 à 1980",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1964_à_1980",
+   "source": 4,
+   "summary": "Cette période de guerre froide est également marquée par l'abolition de la ségrégation raciale, l'assassinat de plusieurs grandes personnes s'étant battues pour les droits civiques (Robert Kennedy, Martin Luther King…). En 1969, avec le programme Apollo, le premier homme marche sur la Lune, et il s'agit d'un Américain, Neil Armstrong.",
+   "events": [
+    {
+     "year": 1964,
+     "label": "1964",
+     "text": "Henry Kissinger Guerre du Viêt Nam Montée du féminisme Civil Rights Act de 1964 posant les bases de l'intégration raciale Montée de la contreculture hippie Apollo 11 se pose sur la Lune Scandale du Watergate",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1969,
+     "label": "1969",
+     "text": "En 1969, avec le programme Apollo, le premier homme marche sur la Lune, et il s'agit d'un Américain, Neil Armstrong.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1970,
+     "label": "1970",
+     "text": "Dans les années 1970, le scandale du Watergate éclate, remettant en cause le gouvernement américain.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1975,
+     "label": "1975",
+     "text": "En 1975, le pays perd la guerre du Viêt Nam, qui leur aura été couteuse.",
+     "source": 4,
+     "corroborated": false
+    }
+   ],
+   "start": 1964,
+   "end": 1975,
+   "photos": [],
+   "narrative": "La période de 1964 à 1980 s'inscrit dans la guerre froide et voit l'abolition de la ségrégation raciale avec le Civil Rights Act de 1964 posant les bases de l'intégration raciale [S4]. Elle est également marquée par l'assassinat de grandes figures des droits civiques comme Robert Kennedy et Martin Luther King, ainsi que par la montée du féminisme et de la contreculture hippie [S4]. En 1969, dans le cadre du programme Apollo, Neil Armstrong devient le premier homme, un Américain, à marcher sur la Lune avec Apollo 11 [S4]. Dans les années 1970, le scandale du Watergate éclate et remet en cause le gouvernement américain [S4]. En 1975, le pays perd la guerre du Viêt Nam, qui lui a été coûteuse [S4]."
+  },
+  {
+   "title": "Depuis 1980",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#Depuis_1980",
+   "source": 5,
+   "summary": "Cette période est marquée par la chute de l'URSS en 1991. Les États-Unis se retrouvent comme seule hyperpuissance, dominant le monde, la culture américaine s'élargit à travers le monde, y compris dans les ex-pays communistes.",
+   "events": [
+    {
+     "year": 1990,
+     "label": "1990",
+     "text": "En 1990, les États-Unis se lancent dans la guerre du Golfe, pour libérer le Koweït.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1991,
+     "label": "1991",
+     "text": "Cette période est marquée par la chute de l'URSS en 1991.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 2001,
+     "label": "2001",
+     "text": "Le 11 septembre 2001, les États-Unis sont attaqués pour la première fois depuis la Seconde Guerre mondiale sur leur territoire.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 2007,
+     "label": "2007",
+     "text": "En 2007, une crise financière touche le pays puis l'Europe.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 2009,
+     "label": "2009",
+     "text": "L'arrivée au pouvoir d'un afro-américain (Barack Obama) en 2009 est également une première.",
+     "source": 5,
+     "corroborated": true
+    }
+   ],
+   "start": 1990,
+   "end": 2009,
+   "photos": [],
+   "narrative": "La période depuis 1980 est marquée par la chute de l'URSS en 1991 [S5]. Les États-Unis se retrouvent alors comme seule hyperpuissance, dominant le monde, tandis que la culture américaine s'élargit à travers le monde, y compris dans les ex-pays communistes [S5]. En 1990, les États-Unis se lancent dans la guerre du Golfe pour libérer le Koweït [S5]. Le 11 septembre 2001, ils sont attaqués pour la première fois depuis la Seconde Guerre mondiale sur leur territoire [S5]. Une crise financière touche le pays puis l'Europe en 2007 [S5], puis l'arrivée au pouvoir de Barack Obama en 2009, premier Afro-Américain à ce poste, constitue une première [S5]. Il convient de noter que les extraits fournis reflètent uniquement un point de vue centré sur les États-Unis."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire des États-Unis › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire des États-Unis › De 1918 à 1945",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1918_à_1945",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire des États-Unis › De 1945 à 1964",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1945_à_1964",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "Histoire des États-Unis › De 1964 à 1980",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1964_à_1980",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 5,
+   "title": "Histoire des États-Unis › Depuis 1980",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#Depuis_1980",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 6,
+   "title": "History of the United States",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_United_States",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": 1775,
+   "text": "Avant 1775, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  }
+ ],
+ "stats": {
+  "chapters": 5,
+  "events": 22,
+  "corroborated": 6,
+  "share": 0.27,
+  "span": [
+   "1775",
+   "2009"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "eea81c255d"
+}

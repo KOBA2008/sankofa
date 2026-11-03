@@ -1,0 +1,315 @@
+{
+ "country": {
+  "id": "ghana",
+  "name": "Ghana",
+  "flag": "🇬🇭",
+  "fr": "Histoire du Ghana",
+  "en": "History of Ghana",
+  "old_names": [
+   "Gold Coast",
+   "Côte-de-l'Or",
+   "Accra",
+   "Kumasi"
+  ],
+  "places": [
+   "cape-coast-castle"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+   "source": 1,
+   "summary": "Le Ghana est nommé d'après l'empire existant au Moyen Âge en Afrique de l'Ouest, l'Empire du Ghana. Cet Empire a lui-même été désigné en Europe et en Arabie, comme l'Empire du Ghana, d'après le titre de son empereur, le Ghana.",
+   "events": [
+    {
+     "year": 1076,
+     "label": "1076",
+     "text": "L'Empire semble avoir été brisé en 1076 à la suite de la conquête du général almoravide Abou Bakr ben Omar.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1550,
+     "label": "XVIe s.",
+     "text": "Une grande partie de la zone a été unifiée sous l'Empire ashanti au XVIe siècle.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1957,
+     "label": "1957",
+     "text": "Ce pays accède à l’indépendance dès 1957.",
+     "source": 1,
+     "corroborated": false
+    }
+   ],
+   "start": 1076,
+   "end": 1957,
+   "photos": [
+    {
+     "title": "AFR V3 D303 Cape Coast - Seaward View",
+     "year": 1892,
+     "license": "Public domain",
+     "image": "/media/places/cape-coast-castle/archive/92d8b517df5b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:AFR_V3_D303_Cape_Coast_-_Seaward_View.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "AFR V3 D288 Routes of Chief Explorers North and East of Cape Coast",
+     "year": 1892,
+     "license": "Public domain",
+     "image": "/media/places/cape-coast-castle/archive/d589f3b0e88a.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:AFR_V3_D288_Routes_of_Chief_Explorers_North_and_East_of_Cape_Coast.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The National Archives UK - CO 1069-34-26-1-001",
+     "year": 1890,
+     "license": "OGL v1.0",
+     "image": "/media/places/cape-coast-castle/archive/d45ac2fd7c91.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-34-26-1-001.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The National Archives UK - CO 1069-34-26-2-001",
+     "year": 1890,
+     "license": "OGL v1.0",
+     "image": "/media/places/cape-coast-castle/archive/a2736d66dc84.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-34-26-2-001.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Le Ghana est nommé d'après l'empire existant au Moyen Âge en Afrique de l'Ouest, l'Empire du Ghana [S1]. Cet Empire a lui-même été désigné en Europe et en Arabie, comme l'Empire du Ghana, d'après le titre de son empereur, le Ghana [S1]. L'Empire semble avoir été brisé en 1076 à la suite de la conquête du général almoravide Abou Bakr ben Omar [S1]. Une grande partie de la zone a été unifiée sous l'Empire ashanti au XVIe siècle [S1]. Ce pays accède à l'indépendance dès 1957 [S1]. L'ensemble de ces informations provient uniquement des extraits fournis qui se concentrent sur l'origine du nom et quelques repères chronologiques [S1]."
+  },
+  {
+   "title": "Préhistoire et Antiquité",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana#Préhistoire_et_Antiquité",
+   "source": 2,
+   "summary": "Des fouilles archéologiques attestent que la côte de l'actuel Ghana est habitée dès le début de l'âge du bronze, vers -4000 par des peuples pratiquant la pêche dans les lagons et rivières. Le centre du pays, au nord de la zone forestière, a pu être colonisé entre le IIe et le Ier millénaire av. J.-C. par des hommes venus du bassin du Niger.",
+   "events": [
+    {
+     "year": 1014,
+     "label": "1014",
+     "text": "Al-Bakri (1014-1094), compilateur andalou décrit le royaume à l'époque du roi Tankâminîn (Aoukar, Royaume du Ouagadou, Koumbi Saleh, Empire du Ghana).",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1050,
+     "label": "XIe s.",
+     "text": "Le royaume de Bono s'établit au XIe siècle à la lisière de la région forestière du Ghana, entre les petits États Akan du Sud et les royaumes mossi.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1650,
+     "label": "XVIIe s.",
+     "text": "Au XVIIe siècle apparaissent, sur la côte le royaume de Denkyira et un peu au nord le royaume Ashanti et son premier souverain Obiri Yeboa, dont le successeur Osei Tutu Ier remporte une série de victoires contre les états voisins.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1701,
+     "label": "1701",
+     "text": "À la suite de la bataille de Feyiase en 1701, la confédération Ashanti subjugue le royaume de Denkyira et ouvre la voie à l'établissement de l'hégémonie ashantie.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1827,
+     "label": "1827",
+     "text": "Le premier établissement universitaire de l'Afrique sous domination coloniale est fondé en 1827, le collège de Fourah Bay.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1901,
+     "label": "1901",
+     "text": "Les territoires sont confiés aux missionnaires de la Société des missions africaines.Les colonisateurs fixent dès 1901 les frontières du Ghana : le territoire Ashanti (Région Ashanti, Empire ashanti) et le nord du pays, annexé à partir de 1896, sont soumis et rattachés à la colonie.",
+     "source": 2,
+     "corroborated": true
+    }
+   ],
+   "start": 1014,
+   "end": 1901,
+   "photos": [
+    {
+     "title": "COLLECTIE TROPENMUSEUM Een Fante chief met zijn hofhouding te Cape Coast TMnr 60024037",
+     "year": 1870,
+     "license": "CC BY-SA 3.0",
+     "image": "/media/places/cape-coast-castle/archive/7dca74c93d46.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Een_Fante_chief_met_zijn_hofhouding_te_Cape_Coast_TMnr_60024037.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "COLLECTIE TROPENMUSEUM Fort te Cape Coast TMnr 60024065",
+     "year": 1870,
+     "license": "CC BY-SA 3.0",
+     "image": "/media/places/cape-coast-castle/archive/78d548f54601.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Fort_te_Cape_Coast_TMnr_60024065.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "COLLECTIE TROPENMUSEUM Gezicht op Commercial Street te Cape Coast TMnr 60024041",
+     "year": 1870,
+     "license": "CC BY-SA 3.0",
+     "image": "/media/places/cape-coast-castle/archive/5dc604edce47.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Gezicht_op_Commercial_Street_te_Cape_Coast_TMnr_60024041.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The National Archives UK - CO 1069-34-26-1-001",
+     "year": 1890,
+     "license": "OGL v1.0",
+     "image": "/media/places/cape-coast-castle/archive/d45ac2fd7c91.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-34-26-1-001.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Des fouilles attestent que la côte de l'actuel Ghana est habitée dès vers -4000 par des peuples pêcheurs, tandis que le centre du pays aurait été colonisé entre le IIe et le Ier millénaire av. J.-C. par des hommes venus du bassin du Niger [S2]. Al-Bakri décrit le royaume à l'époque du roi Tankâminîn [S2]. Au XIe siècle s'établit le royaume de Bono à la lisière forestière, entre États Akan du Sud et royaumes mossi [S2]. Au XVIIe siècle apparaissent Denkyira sur la côte et l'Ashanti avec Obiri Yeboa puis Osei Tutu Ier [S2]. En 1701, la bataille de Feyiase permet à la confédération ashanti de subjuguer Denkyira [S2]. Dès 1901, les colonisateurs fixent les frontières et rattachent l'Ashanti et le Nord à la colonie [S2]."
+  },
+  {
+   "title": "Vers la décolonisation (1939)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana#Vers_la_décolonisation_(1939)",
+   "source": 3,
+   "summary": "En 1939, lors de la Seconde Guerre mondiale, le Royaume-Uni s'engage contre l'Allemagne nazie. Les grandes villes britanniques sont bombardées et la flotte anglaise est gravement endommagée.",
+   "events": [
+    {
+     "year": 1939,
+     "label": "1939",
+     "text": "En 1939, lors de la Seconde Guerre mondiale, le Royaume-Uni s'engage contre l'Allemagne nazie.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "L’Inde, colonie gigantesque devient indépendante deux ans après la guerre, en 1947.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1951,
+     "label": "1951",
+     "text": "Un fait majeur dans le chemin vers l’indépendance a lieu en 1951, avec la victoire du Parti de la convention du peuple (Convention People's Party, CPP), fondé en 1949 par Kwame Nkrumah.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1953,
+     "label": "1953",
+     "text": "Le Ghana organise les 6e et 7e conférences panafricaines en 1953 à Kumasi et 1958 à Accra, cette dernière est également la première conférence des États Indépendants d'Afrique.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1956,
+     "label": "1956",
+     "text": "Les superpuissances américaine et soviétique sont opposées au colonialisme, et poussent la Grande-Bretagne à faire des réformes en 1956.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1957,
+     "label": "1957",
+     "text": "Aux élections législatives qui suivent, Kwame Nkrumah devient chef du gouvernement local, et, en collaboration avec les autorités britanniques, il obtient l’indépendance, proclamée en janvier 1957.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 1939,
+   "end": 1957,
+   "photos": [
+    {
+     "title": "Royal Air Force- West Africa Command, 1941-1945. CM3021",
+     "year": 1941,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Royal_Air_Force-_West_Africa_Command%2C_1941-1945._CM3021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Royal_Air_Force-_West_Africa_Command,_1941-1945._CM3021.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "British Overseas Airways Corporation and Qantas, 1940-1945. CH14063",
+     "year": 1940,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/British_Overseas_Airways_Corporation_and_Qantas%2C_1940-1945._CH14063.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:British_Overseas_Airways_Corporation_and_Qantas,_1940-1945._CH14063.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "British Overseas Airways Corporation and Qantas, 1940-1945. CH14063 (cropped)",
+     "year": 1940,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/British_Overseas_Airways_Corporation_and_Qantas%2C_1940-1945._CH14063_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:British_Overseas_Airways_Corporation_and_Qantas,_1940-1945._CH14063_(cropped).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "IWM-CH14063 Ensign 205210607",
+     "year": 1940,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/IWM-CH14063_Ensign_205210607.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:IWM-CH14063_Ensign_205210607.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "En 1939, lors de la Seconde Guerre mondiale, le Royaume-Uni s'engage contre l'Allemagne nazie [S3]. Ses grandes villes sont bombardées et sa flotte est gravement endommagée [S3]. Deux ans après la guerre, en 1947, l'Inde, colonie gigantesque, devient indépendante [S3]. Un fait majeur dans le chemin vers l'indépendance a lieu en 1951 avec la victoire du Parti de la convention du peuple, fondé en 1949 par Kwame Nkrumah [S3]. Opposées au colonialisme, les superpuissances américaine et soviétique poussent la Grande-Bretagne à faire des réformes en 1956 [S3]. Devenu chef du gouvernement local après les élections législatives, Kwame Nkrumah obtient en collaboration avec les autorités britanniques l'indépendance proclamée en janvier 1957 [S3]. Le Ghana organise les 6e et 7e conférences panafricaines en 1953 à Kumasi et 1958 à Accra, cette dernière étant la première conférence des États Indépendants d'Afrique [S3]."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire du Ghana › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire du Ghana › Préhistoire et Antiquité",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana#Préhistoire_et_Antiquité",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire du Ghana › Vers la décolonisation (1939)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana#Vers_la_décolonisation_(1939)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "History of Ghana",
+   "url": "https://en.wikipedia.org/wiki/History_of_Ghana",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": 1014,
+   "text": "Avant 1014, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  }
+ ],
+ "stats": {
+  "chapters": 3,
+  "events": 15,
+  "corroborated": 4,
+  "share": 0.27,
+  "span": [
+   "1014",
+   "1957"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "3c7f5b8ec9"
+}

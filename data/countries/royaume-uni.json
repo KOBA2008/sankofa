@@ -1,0 +1,334 @@
+{
+ "country": {
+  "id": "royaume-uni",
+  "name": "Royaume-Uni",
+  "flag": "🇬🇧",
+  "fr": "Histoire du Royaume-Uni",
+  "en": "History of the United Kingdom",
+  "old_names": [
+   "London",
+   "Londres"
+  ],
+  "places": [
+   "london-tower-bridge"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Royaume-Uni",
+   "source": 1,
+   "summary": "L'histoire du Royaume-Uni, État souverain englobant les quatre nations constitutives que sont l’Angleterre, l’Écosse, le pays de Galles et l’Irlande du Nord, est indissociable de celle du Parlement du Royaume-Uni. Elle débute en 1707 avec les actes d'Union qui opèrent une union politique du royaume d'Angleterre (incluant le pays de Galles) et du royaume d'Écosse et marquent la naissance du royaume de Grande-Bretagne.",
+   "events": [
+    {
+     "year": 1550,
+     "label": "XVIe s.",
+     "text": "À partir de la fin du XVIe siècle, l'Angleterre établit des comptoirs commerciaux puis des colonies d'outre-mer pour finalement former un empire composé de nombreux dominions, colonies, protectorats, mandats et autres territoires gouvernés ou administrés par le Royaume-Uni.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1639,
+     "label": "1639",
+     "text": "Néanmoins, pendant la période des Guerres des Trois Royaumes, les rois anglais (1639-1651) consacrent beaucoup de temps à établir la primauté de l'Angleterre sur les deux autres royaumes de la monarchie Stuart.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1642,
+     "label": "1642",
+     "text": "L'adhésion de Charles à la doctrine de la monarchie de droit divin attise une bataille de suprématie entre le Roi et le Parlement, qui culmine avec la guerre civile anglaise (1642-1651).",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1756,
+     "label": "1756",
+     "text": "Une série de guerres avec la France place l'Amérique du Nord sous le contrôle du Royaume-Uni à l'issue de la guerre de Sept Ans (1756-1763), juste avant la perte des Treize colonies à la suite de la guerre d'indépendance des États-Unis (1775-1783).",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1921,
+     "label": "1921",
+     "text": "En 1921, à l'issue de la guerre d'indépendance irlandaise, l'État libre d'Irlande obtient son indépendance et se sépare de l'Irlande du Nord, qui demeure une partie du Royaume-Uni.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "De plus, dans le cadre de la décolonisation, la plupart des territoires et colonies, à commencer par l'Inde en 1947, obtiennent leur indépendance, et l'Empire entre en déclin.",
+     "source": 1,
+     "corroborated": true
+    }
+   ],
+   "start": 1550,
+   "end": 1947,
+   "photos": [
+    {
+     "title": "Tower Bridge under construction from History of the Tower Bridge, 1894",
+     "year": 1894,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/5969b48f8562.png",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_under_construction_from_History_of_the_Tower_Bridge,_1894.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op Tower Bridge in Londen, RP-F-F20143",
+     "year": 1894,
+     "license": "CC0",
+     "image": "/media/places/london-tower-bridge/archive/e57020e7f62b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Tower_Bridge_in_Londen,_RP-F-F20143.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Opening of Tower Bridge RMG PW0947",
+     "year": 1894,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/408b412c4a8c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Opening_of_Tower_Bridge_RMG_PW0947.tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tower Bridge in aanbouw in Londen, RP-F-F16346",
+     "year": 1894,
+     "license": "CC0",
+     "image": "/media/places/london-tower-bridge/archive/e4e6ecef4e65.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_in_aanbouw_in_Londen,_RP-F-F16346.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'histoire du Royaume-Uni, englobant l'Angleterre, l'Écosse, le pays de Galles et l'Irlande du Nord, est indissociable de celle de son Parlement et débute en 1707 avec les actes d'Union entre le royaume d'Angleterre incluant le pays de Galles et le royaume d'Écosse, donnant naissance au royaume de Grande-Bretagne [S1]. Les extraits fournis reflètent un point de vue centré sur le Royaume-Uni et son expansion impériale. À partir de la fin du XVIe siècle, l'Angleterre établit des comptoirs puis des colonies formant un empire de dominions et protectorats [S1]. Pendant les Guerres des Trois Royaumes de 1639-1651, les rois anglais cherchent la primauté sur les autres royaumes Stuart et l'adhésion de Charles à la monarchie de droit divin provoque la guerre civile de 1642-1651 [S1]. Après la guerre de Sept Ans de 1756-1763 l'Amérique du Nord passe sous contrôle britannique avant la perte des Treize colonies en 1775-1783 [S1]. En 1921 l'État libre d'Irlande devient indépendant tandis que l'Irlande du Nord reste britannique, puis à partir de l'Inde en 1947 la décolonisation entraîne le déclin de l'Empire [S1]."
+  },
+  {
+   "title": "La Grande-Bretagne au XVIIIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Royaume-Uni#La_Grande-Bretagne_au_XVIIIe_siècle",
+   "source": 2,
+   "summary": "Pendant le XVIIIe siècle, la Grande-Bretagne émerge comme une grande puissance en Europe et dans le monde entier. Le siècle est marqué par une rivalité avec la France, qui se prolonge à leurs colonies outre-mer en Amérique du Nord, aux Antilles, et en Inde.",
+   "events": [
+    {
+     "year": 1775,
+     "label": "1775",
+     "text": "En 1775, 12 ans après la défaite de la France en Amérique du Nord, ses treize colonies lancent une guerre d'indépendance.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1793,
+     "label": "1793",
+     "text": "La Révolution française préoccupe le gouvernement britannique, qui déclare la guerre contre la nouvelle République française en 1793.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1850,
+     "label": "XIXe s.",
+     "text": "La guerre continuera au XIXe siècle (guerres napoléoniennes).",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1919,
+     "label": "1919",
+     "text": "Cela augmente le nombre des partisans de l'insurrection en Irlande et la déclaration d'indépendance est ratifiée par le Dáil Éireann, le parlement de la république auto-déclarée en 1919.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1921,
+     "label": "1921",
+     "text": "Le traité anglo-irlandais de 1921, négocié entre les représentants de Grande-Bretagne et d'Irlande et approuvé par trois parlements, établit l'État libre d'Irlande qui quitte le Commonwealth britannique et devient une république après la Seconde Guerre mondiale, sans lien constitutionnel avec le royaume britannique.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "L'indépendance des Indes et du Pakistan en 1947 parachèvent la décolonisation de l'Empire.",
+     "source": 2,
+     "corroborated": true
+    }
+   ],
+   "start": 1775,
+   "end": 1947,
+   "photos": [
+    {
+     "title": "Tower Bridge under construction from History of the Tower Bridge, 1894",
+     "year": 1894,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/5969b48f8562.png",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_under_construction_from_History_of_the_Tower_Bridge,_1894.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op Tower Bridge in Londen, RP-F-F20143",
+     "year": 1894,
+     "license": "CC0",
+     "image": "/media/places/london-tower-bridge/archive/e57020e7f62b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Tower_Bridge_in_Londen,_RP-F-F20143.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Opening of Tower Bridge RMG PW0947",
+     "year": 1894,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/408b412c4a8c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Opening_of_Tower_Bridge_RMG_PW0947.tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tower Bridge in aanbouw in Londen, RP-F-F16346",
+     "year": 1894,
+     "license": "CC0",
+     "image": "/media/places/london-tower-bridge/archive/e4e6ecef4e65.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_in_aanbouw_in_Londen,_RP-F-F16346.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Pendant le XVIIIe siècle, la Grande-Bretagne émerge comme une grande puissance en Europe et dans le monde entier [S2]. Le siècle est marqué par une rivalité avec la France, qui se prolonge à leurs colonies outre-mer en Amérique du Nord, aux Antilles, et en Inde [S2]. En 1775, 12 ans après la défaite de la France en Amérique du Nord, ses treize colonies lancent une guerre d'indépendance [S2]. La Révolution française préoccupe le gouvernement britannique, qui déclare la guerre contre la nouvelle République française en 1793 [S2]. La guerre continuera au XIXe siècle avec les guerres napoléoniennes [S2]. Les extraits fournis reflètent uniquement un point de vue centré sur la Grande-Bretagne."
+  },
+  {
+   "title": "Époque victorienne",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Royaume-Uni#Époque_victorienne",
+   "source": 3,
+   "summary": "Son long règne (1837-1901) voit le Royaume-Uni à son apogée en termes de puissance économique et politique. Le Royaume-Uni entre en guerre le 4 août 1914.",
+   "events": [
+    {
+     "year": 1850,
+     "label": "XIXe s.",
+     "text": "Lié à la France par l'Entente cordiale depuis le XIXe siècle, le Royaume-Uni était membre de la Triple Entente, un accord diplomatique l'unissant depuis 1907 à la Russie (elle-même alliée à la France), conclu en réaction aux rodomontades des puissances de l'Axe : Empire allemand, Autriche-Hongrie et Empire ottoman.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1914,
+     "label": "1914",
+     "text": "Le Royaume-Uni entre en guerre le 4 août 1914.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1916,
+     "label": "1916",
+     "text": "La Royal Navy affronte la marine impériale allemande (Hochseeflotte) lors de la seule grande bataille navale de la guerre, la Bataille du Jutland en 1916.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1922,
+     "label": "1922",
+     "text": "Ces trois nations, s'avisant qu'une course aux armements pourrait avoir des conséquences funestes, négocient une limitation des armes à la conférence navale de Washington : ces pourparlers débouchent sur le traité naval de Washington, signé en février 1922 dans lequel la France et l'Italie furent également associés, suivi en 1930 du premier traité naval de Londres.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1948,
+     "label": "1948",
+     "text": "La première vague de décolonisation asiatique prend fin en 1948 avec la proclamation d'indépendance de Ceylan et de la Birmanie[source insuffisante].",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1974,
+     "label": "1974",
+     "text": "Toutefois, le pays est profondément divisé sur le bien-fondé de cette adhésion, d'autant qu'aucun référendum pour approuver l'entrée dans la CEE n'a eu lieu au Royaume-Uni Harold Wilson, arrivé au gouvernement en 1974, forme un gouvernement minoritaire en attendant les élections d'octobre, où il n'obtiendra qu'une mince majorité.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 1850,
+   "end": 1974,
+   "photos": [
+    {
+     "title": "Frederick Goff - Thames from Tower Bridge - circa 1900 - Goff-98506",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/949173542729.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Frederick_Goff_-_Thames_from_Tower_Bridge_-_circa_1900_-_Goff-98506.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tower Bridge circa 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/2cd546af19c0.png",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_circa_1900.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tower Bridge under construction from History of the Tower Bridge, 1894",
+     "year": 1894,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/5969b48f8562.png",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_under_construction_from_History_of_the_Tower_Bridge,_1894.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op Tower Bridge in Londen, RP-F-F20143",
+     "year": 1894,
+     "license": "CC0",
+     "image": "/media/places/london-tower-bridge/archive/e57020e7f62b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Tower_Bridge_in_Londen,_RP-F-F20143.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Selon les extraits fournis, le long règne victorien de 1837 à 1901 voit le Royaume-Uni à son apogée économique et politique [S3]. Lié à la France par l'Entente cordiale depuis le XIXe siècle, il est membre de la Triple Entente avec la Russie depuis 1907, en réaction aux puissances de l'Axe que sont l'Empire allemand, l'Autriche-Hongrie et l'Empire ottoman [S3]. Il entre en guerre le 4 août 1914 [S3]. La Royal Navy y affronte la Hochseeflotte lors de la bataille du Jutland en 1916 [S3]. Les extraits évoquent ensuite les traités de limitation des armements de Washington en 1922 et de Londres en 1930 [S3], la décolonisation de Ceylan et de la Birmanie en 1948 [S3] et les divisions sur l'adhésion à la CEE autour du gouvernement Wilson en 1974 [S3]."
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire du Royaume-Uni › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Royaume-Uni",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire du Royaume-Uni › La Grande-Bretagne au XVIIIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Royaume-Uni#La_Grande-Bretagne_au_XVIIIe_siècle",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire du Royaume-Uni › Époque victorienne",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Royaume-Uni#Époque_victorienne",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "History of the United Kingdom",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_United_Kingdom",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": null,
+   "to": 1550,
+   "text": "Avant 1550, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  }
+ ],
+ "stats": {
+  "chapters": 3,
+  "events": 18,
+  "corroborated": 5,
+  "share": 0.28,
+  "span": [
+   "1550",
+   "1974"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "b75bc5b166"
+}

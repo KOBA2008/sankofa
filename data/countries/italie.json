@@ -1,0 +1,685 @@
+{
+ "country": {
+  "id": "italie",
+  "name": "Italie",
+  "flag": "🇮🇹",
+  "fr": "Histoire de l'Italie",
+  "en": "History of Italy",
+  "old_names": [
+   "Roma",
+   "Rome",
+   "Napoli",
+   "Firenze"
+  ],
+  "places": [
+   "rome-colisee"
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie",
+   "source": 1,
+   "summary": "L'histoire de l’Italie s’inscrit au carrefour de l’Europe et du bassin méditerranéen, dont elle fut l’un des cœurs les plus rayonnants. Peuplée dès la Préhistoire, la péninsule italienne connaît une histoire d’une richesse exceptionnelle.",
+   "events": [
+    {
+     "year": 1550,
+     "label": "XVIe s.",
+     "text": "Aux XVe et XVIe siècles, elle s'est transformée en centre culturel de l'Europe en donnant naissance à la Renaissance.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1859,
+     "label": "1859",
+     "text": "Entre 1859 et 1870, la péninsule italienne fut enfin unifiée sous la houlette du royaume de Sardaigne, dans un contexte nationaliste et après une série de guerres contre l’Autriche.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1861,
+     "label": "1861",
+     "text": "L’histoire contemporaine de l’État italien débute en 1861, avec le Risorgimento.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1915,
+     "label": "1915",
+     "text": "Ses velléités territoriales sur le Vieux Continent ainsi que sa volonté de trouver sa place au sein du concert des blocs politiques et des alliances sécuritaires l’amenèrent finalement à participer à partir de 1915 à la Première Guerre mondiale au côté de la Triple-Entente.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1936,
+     "label": "1936",
+     "text": "Son rapprochement avec l'Allemagne nazie au sein d'un axe Rome-Berlin à partir de 1936 allait la précipiter dans la Seconde Guerre mondiale en 1940.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1946,
+     "label": "1946",
+     "text": "La république fut instaurée en juin 1946, conjuguée à une période historique de renouveau économique, politique, militaire et sportif, ainsi que de réaffirmation de l'Italie comme grande puissance mondiale.",
+     "source": 1,
+     "corroborated": false
+    }
+   ],
+   "start": 1550,
+   "end": 1946,
+   "photos": [
+    {
+     "title": "Colosseum in Rome (titel op object) P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object), RP-F-2007-358-56",
+     "year": 1893,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/e8450db14816.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome_(titel_op_object)_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_(A.D._dell_72_all%27_80)._(titel_op_object),_RP-F-2007-358-56.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op het Colosseum in Rome 3635. ROMA Colosseo (titel op object), RP-F-00-6932",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/ca1b4c8e6baf.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Colosseum_in_Rome_3635._ROMA_Colosseo_(titel_op_object),_RP-F-00-6932.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht in het interieur van het Colosseum, Rome 3636. Roma Interno del Colosseo (titel op object), RP-F-00-6950",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/f3e15ed496a4.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_in_het_interieur_van_het_Colosseum,_Rome_3636._Roma_Interno_del_Colosseo_(titel_op_object),_RP-F-00-6950.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Colosseum and Meta Sudans, Rome, Italy, 1890s",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/rome-colisee/archive/5b95504e9926.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_and_Meta_Sudans,_Rome,_Italy,_1890s.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'histoire de l'Italie, peuplée dès la Préhistoire, s'inscrit au carrefour de l'Europe et du bassin méditerranéen [S1]. Aux XVe et XVIe siècles, elle est devenue centre culturel de l'Europe en donnant naissance à la Renaissance [S1]. Entre 1859 et 1870 elle fut unifiée sous le royaume de Sardaigne après des guerres contre l'Autriche, et l'histoire contemporaine débute en 1861 avec le Risorgimento [S1]. Ses velléités territoriales l'amenèrent à participer à partir de 1915 à la Première Guerre mondiale aux côtés de la Triple-Entente [S1]. Rapprochée de l'Allemagne nazie dans l'axe Rome-Berlin à partir de 1936, elle fut précipitée dans la Seconde Guerre mondiale en 1940, puis la république fut instaurée en juin 1946 avec un renouveau la réaffirmant comme grande puissance mondiale [S1]."
+  },
+  {
+   "title": "Préhistoire (1,5 million d'années)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Préhistoire_(1,5_million_d'années)",
+   "source": 2,
+   "summary": "Au temps de la dernière période glaciaire la péninsule italienne différait de sa forme actuelle. L'île d'Elbe et la Sicile étaient reliées au continent alors que la Corse et la Sardaigne formaient une seule et même île.",
+   "events": [
+    {
+     "year": 2011,
+     "label": "2011",
+     "text": "En novembre 2011 les tests conduits à « Oxford Radiocarbon » l'unité d'accélérateur en Angleterre sur ce qu'on pensait être des dents de lait de Néandertal, qui avaient été déterrées en 1964 sur le site de la grotte de Cavallo (dans les Pouilles), ont été identifiées comme les restes d'humains modernes les plus vieux découverts en Europe, datant de 45 000 ans.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": 2011,
+   "end": 2011,
+   "photos": [],
+   "narrative": "La préhistoire de l'Italie s'étend sur 1,5 million d'années [S2]. Au temps de la dernière période glaciaire, la péninsule italienne différait de sa forme actuelle, l'île d'Elbe et la Sicile étant reliées au continent tandis que la Corse et la Sardaigne formaient une seule île [S2]. En novembre 2011, des tests conduits par l'unité d'accélérateur « Oxford Radiocarbon » en Angleterre sur ce qu'on pensait être des dents de lait de Néandertal, déterrées en 1964 sur le site de la grotte de Cavallo dans les Pouilles, ont permis d'identifier les restes d'humains modernes les plus vieux découverts en Europe, datant de 45 000 ans [S2]."
+  },
+  {
+   "title": "Protohistoire (Xe millénaire av. J.-C.)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Protohistoire_(Xe_millénaire_av._J.-C.)",
+   "source": 3,
+   "summary": "On peut faire commencer la Protohistoire à différentes époques suivant les critères considérés mais son début en Italie est généralement associé à la fin de la période glaciaire et elle comporte quatre périodes. La première débute avec le Mésolithique qui commence à la fin de la période glaciaire aux alentours de 10500 av. J.-C. et finit avec la révolution néolithique vers le VIIe millénaire av. J.-C. qui est la seconde partie de cette Protohistoire.",
+   "events": [
+    {
+     "year": -6000,
+     "label": "6000 av. J.-C.",
+     "text": "À partir de 6000-5900 av. J.-C., la culture de la céramique imprimée apparaît dans des sites proches des côtes en Italie du sud et en Sicile et dans le sud de la Dalmatie.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": -2300,
+     "label": "2300 av. J.-C.",
+     "text": "L'âge du bronze débute vers 2300 av. J.-C. en Italie (région géographique) arrivant du Proche-Orient par le Sud de l'Italie.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": -1150,
+     "label": "XIIe s. av. J.-C.",
+     "text": "La dernière partie est l'Âge du bronze, un alliage de cuivre et d'étain qui commence lui à la fin du IIIe millénaire av. J.-C. et finit avec l'âge du fer qui débute vers le XIIe siècle av. J.-C., une période dans laquelle commencent à apparaître les premiers documents écrits.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": -700,
+     "label": "700 av. J.-C.",
+     "text": "Le cuivre commence à être extrait à partir du milieu du IVe millénaire av. J.-C. à Cosenza en Calabre, mais c'est en Ligurie que l'on a retrouvé les plus anciennes mines de cuivre du bassin méditerranéen occidental avec les mines de Libiola et de Monte Loreto datées de 3 700 av. J.-C..",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": -500,
+     "label": "500 av. J.-C.",
+     "text": "L'âge du cuivre arrive probablement d'Asie mineure via les Balkans vers le début du IVe millénaire av. J.-C. On constate l’apparition de poignards en cuivre ainsi que des lames de haches en cuivre comme celle retrouvée sur la momie d'Ötzi qui démontre que l'utilisation du cuivre en Italie (région géographique) était déjà répandue et qu'il était travaillé avec grande précision en 3 500 av. J.-C..",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 2000,
+     "label": "2000",
+     "text": "À l'aube de l'âge du bronze, d'importants centres urbains émergent dans la péninsule comme Laterza dans les Pouilles ou Poggiomarino en Campanie qui est l'une des plus grandes métropoles du bronze ancien, construite sur un réseau d'îles artificielles, découverte dans les années 2000.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": -6000,
+   "end": 2000,
+   "photos": [
+    {
+     "title": "Colosseum in Rome (titel op object) P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object), RP-F-2007-358-56",
+     "year": 1893,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/e8450db14816.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome_(titel_op_object)_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_(A.D._dell_72_all%27_80)._(titel_op_object),_RP-F-2007-358-56.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op het Colosseum in Rome 3635. ROMA Colosseo (titel op object), RP-F-00-6932",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/ca1b4c8e6baf.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Colosseum_in_Rome_3635._ROMA_Colosseo_(titel_op_object),_RP-F-00-6932.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht in het interieur van het Colosseum, Rome 3636. Roma Interno del Colosseo (titel op object), RP-F-00-6950",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/f3e15ed496a4.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_in_het_interieur_van_het_Colosseum,_Rome_3636._Roma_Interno_del_Colosseo_(titel_op_object),_RP-F-00-6950.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Colosseum and Meta Sudans, Rome, Italy, 1890s",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/rome-colisee/archive/5b95504e9926.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_and_Meta_Sudans,_Rome,_Italy,_1890s.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "En Italie la Protohistoire débute généralement à la fin de la période glaciaire et comporte quatre périodes, la première débutant avec le Mésolithique vers 10500 av. J.-C. jusqu'à la révolution néolithique vers le VIIe millénaire av. J.-C. [S3]. À partir de 6000-5900 av. J.-C. la culture de la céramique imprimée apparaît dans des sites proches des côtes en Italie du sud et en Sicile et dans le sud de la Dalmatie [S3]. L'âge du cuivre arrive probablement d'Asie mineure via les Balkans vers le début du IVe millénaire av. J.-C., avec une extraction à Cosenza dès le milieu du IVe millénaire mais les plus anciennes mines du bassin méditerranéen occidental à Libiola et Monte Loreto en Ligurie datées de 3700 av. J.-C. [S3]. L'usage du cuivre est déjà répandu et précis vers 3500 av. J.-C. comme le montre la lame de hache d'Ötzi [S3]. L'âge du bronze, alliage de cuivre et d'étain, débute vers 2300 av. J.-C. en arrivant du Proche-Orient par le Sud et finit avec l'âge du fer vers le XIIe siècle av. J.-C. où apparaissent les premiers documents écrits, tandis qu'à son aube émergent Laterza et Poggiomarino sur îles artificielles découverte dans les années 2000 [S3]."
+  },
+  {
+   "title": "Peuples italiques",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Peuples_italiques",
+   "source": 4,
+   "summary": "Les sources historiques les plus certaines sur la période archaïque précédant la fondation de Rome sont celles relatives à la Grande-Grèce, qui traite des établissements grecs dans le sud de la péninsule italienne entre les VIIIe siècle av. J.-C. et VIIe siècle av. J.-C. Les données sur les autres peuples italiques restent fragmentaires. En effet, malgré d’innombrables vestiges, il subsiste peu d’écrits.",
+   "events": [
+    {
+     "year": -750,
+     "label": "VIIIe s. av. J.-C.",
+     "text": "Les sources historiques les plus certaines sur la période archaïque précédant la fondation de Rome sont celles relatives à la Grande-Grèce, qui traite des établissements grecs dans le sud de la péninsule italienne entre les VIIIe siècle av. J.-C. et VIIe siècle av. J.-C. Les données sur les autres peuples italiques restent fragmentaires.",
+     "source": 4,
+     "corroborated": true
+    }
+   ],
+   "start": -750,
+   "end": -750,
+   "photos": [],
+   "narrative": "Pour la période archaïque précédant la fondation de Rome, les sources historiques les plus certaines dont nous disposons sont celles relatives à la Grande-Grèce [S4]. Celles-ci traitent plus précisément des établissements grecs dans le sud de la péninsule italienne entre les VIIIe siècle av. J.-C. et VIIe siècle av. J.-C. [S4]. En revanche, les données disponibles sur les autres peuples italiques restent fragmentaires [S4]. En effet, malgré la présence d’innombrables vestiges, il subsiste peu d’écrits à leur sujet [S4]. Il convient de noter que les extraits fournis reflètent ainsi essentiellement un point de vue centré sur la Grande-Grèce et ses établissements grecs, laissant dans l’ombre les autres peuples italiques [S4]."
+  },
+  {
+   "title": "Rome et la civilisation latine (VIIIe siècle av. J.-C.)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Rome_et_la_civilisation_latine_(VIIIe_siècle_av._J.-C.)",
+   "source": 5,
+   "summary": "La fondation de Rome est due, selon la mythologie romaine, à Romulus et Rémus au milieu du VIIIe siècle av. J.-C. Rome est née en plein cœur du territoire des Latins et devient le fer de lance de leur civilisation. Rome connaît une première phase d'expansion sous le gouvernement des rois de Rome, qui sont également les fondateurs symboliques de nombreuses institutions romaines.",
+   "events": [
+    {
+     "year": -750,
+     "label": "VIIIe s. av. J.-C.",
+     "text": "La fondation de Rome est due, selon la mythologie romaine, à Romulus et Rémus au milieu du VIIIe siècle av. J.-C. Rome est née en plein cœur du territoire des Latins et devient le fer de lance de leur civilisation.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": -550,
+     "label": "VIe s. av. J.-C.",
+     "text": "Au VIe siècle av. J.-C. Rome devient une république et commence le processus de l'unification de la péninsule.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": -50,
+     "label": "Ie s. av. J.-C.",
+     "text": "Au Ier siècle av. J.-C., Rome domine tout le bassin méditerranéen, mais à la suite de conflits internes, la République se transforme en Empire.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 350,
+     "label": "IVe s.",
+     "text": "À la fin du IVe siècle, l’Empire est confronté à une importante crise économique et sociale, et commence au même moment le début d'une longue série de migrations « barbares » avec les Wisigoths, les Huns les Vandales et les Ostrogoths.",
+     "source": 5,
+     "corroborated": false
+    }
+   ],
+   "start": -750,
+   "end": 350,
+   "photos": [],
+   "narrative": "Selon la mythologie romaine, la fondation de Rome est due à Romulus et Rémus au milieu du VIIIe siècle av. J.-C., en plein cœur du territoire des Latins où elle devient le fer de lance de leur civilisation [S5]. Elle connaît une première phase d'expansion sous le gouvernement des rois de Rome, qui sont également les fondateurs symboliques de nombreuses institutions romaines [S5]. Au VIe siècle av. J.-C., Rome devient une république et commence le processus de l'unification de la péninsule [S5]. Au Ier siècle av. J.-C., elle domine tout le bassin méditerranéen, mais à la suite de conflits internes, la République se transforme en Empire [S5]. À la fin du IVe siècle, l'Empire est confronté à une importante crise économique et sociale et au début d'une longue série de migrations « barbares » avec les Wisigoths, les Huns, les Vandales et les Ostrogoths [S5]."
+  },
+  {
+   "title": "Moyen Âge",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Moyen_Âge",
+   "source": 6,
+   "summary": "Après la perte de son unité politique, du fait de la disparition de l'Empire romain au Ve siècle, la péninsule voit la poursuite des migrations et des luttes internes, qui atteignent leur paroxysme avec la conquête du pays par les Ostrogoths (493-553). En 535, avec Justinien, commence la reconquête de la péninsule italienne par l'Empire romain d'Orient, qui se termine seulement en 553 par la bataille du Mont Lactarius.",
+   "events": [
+    {
+     "year": 450,
+     "label": "Ve s.",
+     "text": "Après la perte de son unité politique, du fait de la disparition de l'Empire romain au Ve siècle, la péninsule voit la poursuite des migrations et des luttes internes, qui atteignent leur paroxysme avec la conquête du pays par les Ostrogoths (493-553).",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 535,
+     "label": "535",
+     "text": "En 535, avec Justinien, commence la reconquête de la péninsule italienne par l'Empire romain d'Orient, qui se termine seulement en 553 par la bataille du Mont Lactarius.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 750,
+     "label": "VIIIe s.",
+     "text": "Dans la deuxième moitié du VIIIe siècle, Charlemagne annexe le royaume lombard d'Italie et, avec le soutien du pape, réduit de manière importante l'Italie byzantine, qui se maintient néanmoins dans le Sud de la péninsule jusqu'au XIe siècle.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 950,
+     "label": "Xe s.",
+     "text": "Au centre nord de l'Italie, on assiste à une disparition progressive de la féodalité et à l'émergence de villes libres et républiques dès le Xe siècle, qui acquièrent leurs indépendances, comme la république de Pise, la république de Gênes et par la suite la république de Raguse.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1050,
+     "label": "XIe s.",
+     "text": "Dans le Sud, au XIe siècle, l'invasion des Normands qui remplace l'émirat de Sicile réussit à créer un royaume moderne, efficace et fortement centralisé grâce à un étroit contrôle du territoire qui passe aux dynasties des Angevins et des Aragonais à partir du XIIIe siècle.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1150,
+     "label": "XIIe s.",
+     "text": "Beaucoup d'autres indépendances naissent comme Amalfi ou encore Ancône, qui se détache, à la fin du XIIe siècle de l'influence du Saint-Empire romain germanique, pour former la république d'Ancône, une république maritime à l'intérieur de la marche d'Ancône.",
+     "source": 6,
+     "corroborated": false
+    }
+   ],
+   "start": 450,
+   "end": 1150,
+   "photos": [],
+   "narrative": "Après la perte de son unité politique due à la disparition de l'Empire romain au Ve siècle, la péninsule connaît migrations et luttes internes culminant avec la conquête ostrogothique entre 493 et 553 [S6]. En 535, Justinien lance la reconquête par l'Empire romain d'Orient, achevée en 553 à la bataille du Mont Lactarius [S6]. Dans la seconde moitié du VIIIe siècle, Charlemagne annexe le royaume lombard et réduit l'Italie byzantine, qui se maintient au Sud jusqu'au XIe siècle [S6]. Au centre-nord, dès le Xe siècle, la féodalité recule au profit de villes libres comme Pise et Gênes [S6]. Au Sud, l'invasion normande au XIe siècle remplace l'émirat de Sicile et crée un royaume centralisé passé aux Angevins et Aragonais dès le XIIIe siècle [S6]."
+  },
+  {
+   "title": "Du bas Moyen Âge à la Renaissance",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Du_bas_Moyen_Âge_à_la_Renaissance",
+   "source": 7,
+   "summary": "Pour défendre leur autonomie de l'Empire germanique du nord, des États pontificaux au centre et des invasions arabes au sud, les communes commencent à créer des ligues qui ne sont jamais suffisamment fortes politiquement pour pouvoir s'opposer à l'influence papale ou féodale à cause des fortes rivalités internes. Certaines villes se démarquent, comme Milan (important centre urbain du royaume d'Italie et donc de l'Empire) pour sa lutte contre le pouvoir impérial, Forlì et Pérouse (villes appartenant aux États de l'É",
+   "events": [
+    {
+     "year": 1150,
+     "label": "XIIe s.",
+     "text": "La longueur des affrontements entre l'Empire et l'Église, la naissance d'une bourgeoisie mercantile dont les intérêts s'opposent à l'aristocratie rurale, la lutte des classes dirigeantes urbaines pour acquérir une autonomie plus grande, conduit la société italienne à donner naissance à une série de courants souvent opposés, particulièrement connus du XIIe siècle au XIVe siècle, les factions des guelfes et gibelins.",
+     "source": 7,
+     "corroborated": false
+    }
+   ],
+   "start": 1150,
+   "end": 1150,
+   "photos": [],
+   "narrative": "Entre le bas Moyen Âge et la Renaissance, les communes italiennes cherchent à défendre leur autonomie face à l'Empire germanique au nord, aux États pontificaux au centre et aux invasions arabes au sud [S7]. Elles créent pour cela des ligues, qui restent politiquement trop faibles face à l'influence papale ou féodale en raison de fortes rivalités internes [S7]. Certaines villes se distinguent, comme Milan, important centre urbain du royaume d'Italie et donc de l'Empire, pour sa lutte contre le pouvoir impérial [S7]. Du XIIe au XIVe siècle, la longueur des affrontements entre l'Empire et l'Église, l'émergence d'une bourgeoisie mercantile opposée à l'aristocratie rurale et la quête d'autonomie des élites urbaines font naître des courants opposés, notamment les factions des guelfes et des gibelins [S7]."
+  },
+  {
+   "title": "Le XVIIIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Le_XVIIIe_siècle",
+   "source": 8,
+   "summary": "Vers les années 1730, on assiste à une timide reprise de l'économie italienne qui se consolide surtout dans le sud. L'illuminisme, né en Angleterre, se diffuse en Italie par l'intermédiaire des philosophes français et apporte ses premières influences au nord (Parme avec Guillaume Du Tillot) comme à Naples et en Sicile, où règne le futur Charles III d'Espagne.",
+   "events": [
+    {
+     "year": 1748,
+     "label": "1748",
+     "text": "À la suite de la guerre de Succession d'Autriche, le traité d'Aix-la-Chapelle en 1748 donne à l’infant Don Felipe, second fils de Philippe V d'Espagne et d’Élisabeth Farnèse, les duchés de Parme, de Plaisance et de Guastalla.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1755,
+     "label": "1755",
+     "text": "En novembre 1755, Pascal Paoli a proclamé la Corse nation souveraine et indépendante de la république de Gênes avec pour capitale Corte et comme langues officielles le corse ainsi que l'italien utilisé également dans toutes les autres républiques et royaumes italiens.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1767,
+     "label": "1767",
+     "text": "Le royaume de France met fin à cette république et envahit la Corse en 1767 après s'être assuré de la neutralité de la république de Gênes.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1768,
+     "label": "1768",
+     "text": "Dans un premier temps les forces armées de la jeune république de Paoli repoussent les envahisseurs, remportant notamment la bataille de Borgo en octobre 1768.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1792,
+     "label": "1792",
+     "text": "La Savoie est annexée en 1792, puis après la campagne d'Italie en 1796-1797 les troupes de la Convention occupent la république de Gênes et le comté de Nice, abolissent le servage, changent les frontières et instituent des républiques sœurs, privant les aristocrates de leurs pouvoirs politiques, ce qui est favorablement accueilli par la bourgeoisie (voir chute de la république de Gênes).",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1805,
+     "label": "1805",
+     "text": "Napoléon Bonaparte qui s'est fait proclamer empereur des Français par le Sénat et couronner par Pie VII, transforme la République italienne en royaume d'Italie, se nommant roi d'Italie le 17 mars 1805, le couronnement ayant lieu le 26 mai 1805 dans le dôme de Milan.",
+     "source": 8,
+     "corroborated": false
+    }
+   ],
+   "start": 1748,
+   "end": 1805,
+   "photos": [],
+   "narrative": "Vers les années 1730, l'économie italienne connaît une timide reprise qui se consolide surtout dans le sud [S8]. L'illuminisme, né en Angleterre et diffusé par les philosophes français, influence le nord à Parme avec Guillaume Du Tillot comme Naples et la Sicile où règne le futur Charles III d'Espagne [S8]. En 1748, le traité d'Aix-la-Chapelle donne à l'infant Don Felipe les duchés de Parme, de Plaisance et de Guastalla [S8]. En novembre 1755, Pascal Paoli proclame la Corse nation souveraine et indépendante de Gênes avec Corte pour capitale et le corse et l'italien comme langues officielles [S8]. Le royaume de France envahit la Corse en 1767 puis, malgré la victoire corse à Borgo en octobre 1768, s'ensuivent l'annexion de la Savoie en 1792 et l'occupation de Gênes et Nice en 1796-1797 abolissant le servage [S8]."
+  },
+  {
+   "title": "Risorgimento (1815-1866/1870)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Risorgimento_(1815-1866/1870)",
+   "source": 9,
+   "summary": "Après les campagnes napoléoniennes, des poussées nationalistes appuyées par la Savoie, qui voit là une occasion d'agrandir le royaume de Sardaigne et d'enfin unifier le pays, conduisent à une série de guerres d’indépendance contre l'empire d'Autriche, deux d'entre elles avec l'appui extérieur de la France qui obtient par traité le comté de Nice et la Savoie. La plus décisive est la deuxième guerre d’indépendance, qui, avec l'expédition des Mille au sud et la descente subséquente des Piémontais du nord, réussit à un",
+   "events": [
+    {
+     "year": 1861,
+     "label": "1861",
+     "text": "La plus décisive est la deuxième guerre d’indépendance, qui, avec l'expédition des Mille au sud et la descente subséquente des Piémontais du nord, réussit à unifier, sous la bannière des États de Savoie, une grande partie de la péninsule (à l'exclusion de Rome, Venise et du reste des terres irrédentes) et à provoquer la proclamation du royaume d'Italie en 1861 avec pour capitale Florence.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1866,
+     "label": "1866",
+     "text": "En 1866, le royaume d'Italie participe à la guerre austro-prussienne aux côtés du royaume de Prusse contre l'empire d'Autriche.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1870,
+     "label": "1870",
+     "text": "Après la victoire des Italiens et des Prussiens, Venise est annexée au royaume d'Italie, suivie par Rome, avec la guerre franco-allemande de 1870.",
+     "source": 9,
+     "corroborated": true
+    },
+    {
+     "year": 1929,
+     "label": "1929",
+     "text": "Ce qui provoque le début d'une fracture entre l'État italien et l'Église qui se termine par les accords du Latran ratifiés par Benito Mussolini et le cardinal Gaspari, secrétaire d'État de Pie XI, en 1929.",
+     "source": 9,
+     "corroborated": false
+    }
+   ],
+   "start": 1861,
+   "end": 1929,
+   "photos": [
+    {
+     "title": "Colosseum in Rome (titel op object) P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object), RP-F-2007-358-56",
+     "year": 1893,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/e8450db14816.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome_(titel_op_object)_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_(A.D._dell_72_all%27_80)._(titel_op_object),_RP-F-2007-358-56.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op het Colosseum in Rome 3635. ROMA Colosseo (titel op object), RP-F-00-6932",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/ca1b4c8e6baf.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Colosseum_in_Rome_3635._ROMA_Colosseo_(titel_op_object),_RP-F-00-6932.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht in het interieur van het Colosseum, Rome 3636. Roma Interno del Colosseo (titel op object), RP-F-00-6950",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/f3e15ed496a4.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_in_het_interieur_van_het_Colosseum,_Rome_3636._Roma_Interno_del_Colosseo_(titel_op_object),_RP-F-00-6950.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Colosseum and Meta Sudans, Rome, Italy, 1890s",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/rome-colisee/archive/5b95504e9926.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_and_Meta_Sudans,_Rome,_Italy,_1890s.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Après les campagnes napoléoniennes, des poussées nationalistes appuyées par la Savoie pour agrandir le royaume de Sardaigne conduisent à des guerres d'indépendance contre l'empire d'Autriche, dont deux avec la France qui obtient Nice et la Savoie par traité [S9]. La plus décisive est la deuxième guerre d'indépendance, avec l'expédition des Mille au sud et la descente des Piémontais, unifiant une grande partie de la péninsule et provoquant la proclamation du royaume d'Italie en 1861 avec Florence pour capitale, à l'exclusion de Rome, Venise et des terres irrédentes [S9]. En 1866 le royaume participe à la guerre austro-prussienne aux côtés de la Prusse contre l'Autriche, puis Venise est annexée, suivie par Rome avec la guerre franco-allemande de 1870 [S9]. Cela provoque une fracture avec l'Église terminée par les accords du Latran de 1929 entre Mussolini et le cardinal Gaspari [S9]. Ces extraits ne reflètent qu'un point de vue."
+  },
+  {
+   "title": "Royaume d'Italie",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Royaume_d'Italie",
+   "source": 10,
+   "summary": "Les débuts du royaume voient l’Italie consolider son existence par l'intégration progressive des différentes régions, avant de s'engager dans une série de guerres d'expansion coloniale en Libye, Somalie, Albanie, Éthiopie, Érythrée et Dodécanèse et même une petite concession à Tianjin (concessions étrangères de Tientsin) en Chine. Avant même la prise de Rome en 1870, le nouvel État se trouve confronté à de nouvelles situations problématiques.",
+   "events": [
+    {
+     "year": 1815,
+     "label": "1815",
+     "text": "Parmi les causes qui avaient poussé les Italiens à signer ce traité, l'occupation autrichienne de la Dalmatie et de l'Istrie depuis 1815 n'était pas la moindre.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1860,
+     "label": "1860",
+     "text": "Avec la domination française sur la Corse puis l'annexion de la Savoie et de Nice en 1860, et le récent protectorat français sur la Tunisie, les relations avec la France se dégradent rapidement pour devenir très tendues voire belliqueuses.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1880,
+     "label": "1880",
+     "text": "À partir des années 1880, le royaume d'Italie se lance, à l'image des autres puissances d'Europe occidentale (Royaume-Uni, France, Belgique...) dans l'invasion coloniale en Afrique.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1896,
+     "label": "1896",
+     "text": "Consolidant ses positions sur la scène politique internationale, l'Italie ne renonce pas à la constitution d'un empire colonial, qui commence à voir le jour en Afrique orientale après 1896.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1911,
+     "label": "1911",
+     "text": "Les déboires italiens en Afrique orientale finissent d'être compensés par l'issue de la guerre italo-turque de 1911-1912, qui voit l'Italie annexer la Libye et le Dodécanèse par le traité de Lausanne de 1912.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1940,
+     "label": "1940",
+     "text": "En 1940, l’Italie est l'alliée de l'Allemagne dans la Seconde Guerre mondiale contre la France et le Royaume-Uni, déclarant ensuite en 1941, avec le Japon, la guerre aux États-Unis et à l'Union soviétique.",
+     "source": 10,
+     "corroborated": true
+    }
+   ],
+   "start": 1815,
+   "end": 1940,
+   "photos": [
+    {
+     "title": "Colosseum in Rome (titel op object) P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object), RP-F-2007-358-56",
+     "year": 1893,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/e8450db14816.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome_(titel_op_object)_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_(A.D._dell_72_all%27_80)._(titel_op_object),_RP-F-2007-358-56.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op het Colosseum in Rome 3635. ROMA Colosseo (titel op object), RP-F-00-6932",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/ca1b4c8e6baf.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Colosseum_in_Rome_3635._ROMA_Colosseo_(titel_op_object),_RP-F-00-6932.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht in het interieur van het Colosseum, Rome 3636. Roma Interno del Colosseo (titel op object), RP-F-00-6950",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/rome-colisee/archive/f3e15ed496a4.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_in_het_interieur_van_het_Colosseum,_Rome_3636._Roma_Interno_del_Colosseo_(titel_op_object),_RP-F-00-6950.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Colosseum and Meta Sudans, Rome, Italy, 1890s",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/rome-colisee/archive/5b95504e9926.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_and_Meta_Sudans,_Rome,_Italy,_1890s.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "Les débuts du royaume voient l’Italie consolider son existence par l'intégration progressive des différentes régions, avant de s'engager dans une série de guerres d'expansion coloniale en Libye, Somalie, Albanie, Éthiopie, Érythrée et Dodécanèse et même une petite concession à Tianjin (concessions étrangères de Tientsin) en Chine. Avant même la prise de Rome en 1870, le nouvel État se trouve confronté à de nouvelles situations problématiques. [S10]"
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "title": "Histoire de l'Italie › Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Histoire de l'Italie › Préhistoire (1,5 million d'années)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Préhistoire_(1,5_million_d'années)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 3,
+   "title": "Histoire de l'Italie › Protohistoire (Xe millénaire av. J.-C.)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Protohistoire_(Xe_millénaire_av._J.-C.)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 4,
+   "title": "Histoire de l'Italie › Peuples italiques",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Peuples_italiques",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 5,
+   "title": "Histoire de l'Italie › Rome et la civilisation latine (VIIIe siècle av. J.-C.)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Rome_et_la_civilisation_latine_(VIIIe_siècle_av._J.-C.)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 6,
+   "title": "Histoire de l'Italie › Moyen Âge",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Moyen_Âge",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 7,
+   "title": "Histoire de l'Italie › Du bas Moyen Âge à la Renaissance",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Du_bas_Moyen_Âge_à_la_Renaissance",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 8,
+   "title": "Histoire de l'Italie › Le XVIIIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Le_XVIIIe_siècle",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 9,
+   "title": "Histoire de l'Italie › Risorgimento (1815-1866/1870)",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Risorgimento_(1815-1866/1870)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 10,
+   "title": "Histoire de l'Italie › Royaume d'Italie",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Italie#Royaume_d'Italie",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 11,
+   "title": "History of Italy",
+   "url": "https://en.wikipedia.org/wiki/History_of_Italy",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "gaps": [
+  {
+   "from": 350,
+   "to": 450,
+   "text": "Entre 350 et 450, les sources consultées ne donnent aucune date précise."
+  },
+  {
+   "from": 1150,
+   "to": 1550,
+   "text": "Entre 1150 et 1550, les sources consultées ne donnent aucune date précise."
+  },
+  {
+   "from": 1929,
+   "to": 2011,
+   "text": "Entre 1929 et 2011, les sources consultées ne donnent aucune date précise."
+  },
+  {
+   "from": null,
+   "to": null,
+   "text": "Chapitres peu datés : Préhistoire (1,5 million d'années), Peuples italiques, Du bas Moyen Âge à la Renaissance."
+  }
+ ],
+ "stats": {
+  "chapters": 10,
+  "events": 41,
+  "corroborated": 4,
+  "share": 0.1,
+  "span": [
+   "6000 av. J.-C.",
+   "2011"
+  ]
+ },
+ "engines": {
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
+ },
+ "run": "d73c0a57a7"
+}

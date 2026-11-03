@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+pillow
+numpy
+opencv-python-headless
+openai
+python-dotenv
+python-multipart
+meta-sam-parser
