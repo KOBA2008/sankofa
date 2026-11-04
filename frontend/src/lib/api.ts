@@ -2,6 +2,10 @@
  * appelée directement car un proxy coupe les connexions longues (journal de l'agent en direct). */
 export const API_BASE = (import.meta.env.VITE_API_BASE as string | undefined)?.replace(/\/$/, '') ?? ''
 
+/** Version vitrine (Vercel, sans serveur) : contenus précalculés, agent en direct désactivé. */
+export const STATIC = import.meta.env.VITE_STATIC === '1'
+export const REPO_URL = 'https://github.com/KOBA2008/sankofa'
+
 export type Source = {
   id: string
   n?: number

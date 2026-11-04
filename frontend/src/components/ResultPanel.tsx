@@ -30,7 +30,7 @@ export function Cited({ text, onCite }: { text: string; onCite: (n: number) => v
   )
 }
 
-export function ResultPanel({ result, onContribute }: { result: RunResult; onContribute: () => void }) {
+export function ResultPanel({ result, onContribute }: { result: RunResult; onContribute?: () => void }) {
   const [tab, setTab] = useState<TabId>('recit')
   const [lang, setLang] = useState<'fr' | 'en'>('en')
   const [speaking, setSpeaking] = useState(false)
@@ -163,9 +163,11 @@ export function ResultPanel({ result, onContribute }: { result: RunResult; onCon
                   <p className="text-sm text-white/80">{g.question}</p>
                 </div>
               ))}
+{onContribute && (
               <button onClick={onContribute} className="gold-button w-full rounded-full px-5 py-3 text-sm font-semibold">
                 I have a photo or a memory
               </button>
+              )}
             </div>
           )}
         </motion.div>

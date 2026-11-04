@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/static-api/$1.json" },
+    { "source": "/((?!static-api/|media/|assets/|favicon).*)", "destination": "/index.html" }
+  ],
+  "headers": [
+    { "source": "/media/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }] }
+  ]
+}

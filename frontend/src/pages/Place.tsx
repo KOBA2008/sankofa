@@ -10,7 +10,7 @@ import { DocumentaryPlayer } from '../components/DocumentaryPlayer'
 import { PlaceHistory } from '../components/PlaceHistory'
 import { RephotoModal } from '../components/RephotoModal'
 import { ResultPanel } from '../components/ResultPanel'
-import { API_BASE, api, type AgentEvent, type PlaceDetail, type RunResult } from '../lib/api'
+import { API_BASE, REPO_URL, STATIC, api, type AgentEvent, type PlaceDetail, type RunResult } from '../lib/api'
 
 const MIN_YEAR = 1860
 const MAX_YEAR = 1960
@@ -139,7 +139,7 @@ export default function Place() {
               </div>
             )}
 
-            {!result && place && (
+            {!result && place && !STATIC && (
               <div className="glass rounded-[28px] p-4">
                 <p className="mb-3 text-xs uppercase tracking-widest text-white/45">Starting view</p>
                 <div className="scrollbar-thin flex gap-2 overflow-x-auto pb-1">
@@ -178,9 +178,16 @@ export default function Place() {
                 aria-label="Year"
               />
               <div className="mt-1 flex justify-between font-mono text-[11px] text-white/35"><span>{MIN_YEAR}</span><span>{MAX_YEAR}</span></div>
+{STATIC ? (
+              <div className="mt-5 rounded-2xl bg-black/25 p-4 text-sm text-white/70">
+                Showcase version: results are precomputed and the live agent is off on this host.
+                Run the full SANKOFA (live agent, your own photos, MP4 export) from <a href={REPO_URL} target="_blank" rel="noreferrer" className="text-gold underline">GitHub</a>.
+              </div>
+              ) : (
               <button onClick={launch} disabled={running || !place} className="gold-button mt-5 flex w-full items-center justify-center gap-2 rounded-full px-5 py-3.5 text-sm font-semibold">
                 <Wand2 size={16} /> {running ? 'The agent is working…' : result ? 'Travel again' : 'Travel back in time'}
               </button>
+              )}
               {error && <p className="mt-3 text-sm text-red-300">{error}</p>}
             </div>
 
@@ -202,7 +209,7 @@ export default function Place() {
 
         {result && (
           <div ref={resultRef} className="mt-5 scroll-mt-28">
-            <ResultPanel result={result} onContribute={() => setContribOpen(true)} />
+            <ResultPanel result={result} onContribute={STATIC ? undefined : () => setContribOpen(true)} />
           </div>
         )}
 
@@ -218,7 +225,7 @@ export default function Place() {
           <section className="mt-16">
             <div className="mb-5 flex items-end justify-between">
               <h2 className="font-serif text-4xl">The corpus</h2>
-              <button onClick={() => setContribOpen(true)} className="glass glass-button rounded-full px-4 py-2 text-sm">Contribute</button>
+              {!STATIC && <button onClick={() => setContribOpen(true)} className="glass glass-button rounded-full px-4 py-2 text-sm">Contribute</button>}
             </div>
             <div className="columns-2 gap-3 md:columns-4">
               {[...place.contributions, ...place.archives].map(a => (

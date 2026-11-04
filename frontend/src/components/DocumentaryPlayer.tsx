@@ -4,7 +4,7 @@ import {
   Square, Volume2, VolumeX,
 } from 'lucide-react'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import { API_BASE, api } from '../lib/api'
+import { API_BASE, STATIC, api } from '../lib/api'
 import { announceMedia } from './AmbientMusic'
 
 export type Scene = {
@@ -248,8 +248,8 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
               </p>
             </div>
             <div className="flex flex-wrap items-center gap-2">
-              <button onClick={reshuffle} className="glass glass-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm"><Shuffle size={14} /> Different music</button>
-              {video ? (
+              {!STATIC && <button onClick={reshuffle} className="glass glass-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm"><Shuffle size={14} /> Different music</button>}
+              {STATIC ? null : video ? (
                 <a href={video} download className="gold-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm font-semibold"><Download size={14} /> Download the MP4</a>
               ) : (
                 <button onClick={exportVideo} disabled={exporting !== null} className="gold-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm font-semibold">

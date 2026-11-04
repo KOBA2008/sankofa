@@ -7,7 +7,7 @@ import { announceMedia } from '../components/AmbientMusic'
 import { DocumentaryPlayer } from '../components/DocumentaryPlayer'
 import { Backdrop, Footer } from '../components/Chrome'
 import { Cited } from '../components/ResultPanel'
-import { api, countriesApi, type AgentEvent, type Chronicle, type Country as CountryT } from '../lib/api'
+import { STATIC, api, countriesApi, type AgentEvent, type Chronicle, type Country as CountryT } from '../lib/api'
 
 const STEPS = [
   { id: 'lecture', label: 'Reading the sources', icon: BookOpenText },
@@ -87,9 +87,11 @@ export default function Country() {
               </div>
             )}
             <div className="mt-6 flex flex-wrap gap-2">
+{!STATIC && (
               <button onClick={launch} disabled={running} className="gold-button inline-flex items-center gap-2 rounded-full px-6 py-3 text-sm font-semibold">
                 <Wand2 size={16} /> {running ? 'The agent is reading the sources…' : chron ? 'Rebuild again' : 'Rebuild the history'}
               </button>
+              )}
               {chron && (
                 <button onClick={() => document.getElementById('documentaire')?.scrollIntoView({ behavior: 'smooth', block: 'start' })} className="glass glass-button inline-flex items-center gap-2 rounded-full px-5 py-3 text-sm">
                   <Clapperboard size={15} /> Documentary
