@@ -6,6 +6,8 @@
 
 Built for the **Meta Global AI Developer Hackathon 2026** (Indie track, theme *Build for Your World*) by KOBA David, Benin.
 
+**Live showcase: <https://sankofa-two-topaz.vercel.app>** (precomputed content; run the live agent from this repository).
+
 ![SANKOFA home page](docs/screenshots/home.jpg)
 
 ---
@@ -171,6 +173,7 @@ SANKOFA is split in two for hosting:
 | Part | Where | Branch |
 |---|---|---|
 | Web interface (React, static) | Vercel | `main` (`frontend/`) |
+| Static showcase (interface + precomputed content) | Vercel, live at <https://sankofa-two-topaz.vercel.app> | `site` |
 | API, agent, archives, documentaries | Hugging Face Spaces (Docker) | `backend` |
 
 - The Hugging Face Space only contains `deploy/huggingface/Dockerfile` and its `README.md`: the image clones the `backend` branch at build time, installs ffmpeg and the Python dependencies, and starts the API on port 7860. Keys are Space secrets (`META_API_KEY`, `BASETEN_API_KEY`).
