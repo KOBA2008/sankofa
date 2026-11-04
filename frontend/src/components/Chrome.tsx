@@ -96,7 +96,7 @@ export function Footer() {
         <p className="max-w-xl">
           Archives: Wikimedia Commons (keyword and GPS coordinate search), Europeana (Rijksmuseum, European national
           archives), including the Archives of the Planet from the Albert-Kahn museum, the Library of Congress and the BnF.
-          Every image keeps its license and a link to its original record. Maps © OpenStreetMap, CARTO.
+          Every image keeps its license and a link to its original record. Maps © OpenStreetMap contributors.
         </p>
       </div>
     </footer>

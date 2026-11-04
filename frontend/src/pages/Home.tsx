@@ -118,8 +118,10 @@ export default function Home() {
           <div className="h-[420px] overflow-hidden rounded-[26px]">
             <MapContainer center={[22, -10]} zoom={2} minZoom={2} scrollWheelZoom={false} className="h-full w-full" worldCopyJump>
               <TileLayer
-                url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
-                attribution='&copy; OpenStreetMap &copy; CARTO'
+                url="https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+                className="dark-tiles"
+                maxZoom={18}
+                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
               />
               {places.map(p => (
                 <Marker key={p.id} position={[p.lat, p.lon]} icon={pin} eventHandlers={{ click: () => nav(`/lieu/${p.id}`) }}>

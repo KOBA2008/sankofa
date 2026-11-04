@@ -133,6 +133,8 @@ input[type="range"].timeline::-moz-range-thumb {
 }
 
 .leaflet-container { background: #0b0c10 !important; font-family: var(--font-sans); }
+/* tuiles OpenStreetMap claires, assombries pour s'accorder au site (sans clé d'API) */
+.dark-tiles { filter: invert(1) hue-rotate(180deg) brightness(0.85) contrast(0.9) saturate(0.35); }
 .leaflet-control-attribution { background: rgb(0 0 0 / 0.4) !important; color: #888 !important; font-size: 9px !important; }
 .leaflet-control-attribution a { color: #aaa !important; }
 
