@@ -1,4 +1,5 @@
 import { Music2, VolumeX } from 'lucide-react'
+import { API_BASE } from '../lib/api'
 import { useEffect, useRef, useState } from 'react'
 
 type Track = { id: string; title: string; artist: string; license: string; file: string; mood: string; instrument: string }
@@ -64,7 +65,7 @@ export function AmbientMusic() {
     a.preload = 'none'
     audio.current = a
     a.addEventListener('ended', () => start(pick(tracks.current.find(t => a.src.endsWith(t.file))?.id)))
-    fetch('/api/music').then(r => r.json()).then((list: Track[]) => {
+    fetch(`${API_BASE}/api/music`).then(r => r.json()).then((list: Track[]) => {
       const calm = list.filter(t => t.mood === 'calme')
       tracks.current = calm.length ? calm : list
     }).catch(() => {})
@@ -103,12 +104,12 @@ export function AmbientMusic() {
   return (
     <button
       onClick={toggle}
-      title={playing && track ? `Musique : ${track.title} (${track.license}). Cliquer pour couper.` : enabled ? 'Musique d\'ambiance : démarre au premier clic' : 'Activer la musique d\'ambiance'}
-      aria-label={enabled ? 'Couper la musique d\'ambiance' : 'Activer la musique d\'ambiance'}
+      title={playing && track ? `Music: ${track.title} (${track.license}). Click to turn off.` : enabled ? 'Background music: starts on your first click' : 'Turn on background music'}
+      aria-label={enabled ? 'Turn off background music' : 'Turn on background music'}
       className={`flex h-8 items-center gap-1.5 rounded-full px-3 text-xs transition ${enabled ? 'bg-gold/15 text-gold hover:bg-gold/25' : 'bg-white/8 text-white/55 hover:text-white'}`}
     >
       {enabled ? <Music2 size={14} /> : <VolumeX size={14} />}
-      <span className="hidden sm:inline">{enabled ? 'Musique' : 'Muet'}</span>
+      <span className="hidden sm:inline">{enabled ? 'Music' : 'Muted'}</span>
       {enabled && playing && (
         <span className="flex h-3 items-end gap-[2px]" aria-hidden="true">
           {[0, 1, 2].map(i => <span key={i} className="w-[2px] rounded-full bg-gold" style={{ height: `${[60, 100, 40][i]}%` }} />)}

@@ -1,109 +1,117 @@
 {
  "place": "porto-novo-marche",
- "lang": "fr",
+ "lang": "en",
  "sources": [
   {
    "n": 1,
    "title": "Porto-Novo",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo",
-   "lang": "fr",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 2,
    "title": "Porto-Novo",
-   "url": "https://en.wikipedia.org/wiki/Porto-Novo",
-   "lang": "en",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "events": [
   {
-   "year": 1650,
-   "label": "XVIIe s.",
-   "text": "Il est probable que la première branche dynastique qui fonde Porto-Novo à la fin du XVIIe siècle laisse place à la dynastie royale d'Allada pour gouverner Porto-Novo après la chute d'Allada en 1724.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
-   "corroborated": false
-  },
-  {
-   "year": 1724,
-   "label": "1724",
-   "text": "Après la prise d'Allada par le royaume d'Abomey en 1724, un nouveau royaume se reconstitue autour de Porto-Novo sous le nom de « Hogbonu » ou « Xogbonu » (xɔgbonu en ayizo-gbe).",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "year": 125,
+   "label": "125",
+   "text": "Its altitude is approximately 38 m (125 ft) and it covers an area of 52 km².",
+   "section": "Geography",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo#Geography",
    "corroborated": false
   },
   {
    "year": 1730,
    "label": "1730",
-   "text": "Nommée « Xɔ̀gbónù » par les Adjas, et « Àjàṣẹ́ » par les Yorubas, en 1730, le Portugais Eucaristo de Campos nomme la ville Porto-Novo (« Nouvelle-Porto » ou « Nouveau port » en français) à cause de sa ressemblance avec la ville de Porto, nom gardé par les explorateurs puis les colonisateurs européens.",
-   "section": "Toponymie",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Toponymie",
+   "text": "In 1730, the Portuguese Eucaristo de Campos named the city \"Porto-Novo\" due to its resemblance to the city of Porto.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo#History",
    "corroborated": true
   },
   {
-   "year": 1750,
-   "label": "1750",
-   "text": "Une autre explication est avancée : Porto Novo désigne le ''nouveau port'' de traite d'esclaves fondé en 1750 par les marchands qui voulaient échapper aux taxes imposées à Ouidah par le roi d'Abomey.",
-   "section": "Toponymie",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Toponymie",
-   "corroborated": false
-  },
-  {
-   "year": 1850,
-   "label": "XIXe s.",
-   "text": "Cependant ces informations restes floues car elles reposent essentiellement sur les différentes traditions orales récoltées qu'à partir de la fin du XIXe siècle.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "year": 1861,
+   "label": "1861",
+   "text": "In 1861, the British, who were active in nearby Nigeria, bombarded the city, which caused the Kingdom of Porto-Novo to accept the French offer of protection in 1863.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo#History",
    "corroborated": false
   },
   {
    "year": 1863,
    "label": "1863",
-   "text": "En 1863, le roi Sodji signe un traité de protectorat avec les Français.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "text": "In 1863, following British bombardment, Porto-Novo accepted French protection, and by 1900, it became the capital of French Dahomey.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo",
    "corroborated": false
   },
   {
-   "year": 1882,
-   "label": "1882",
-   "text": "Un second protectorat plus contraignant est conclu le 4 avril 1882 par le roi Toffa 1er, marque la présence de l’installation de l’administration coloniale française.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "year": 1883,
+   "label": "1883",
+   "text": "In 1883, Porto-Novo was incorporated into the French \"colony of Dahomey and its dependencies\" and in 1900, it became Dahomey's capital city.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo#History",
    "corroborated": false
   },
   {
-   "year": 1894,
-   "label": "1894",
-   "text": "Le 22 juin 1894, les Français créent la colonie du Dahomey, Porto-Novo en devient la capitale, marquant ainsi la fin de l'indépendance de la cité.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "year": 1908,
+   "label": "1908",
+   "text": "From 1908, the king held the title of Chef supérieur.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo#History",
+   "corroborated": false
+  },
+  {
+   "year": 1960,
+   "label": "1960",
+   "text": "After Benin's independence in 1960, Porto-Novo retained its status as the official capital, while Cotonou emerged as the economic and administrative hub.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo",
+   "corroborated": false
+  },
+  {
+   "year": 1976,
+   "label": "1976",
+   "text": "The kings of Porto-Novo continued to rule in the city, both officially and unofficially, until the death of the last king, Alohinto Gbeffa, in 1976.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo#History",
+   "corroborated": false
+  },
+  {
+   "year": 1996,
+   "label": "1996",
+   "text": "The palace and the surrounding district was added to the UNESCO World Heritage Tentative List on October 31, 1996 in the Cultural category.",
+   "section": "Culture",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo#Culture",
    "corroborated": false
   },
   {
    "year": 2007,
    "label": "2007",
-   "text": "En 2007, dans le cadre du développement des attractions touristiques de la ville, deux nouveaux bâtiments monumentaux liés au vaudou ont été construits, financés par la Chambre de commerce du Bénin (CCB) et conçus par un cabinet d'architectes.",
-   "section": "Temples de Avessan et du Zangbeto",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Temples_de_Avessan_et_du_Zangbeto",
+   "text": "In 2007, as part of the development of tourist attractions in the city, two new monumental buildings related to Voodoo were constructed, financed by the Benin Chamber of Commerce (CCB) and designed by an architectural firm.",
+   "section": "Temple of Abessan and Zangbeto Shrine",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo#Temple_of_Abessan_and_Zangbeto_Shrine",
    "corroborated": true
   },
   {
-   "year": 2017,
-   "label": "2017",
-   "text": "Le festival international de Porto-Novo a été créé en 2017.",
-   "section": "Culture",
-   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Culture",
+   "year": 2013,
+   "label": "2013",
+   "text": "The commune covers an area of 52 square kilometres (20 sq mi) and as of 2013 had a population of 264,320 people.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo",
    "corroborated": false
   }
  ],
- "intro": "Porto-Novo est la capitale du Bénin, située dans le sud du pays, près de la côte Atlantique.",
+ "intro": "Porto-Novo (Portuguese for 'New Port', pronounced [ˈpoɾtu ˈnovu]; French: [pɔʁtonɔvo]; Yoruba: Àjàṣẹ́; Fon: Xɔ̀gbónù; also known as Hogbonu and Ajashe) is the capital and second-largest city of Benin. The commune covers an area of 52 square kilometres (20 sq mi) and as of 2013 had a population of 264,320 people. In 1863, following British bombardment, Porto-Novo accepted French protection, and by 1900, it became the capital of French Dahomey.",
  "stats": {
-  "events": 10,
+  "events": 11,
   "corroborated": 2
  }
 }

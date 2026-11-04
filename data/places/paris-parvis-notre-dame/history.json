@@ -1,157 +1,157 @@
 {
  "place": "paris-parvis-notre-dame",
- "lang": "fr",
+ "lang": "en",
  "sources": [
   {
    "n": 1,
-   "title": "Cathédrale Notre-Dame de Paris",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 2,
    "title": "Notre-Dame de Paris",
    "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 2,
+   "title": "Cathédrale Notre-Dame de Paris",
+   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "events": [
   {
-   "year": 1350,
-   "label": "XIVe s.",
-   "text": "Une légende, fondée par le chroniqueur Jean de Saint-Victor dans son Memoriale Historiarum écrit au XIVe siècle et rapportée par une longue et abondante tradition historiographique, veut qu'entre le 24 mars et le 25 avril 1163, le pape Alexandre III, alors réfugié à Sens, pose lui-même la première pierre, en présence du roi des Francs Louis VII le Jeune.",
-   "section": "Première période (1161–1250)",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Première_période_(1161–1250)",
-   "corroborated": false
+   "year": 1163,
+   "label": "1163",
+   "text": "The chronicler Jean de Saint-Victor recorded in the Memorial Historiarum that the construction of Notre-Dame began between 24 March and 25 April 1163 with the laying of the cornerstone in the presence of King Louis VII and Pope Alexander III.",
+   "section": "Construction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Construction",
+   "corroborated": true
   },
   {
    "year": 1431,
    "label": "1431",
-   "text": "En 1431, couronnement comme roi de France du roi d'Angleterre Henri VI, vers la fin de la guerre de Cent Ans (1337–1453), à l'âge de dix ans.",
-   "section": "Chronologie des événements importants",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Chronologie_des_événements_importants",
+   "text": "On 16 December 1431, the boy-king Henry VI of England was crowned king of France in Notre-Dame, aged ten, the traditional coronation church of Reims Cathedral being under French control.",
+   "section": "15th–18th century",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#15th–18th_century",
    "corroborated": true
   },
   {
-   "year": 1594,
-   "label": "1594",
-   "text": "Le 22 mars 1594, Henri IV célèbre son entrée dans Paris en assistant à un Te Deum, marquant la reconquête de la capitale après cinq ans de soulèvement ligueur.",
-   "section": "Chronologie des événements importants",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Chronologie_des_événements_importants",
+   "year": 1789,
+   "label": "1789",
+   "text": "After the French Revolution in 1789, Notre-Dame and the rest of the church's property in France were seized and made public property.",
+   "section": "French Revolution and Napoleon",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#French_Revolution_and_Napoleon",
    "corroborated": false
   },
   {
-   "year": 1699,
-   "label": "1699",
-   "text": "En 1699, selon le souhait de Louis XIV et le vœu de son père Louis XIII, on opéra de profondes transformations dans la décoration intérieure de la cathédrale, notamment au niveau du chœur.",
-   "section": "XVIIe et XVIIIe siècles",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#XVIIe_et_XVIIIe_siècles",
-   "corroborated": false
-  },
-  {
-   "year": 1709,
-   "label": "1709",
-   "text": "En 1709, le chanoine Antoine de La Porte commanda au roi Louis XIV six tableaux illustrant la vie de la Vierge pour la décoration du chœur.",
-   "section": "XVIIe et XVIIIe siècles",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#XVIIe_et_XVIIIe_siècles",
-   "corroborated": false
-  },
-  {
-   "year": 1711,
-   "label": "1711",
-   "text": "Il s'agit d'un mythe historiographique reposant sur la découverte du pilier des Nautes en 1711, retrouvé sous la cathédrale, démonté et réemployé dans les maçonneries du rempart gallo-romain entourant la Cité au Bas-Empire.",
-   "section": "Édifices primitifs",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Édifices_primitifs",
-   "corroborated": false
-  },
-  {
-   "year": 1793,
-   "label": "1793",
-   "text": "Quant aux douze grandes statues des Apôtres installées sur les deux piédroits du portail (2 6statues), fracassées en 1793 par les révolutionnaires comme presque toutes les autres grandes statues de la cathédrale, elles sont également des reconstitutions du XIXe siècle, d'ailleurs admirablement refaites.",
-   "section": "= Portail du Jugement dernier =",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#=_Portail_du_Jugement_dernier_=",
-   "corroborated": false
-  },
-  {
-   "year": 1798,
-   "label": "1798",
-   "text": "Jean-Baptiste Royer est élu évêque constitutionnel du département de la Seine le 20 mai 1798.",
-   "section": "Chronologie des événements importants",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Chronologie_des_événements_importants",
-   "corroborated": false
-  },
-  {
-   "year": 1804,
-   "label": "1804",
-   "text": "On procéda rapidement à quelques réfections d'urgence si bien qu'en décembre 1804, Napoléon Bonaparte put s'y faire sacrer empereur des Français, en présence du pape Pie VII.",
-   "section": "Restauration du XIXe siècle",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Restauration_du_XIXe_siècle",
-   "corroborated": false
-  },
-  {
-   "year": 1835,
-   "label": "1835",
-   "text": "Le 8 mars 1835, à la demande de Hyacinthe-Louis de Quélen, a lieu la première conférence d'Henri Lacordaire, dans le cadre des Conférences de Carême de Notre-Dame, spécialement destinées à l'initiation de la jeunesse au christianisme.",
-   "section": "Chronologie des événements importants",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Chronologie_des_événements_importants",
-   "corroborated": false
-  },
-  {
-   "year": 1845,
-   "label": "1845",
-   "text": "Après la Révolution française, entre 1845 et 1867, la cathédrale bénéficie d'une importante restauration, parfois controversée, sous la direction de l'architecte Eugène Viollet-le-Duc, qui y incorpore des éléments et des motifs inédits, dont une nouvelle flèche.",
+   "year": 1790,
+   "label": "1790",
+   "text": "In the 1790s, during the French Revolution, Notre-Dame suffered extensive desecration; much of its religious imagery was damaged or destroyed.",
    "section": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
    "corroborated": true
   },
   {
-   "year": 1860,
-   "label": "1860",
-   "text": "Le parvis de Notre-Dame est dégagé dans les années 1860–1870 par des travaux voulus par le baron Georges Eugène Haussmann lors des transformations de Paris sous le Second Empire, les préoccupations hygiénistes d'Haussmann se conjuguant avec une nouvelle conception artistique qui isole la cathédrale sur une place et dégage des perspectives.",
-   "section": "Restauration du XIXe siècle",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Restauration_du_XIXe_siècle",
+   "year": 1805,
+   "label": "1805",
+   "text": "In 1805, Pope Pius VII awarded it honorary status as a minor basilica.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
    "corroborated": false
   },
   {
-   "year": 1914,
-   "label": "1914",
-   "text": "Le 11 octobre 1914, durant la Première Guerre mondiale, elle est toutefois touchée lors d'un raid effectué par des avions allemands.",
-   "section": "De la restauration du XIXe siècle à l'incendie du 15 avril 2019",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#De_la_restauration_du_XIXe_siècle_à_l'incendie_du_15_avril_2019",
-   "corroborated": false
-  },
-  {
-   "year": 1940,
-   "label": "1940",
-   "text": "Le 19 mai 1940, alors que la bataille de France tourne au désastre, un Te Deum est organisé pour le succès des armes françaises ; y assistent les deux derniers chefs de gouvernement de la IIIe République, Édouard Daladier et Paul Reynaud, incroyants notoires, ainsi que le maréchal Philippe Pétain.",
-   "section": "Chronologie des événements importants",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Chronologie_des_événements_importants",
-   "corroborated": false
-  },
-  {
-   "year": 2016,
-   "label": "2016",
-   "text": "Cependant, il ne s'agit pas d'une reconstitution exacte et certains vitraux ou divers éléments, protégés contre la reproduction[réf. nécessaire], ont été repensés ; dans Eagle Flight (2016), le joueur incarne en réalité virtuelle un aigle en vue subjective dans un Paris que la nature a reconquis, sans présence humaine.",
-   "section": "Jeu vidéo",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#Jeu_vidéo",
+   "year": 1830,
+   "label": "1830",
+   "text": "It was seriously damaged in the French Revolution of 1830.",
+   "section": "Stained-glass windows",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Stained-glass_windows",
    "corroborated": true
   },
   {
-   "year": 2023,
-   "label": "2023",
-   "text": "Le 8 décembre 2023, à l'occasion d'une édition spéciale de France 2 en direct de la cathédrale Notre-Dame-de-Paris, le président de la République Emmanuel Macron déclare que « nous tenons les délais » et que la réouverture au public aurait bien lieu le 8 décembre 2024.",
-   "section": "= Reconstruction et réouverture =",
-   "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris#=_Reconstruction_et_réouverture_=",
+   "year": 1831,
+   "label": "1831",
+   "text": "The 1831 publication of Victor Hugo's novel Notre-Dame de Paris (English title: The Hunchback of Notre-Dame) inspired interest which led to restoration between 1844 and 1864, supervised by Eugène Viollet-le-Duc.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+   "corroborated": true
+  },
+  {
+   "year": 1844,
+   "label": "1844",
+   "text": "In 1844 King Louis Philippe I ordered that the church be restored.",
+   "section": "19th-century restoration",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#19th-century_restoration",
+   "corroborated": true
+  },
+  {
+   "year": 1850,
+   "label": "19th c.",
+   "text": "In the 19th century, the cathedral hosted the coronation of Napoleon and the funerals of many of the French Republic's presidents.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+   "corroborated": true
+  },
+  {
+   "year": 1905,
+   "label": "1905",
+   "text": "Since 1905, Notre-Dame, like the other cathedrals in France, has been owned by the French government, with the exclusive rights of use granted to the French Roman Catholic Church.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+   "corroborated": false
+  },
+  {
+   "year": 1944,
+   "label": "1944",
+   "text": "On 26 August 1944, the Liberation of Paris from German occupation was celebrated in Notre-Dame with the singing of the Magnificat.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+   "corroborated": true
+  },
+  {
+   "year": 1963,
+   "label": "1963",
+   "text": "Beginning in 1963, the cathedral's façade was cleaned of soot and grime.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+   "corroborated": false
+  },
+  {
+   "year": 1991,
+   "label": "1991",
+   "text": "Another cleaning and restoration project was carried out between 1991 and 2000.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+   "corroborated": false
+  },
+  {
+   "year": 2019,
+   "label": "2019",
+   "text": "A fire in April 2019 caused serious damage, closing the cathedral for extensive and costly repairs; it reopened in December 2024.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+   "corroborated": false
+  },
+  {
+   "year": 2024,
+   "label": "2024",
+   "text": "The cathedral reopened on 7 December 2024 in a ceremony presided over by Laurent Ulrich, the Archbishop of Paris, and attended by 1,500 world leaders and dignitaries such as US President-elect Donald Trump, US first lady Jill Biden, Britain's Prince William, and Ukrainian president Volodymyr Zelenskyy.",
+   "section": "Reopening",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Reopening",
+   "corroborated": true
+  },
+  {
+   "year": 2050,
+   "label": "21st c.",
+   "text": "In the early 21st century, about 12 million people visited Notre-Dame annually, making it the most visited monument in Paris.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
    "corroborated": true
   }
  ],
- "intro": "La cathédrale Notre-Dame de Paris, communément appelée Notre-Dame, est l'un des monuments les plus emblématiques de Paris et de France. Située sur l'île de la Cité, dans le 4e arrondissement de la capitale, elle constitue un lieu de culte catholique et sert de siège à l'archidiocèse de Paris, dédié à la Vierge Marie. Sa construction est lancée en 1163 sous l'impulsion de l'évêque Maurice de Sully, et s'étale sur près de deux siècles, pour se terminer au milieu du XIVe siècle vers 1345.",
+ "intro": "Notre-Dame de Paris (French: Cathédrale Notre-Dame de Paris French: [nɔtʁ(ə) dam də paʁi] : \"Cathedral of Our Lady of Paris\"), often referred to simply as Notre-Dame, is a medieval Catholic cathedral and basilica on the Île de la Cité (an island in the River Seine), in the 4th arrondissement of Paris, France. It is the cathedral church of the Roman Catholic Archdiocese of Paris. The cathedral, dedicated to the Virgin Mary (\"Our Lady\"), is considered one of the finest examples of French Gothic architecture.",
  "stats": {
   "events": 16,
-  "corroborated": 4
+  "corroborated": 10
  }
 }

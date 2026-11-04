@@ -16,83 +16,481 @@
  "chapters": [
   {
    "title": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France",
+   "url": "https://en.wikipedia.org/wiki/History_of_France",
    "source": 1,
-   "summary": "L'histoire de France commence avec les premières occupations humaines du territoire correspondant au pays actuel. Aux groupes présents depuis le Paléolithique et le Néolithique sont venues s'ajouter, à l'âge du bronze et à l'âge du fer, des vagues successives de Celtes, de Romains dès le IIe siècle av.",
+   "summary": "The first written records for the history of France appeared in the Iron Age. What is now France made up the bulk of the region known to the Romans as Gaul.",
    "events": [
     {
-     "year": 466,
-     "label": "466",
-     "text": "Clovis (466-511), roi des Francs saliens, scelle par son baptême à Reims l'alliance de la royauté franque avec l'Église catholique.",
-     "source": 1,
-     "corroborated": false
-    },
-    {
-     "year": 751,
-     "label": "751",
-     "text": "Il unit les tribus franques salienne et ripuaire et conquiert un ensemble de territoires en Gaule et en Germanie qui sont agrandis par ses descendants mérovingiens, puis par la dynastie des Carolingiens fondée en 751.",
-     "source": 1,
-     "corroborated": false
-    },
-    {
-     "year": 843,
-     "label": "843",
-     "text": "L'Empire carolingien est finalement partagé en 843 entre ses petits-fils par le traité de Verdun qui sépare la Francie occidentale de la Francie orientale, qui deviendra le royaume de Germanie.",
+     "year": -150,
+     "label": "2nd c. BC",
+     "text": "The Roman Republic annexed southern Gaul in the late 2nd century BC, and legions under Julius Caesar conquered the rest of Gaul in the Gallic Wars of 58–51 BC.",
      "source": 1,
      "corroborated": false
     },
     {
      "year": 987,
      "label": "987",
-     "text": "Paris, appelée à devenir la capitale par l'avènement en 987 de la dynastie capétienne, devient un centre universitaire renommé.",
+     "text": "The medieval Kingdom of France emerged from the western part of Charlemagne's Carolingian Empire, known as West Francia, and achieved increasing prominence under the rule of the House of Capet, founded in 987.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 1150,
-     "label": "XIIe s.",
-     "text": "On ne peut ainsi parler de royaume de France, au sens juridique, qu'à partir du XIIe siècle si l'on se limite au point de vue royal.",
+     "year": 1214,
+     "label": "1214",
+     "text": "The monarchy initially wielded only limited authority, but Philip II of France brought the Angevin Empire to an end by defeating a coalition of his rivals at the Battle of Bouvines in 1214.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1453,
+     "label": "1453",
+     "text": "The war ended with a Valois victory in 1453, strengthening French nationalism and increasing the power and reach of the French monarchy.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 1190,
-     "label": "1190",
-     "text": "Le nom de France n'est employé de façon officielle qu'à partir de 1190 environ, quand la chancellerie du roi Philippe Auguste commence à employer le terme de rex Franciæ (roi de France) à la place de rex Francorum (roi des Francs) pour désigner le souverain.",
-     "source": 1,
-     "corroborated": false
-    },
-    {
-     "year": 1205,
-     "label": "1205",
-     "text": "Dès juin 1205, le territoire est désigné dans les chartes sous le nom de regnum Franciæ, c'est-à-dire royaume de France en latin.",
-     "source": 1,
-     "corroborated": false
-    },
-    {
-     "year": 1349,
-     "label": "1349",
-     "text": "Philippe Auguste et ses successeurs donnent une nouvelle impulsion à l'unification territoriale du royaume de France et repoussent les frontières orientales du Rhône sur les Alpes et de la Saône sur le Rhin, à partir de l'achat du Dauphiné (1349) jusqu'à l'annexion de l'Alsace (1648-1697).",
+     "year": 1550,
+     "label": "16th c.",
+     "text": "A burgeoning worldwide colonial empire was established in the 16th century.",
      "source": 1,
      "corroborated": false
     },
     {
      "year": 1750,
-     "label": "XVIIIe s.",
-     "text": "Le XVIIIe siècle est le siècle de la philosophie des Lumières, marqué par la promotion de la raison par les philosophes français dans les cours et capitales européennes et qui s'achève par la Révolution française.",
+     "label": "18th c.",
+     "text": "In the late 18th century the monarchy and associated institutions were overthrown in the French Revolution.",
      "source": 1,
      "corroborated": true
     },
     {
-     "year": 1850,
-     "label": "XIXe s.",
-     "text": "L'adoption d'un cadre administratif uniforme (département), le développement rapide du chemin de fer et l'instauration par Jules Ferry de l'instruction obligatoire et de l'école gratuite homogénéisent l'espace national, qui connaît dans la seconde moitié du XIXe siècle la révolution industrielle.",
+     "year": 1804,
+     "label": "1804",
+     "text": "The country was governed as a Republic, until Napoleon's French Empire was declared in 1804.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1870,
+     "label": "1870",
+     "text": "Following his defeat in the Napoleonic Wars, France went through regime changes, being ruled as a monarchy, then Second Republic, then Second Empire, until a more lasting French Third Republic was established in 1870.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1940,
+     "label": "1940",
+     "text": "France during World War II was one of the Allied Powers but was conquered by Nazi Germany in 1940.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1960,
+     "label": "1960",
+     "text": "Into the 1960s most of the French colonial empire became independent, while smaller parts were incorporated into the French state as overseas departments and collectivities.",
      "source": 1,
      "corroborated": false
     }
    ],
-   "start": 466,
-   "end": 1850,
+   "start": -150,
+   "end": 1960,
+   "photos": [
+    {
+     "title": "Notre-Dame te Parijs 223 Paris. - Église Notre-Dame (titel op object), RP-F-F16452",
+     "year": 1900,
+     "license": "CC0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/ce6ec89230ab.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_te_Parijs_223_Paris._-_%C3%89glise_Notre-Dame_(titel_op_object),_RP-F-F16452.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "L'église Notre-Dame face Paris",
+     "year": 1900,
+     "license": "Licence Ouverte",
+     "image": "/media/places/paris-parvis-notre-dame/archive/917ef7372eda.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:L%27%C3%A9glise_Notre-Dame_face_Paris.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Paris - Parvis Notre Dame, ca. 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/e8cbc1b596e6.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Parvis_Notre_Dame,_ca._1900.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Notre-Dame l'abside Paris",
+     "year": 1900,
+     "license": "Licence Ouverte",
+     "image": "/media/places/paris-parvis-notre-dame/archive/4fce96eada4b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_l%27abside_Paris.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Nettoyeurs de réverbères, place du Parvis-Notre-Dame, 4ème arrondissement, Paris. PH1049",
+     "year": 1900,
+     "license": "CC0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/ea6e293439a8.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Nettoyeurs_de_r%C3%A9verb%C3%A8res,_place_du_Parvis-Notre-Dame,_4%C3%A8me_arrondissement,_Paris._PH1049.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Paris - Parvis Notre Dame",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/adb3b61a4cb8.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Parvis_Notre_Dame.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Statue \"Charlemagne et ses leudes\" située sur le parvis de Notre-Dame à Paris, oeuvre de Louis Rochet - btv1b6904909x",
+     "year": 1908,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/a43726b0288a.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Statue_%22Charlemagne_et_ses_leudes%22_situ%C3%A9e_sur_le_parvis_de_Notre-Dame_%C3%A0_Paris,_oeuvre_de_Louis_Rochet_-_btv1b6904909x.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Auguste Hippolyte Collard, Notre-Dame de Paris, façade ouest et parvis, 1890 01",
+     "year": 1890,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/66a6345344e7.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Auguste_Hippolyte_Collard,_Notre-Dame_de_Paris,_fa%C3%A7ade_ouest_et_parvis,_1890_01.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "The first written records for the history of France appeared in the Iron Age, when what is now France made up the bulk of the region known to the Romans as Gaul [S1]. The Roman Republic annexed southern Gaul in the late 2nd century BC and legions under Julius Caesar conquered the rest in the Gallic Wars of 58–51 BC [S1]. The medieval Kingdom of France emerged from West Francia, the western part of Charlemagne's Carolingian Empire, and achieved prominence under the House of Capet founded in 987 [S1]. A worldwide colonial empire was established in the 16th century, the monarchy was overthrown in the French Revolution in the late 18th century and Napoleon's Empire was declared in 1804, and most of the colonial empire became independent in the 1960s [S1]. These excerpts reflect only a French state-centered perspective [S1]."
+  },
+  {
+   "title": "Prehistory",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Prehistory",
+   "source": 2,
+   "summary": "Stone tools discovered at Chilhac and Lézignan-la-Cèbe indicate that pre-human ancestors may have been present in France at least 1.6 million years ago. Neanderthals were present in Europe from about 400,000 BC but died out about 40,000 years ago, possibly out-competed by modern humans during a period of cold weather.",
+   "events": [
+    {
+     "year": -800,
+     "label": "800 BC",
+     "text": "In 800 BC, Ionian Greeks founded the colony of Massalia (present-day Marseille) on the shores of the Mediterranean Sea, making it one of the oldest cities in France.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -250,
+     "label": "3rd c. BC",
+     "text": "In the early 3rd century BC, some Belgae (Germani cisrhenani) conquered the surrounding territories of the Somme in northern Gaul after battles supposedly against the Armoricani (Gauls) near Ribemont-sur-Ancre and Gournay-sur-Aronde, where sanctuaries were found.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -122,
+     "label": "122 BC",
+     "text": "It was this Gaulish participation that caused Provence to be annexed in 122 BC by the Roman Republic.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 260,
+     "label": "260",
+     "text": "In the decade following Valerian's capture by the Persians in 260, Postumus established a short-lived Gallic Empire, which included the Iberian Peninsula and Britannia.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 350,
+     "label": "4th c.",
+     "text": "A migration of Celts occurred in the 4th century in Armorica.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 410,
+     "label": "410",
+     "text": "Those same Goths had sacked Rome in 410 and established a capital in Toulouse.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 418,
+     "label": "418",
+     "text": "In 418 the Aquitanian province was given to the Goths in exchange for their support against the Vandals.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 443,
+     "label": "443",
+     "text": "The Burgundians were resettled by Aëtius near Lugdunum in 443.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 451,
+     "label": "451",
+     "text": "The conflict climaxed in 451 at the Battle of Châlons, in which the Romans and Goths defeated Attila.",
+     "source": 2,
+     "corroborated": true
+    }
+   ],
+   "start": -800,
+   "end": 451,
+   "photos": [],
+   "narrative": "Stone tools discovered at Chilhac and Lézignan-la-Cèbe indicate that pre-human ancestors may have been present in France at least 1.6 million years ago [S2]. Neanderthals were present in Europe from about 400,000 BC but died out about 40,000 years ago, possibly out-competed by modern humans during a period of cold weather [S2]. In 800 BC, Ionian Greeks founded the colony of Massalia on the shores of the Mediterranean Sea, making it one of the oldest cities in France [S2]. Provence was annexed in 122 BC by the Roman Republic due to Gaulish participation [S2]. In 451 at the Battle of Châlons the Romans and Goths defeated Attila [S2]. The excerpts reflect only a Greco-Roman centred point of view [S2]."
+  },
+  {
+   "title": "Frankish kingdoms (486–987)",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Frankish_kingdoms_(486–987)",
+   "source": 3,
+   "summary": "In 486 Clovis I, leader of the Salian Franks, defeated Syagrius at Soissons and subsequently united most of northern and central Gaul under his rule. Clovis then recorded a succession of victories against other Germanic tribes such as the Alamanni at Tolbiac.",
+   "events": [
+    {
+     "year": 511,
+     "label": "511",
+     "text": "Clovis made Paris his capital and established the Merovingian dynasty but his kingdom did not survive his death in 511.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 884,
+     "label": "884",
+     "text": "After a last brief reunification (884–887), the imperial title ceased to be held in the western realm, which was to form the basis of the future French kingdom.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1131,
+     "label": "1131",
+     "text": "Thanks to Abbot Suger's political advice, King Louis VII (junior king 1131–37, senior king 1137–80) enjoyed greater moral authority over France than his predecessors.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1620,
+     "label": "1620",
+     "text": "When in 1620 the Huguenots proclaimed a constitution for the 'Republic of the Reformed Churches of France', the chief minister Cardinal Richelieu invoked the entire powers of the state to stop it.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1659,
+     "label": "1659",
+     "text": "The terms for the peace inflicted upon the Spanish kingdoms in the Treaty of the Pyrenees (1659) were harsh, as France annexed Northern Catalonia.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1672,
+     "label": "1672",
+     "text": "War broke out again between France and the Dutch Republic in the Franco-Dutch War (1672–78).",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1733,
+     "label": "1733",
+     "text": "In 1733 another war broke in central Europe, this time about the Polish succession, and France joined the war against the Austrian Empire.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1738,
+     "label": "1738",
+     "text": "Peace was settled in the Treaty of Vienna (1738), according to which France would annex, through inheritance, the Duchy of Lorraine.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1778,
+     "label": "1778",
+     "text": "Having lost its colonial empire, France saw a good opportunity for revenge against Britain in signing an alliance with the Americans in 1778, and sending an army and navy that turned the American Revolution into a world war.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1783,
+     "label": "1783",
+     "text": "The war was concluded by the Treaty of Paris (1783); the United States became independent.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 511,
+   "end": 1783,
+   "photos": [],
+   "narrative": "In 486 Clovis I, leader of the Salian Franks, defeated Syagrius at Soissons and subsequently united most of northern and central Gaul under his rule, later recording victories against the Alamanni at Tolbiac [S3]. In 511 Clovis made Paris his capital and established the Merovingian dynasty but his kingdom did not survive his death in 511 [S3]. After a last brief reunification (884–887), the imperial title ceased to be held in the western realm, which was to form the basis of the future French kingdom [S3]. Thanks to Abbot Suger's political advice, King Louis VII enjoyed greater moral authority over France than his predecessors [S3]. The provided excerpts reflect only a Western political perspective focused on French rulers and thus present a limited point of view [S3]."
+  },
+  {
+   "title": "Revolutionary France (1789–1799)",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Revolutionary_France_(1789–1799)",
+   "source": 4,
+   "summary": "The French Revolution was a period of political and societal change in France that began with the Estates General of 1789, and ended with the coup of 18 Brumaire in November 1799 and the formation of the French Consulate. Many of its ideas are considered fundamental principles of liberal democracy, while its values and institutions remain central to modern French political discourse.",
+   "events": [
+    {
+     "year": 1789,
+     "label": "1789",
+     "text": "The French Revolution was a period of political and societal change in France that began with the Estates General of 1789, and ended with the coup of 18 Brumaire in November 1799 and the formation of the French Consulate.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1792,
+     "label": "1792",
+     "text": "Military defeats following the outbreak of the French Revolutionary Wars in April 1792 resulted in the insurrection of 10 August 1792.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1793,
+     "label": "1793",
+     "text": "The monarchy was abolished and replaced by the French First Republic in September, while Louis XVI was executed in January 1793.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1794,
+     "label": "1794",
+     "text": "About 16,000 people were executed in a Reign of Terror, which ended in July 1794.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1795,
+     "label": "1795",
+     "text": "Weakened by external threats and internal opposition, the Republic was replaced in 1795 by the Directory.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1799,
+     "label": "1799",
+     "text": "Four years later in 1799, the Consulate seized power in a military coup led by Napoleon Bonaparte.",
+     "source": 4,
+     "corroborated": true
+    }
+   ],
+   "start": 1789,
+   "end": 1799,
+   "photos": [],
+   "narrative": "The French Revolution was a period of political and societal change in France that began with the Estates General of 1789 and ended with the coup of 18 Brumaire in November 1799 and the formation of the French Consulate [S4]. Military defeats following the outbreak of the French Revolutionary Wars in April 1792 resulted in the insurrection of 10 August 1792 [S4]. The monarchy was abolished and replaced by the French First Republic in September, while Louis XVI was executed in January 1793 [S4]. About 16,000 people were executed in a Reign of Terror, which ended in July 1794 [S4]. Weakened by external threats and internal opposition, the Republic was replaced in 1795 by the Directory [S4]. Four years later in 1799, the Consulate seized power in a military coup led by Napoleon Bonaparte [S4]."
+  },
+  {
+   "title": "Napoleonic France (1799–1815)",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Napoleonic_France_(1799–1815)",
+   "source": 5,
+   "summary": "As Great Britain was still at war with France, a plan was made to take Egypt from the Ottoman Empire, a British ally. This was Napoleon's idea and the Directory agreed to the plan in order to send the popular general away from the mainland.",
+   "events": [
+    {
+     "year": 1790,
+     "label": "1790",
+     "text": "The Revolution in the 1790s abolished the traditional universities.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1798,
+     "label": "1798",
+     "text": "Napoleon defeated the Ottoman forces during the Battle of the Pyramids (1798).",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1800,
+     "label": "1800",
+     "text": "The Austrian army was defeated at the Battle of Marengo and the Battle of Hohenlinden in 1800.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1801,
+     "label": "1801",
+     "text": "While at sea, the French had some success at Boulogne, but Nelson's Royal Navy destroyed an anchored Danish and Norwegian fleet at the Battle of Copenhagen (1801), because the Scandinavian kingdoms opposed the British blockade of France.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1804,
+     "label": "1804",
+     "text": "In 1804, Napoleon was titled Emperor by the senate, thus founding the First French Empire.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1807,
+     "label": "1807",
+     "text": "There the Russian Empire was defeated at the Battle of Friedland (14 June 1807).",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1808,
+     "label": "1808",
+     "text": "This occupation of the Iberian peninsula fueled local nationalism, and soon the Spanish and Portuguese fought the French using guerilla tactics, defeating the French forces at the Battle of Bailén (June and July 1808).",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1809,
+     "label": "1809",
+     "text": "The Austrian Empire defeated the French at Aspern-Essling, yet was beaten at Wagram while the Polish allies defeated the Austrian Empire at Raszyn (April 1809).",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1812,
+     "label": "1812",
+     "text": "In 1812, war broke out with Russia, engaging Napoleon in the disastrous French invasion of Russia (1812).",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1815,
+     "label": "1815",
+     "text": "It ended with his final defeat at the Battle of Waterloo in 1815, and his exile to St.",
+     "source": 5,
+     "corroborated": true
+    }
+   ],
+   "start": 1790,
+   "end": 1815,
+   "photos": [],
+   "narrative": "As Great Britain was still at war with France, a plan was made to take Egypt from the Ottoman Empire, a British ally [S5]. This was Napoleon's idea and the Directory agreed to the plan in order to send the popular general away from the mainland [S5]. Napoleon defeated the Ottoman forces during the Battle of the Pyramids (1798) [S5]. In 1804, Napoleon was titled Emperor by the senate, thus founding the First French Empire [S5]. In 1812, war broke out with Russia, engaging Napoleon in the disastrous French invasion of Russia (1812) [S5]. It ended with his final defeat at the Battle of Waterloo in 1815, and his exile to St [S5]. The excerpts reflect only a perspective centered on French military actions [S5]."
+  },
+  {
+   "title": "1815–1914",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#1815–1914",
+   "source": 6,
+   "summary": "The century after the fall of Napoleon I was politically unstable: Every [French] head of state from 1814 to 1873 spent part of his life in exile. Every regime was the target of assassination attempts of a frequency that put Spanish and Russian politics in the shade.",
+   "events": [
+    {
+     "year": 1789,
+     "label": "1789",
+     "text": "The period from 1789 to 1914, dubbed the \"Long nineteenth century\" by the historian Eric Hobsbawm, extends from the French Revolution's aftermath to the brink of World War I.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1814,
+     "label": "1814",
+     "text": "The century after the fall of Napoleon I was politically unstable: Every [French] head of state from 1814 to 1873 spent part of his life in exile.",
+     "source": 6,
+     "corroborated": true
+    },
+    {
+     "year": 1850,
+     "label": "19th c.",
+     "text": "The 19th century saw France expanding to nearly its modern territorial limits through annexations and overseas imperialism, notably in Algeria, Indochina, and Africa.",
+     "source": 6,
+     "corroborated": true
+    },
+    {
+     "year": 1852,
+     "label": "1852",
+     "text": "The Second Empire (1852–1870) sought modernization through infrastructure projects like the railway system, yet Napoleon III's foreign policy ventures often ended in failure, notably the catastrophic Franco-Prussian War which led to his capture and deposition.",
+     "source": 6,
+     "corroborated": true
+    }
+   ],
+   "start": 1789,
+   "end": 1852,
    "photos": [
     {
      "title": "Paris, Notre Dame, RP-F-F24968",
@@ -159,325 +557,235 @@
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'histoire de France commence avec les premières occupations humaines du territoire correspondant au pays actuel, enrichies à l'âge du bronze et du fer par des vagues celtes et romaines dès le IIe siècle av. [S1] Clovis (466-511), roi des Francs saliens, scelle par son baptême à Reims l'alliance avec l'Église catholique et unit les tribus salienne et ripuaire, territoires agrandis par les Mérovingiens puis les Carolingiens fondés en 751. [S1] L'Empire carolingien est partagé en 843 par le traité de Verdun entre Francie occidentale et Francie orientale. [S1] Paris devient capitale avec l'avènement en 987, le nom de France s'impose vers 1190 avec rex Franciæ sous Philippe Auguste et regnum Franciæ dès juin 1205, mais le royaume au sens juridique n'existe que du point de vue royal à partir du XIIe siècle. [S1]"
+   "narrative": "The period from 1789 to 1914, dubbed the \"Long nineteenth century\" by Eric Hobsbawm, extends from the French Revolution's aftermath to the brink of World War I [S6]. The century after the fall of Napoleon I was politically unstable: Every French head of state from 1814 to 1873 spent part of his life in exile [S6]. Every regime was the target of assassination attempts of a frequency that put Spanish and Russian politics in the shade [S6]. The 19th century saw France expanding to nearly its territorial limits through annexations and overseas imperialism, notably in Algeria, Indochina, and Africa [S6]. The Second Empire (1852–1870) sought modernization through infrastructure projects like the railway system, yet Napoleon III's foreign policy ventures often ended in failure, notably the Franco-Prussian War which led to his capture and deposition [S6]."
   },
   {
-   "title": "Le Moyen Âge et la formation de la France",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#Le_Moyen_Âge_et_la_formation_de_la_France",
-   "source": 2,
-   "summary": "L'histoire de la France au Moyen Âge de 476 à 1453 se caractérise par plusieurs périodes et événements marquants durant dix siècles de Clovis à Charles VIII : l'affirmation du christianisme, la désintégration de l'Empire romain, la longue genèse du royaume de France, la grande peste, la guerre de Cent Ans, etc. La société est marquée par l'essor des campagnes et de la population française, le développement du commerce (foires et marchés) et la renaissance urbaine, l'apparition des universités et la formation de la ",
+   "title": "Colonial empire",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Colonial_empire",
+   "source": 7,
+   "summary": "The second colonial empire constituted the overseas colonies, protectorates and mandate territories that came under French rule from the 16th century onward. A distinction is generally made between the \"first colonial empire\", that existed until 1814, by which time most of it had been lost, and the \"second colonial empire\", which began with the conquest of Algiers in 1830.",
    "events": [
     {
-     "year": 466,
-     "label": "466",
-     "text": "Au milieu de ces enchevêtrements de peuples, les Francs saliens installés dans le Nord de la Gaule et les Francs ripuaires sur les rives du Rhin et de la Moselle, font la conquête d'une grande partie de la Gaule sous l'autorité de leur roi Clovis Ier (466-511).",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 476,
-     "label": "476",
-     "text": "L'histoire de la France au Moyen Âge de 476 à 1453 se caractérise par plusieurs périodes et événements marquants durant dix siècles de Clovis à Charles VIII : l'affirmation du christianisme, la désintégration de l'Empire romain, la longue genèse du royaume de France, la grande peste, la guerre de Cent Ans, etc.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 650,
-     "label": "VIIe s.",
-     "text": "La carte du pays évolue au gré des guerres, des crises et des héritages : le royaume de Clovis est vite divisé entre Neustrie, Austrasie et Aquitaine, qui deviennent avec la Bourgogne conquise par les fils de Clovis dans les années 530, les divisions politiques majeures de la « Gaule » au VIe et au VIIe siècle.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 751,
-     "label": "751",
-     "text": "Son fils Pépin le Bref fait enfermer dans un couvent le dernier roi mérovingien, Childéric III, puis se fait élire roi par les guerriers francs en 751.",
-     "source": 2,
-     "corroborated": true
-    },
-    {
-     "year": 1360,
-     "label": "1360",
-     "text": "Le dauphin Charles est contraint de signer le traité de Brétigny en 1360 qui concède aux Anglais un bon tiers du royaume de France, prévoit le paiement d'une énorme rançon de 3 millions d'écus d'or pour la libération de Jean II le Bon, soit l'équivalent des recettes du roi pendant deux ans.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1635,
-     "label": "1635",
-     "text": "Dès 1635, Louis XIII et le cardinal de Richelieu s'engagent dans la guerre de Trente Ans auprès des princes allemands protestants pour réduire la puissance de la dynastie des Habsbourg, d'Espagne, la première puissance européenne à cette époque et de ceux d'Autriche qui sont à la tête du Saint-Empire romain germanique.",
-     "source": 2,
-     "corroborated": true
-    },
-    {
-     "year": 1688,
-     "label": "1688",
-     "text": "Le 25 septembre 1688, Louis XIV lance un ultimatum exigeant que la trêve qui lui accordait l'occupation des « réunions » pour 20 ans soit transformée en traité définitif.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1689,
-     "label": "1689",
-     "text": "À partir de 1689, commence une série de guerres coloniales contre les Anglais, les deux adversaires ajoutant à leurs rivalités continentales une concurrence commerciale, maritime et territoriale dont les colonies constituent la principale scène de conflit.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1755,
-     "label": "1755",
-     "text": "La Corse, indépendante de facto depuis 1755, est symboliquement cédée par la république de Gênes en 1768 puis soumise militairement après la bataille de Ponte-Novo en mai 1769.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1759,
-     "label": "1759",
-     "text": "L'issue en est désastreuse pour l'empire colonial français : Québec est prise en 1759, Montréal se rend en 1760, et le traité de Paris de 1763 entérine la perte par la France du Canada et de la Louisiane.",
-     "source": 2,
-     "corroborated": true
-    }
-   ],
-   "start": 466,
-   "end": 1759,
-   "photos": [],
-   "narrative": "L'histoire de la France au Moyen Âge s'étend de 476 à 1453, de Clovis à Charles VIII, et se caractérise par l'affirmation du christianisme, la désintégration de l'Empire romain et la genèse du royaume de France [S2]. Au milieu d'enchevêtrements de peuples, les Francs saliens du Nord de la Gaule et les Francs ripuaires du Rhin et de la Moselle conquièrent une grande partie de la Gaule sous Clovis Ier (466-511) [S2]. Son royaume est ensuite divisé entre Neustrie, Austrasie, Aquitaine et Bourgogne conquise dans les années 530, divisions majeures des VIe et VIIe siècles [S2]. En 751, Pépin le Bref fait enfermer Childéric III et se fait élire roi par les guerriers francs [S2]. En 1360, le dauphin Charles signe le traité de Brétigny concédant un tiers du royaume aux Anglais [S2]. Ces extraits reflètent uniquement un point de vue centré sur la formation du royaume de France."
-  },
-  {
-   "title": "La période révolutionnaire",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#La_période_révolutionnaire",
-   "source": 3,
-   "summary": "La période révolutionnaire commence vers 1787. À cette époque la monarchie absolue est incapable de conduire les réformes, notamment fiscales, indispensables à la modernisation de la France face à la contestation des groupes privilégiés, parlements et noblesse en tête.",
-   "events": [
-    {
-     "year": 1789,
-     "label": "1789",
-     "text": "Avec le retour forcé du roi à Paris les 5 et 6 octobre 1789, la Révolution semble avoir atteint ses buts : faire naître une monarchie parlementaire en rabaissant le prestige du roi et en restreignant ses pouvoirs.",
-     "source": 3,
-     "corroborated": true
-    },
-    {
-     "year": 1790,
-     "label": "1790",
-     "text": "L'affaire des princes possessionnés d'Alsace et de l'annexion d'Avignon et du Comtat Venaissin en 1790 permet aux révolutionnaires de poser un nouveau principe du droit international, le droit des peuples à disposer d'eux-mêmes.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1791,
-     "label": "1791",
-     "text": "À partir de 1791, une importante révolte d'esclaves débute à Saint-Domingue, la plus riche colonie française, peuplée en 1789 de 25 000 Blancs, 28 000 Libres de couleur et presque 500 000 esclaves.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1792,
-     "label": "1792",
-     "text": "Les défaites des premiers combats et l'invasion du territoire national ont pour conséquence la chute de la monarchie le 10 août 1792 et la proclamation de la République le 22 septembre 1792.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1793,
-     "label": "1793",
-     "text": "À partir de mars 1793, l'Ouest de la France est la proie d'une insurrection catholique et royaliste, appelée guerre de Vendée.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1802,
-     "label": "1802",
-     "text": "L'esclavage est progressivement rétabli par Bonaparte en 1802, sauf à Saint-Domingue qui accède à l'indépendance en 1804 sous le nom d'Haïti.",
-     "source": 3,
+     "year": 1550,
+     "label": "16th c.",
+     "text": "The second colonial empire constituted the overseas colonies, protectorates and mandate territories that came under French rule from the 16th century onward.",
+     "source": 7,
      "corroborated": false
     },
     {
      "year": 1814,
      "label": "1814",
-     "text": "La période révolutionnaire se termine en 1814-1815, quand l'empereur Napoléon Ier est envoyé en exil d'abord à l'île d'Elbe et ensuite dans l'île de Sainte-Hélène.",
-     "source": 3,
-     "corroborated": true
-    },
-    {
-     "year": 1848,
-     "label": "1848",
-     "text": "La constitution du 4 novembre 1848 choisit de confier le pouvoir exécutif à un président élu au suffrage universel direct pour une durée de quatre ans.",
-     "source": 3,
+     "text": "A distinction is generally made between the \"first colonial empire\", that existed until 1814, by which time most of it had been lost, and the \"second colonial empire\", which began with the conquest of Algiers in 1830.",
+     "source": 7,
      "corroborated": false
     },
     {
-     "year": 1861,
-     "label": "1861",
-     "text": "En échange de ses bons offices, la France reçoit du royaume de Sardaigne le duché de Savoie et le comté de Nice annexés à la France en 1861 après la signature du traité de Turin.",
-     "source": 3,
+     "year": 1880,
+     "label": "1880",
+     "text": "Republicans, at first hostile to empire, only became supportive when Germany after 1880 started to build their own colonial empire.",
+     "source": 7,
      "corroborated": false
     },
     {
-     "year": 1866,
-     "label": "1866",
-     "text": "En échange de sa neutralité bienveillante lors de la guerre austro-prussienne de 1866, l'empereur réclame des compensations territoriales que Bismarck, le chancelier prussien, refuse de lui accorder.",
-     "source": 3,
-     "corroborated": false
-    }
-   ],
-   "start": 1789,
-   "end": 1866,
-   "photos": [
-    {
-     "title": "Charles Nègre, The Angel of the Resurrection on the Roof of Notre-Dame, Paris, 1853",
-     "year": 1853,
-     "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/acebafe01d35.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Charles_N%C3%A8gre,_The_Angel_of_the_Resurrection_on_the_Roof_of_Notre-Dame,_Paris,_1853.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Édouard Baldus, Facade of Notre-Dame de Paris, between 1851 and 1870",
-     "year": 1851,
-     "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/afdad06fe765.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Baldus,_Facade_of_Notre-Dame_de_Paris,_between_1851_and_1870.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Paris, Notre Dame, RP-F-F24968",
-     "year": 1850,
-     "license": "CC0",
-     "image": "/media/places/paris-parvis-notre-dame/archive/0434dfc4eda2.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Paris,_Notre_Dame,_RP-F-F24968.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Notre Dame, Paris, 1850s",
-     "year": 1850,
-     "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/d1e9110013e3.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame,_Paris,_1850s.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Chambre de Commerce de Paris. Enquête sur l'industrie. Paris divisé par quartiers et arrondissements, 1850 - BHVP",
-     "year": 1850,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements%2C_1850_-_BHVP.jpg/960px-Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements%2C_1850_-_BHVP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements,_1850_-_BHVP.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Illustration of the Jung Bahadur Rana's visit in Paris in 1850",
-     "year": 1850,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png/960px-Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Portail de Notre-Dame, 1855",
-     "year": 1855,
-     "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/77dd9dbd892c.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Portail_de_Notre-Dame,_1855.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Facade de la Cathédrale Notre Dame de Paris Archives nationales CP-332AP-26-E",
-     "year": 1856,
-     "license": "CC BY-SA 4.0",
-     "image": "/media/places/paris-parvis-notre-dame/archive/b445006ab8c7.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Facade_de_la_Cath%C3%A9drale_Notre_Dame_de_Paris_Archives_nationales_CP-332AP-26-E.jpg",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "La période révolutionnaire commence vers 1787, lorsque la monarchie absolue se montre incapable de conduire les réformes, notamment fiscales, nécessaires à la modernisation de la France face à la contestation des privilégiés [S3]. Le retour forcé du roi à Paris les 5 et 6 octobre 1789 semble marquer l'avènement d'une monarchie parlementaire au prestige et aux pouvoirs réduits [S3]. À partir de 1791, une importante révolte d'esclaves éclate à Saint-Domingue, alors peuplée de 25 000 Blancs, 28 000 Libres de couleur et presque 500 000 esclaves [S3]. Les défaites militaires et l'invasion entraînent la chute de la monarchie le 10 août 1792 puis la proclamation de la République le 22 septembre 1792 [S3]. La période s'achève en 1814-1815 avec l'exil de Napoléon Ier à Elbe puis à Sainte-Hélène [S3]."
-  },
-  {
-   "title": "D'une guerre à l'autre (1914 - 1945)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#D'une_guerre_à_l'autre_(1914_-_1945)",
-   "source": 4,
-   "summary": "Au début du XXe siècle, l'affrontement entre la France et l'Allemagne à propos du Maroc conduit à des incidents diplomatiques (coup de Tanger, crise d'Agadir). L'antagonisme franco-allemand puise sa force dans plusieurs problèmes dont dans la question de l'Alsace-Lorraine, les revendications coloniales tardives de l'Allemagne et son attitude agressive (weltpolitik).",
-   "events": [
-    {
-     "year": 1912,
-     "label": "1912",
-     "text": "Le 9 janvier 1912, le président de la République, Armand Fallières, chef constitutionnel des armées, avait déclaré : « Nous sommes résolus à marcher droit à l'ennemi sans arrière-pensée, l'offensive convient au tempérament de nos soldats et doit nous assurer la victoire, à condition de consacrer à la lutte toutes nos forces actives sans exception ».",
-     "source": 4,
+     "year": 1913,
+     "label": "1913",
+     "text": "The damages caused by the war amounted to about 113% of the GDP of 1913, chiefly the destruction of productive capital and housing.",
+     "source": 7,
      "corroborated": false
     },
     {
-     "year": 1914,
-     "label": "1914",
-     "text": "Les affrontements lors de la bataille des Frontières (août 1914) échouent et l'armée française doit se replier.",
-     "source": 4,
+     "year": 1915,
+     "label": "1915",
+     "text": "By 1915 the war economy went into high gear, as millions of French women and colonial men replaced the civilian roles of many of the 3 million soldiers.",
+     "source": 7,
      "corroborated": false
     },
     {
-     "year": 1919,
-     "label": "1919",
-     "text": "Bien plus, traumatisée par la Première Guerre mondiale, elle n'ose pas s'opposer à la politique extérieure agressive de l'Allemagne nazie dont le chef d'État, Adolf Hitler, veut revenir sur le traité de Versailles de 1919 et réunir à son Reich les peuples germaniques limitrophes, en vertu des idées pangermanistes.",
-     "source": 4,
-     "corroborated": true
+     "year": 1916,
+     "label": "1916",
+     "text": "Famous battles in France include the Battle of Verdun and the Battle of the Somme in 1916, and five separate conflicts called the Battle of Ypres (from 1914 to 1918).",
+     "source": 7,
+     "corroborated": false
     },
     {
-     "year": 1938,
-     "label": "1938",
-     "text": "L'état d'esprit pacifiste français atteint un sommet en septembre 1938 avec la signature des accords de Munich permettant à Hitler de prendre possession du territoire des Sudètes sans combattre (au mépris de ces accords, Hitler progressera plus loin en Tchécoslovaquie quelques mois plus tard, en mars 1939).",
-     "source": 4,
+     "year": 1939,
+     "label": "1939",
+     "text": "Germany's invasion of Poland in 1939 finally caused France and Britain to declare war against Germany.",
+     "source": 7,
      "corroborated": true
     },
     {
      "year": 1940,
      "label": "1940",
-     "text": "Dès 1940, les Japonais qui occupent l'Indochine française encouragent le mouvement de décolonisation qui aboutira le 2 septembre 1945 à la proclamation de l'indépendance du Viêt Nam par Hô Chi Minh.",
-     "source": 4,
+     "text": "Vichy France was established on 10 July 1940 to govern the unoccupied part of France and its colonies.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 1946,
+     "label": "1946",
+     "text": "The French Constitution of 27 October 1946 (Fourth Republic), established the French Union which endured until 1958.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 1954,
+     "label": "1954",
+     "text": "The second colonial empire came to an end after the loss in later wars of Vietnam (1954) and Algeria (1962), and relatively peaceful decolonizations elsewhere after 1960.",
+     "source": 7,
+     "corroborated": false
+    }
+   ],
+   "start": 1550,
+   "end": 1954,
+   "photos": [
+    {
+     "title": "Notre-Dame te Parijs 223 Paris. - Église Notre-Dame (titel op object), RP-F-F16452",
+     "year": 1900,
+     "license": "CC0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/ce6ec89230ab.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_te_Parijs_223_Paris._-_%C3%89glise_Notre-Dame_(titel_op_object),_RP-F-F16452.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "L'église Notre-Dame face Paris",
+     "year": 1900,
+     "license": "Licence Ouverte",
+     "image": "/media/places/paris-parvis-notre-dame/archive/917ef7372eda.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:L%27%C3%A9glise_Notre-Dame_face_Paris.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Paris - Parvis Notre Dame, ca. 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/e8cbc1b596e6.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Parvis_Notre_Dame,_ca._1900.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Notre-Dame l'abside Paris",
+     "year": 1900,
+     "license": "Licence Ouverte",
+     "image": "/media/places/paris-parvis-notre-dame/archive/4fce96eada4b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_l%27abside_Paris.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Nettoyeurs de réverbères, place du Parvis-Notre-Dame, 4ème arrondissement, Paris. PH1049",
+     "year": 1900,
+     "license": "CC0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/ea6e293439a8.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Nettoyeurs_de_r%C3%A9verb%C3%A8res,_place_du_Parvis-Notre-Dame,_4%C3%A8me_arrondissement,_Paris._PH1049.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Paris - Parvis Notre Dame",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/adb3b61a4cb8.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Parvis_Notre_Dame.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Auguste Hippolyte Collard, Notre-Dame de Paris, façade ouest et parvis, 1890 01",
+     "year": 1890,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/66a6345344e7.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Auguste_Hippolyte_Collard,_Notre-Dame_de_Paris,_fa%C3%A7ade_ouest_et_parvis,_1890_01.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Notre Dame, Paris, France, ca. 1890-1900",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/f0bbb00ad24d.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame,_Paris,_France,_ca._1890-1900.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "The second colonial empire constituted the overseas colonies, protectorates and mandate territories that came under French rule from the 16th century onward [S7]. A distinction is generally made between the \"first colonial empire\", that existed until 1814, by which time most of it had been lost, and the \"second colonial empire\", which began with the conquest of Algiers in 1830 [S7]. Republicans, at first hostile to empire, only became supportive when Germany after 1880 started to build their own colonial empire [S7]. The French Constitution of 27 October 1946 established the French Union which endured until 1958 [S7]. The second colonial empire came to an end after the loss in later wars of Vietnam (1954) and Algeria (1962), and relatively peaceful decolonizations elsewhere after 1960 [S7]. These excerpts reflect only a colonial point of view."
+  },
+  {
+   "title": "Since 1945",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Since_1945",
+   "source": 8,
+   "summary": "The political scene in 1944–45 was controlled by the Resistance, but it had numerous factions. Charles de Gaulle and the Free France element had been based outside France, but now came to dominate, in alliance with the Socialists, the Christian Democrats (MRP), and what remained of the Radical party.",
+   "events": [
+    {
+     "year": 1931,
+     "label": "1931",
+     "text": "The debts left over from World War I, whose payment had been suspended since 1931, were renegotiated in the Blum-Byrnes agreement of 1946.",
+     "source": 8,
      "corroborated": false
     },
     {
      "year": 1946,
      "label": "1946",
-     "text": "En 1946, le Gouvernement provisoire cède la place à la Quatrième République, instaurée par une nouvelle constitution approuvée par référendum.",
-     "source": 4,
+     "text": "On 13 October 1946, a new constitution established the Fourth Republic.",
+     "source": 8,
      "corroborated": false
     },
     {
-     "year": 1947,
-     "label": "1947",
-     "text": "Vincent Auriol est le premier président de la IVe République, de 1947 à 1954.",
-     "source": 4,
+     "year": 1951,
+     "label": "1951",
+     "text": "France received additional aid from 1951 to 1955 in order to help the country in its war in Indochina.",
+     "source": 8,
      "corroborated": false
+    },
+    {
+     "year": 1956,
+     "label": "1956",
+     "text": "Pierre France next came to an agreement with Habib Bourguiba, the nationalist leader in Tunisia, for the independence of that colony by 1956, and began discussions with Moroccan nationalists for a French withdrawal.",
+     "source": 8,
+     "corroborated": true
     },
     {
      "year": 1958,
      "label": "1958",
-     "text": "Charles de Gaulle, élu président de la République le 21 décembre 1958, réélu en 1965 face à François Mitterrand, demeure président jusqu'en 1969, date à laquelle l'ancien premier ministre Georges Pompidou lui succède.",
-     "source": 4,
-     "corroborated": true
+     "text": "The May 1958 seizure of power in Algiers by French army units and French settlers opposed to concessions in the face of Arab nationalist insurrection ripped apart the unstable Fourth Republic.",
+     "source": 8,
+     "corroborated": false
     },
     {
-     "year": 1981,
-     "label": "1981",
-     "text": "En 1981, François Mitterrand est élu président de la République, battant le chef de l'État sortant Valéry Giscard d'Estaing et ramenant la gauche au pouvoir pour la première fois depuis la Quatrième République.",
-     "source": 4,
+     "year": 1962,
+     "label": "1962",
+     "text": "The Algerian War was concluded with the Évian Accords in 1962 which led to Algerian independence.",
+     "source": 8,
      "corroborated": false
+    },
+    {
+     "year": 1990,
+     "label": "1990",
+     "text": "In 1990, France, led by Mitterrand, joined the short successful Gulf War against Iraq; the French participation to this war was called the Opération Daguet.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 2002,
+     "label": "2002",
+     "text": "Jacques Chirac was reelected in 2002, and became a fierce opponent of the Iraq invasion.",
+     "source": 8,
+     "corroborated": true
     },
     {
      "year": 2017,
      "label": "2017",
-     "text": "En mai 2017, Emmanuel Macron, le plus jeune président de la République et le plus jeune dirigeant français depuis Napoléon Bonaparte, succède à François Hollande.",
-     "source": 4,
+     "text": "In the 2017 election for president the winner was Emmanuel Macron, the founder of a new party \"La République En Marche!\" (later Renaissance RE).",
+     "source": 8,
      "corroborated": true
+    },
+    {
+     "year": 2022,
+     "label": "2022",
+     "text": "In the 2022 presidential election president Macron was re-elected after beating his far-right rival, Marine Le Pen, in the runoff.",
+     "source": 8,
+     "corroborated": false
     }
    ],
-   "start": 1912,
-   "end": 2017,
+   "start": 1931,
+   "end": 2022,
    "photos": [
-    {
-     "title": "9-11-33, obsèques du Prof. Roux (vue générale du parvis de Notre-Dame de Paris) - btv1b53286418t",
-     "year": 1933,
-     "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/6fbc333212cb.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:9-11-33,_obs%C3%A8ques_du_Prof._Roux_(vue_g%C3%A9n%C3%A9rale_du_parvis_de_Notre-Dame_de_Paris)_-_btv1b53286418t.jpg",
-     "source": "Wikimedia Commons"
-    },
     {
      "title": "Bundesarchiv Bild 101I-129-0480-05A, Paris, Notre Dame, deutsche Soldaten beim Einkauf",
      "year": 1940,
@@ -487,114 +795,135 @@
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Notre Dame, Paris, ca. 1920–39",
-     "year": 1920,
+     "title": "9-11-33, obsèques du Prof. Roux (vue générale du parvis de Notre-Dame de Paris) - btv1b53286418t",
+     "year": 1933,
      "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/04b1b62403ef.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame,_Paris,_ca._1920%E2%80%9339.jpg",
+     "image": "/media/places/paris-parvis-notre-dame/archive/6fbc333212cb.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:9-11-33,_obs%C3%A8ques_du_Prof._Roux_(vue_g%C3%A9n%C3%A9rale_du_parvis_de_Notre-Dame_de_Paris)_-_btv1b53286418t.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Notre-Dame (de Paris, vue du parvis) - btv1b531142591",
-     "year": 1912,
+     "title": "1930-Jean Maréchal-Paris-Roubaix",
+     "year": 1930,
      "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/ca34ca71880d.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_(de_Paris,_vue_du_parvis)_-_btv1b531142591.jpg",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1930-Jean_Mar%C3%A9chal-Paris-Roubaix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1930-Jean_Mar%C3%A9chal-Paris-Roubaix.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Notre-Dame (vue de la foule sur le parvis, drapeaux sur la façade) - btv1b69178692",
-     "year": 1912,
+     "title": "1930 Paris-Nice Chenard-Walcker Y8 Chauvierre",
+     "year": 1930,
      "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/1f1f6dfdcc21.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_(vue_de_la_foule_sur_le_parvis,_drapeaux_sur_la_fa%C3%A7ade)_-_btv1b69178692.jpg",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/1930_Paris-Nice_Chenard-Walcker_Y8_Chauvierre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1930_Paris-Nice_Chenard-Walcker_Y8_Chauvierre.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "21-6-11, obsèques du docteur Guinard - btv1b6915786m",
-     "year": 1911,
+     "title": "Char de la Reine des Corses - Mi-Carême à Paris 1930",
+     "year": 1930,
      "license": "Public domain",
-     "image": "/media/places/paris-parvis-notre-dame/archive/999882759886.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:21-6-11,_obs%C3%A8ques_du_docteur_Guinard_-_btv1b6915786m.jpg",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg/960px-Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "A Brouhot car in Paris, 1910",
-     "year": 1910,
+     "title": "Emile Bernard, The Marie Bridge, Paris, 1930",
+     "year": 1930,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/A_Brouhot_car_in_Paris%2C_1910.jpg/960px-A_Brouhot_car_in_Paris%2C_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:A_Brouhot_car_in_Paris,_1910.jpg",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Emile_Bernard%2C_The_Marie_Bridge%2C_Paris%2C_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Emile_Bernard,_The_Marie_Bridge,_Paris,_1930.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Coanda aircraft at 1910 Paris salon",
-     "year": 1910,
+     "title": "Fred Perry Paris Londres 1930",
+     "year": 1930,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coanda_aircraft_at_1910_Paris_salon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Coanda_aircraft_at_1910_Paris_salon.jpg",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Fred_Perry_Paris_Londres_1930.jpg/960px-Fred_Perry_Paris_Londres_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Fred_Perry_Paris_Londres_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Louis Gaudin - Casino de Paris - Josephine Baker 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Louis_Gaudin_-_Casino_de_Paris_-_Josephine_Baker_1930.jpg/960px-Louis_Gaudin_-_Casino_de_Paris_-_Josephine_Baker_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Louis_Gaudin_-_Casino_de_Paris_-_Josephine_Baker_1930.jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'antagonisme franco-allemand au début du XXe siècle puise sa force dans l'Alsace-Lorraine, les revendications coloniales tardives de l'Allemagne et sa weltpolitik agressive, illustrée par le coup de Tanger et la crise d'Agadir au Maroc [S4]. Le 9 janvier 1912, le président Armand Fallières déclare que l'offensive convient au tempérament des soldats français [S4]. En août 1914, la bataille des Frontières échoue et l'armée française se replie [S4]. Traumatisée, la France n'ose s'opposer à Hitler qui veut revenir sur le traité de Versailles de 1919 [S4]. En septembre 1938, les accords de Munich lui cèdent les Sudètes [S4]. Dès 1940, l'occupation japonaise de l'Indochine française encourage la décolonisation jusqu'à l'indépendance du Viêt Nam le 2 septembre 1945 [S4]. Ces extraits reflètent uniquement un point de vue français [S4]."
-  },
-  {
-   "title": "Historiographie",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#Historiographie",
-   "source": 5,
-   "summary": "Jusqu'à la Révolution française, l'histoire de France est partielle et partiale, consistant essentiellement en chroniques commandées par les rois qui s'inventent des ancêtres troyens. L'historiographie monarchique se nourrit ainsi de nombreux mythes.",
-   "events": [],
-   "start": null,
-   "end": null,
-   "photos": [],
-   "narrative": "Selon l'extrait fourni, jusqu'à la Révolution française, l'histoire de France est partielle et partiale [S5]. Selon ce même extrait, cette histoire consiste essentiellement en chroniques commandées par les rois [S5]. Toujours selon l'extrait, ces rois s'inventent des ancêtres troyens [S5]. L'extrait indique également que l'historiographie monarchique se nourrit ainsi de nombreux mythes [S5]. Le résumé fourni ne donne aucune autre information sur des événements précis de cette historiographie avant la Révolution française [S5]. Ce résumé reflète un point de vue critique limité à la description de cette historiographie monarchique partielle et partiale [S5]. Aucun autre fait, date ou acteur supplémentaire n'est mentionné dans les extraits disponibles [S5]."
+   "narrative": "The political scene in 1944–45 was controlled by the Resistance, but it had numerous factions [S8]. Charles de Gaulle and the Free France element had been based outside France, but now came to dominate, in alliance with the Socialists, the Christian Democrats (MRP), and what remained of the Radical party [S8]. France next came to an agreement with Habib Bourguiba, the nationalist leader in Tunisia, for the independence of that colony by 1956, and began discussions with Moroccan nationalists for a French withdrawal [S8]. The Algerian War was concluded with the Évian Accords in 1962 which led to Algerian independence [S8]. In the 2017 election for president the winner was Emmanuel Macron, the founder of a new party \"La République En Marche!\" (later Renaissance RE) [S8]. The excerpts reflect a French-centered point of view [S8]."
   }
  ],
  "sources": [
   {
    "n": 1,
-   "title": "Histoire de France › Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France",
-   "lang": "fr",
+   "title": "History of France › Introduction",
+   "url": "https://en.wikipedia.org/wiki/History_of_France",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 2,
-   "title": "Histoire de France › Le Moyen Âge et la formation de la France",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#Le_Moyen_Âge_et_la_formation_de_la_France",
-   "lang": "fr",
+   "title": "History of France › Prehistory",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Prehistory",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 3,
-   "title": "Histoire de France › La période révolutionnaire",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#La_période_révolutionnaire",
-   "lang": "fr",
+   "title": "History of France › Frankish kingdoms (486–987)",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Frankish_kingdoms_(486–987)",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 4,
-   "title": "Histoire de France › D'une guerre à l'autre (1914 - 1945)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#D'une_guerre_à_l'autre_(1914_-_1945)",
-   "lang": "fr",
+   "title": "History of France › Revolutionary France (1789–1799)",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Revolutionary_France_(1789–1799)",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 5,
-   "title": "Histoire de France › Historiographie",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France#Historiographie",
-   "lang": "fr",
+   "title": "History of France › Napoleonic France (1799–1815)",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Napoleonic_France_(1799–1815)",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 6,
-   "title": "History of France",
-   "url": "https://en.wikipedia.org/wiki/History_of_France",
+   "title": "History of France › 1815–1914",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#1815–1914",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 7,
+   "title": "History of France › Colonial empire",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Colonial_empire",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 8,
+   "title": "History of France › Since 1945",
+   "url": "https://en.wikipedia.org/wiki/History_of_France#Since_1945",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 9,
+   "title": "Histoire de France",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_France",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
@@ -602,27 +931,27 @@
  "gaps": [
   {
    "from": null,
-   "to": 466,
-   "text": "Avant 466, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": -800,
+   "text": "Before 800 BC, history is not dated in these sources: oral traditions, archaeology and local sources are still to be brought in."
   },
   {
-   "from": null,
-   "to": null,
-   "text": "Chapitres peu datés : Historiographie."
+   "from": 1815,
+   "to": 1931,
+   "text": "Between 1815 and 1931, the sources consulted give no precise date."
   }
  ],
  "stats": {
-  "chapters": 5,
-  "events": 40,
-  "corroborated": 10,
-  "share": 0.25,
+  "chapters": 8,
+  "events": 69,
+  "corroborated": 21,
+  "share": 0.3,
   "span": [
-   "466",
-   "2017"
+   "800 BC",
+   "2022"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "bcd3d2d2e6"
+ "run": "d70d3bb077"
 }

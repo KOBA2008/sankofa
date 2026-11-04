@@ -1,77 +1,141 @@
 {
  "place": "giza-pyramides",
- "lang": "fr",
+ "lang": "en",
  "sources": [
   {
    "n": 1,
-   "title": "Nécropole de Gizeh",
-   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 2,
    "title": "Giza pyramid complex",
    "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 2,
+   "title": "Nécropole de Gizeh",
+   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "events": [
   {
-   "year": -2500,
-   "label": "2500 av. J.-C.",
-   "text": "Réalisée vers -2500, elle serait attribuée à Djédefrê, l'un des pharaons de la IVe dynastie, représentant son père le roi Khéops, ou alors il s'agirait d'une réalisation de Khéphren ou de Khéops.",
-   "section": "Le Grand Sphinx",
-   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#Le_Grand_Sphinx",
+   "year": -2520,
+   "label": "2520 BC",
+   "text": "The workers' town appears to date from the middle 4th Dynasty (2520–2472 BC), after the accepted time of Khufu and completion of the Great Pyramid.",
+   "section": "Workers' village",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Workers'_village",
    "corroborated": false
   },
   {
-   "year": 200,
-   "label": "200",
-   "text": "Le village est situé au sud-est des complexes de Khéphren et Mykérinos, par delà le « mur du Corbeau » (mur en pierre calcaire de 200 m de long, 7 m de large et 10 m de haut).",
-   "section": "Le village des ouvriers",
-   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#Le_village_des_ouvriers",
+   "year": -2510,
+   "label": "2510 BC",
+   "text": "The king's pyramid, completed c. 2510 BC, has three subsidiary or queen's pyramids.",
+   "section": "Menkaure's complex",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Menkaure's_complex",
+   "corroborated": false
+  },
+  {
+   "year": 450,
+   "label": "5th c.",
+   "text": "During the Middle Ages (5th century to 15th century), people may have taken the rest away for building projects in the city of Cairo.",
+   "section": "Construction",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Construction",
+   "corroborated": false
+  },
+  {
+   "year": 1200,
+   "label": "1200",
+   "text": "On the other side of the pyramid in the West Field, the royals' sons Wepemnofret and Hemiunu were buried in Cemetery G 1200 and Cemetery G 4000, respectively.",
+   "section": "Cemeteries",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Cemeteries",
    "corroborated": false
   },
   {
    "year": 1860,
    "label": "1860",
-   "text": "Le temple bas a donné plusieurs statues de Khéphren, plusieurs d'entre elles ont été trouvées dans un puits du sol du temple par Mariette en 1860.",
-   "section": "La pyramide de Khéphren",
-   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#La_pyramide_de_Khéphren",
+   "text": "Several were found in a well in the floor of the temple by Mariette in 1860.",
+   "section": "Khafre's complex",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Khafre's_complex",
    "corroborated": true
   },
   {
-   "year": 1909,
-   "label": "1909",
-   "text": "D'autres ont été découvertes lors de fouilles successives par Sieglin (en 1909-1910), Junker, Reisner et Hassan.",
-   "section": "La pyramide de Khéphren",
-   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#La_pyramide_de_Khéphren",
-   "corroborated": true
+   "year": 1902,
+   "label": "1902",
+   "text": "In 1902, the Egyptian Antiquities Service under Gaston Maspero resolved to issue permits exclusively to authorized individuals representing public institutions.",
+   "section": "Italian, German, and American Concessions at Giza",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Italian,_German,_and_American_Concessions_at_Giza",
+   "corroborated": false
   },
   {
-   "year": 1932,
-   "label": "1932",
-   "text": "L'ensemble a été fouillé et identifié par Selim Hassan pendant les années 1932 et 1933.",
-   "section": "La pyramide de Khentkaous Ire",
-   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#La_pyramide_de_Khentkaous_Ire",
-   "corroborated": true
+   "year": 1903,
+   "label": "1903",
+   "text": "In 1903, rights to excavate the West Field and Pyramids of the Giza Necropolis were divided by three institutions from Italy, Germany, and the United States of America.",
+   "section": "Division of the 1903–1905 excavation of the Giza Necropolis",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Division_of_the_1903–1905_excavation_of_the_Giza_Necropolis",
+   "corroborated": false
+  },
+  {
+   "year": 1978,
+   "label": "1978",
+   "text": "In 1978, the Grateful Dead played a series of concerts later released as Rocking the Cradle: Egypt 1978.",
+   "section": "Modern usage",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Modern_usage",
+   "corroborated": false
   },
   {
    "year": 1990,
    "label": "1990",
-   "text": "En 1990, des tombes appartenant aux ouvriers des pyramides ont été découvertes à côté des pyramides et un site funéraire supplémentaire a été découvert à proximité en 2009.",
-   "section": "Le cimetière des constructeurs des pyramides",
-   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#Le_cimetière_des_constructeurs_des_pyramides",
+   "text": "In 1990, tombs belonging to the pyramid workers were discovered alongside the pyramids, with an additional burial site found nearby in 2009.",
+   "section": "Tombs of the pyramid builders",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Tombs_of_the_pyramid_builders",
+   "corroborated": false
+  },
+  {
+   "year": 2007,
+   "label": "2007",
+   "text": "In 2007, Colombian singer Shakira performed at the complex to a crowd of approximately 100,000 people.",
+   "section": "Modern usage",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Modern_usage",
+   "corroborated": false
+  },
+  {
+   "year": 2013,
+   "label": "2013",
+   "text": "New insights into the closing stages of the Great Pyramid building were provided by the 2013 find of Wadi el-Jarf papyri, especially the diary of inspector Merer, whose team was assigned to deliver the white limestone from Tura quarries to Giza.",
+   "section": "Construction",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Construction",
+   "corroborated": false
+  },
+  {
+   "year": 2017,
+   "label": "2017",
+   "text": "It was opened to tourists in November 2017.",
+   "section": "Osiris Shaft",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Osiris_Shaft",
+   "corroborated": false
+  },
+  {
+   "year": 2019,
+   "label": "2019",
+   "text": "The complex was used for the final draw of the 2019 Africa Cup of Nations and the 2021 World Men's Handball Championship.",
+   "section": "Modern usage",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Modern_usage",
+   "corroborated": false
+  },
+  {
+   "year": 2021,
+   "label": "2021",
+   "text": "Egypt's Minister of Tourism unveiled plans for a €17,000,000 revamp of the complex by the end of 2021, in order to boost tourism in Egypt as well as make the site more accessible and tourist-friendly.",
+   "section": "Modern usage",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex#Modern_usage",
    "corroborated": false
   }
  ],
- "intro": "La nécropole de Gizeh est un vaste ensemble funéraire situé sur un plateau désertique de la rive ouest du Nil, à Gizeh, qui jouxte la ville moderne du Caire. Faisant partie des nécropoles memphites qui s'étendent à l'ouest de la capitale égyptienne sur une trentaine de kilomètres (de Dahchour au sud à Abou Rawash au nord, elles regroupent 38 pyramides et plus de 9 000 tombes), elle est utilisée principalement sous l'Ancien Empire. Le site est connu mondialement car y sont situées les célèbres pyramides de Khéops, de Khéphren et de Mykérinos.",
+ "intro": "The Giza pyramid complex (also called the Giza necropolis) in Egypt is home to the Great Pyramid, the pyramid of Khafre, and the pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx. All were built during the Fourth Dynasty of the Old Kingdom of ancient Egypt, between c. 2600 – c. 2500 BC. The site also includes several temples, cemeteries, and the remains of a workers' village.",
  "stats": {
-  "events": 6,
-  "corroborated": 3
+  "events": 14,
+  "corroborated": 1
  }
 }

@@ -1,157 +1,157 @@
 {
  "place": "rome-colisee",
- "lang": "fr",
+ "lang": "en",
  "sources": [
   {
    "n": 1,
-   "title": "Colisée",
-   "url": "https://fr.wikipedia.org/wiki/Colisée",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 2,
    "title": "Colosseum",
    "url": "https://en.wikipedia.org/wiki/Colosseum",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 2,
+   "title": "Colisée",
+   "url": "https://fr.wikipedia.org/wiki/Colisée",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "events": [
   {
-   "year": 160,
-   "label": "160",
-   "text": "Ceux du premier et du deuxième étage (où ils ne font que 6,45 m de hauteur), étaient ornés de 160 statues en bronze doré hautes de cinq mètres, honorant probablement des divinités et d'autres personnages de la mythologie classique, tandis que 40 boucliers en bronze ajoutés par Titus rythmaient l'attique et symbolisaient les conquêtes militaires romaines avec le bouclier pris à l'ennemi.",
-   "section": "Extérieur",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Extérieur",
+   "year": -150,
+   "label": "2nd c. BC",
+   "text": "By the 2nd century BC the area was densely inhabited.",
+   "section": "Construction, inauguration, and Roman renovations",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Construction,_inauguration,_and_Roman_renovations",
    "corroborated": false
   },
   {
-   "year": 200,
-   "label": "200",
-   "text": "L'amphithéâtre va servir de modèle à plus de 200 amphithéâtres construits au siècle suivant en Italie et dans les provinces de l'empire, comme l'amphithéâtre de Capoue ou l'amphithéâtre d'El Jem — signe d'une grande importance au sein du monde romain.",
-   "section": "Antiquité",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "year": 138,
+   "label": "138",
+   "text": "The giant bronze sculpture of Nero as a solar deity was moved to its position beside the amphitheatre by the emperor Hadrian (r. 117–138).",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": false
   },
   {
-   "year": 217,
-   "label": "217",
-   "text": "En 217 apr. J.-C., l'amphithéâtre est endommagé par un incendie causé, selon Dion Cassius, par la foudre et les étages supérieurs des gradins construits en bois sont détruits.",
-   "section": "Antiquité",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
-   "corroborated": true
-  },
-  {
-   "year": 443,
-   "label": "443",
-   "text": "D'autres dommages interviennent, notamment à la suite du tremblement de terre de 443.",
-   "section": "Antiquité",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "year": 180,
+   "label": "180",
+   "text": "An English translation by John Bourchier, 2nd Baron Berners, of Antonio de Guevara's biography of Marcus Aurelius (r. 161–180) in about 1533 referred to Middle English: this Emperour, beynge with the Senate at Collisee ....",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": false
   },
   {
-   "year": 500,
-   "label": "500",
-   "text": "Il est resté en service pendant près de 500 ans, les derniers jeux étant produits au VIe siècle.",
-   "section": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Colisée",
+   "year": 250,
+   "label": "250",
+   "text": "It was not fully repaired until about 240 and underwent further repairs in 250 or 252 and again in 320.",
+   "section": "Construction, inauguration, and Roman renovations",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Construction,_inauguration,_and_Roman_renovations",
    "corroborated": false
   },
   {
-   "year": 550,
-   "label": "VIe s.",
-   "text": "L'arène continue d'être utilisée pour des concours jusqu'au VIe siècle au moins, les derniers combats de gladiateurs se produisant vers 435 apr. J.-C. et les ultimes chasses aux animaux sauvages en 523 apr. J.-C. Un combat de taureaux sera toutefois organisé en 1332.",
-   "section": "Antiquité",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "year": 399,
+   "label": "399",
+   "text": "Honorius banned the practice of gladiator fights in 399 and again in 404.",
+   "section": "Construction, inauguration, and Roman renovations",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Construction,_inauguration,_and_Roman_renovations",
    "corroborated": false
   },
   {
    "year": 1000,
    "label": "1000",
-   "text": "Le colosse finit par disparaitre, probablement jeté bas pour pouvoir réutiliser ses éléments de bronze, mais le terme de Colosseum subsiste, désignant l'amphithéâtre vers l'an 1000.",
-   "section": "Dénominations du Colisée",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Dénominations_du_Colisée",
+   "text": "By the year 1000 the Latin name \"Colosseum\" had been coined to refer to the amphitheatre from the nearby \"Colossus Solis\".",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": true
   },
   {
-   "year": 1350,
-   "label": "XIVe s.",
-   "text": "Un ordre religieux s'installe dans les ruines au milieu du XIVe siècle, et s'y maintient jusqu'à la fin du XIXe siècle.",
-   "section": "Moyen Âge",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Moyen_Âge",
+   "year": 1150,
+   "label": "12th c.",
+   "text": "In the 12th century, the structure was recorded as the amphitheatrum colisei, 'Amphitheatre of the Colossus'.",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": false
   },
   {
-   "year": 1451,
-   "label": "1451",
-   "text": "En 1451, le pape Nicolas V (fl.  1447-1455) fait extraire, tailler et acheminer vers les fours à chaux les travertins et les placages de marbre qui serviront à les alimenter.",
-   "section": "Moyen Âge",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Moyen_Âge",
+   "year": 1250,
+   "label": "13th c.",
+   "text": "In the High Middle Ages, the Flavian amphitheatre is attested as the late 13th-century Old French: colosé, and in Middle French as: colisée by the early 16th century, by which time the word could be applied to any amphitheatre.",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": false
   },
   {
-   "year": 1550,
-   "label": "XVIe s.",
-   "text": "Les blocs de travertin sont systématiquement prélevés aux XVe et XVIe siècles pour de nouvelles constructions.",
-   "section": "Moyen Âge",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Moyen_Âge",
+   "year": 1367,
+   "label": "1367",
+   "text": "Similarly, the Italian: colosseo, or coliseo, are attested as referring first to the amphitheatre in Rome, and then to any amphitheatre (as Italian: culiseo in 1367).",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": false
   },
   {
-   "year": 1650,
-   "label": "XVIIe s.",
-   "text": "Au cours des XVIe et XVIIe siècles, les fonctionnaires de l'Église cherchent à donner un rôle au monument à l'abandon.",
-   "section": "Époque moderne",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Époque_moderne",
+   "year": 1450,
+   "label": "15th c.",
+   "text": "From Middle French: colisée derived the Middle English: colisee, in use by the middle of the 15th century and employed by John Capgrave in his Solace of Pilgrims, in which he remarked: Middle English: collise eke is a meruelous place … þe moost part of it stant at þis day.",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": false
   },
   {
-   "year": 1810,
-   "label": "1810",
-   "text": "Ce passage utilisé par les empereurs romains pour entrer discrètement dans le Colisée et portant le nom de celui qui y a subi une tentative d'assassinat, a été redécouvert dans les années 1810 ; il ouvre au public le 27 octobre 2025.",
-   "section": "Période contemporaine",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Période_contemporaine",
+   "year": 1460,
+   "label": "1460",
+   "text": "By 1460, an equivalent existed in Catalan: coliseu; by 1495 had appeared the Spanish: coliseo, and by 1548 the Portuguese: coliseu.",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": false
   },
   {
-   "year": 1928,
-   "label": "1928",
-   "text": "Les colonnades du Colisée figurent entre 1928 et 2000 sur les médailles des Jeux olympiques d'été, avant de créer la polémique au sein du champ journalistique.",
-   "section": "Autres",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Autres",
+   "year": 1600,
+   "label": "1600",
+   "text": "The earliest citation for the name Colosseum in Early Modern English is the 1600 translation, by Philemon Holland, of the Urbis Romae topographia of Bartolomeo Marliani, which he used in the preparation of his translation of Livy's Augustan era Ab Urbe Condita Libri.",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
    "corroborated": false
   },
   {
-   "year": 1980,
-   "label": "1980",
-   "text": "Avec l'ensemble du centre historique de Rome, le Colisée est inscrit sur la liste du patrimoine mondial de l'Unesco depuis 1980.",
-   "section": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Colisée",
+   "year": 1942,
+   "label": "1942",
+   "text": "It was built for Mussolini for the Universal Exhibition of 1942 but the exhibition never happened due to the outbreak of World War II.",
+   "section": "In popular culture",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#In_popular_culture",
    "corroborated": false
   },
   {
-   "year": 2010,
-   "label": "2010",
-   "text": "Le Colisée est représenté dans divers jeux vidéo : Assassin's Creed: Brotherhood (2010), Forge of Empires, Ryse: Son of Rome (2013), dans tous les opus principaux de la franchise de jeux vidéo Sid Meier's Civilization, ainsi que dans certains autres titres (Civilization Revolution, Civilization Revolution 2 et Civilization: Call to power).",
-   "section": "Jeux vidéo",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Jeux_vidéo",
+   "year": 1948,
+   "label": "1948",
+   "text": "In recent years, the Colosseum has become a symbol of the international campaign against capital punishment, which was abolished in Italy in 1948.",
+   "section": "Modern",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Modern",
+   "corroborated": false
+  },
+  {
+   "year": 2011,
+   "label": "2011",
+   "text": "In 2011, Diego Della Valle, head of the shoe firm Tod's, entered into an agreement with local officials to sponsor a €25 million restoration of the Colosseum.",
+   "section": "Restoration",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Restoration",
    "corroborated": true
   },
   {
-   "year": 2050,
-   "label": "XXIe s.",
-   "text": "Une stèle existe encore dans l'amphithéâtre, au début du XXIe siècle, rappelant que le consul et préfet de Rome Decius Marius Venantius Basilius a restauré à ses frais l'arène et le podium ruinés par un séisme.",
-   "section": "Antiquité",
-   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "year": 2012,
+   "label": "2012",
+   "text": "For example, the Colosseum was illuminated in gold in November 2012 following the abolishment of capital punishment in the American state of Connecticut in April 2012.",
+   "section": "Modern",
+   "url": "https://en.wikipedia.org/wiki/Colosseum#Modern",
    "corroborated": false
   }
  ],
- "intro": "Le Colisée (en italien : Colosseo), à l'origine amphithéâtre Flavien (en latin : Amphitheatrum Flavium), est un amphithéâtre ovoïde situé dans le centre de la ville de Rome, entre l'Esquilin et le Cælius, le plus grand construit dans l'Empire romain. Il est l'une des plus grandes œuvres de l'architecture et de l'ingénierie romaines. Témoignage monumental de la propagande flavienne, sa construction, juste à l'est du Forum romain, a commencé entre 70 et 72 apr. J.-C., sous l'empereur Vespasien (r.  69-79), et s'est achevée en 80 apr. J.-C. sous Titus (r.  79-81).",
+ "intro": "The Colosseum ( KOL-ə-SEE-əm; Italian: Colosseo [kolosˈsɛːo]) is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is the largest standing amphitheatre in the world. Construction began under the Emperor Vespasian (r. 69–79 AD) in 72 and was completed in AD 80 under his successor and heir, Titus (r. 79–81).",
  "stats": {
   "events": 16,
-  "corroborated": 3
+  "corroborated": 2
  }
 }

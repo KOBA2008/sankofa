@@ -40,7 +40,11 @@ Every region of the image gets a verdict: **documented** (green), **unchanged** 
 
 *Notre-Dame de Paris: a real press photograph from 1912 (crowd, flags) is warped onto a 2014 view. SAM 3.1 outlines the buildings; the cathedral is classified as unchanged.*
 
-Each place also gets **its own dated history**: up to 16 events quoted word for word from its Wikipedia article (Notre-Dame from 1431 to its 2023 restoration, Hagia Sophia from 325, the Great Mosque of Djenné from 1238), cross-checked against the article in the other language, shown on the place page and woven into its narrative and documentary.
+![The Colosseum around 1880 warped onto today's view](docs/screenshots/rome-1880.jpg)
+
+*The Colosseum: an 1880s albumen print aligned with a present-day photograph, every arch in place.*
+
+Each place also gets **its own dated history**: up to 16 events quoted word for word from its Wikipedia article (Notre-Dame from 1163, Hagia Sophia from 325, the Great Mosque of Djenné from the 13th century), cross-checked against the article in the other language, shown on the place page and woven into its narrative and documentary.
 
 A **re-photography guide** overlays the archive on the phone camera, so anyone standing in the street can find the exact angle of the 1900 photographer and give the agent a perfect match.
 
@@ -48,7 +52,7 @@ A **re-photography guide** overlays the archive on the phone camera, so anyone s
 
 The same principle applied to a whole country. The agent:
 
-1. reads the country's history in two independently written sources (Wikipedia in French **and** in English);
+1. reads the country's history in two independently written sources (Wikipedia in English **and** in French);
 2. extracts every dated event **word for word** (years, centuries, BC dates), each linked to the section it comes from;
 3. filters out what is not an event: historiography, statistics ("395 articles", "191 grams"), lists of links;
 4. **cross-checks** each event: it is *corroborated* when the other source gives the same year with the same proper noun, otherwise *single source*;
@@ -76,7 +80,7 @@ Documentaries export to **MP4** (1280×720, H.264 + AAC) with ffmpeg.
 
 ## Coverage
 
-**16 places in 15 countries, 350 archive documents, a dated history for every place, and 15 country chronicles with more than 550 cited events.**
+**16 places in 15 countries, 350 archive documents, a dated history for every place, and 15 country chronicles with 786 cited events and 391 period photos.**
 
 | Continent | Places |
 |---|---|
@@ -159,6 +163,19 @@ cd frontend && npm run dev        # http://localhost:5173
 ```
 
 Add a place: one entry in `backend/sankofa/places.py`, then `cd backend && ../.venv/bin/python harvest.py <place-id>`.
+
+## Deployment
+
+SANKOFA is split in two for hosting:
+
+| Part | Where | Branch |
+|---|---|---|
+| Web interface (React, static) | Vercel | `main` (`frontend/`) |
+| API, agent, archives, documentaries | Hugging Face Spaces (Docker) | `backend` |
+
+- The Hugging Face Space only contains `deploy/huggingface/Dockerfile` and its `README.md`: the image clones the `backend` branch at build time, installs ffmpeg and the Python dependencies, and starts the API on port 7860. Keys are Space secrets (`META_API_KEY`, `BASETEN_API_KEY`).
+- The interface is built with `VITE_API_BASE` pointing to the Space, so API calls (including the live agent log) go straight to it; `/media` files are proxied by Vercel (`frontend/vercel.json`).
+- `DAILY_PAID_CALL_LIMIT` caps paid AI calls per day on the public site. Beyond it, the agent switches to local mode and says so. Showcase reconstructions (Paris, Rome, Agra) are precomputed, so visitors see full results without spending credits.
 
 ## Data and licenses
 

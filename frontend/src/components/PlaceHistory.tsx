@@ -17,11 +17,11 @@ export function PlaceHistory({ placeId }: { placeId: string }) {
     <section className="mt-16">
       <div className="mb-5 flex flex-wrap items-end justify-between gap-3">
         <div>
-          <p className="font-mono text-xs uppercase tracking-[0.25em] text-gold">Son histoire</p>
-          <h2 className="mt-1 font-serif text-4xl">{hist.stats.events} dates, citées mot pour mot</h2>
+          <p className="font-mono text-xs uppercase tracking-[0.25em] text-gold">Its history</p>
+          <h2 className="mt-1 font-serif text-4xl">{hist.stats.events} dates, quoted word for word</h2>
         </div>
         <p className="text-xs text-white/50">
-          {hist.stats.corroborated} recoupée(s) par l'article {hist.sources[1] ? 'anglais' : 'source'} ·{' '}
+          {hist.stats.corroborated} corroborated by the {hist.sources[1] ? 'second-language' : 'source'} article ·{' '}
           <a href={hist.sources[0].url} target="_blank" rel="noreferrer" className="underline decoration-white/20 hover:text-gold">{hist.sources[0].title}</a>
         </p>
       </div>
@@ -38,11 +38,11 @@ export function PlaceHistory({ placeId }: { placeId: string }) {
             <div className="glass flex gap-4 rounded-2xl p-3.5">
               <span className="w-24 shrink-0 font-serif text-2xl leading-none text-gold-soft">{e.label}</span>
               <div className="min-w-0 flex-1 text-sm">
-                <p className="text-white/85">« {e.text} »</p>
+                <p className="text-white/85">“{e.text}”</p>
                 <div className="mt-1.5 flex flex-wrap items-center gap-3 text-xs">
                   {e.corroborated
-                    ? <span className="flex items-center gap-1 text-proof"><CheckCircle2 size={12} /> recoupé</span>
-                    : <span className="flex items-center gap-1 text-guess"><span className="h-1.5 w-1.5 rounded-full bg-guess" /> source unique</span>}
+                    ? <span className="flex items-center gap-1 text-proof"><CheckCircle2 size={12} /> corroborated</span>
+                    : <span className="flex items-center gap-1 text-guess"><span className="h-1.5 w-1.5 rounded-full bg-guess" /> single source</span>}
                   <a href={e.url} target="_blank" rel="noreferrer" className="flex items-center gap-1 text-white/45 hover:text-gold">
                     {e.section === 'Introduction' ? 'Introduction' : e.section} <ExternalLink size={10} />
                   </a>
@@ -54,7 +54,7 @@ export function PlaceHistory({ placeId }: { placeId: string }) {
       </ol>
       {hist.events.length > 8 && (
         <button onClick={() => setAll(v => !v)} className="glass glass-button mt-4 rounded-full px-4 py-2 text-sm">
-          {all ? 'Réduire' : `Voir les ${hist.events.length - 8} autres dates`}
+          {all ? 'Show less' : `Show ${hist.events.length - 8} more dates`}
         </button>
       )}
     </section>

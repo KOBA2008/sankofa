@@ -22,8 +22,13 @@ SKIP = re.compile(r"note|référence|bibliograph|annexe|connexe|lien|galerie|voi
                   r"lecture|filmograph|further|reference|see also|external|bibliography", re.I)
 # phrases qui parlent du travail des historiens, pas d'un événement de l'histoire
 HISTORIOGRAPHY = re.compile(r"\bétude|publiée|cet article|ouvrage|chercheurs?|historiens?|archéolog|"
-                            r"selon (?:les|des)|\bstudy\b|published|this article", re.I)
+                            r"selon (?:les|des)|\bstud(?:y|ies)\b|published|this article|according to|research|"
+                            r"scholars?|historians?|archaeolog|excavations?|genetic", re.I)
 IMPORTANT = re.compile(
+    r"independen|founded|kingdom|\bking\b|queen|emperor|dynasty|colonial|colony|protectorate|treaty|\bwar\b|"
+    r"conquer|conquest|revolution|coup|republic|elected|president|abolish|slave|capital|invaded|annex|"
+    r"proclaim|conference|exile|deport|battle|agreement|unification|occupied|uprising|rebellion|reform|"
+    r"democra|monarch|sultan|pharaoh|caliph|apartheid|"
     r"indépendan|fond[ée]|royaume|\broi\b|reine|empereur|empire|dynastie|colon|protectorat|traité|guerre|"
     r"conquête|conquis|révolution|coup d.[ée]tat|république|constitution|élu|président|abolition|traite|"
     r"esclav|capitale|invasion|annex|proclam|conférence|exil|déport|bataille|accords?|unification|"
@@ -62,7 +67,7 @@ def find_year(sentence: str) -> tuple[int, str] | None:
     if m:
         c = _roman(m.group(1))
         year = -(c * 100 - 50) if m.group(2) else (c - 1) * 100 + 50
-        cands.append((m.start(), year, f"{m.group(1)}e s." + (" av. J.-C." if m.group(2) else "")))
+        cands.append((m.start(), year, _century(c, bool(m.group(2)))))
     for y in re.finditer(r"(?<![\d,.\w-])(-)?(\d{3,4})(?!\d|[.,]\d|\s\d{3}\b)", sentence):
         val = int(y.group(2))
         after = sentence[y.end():y.end() + 40]
@@ -74,7 +79,7 @@ def find_year(sentence: str) -> tuple[int, str] | None:
         if val < 1000 and not bc and not y.group(1) and not DATE_CUE.search(before):
             continue
         if bc or y.group(1):
-            cands.append((y.start(), -val, f"{val} av. J.-C."))
+            cands.append((y.start(), -val, f"{val} BC"))
         elif 100 <= val <= 2026:
             cands.append((y.start(), val, str(val)))
         break
@@ -82,7 +87,7 @@ def find_year(sentence: str) -> tuple[int, str] | None:
     if en:
         c = int(en.group(1))
         year = -(c * 100 - 50) if en.group(2) else (c - 1) * 100 + 50
-        cands.append((en.start(), year, f"{c}e s."))
+        cands.append((en.start(), year, _century(c, bool(en.group(2)))))
     if not cands:
         return None
     _, year, label = min(cands)
@@ -198,20 +203,24 @@ def run_chronicle(country_id: str):
 
     def pipeline(run):
         # ---------------------------------------------------------------- lecture
-        run.emit("lecture", "running", f"Je lis l'histoire du {country['name']} dans les sources.")
-        fr = wikipedia.article(country["fr"], "fr")
-        if not fr:
-            raise ValueError(f"Article introuvable : {country['fr']}")
-        en = wikipedia.article(country["en"], "en")
-        run.emit("lecture", "done", f"Deux sources rédigées indépendamment : « {fr['title']} » "
-                 f"({sum(len(s['text']) for s in fr['sections']) // 1000} k caractères) et « {en['title'] if en else 'aucune'} ».")
+        run.emit("lecture", "running", f"Reading the history of {country['name']} in the sources.")
+        # source principale en anglais (site en anglais) ; l'article français, écrit par d'autres auteurs, sert au recoupement
+        main = wikipedia.article(country["en"], "en")
+        other = wikipedia.article(country["fr"], "fr")
+        if not main:
+            main, other = other, None
+        if not main:
+            raise ValueError(f"Article not found: {country['en']}")
+        run.emit("lecture", "done", f"Two independently written sources: “{main['title']}” "
+                 f"({sum(len(s['text']) for s in main['sections']) // 1000}k characters) and "
+                 f"“{other['title'] if other else 'none'}”.")
 
         # ---------------------------------------------------------------- extraction
-        run.emit("extraction", "running", "J'extrais les événements datés, mot pour mot, avec leur section d'origine.")
+        run.emit("extraction", "running", "I extract dated events, word for word, with the section they come from.")
         chapters, sources = [], []
-        for ch in _chapters(fr):
-            sources.append({"n": len(sources) + 1, "title": f"{fr['title']} › {ch['title']}", "url": ch["url"],
-                            "lang": "fr", "license": "CC BY-SA 4.0", "source": "Wikipédia"})
+        for ch in _chapters(main):
+            sources.append({"n": len(sources) + 1, "title": f"{main['title']} › {ch['title']}", "url": ch["url"],
+                            "lang": main["lang"], "license": "CC BY-SA 4.0", "source": "Wikipedia"})
             n = len(sources)
             cands = []
             for part in ch["parts"]:
@@ -238,15 +247,15 @@ def run_chronicle(country_id: str):
             chapters.append({"title": ch["title"], "url": ch["url"], "source": n, "summary": summary,
                              "events": keep, "start": min(years) if years else None,
                              "end": max(years) if years else None})
-            run.emit("extraction", "log", f"« {ch['title']} » : {len(keep)} événement(s) daté(s).")
+            run.emit("extraction", "log", f"“{ch['title']}”: {len(keep)} dated event(s).")
         n_events = sum(len(c["events"]) for c in chapters)
-        run.emit("extraction", "done", f"{len(chapters)} chapitres, {n_events} événements extraits.")
+        run.emit("extraction", "done", f"{len(chapters)} chapters, {n_events} events extracted.")
 
         # ---------------------------------------------------------------- recoupement
-        run.emit("recoupement", "running", "Je recoupe chaque événement avec l'article anglais, écrit par d'autres auteurs.")
-        index = _en_index(en)
-        if en:
-            sources.append({"n": len(sources) + 1, "title": en["title"], "url": en["url"], "lang": "en",
+        run.emit("recoupement", "running", "I cross-check every event with the article in the other language, written by other authors.")
+        index = _en_index(other)
+        if other:
+            sources.append({"n": len(sources) + 1, "title": other["title"], "url": other["url"], "lang": other["lang"],
                             "license": "CC BY-SA 4.0", "source": "Wikipedia"})
         corroborated = 0
         for c in chapters:
@@ -255,55 +264,55 @@ def run_chronicle(country_id: str):
                 corroborated += e["corroborated"]
                 e.pop("score", None)
         share = corroborated / n_events if n_events else 0
-        run.emit("recoupement", "done", f"{corroborated} événement(s) sur {n_events} recoupé(s) ({round(share * 100)} %).")
+        run.emit("recoupement", "done", f"{corroborated} of {n_events} event(s) corroborated ({round(share * 100)}%).")
 
         # ---------------------------------------------------------------- lacunes
-        run.emit("lacunes", "running", "Je cherche les périodes que les sources laissent dans l'ombre.")
+        run.emit("lacunes", "running", "I look for the periods the sources leave in the dark.")
         dated = sorted((c for c in chapters if c["start"] is not None), key=lambda c: c["start"])
         gaps = []
         for a, b in zip(dated, dated[1:]):
             if b["start"] - a["end"] > 80:
                 gaps.append({"from": a["end"], "to": b["start"],
-                             "text": f"Entre {a['end']} et {b['start']}, les sources consultées ne donnent aucune date précise."})
+                             "text": f"Between {_fmt(a['end'])} and {_fmt(b['start'])}, the sources consulted give no precise date."})
         if dated and dated[0]["start"] > -1000:
             gaps.insert(0, {"from": None, "to": dated[0]["start"],
-                            "text": f"Avant {_fmt(dated[0]['start'])}, l'histoire n'est pas datée dans ces sources : "
-                                    "traditions orales, archéologie et sources locales restent à intégrer."})
+                            "text": f"Before {_fmt(dated[0]['start'])}, history is not dated in these sources: "
+                                    "oral traditions, archaeology and local sources are still to be brought in."})
         thin = [c["title"] for c in chapters if len(c["events"]) < 2 and c["title"] != "Introduction"]
         if thin:
             gaps.append({"from": None, "to": None,
-                         "text": "Chapitres peu datés : " + ", ".join(thin[:4]) + "."})
-        run.emit("lacunes", "done", f"{len(gaps)} lacune(s) signalée(s).")
+                         "text": "Thinly dated chapters: " + ", ".join(thin[:4]) + "."})
+        run.emit("lacunes", "done", f"{len(gaps)} gap(s) flagged.")
 
         # ---------------------------------------------------------------- illustrations
-        run.emit("illustration", "running", "Je cherche des photos d'archives pour chaque période (sous les anciens noms du pays).")
+        run.emit("illustration", "running", "I look for archive photos of each era (under the country's former names).")
         for c in chapters:
             try:
                 c["photos"] = _photos(country, c["start"], c["end"]) if c["start"] is not None else []
             except Exception as exc:  # une recherche de photos qui échoue ne doit pas arrêter la chronique
                 c["photos"] = []
-                run.emit("illustration", "log", f"« {c['title']} » : photos indisponibles ({type(exc).__name__}).")
+                run.emit("illustration", "log", f"“{c['title']}”: photos unavailable ({type(exc).__name__}).")
             if c["photos"]:
-                run.emit("illustration", "log", f"« {c['title']} » : {len(c['photos'])} photo(s).")
-        run.emit("illustration", "done", f"{sum(len(c['photos']) for c in chapters)} photos d'époque associées.")
+                run.emit("illustration", "log", f"“{c['title']}”: {len(c['photos'])} photo(s).")
+        run.emit("illustration", "done", f"{sum(len(c['photos']) for c in chapters)} period photos attached.")
 
         # ---------------------------------------------------------------- récit
-        run.emit("recit", "running", "J'écris le récit, chapitre par chapitre, sans rien ajouter aux sources.")
+        run.emit("recit", "running", "I write the narrative, chapter by chapter, adding nothing to the sources.")
         engine = "local"
         for c in chapters:
             quotes = "\n".join(f"- ({e['label']}) {e['text']}" for e in c["events"])
             text = meta.chat(
-                "Tu es historien. Écris un paragraphe de 90 à 130 mots en français à partir UNIQUEMENT des extraits "
-                "fournis. Cite la source à la fin des phrases sous la forme [S{n}]. N'ajoute aucun fait absent "
-                "des extraits, ni détail inventé (heure, météo, émotions, pensées). Si les extraits ne reflètent "
-                "qu'un point de vue (par exemple colonial), dis-le.",
-                f"Chapitre : {c['title']}. Source [S{c['source']}].\nRésumé : {c['summary']}\nÉvénements :\n{quotes}",
+                "You are a historian. Write one paragraph of 90 to 130 words in English, using ONLY the excerpts "
+                "provided. Cite the source at the end of sentences as [S{n}]. Add no fact missing from the "
+                "excerpts and no invented detail (time of day, weather, emotions, thoughts). If the excerpts only "
+                "reflect one point of view (for example a colonial one), say so.",
+                f"Chapter: {c['title']}. Source [S{c['source']}].\nSummary: {c['summary']}\nEvents:\n{quotes}",
                 max_tokens=450, bulk=True) if meta.text_live else None
             if text:
                 engine = meta.engine_for(bulk=True)
             c["narrative"] = text or (f"{c['summary']} [S{c['source']}]" if c["summary"] else "")
-        run.emit("recit", "done", "Chronique prête." if engine != "local" else
-                 "Chronique prête (mode local : le récit est fait d'extraits des sources).", engine=engine)
+        run.emit("recit", "done", "Chronicle ready." if engine != "local" else
+                 "Chronicle ready (local mode: the narrative is made of source excerpts).", engine=engine)
 
         result = {
             "country": country, "chapters": chapters, "sources": sources, "gaps": gaps,
@@ -320,7 +329,12 @@ def run_chronicle(country_id: str):
 
 
 def _fmt(year: int) -> str:
-    return f"{-year} av. J.-C." if year < 0 else str(year)
+    return f"{-year} BC" if year < 0 else str(year)
+
+
+def _century(c: int, bc: bool = False) -> str:
+    suffix = "th" if 10 <= c % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(c % 10, "th")
+    return f"{c}{suffix} c." + (" BC" if bc else "")
 
 
 def cached(country_id: str) -> dict | None:

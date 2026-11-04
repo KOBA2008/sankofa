@@ -12,6 +12,9 @@ type Props = {
   alternatives?: RunResult['nearest']
 }
 
+// le ciel n'est pas compté (libellé FR ou EN selon le backend)
+const isSky = (label: string) => label === 'ciel' || label === 'sky'
+
 /** Curseur avant / après, avec les zones étiquetées superposées à l'image du passé. */
 export function CompareViewer({ before, after, size, tags, year, sourceTitles, alternatives = [] }: Props) {
   const [pos, setPos] = useState(55)
@@ -31,19 +34,19 @@ export function CompareViewer({ before, after, size, tags, year, sourceTitles, a
     setPos(Math.min(100, Math.max(0, ((clientX - r.left) / r.width) * 100)))
   }, [])
 
-  const visible = tags.filter(t => t.label !== 'ciel' && (filter === 'all' || t.status === filter))
+  const visible = tags.filter(t => !isSky(t.label) && (filter === 'all' || t.status === filter))
 
   return (
     <div className="space-y-3">
       {alternatives.length > 0 && (
         <div className="scrollbar-thin flex gap-1.5 overflow-x-auto pb-1 text-xs">
           <button onClick={() => setMode('reconstruction')} className={`shrink-0 rounded-full px-3.5 py-1.5 transition ${mode === 'reconstruction' ? 'bg-gold-soft text-ink' : 'glass glass-button text-white/70'}`}>
-            Reconstruction de l'agent
+            Agent's reconstruction
           </button>
           {alternatives.map(a => (
             <button key={a.id} onClick={() => setMode(a.id)} title={a.title} className={`flex shrink-0 items-center gap-1.5 rounded-full px-3.5 py-1.5 transition ${mode === a.id ? 'bg-gold-soft text-ink' : 'glass glass-button text-white/70'}`}>
               {a.aligned && <span className="h-1.5 w-1.5 rounded-full bg-proof" />}
-              Archive réelle {a.year}
+              Real archive {a.year}
             </button>
           ))}
         </div>
@@ -56,9 +59,9 @@ export function CompareViewer({ before, after, size, tags, year, sourceTitles, a
         onPointerMove={e => dragging.current && move(e.clientX)}
         onPointerUp={() => { dragging.current = false }}
       >
-        <img src={before} alt="Vue actuelle" className="absolute inset-0 h-full w-full object-cover" draggable={false} />
+        <img src={before} alt="Today's view" className="absolute inset-0 h-full w-full object-cover" draggable={false} />
         <div className="absolute inset-0" style={{ clipPath: `inset(0 ${100 - pos}% 0 0)` }}>
-          <img src={pastImage} alt={alt ? alt.title : `Reconstruction vers ${year}`} className="absolute inset-0 h-full w-full object-cover" draggable={false} />
+          <img src={pastImage} alt={alt ? alt.title : `Reconstruction around ${year}`} className="absolute inset-0 h-full w-full object-cover" draggable={false} />
           {showTags && !alt && (
             <svg viewBox={`0 0 ${size[0]} ${size[1]}`} className="absolute inset-0 h-full w-full" preserveAspectRatio="none">
               {visible.map(t => (
@@ -84,7 +87,7 @@ export function CompareViewer({ before, after, size, tags, year, sourceTitles, a
           {alt ? `${pastYear} · archive` : `≈ ${year}`}
         </div>
         <div className="pointer-events-none absolute right-4 top-4 rounded-full bg-black/45 px-3 py-1 font-mono text-xs text-white/80 backdrop-blur">
-          aujourd'hui
+          today
         </div>
 
         {/* poignée en verre */}
@@ -111,7 +114,7 @@ export function CompareViewer({ before, after, size, tags, year, sourceTitles, a
               </div>
               <p className="text-white/75">{hover.note}</p>
               {hover.sources.length > 0 && (
-                <p className="mt-2 text-xs text-white/50">Source : {hover.sources.map(s => sourceTitles[s] || s).join(' · ')}</p>
+                <p className="mt-2 text-xs text-white/50">Source: {hover.sources.map(s => sourceTitles[s] || s).join(' · ')}</p>
               )}
             </motion.div>
           )}
@@ -120,7 +123,7 @@ export function CompareViewer({ before, after, size, tags, year, sourceTitles, a
 
       <div className="flex flex-wrap items-center gap-2 text-xs">
         <button onClick={() => setShowTags(v => !v)} className="glass glass-button rounded-full px-3.5 py-1.5">
-          {showTags ? 'Masquer' : 'Afficher'} les étiquettes
+          {showTags ? 'Hide' : 'Show'} labels
         </button>
         {(['all', 'documente', 'inchange', 'hypothese'] as const).map(k => (
           <button
@@ -129,11 +132,11 @@ export function CompareViewer({ before, after, size, tags, year, sourceTitles, a
             className={`flex items-center gap-1.5 rounded-full px-3 py-1.5 transition ${filter === k ? 'bg-white/15 text-white' : 'text-white/55 hover:text-white'}`}
           >
             {k !== 'all' && <span className="h-2 w-2 rounded-full" style={{ background: STATUS_META[k].color }} />}
-            {k === 'all' ? 'Toutes' : STATUS_META[k].label}
-            {k !== 'all' && <span className="text-white/40">{tags.filter(t => t.status === k && t.label !== 'ciel').length}</span>}
+            {k === 'all' ? 'All' : STATUS_META[k].label}
+            {k !== 'all' && <span className="text-white/40">{tags.filter(t => t.status === k && !isSky(t.label)).length}</span>}
           </button>
         ))}
-        <span className="ml-auto text-white/40">Glissez pour voyager dans le temps</span>
+        <span className="ml-auto text-white/40">Drag to travel through time</span>
       </div>
     </div>
   )

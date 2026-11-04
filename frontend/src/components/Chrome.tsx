@@ -26,18 +26,18 @@ export function Nav() {
           <span className="font-serif text-2xl tracking-wide">Sankofa</span>
         </Link>
         <div className="hidden items-center gap-1 text-sm text-white/70 md:flex">
-          <NavLink to="/" active={loc.pathname === '/' || loc.pathname.startsWith('/lieu')}>Villes</NavLink>
-          <NavLink to="/pays" active={loc.pathname.startsWith('/pays')}>Pays</NavLink>
-          <NavLink to="/methode" active={loc.pathname === '/methode'}>Méthode</NavLink>
+          <NavLink to="/" active={loc.pathname === '/' || loc.pathname.startsWith('/lieu')}>Places</NavLink>
+          <NavLink to="/pays" active={loc.pathname.startsWith('/pays')}>Countries</NavLink>
+          <NavLink to="/methode" active={loc.pathname === '/methode'}>Method</NavLink>
         </div>
         <div className="flex items-center gap-2">
         <AmbientMusic />
         <div
           className={`flex items-center gap-2 rounded-full px-3 py-1.5 text-xs ${health?.text_live ? 'bg-proof/15 text-proof' : 'bg-white/8 text-white/60'}`}
-          title={health?.meta_live ? 'Modèles Meta branchés' : health?.text_live ? `Texte et vision : ${health.text_engine}. Segmentation et génération d'image : moteur local.` : 'Aucune clé API : moteur local de démonstration'}
+          title={health?.meta_live ? 'Meta models connected' : health?.text_live ? `Text and vision: ${health.text_engine}. Segmentation and image generation: local engine.` : 'No API key: local demo engine'}
         >
           <span className={`h-1.5 w-1.5 rounded-full ${health?.text_live ? 'bg-proof' : 'bg-white/40'}`} />
-          <span className="hidden sm:inline">{health ? (health.meta_live ? 'Meta Model API' : health.text_live ? 'Muse Spark · Baseten' : 'Mode local') : 'Hors ligne'}</span>
+          <span className="hidden sm:inline">{health ? (health.meta_live ? 'Meta Model API' : health.text_live ? 'Muse Spark · Baseten' : 'Local mode') : 'Offline'}</span>
         </div>
         </div>
       </nav>
@@ -94,9 +94,9 @@ export function Footer() {
           <span>SANKOFA · Meta AI Developer Hackathon 2026</span>
         </div>
         <p className="max-w-xl">
-          Archives : Wikimedia Commons (recherche par mots et par coordonnées GPS), Europeana (Rijksmuseum, archives nationales
-          européennes), dont les Archives de la Planète du musée Albert-Kahn, la Library of Congress et la BnF.
-          Chaque image garde sa licence et son lien d'origine. Cartes © OpenStreetMap, CARTO.
+          Archives: Wikimedia Commons (keyword and GPS coordinate search), Europeana (Rijksmuseum, European national
+          archives), including the Archives of the Planet from the Albert-Kahn museum, the Library of Congress and the BnF.
+          Every image keeps its license and a link to its original record. Maps © OpenStreetMap, CARTO.
         </p>
       </div>
     </footer>

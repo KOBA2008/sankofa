@@ -18,27 +18,277 @@
  "chapters": [
   {
    "title": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+   "url": "https://en.wikipedia.org/wiki/History_of_Mali",
    "source": 1,
-   "summary": "Le Mali a été le berceau de plusieurs grands empires dont : l'empire du Ghana (L’empire Wagadou), l'empire du Mali et l'Empire songhaï. Il est par la suite une colonie française de 1895 à 1960.",
+   "summary": "The history of Mali can be divided into several major periods: Pre-Imperial Mali (before the 13th century) The Mali Empire (13th–17th centuries) The  Songhai Empire (15th–16th centuries) The borders of Mali are those of French Sudan, drawn in 1891. They unite part of the larger Sudan region with parts of the Sahara.",
    "events": [
     {
-     "year": 1895,
-     "label": "1895",
-     "text": "Il est par la suite une colonie française de 1895 à 1960.",
+     "year": -9500,
+     "label": "9500 BC",
+     "text": "During this period, which began around 9500 BCE, the landscape of northern Mali resembled the savannah ecosystems found in southern Mali today.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 1990,
-     "label": "1990",
-     "text": "Quelques années après son indépendance, il subit la dictature de Moussa Traoré avant de connaître un régime démocratique (depuis le début des années 1990).",
+     "year": -9400,
+     "label": "9400 BC",
+     "text": "Pottery appeared independently at several sites, including Ounjougou in central Mali, with ceramics dated to around 9400 BCE – one of the earliest known examples in West Africa.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": -8000,
+     "label": "8000 BC",
+     "text": "Sorghum and millet were among the earliest cultivated crops, and by 8000 BCE, large herds of cattle – closely related to modern zebus – grazed across what is now the Sahara.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": -5000,
+     "label": "5000 BC",
+     "text": "The humid phase that followed the Younger Dryas (a cold climatic episode) was eventually replaced by increasing aridity around 5000 BCE.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": -4000,
+     "label": "4000 BC",
+     "text": "Archaeological and paleoenvironmental data suggest a return of nomadic pastoralists around 4000 BCE, just prior to the end of the last humid phase, which waned around 3500 BCE.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": -250,
+     "label": "250 BC",
+     "text": "Another major site was Djenné-Djenno, occupied from approximately 250 BCE to 800 CE.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1230,
+     "label": "1230",
+     "text": "Beginning in 1230, the Mali Empire was the largest empire in West Africa and profoundly influenced the culture of the region through the spread of its language, laws, and customs along the Niger River.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1235,
+     "label": "1235",
+     "text": "After Soumaoro Kanté's defeat in the Battle of Kirina in 1235, the Ghana Empire became permanent allies with the Mali Empire.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1250,
+     "label": "13th c.",
+     "text": "The history of Mali can be divided into several major periods: Pre-Imperial Mali (before the 13th century) The Mali Empire (13th–17th centuries) The  Songhai Empire (15th–16th centuries) The borders of Mali are those of French Sudan, drawn in 1891.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1850,
+     "label": "19th c.",
+     "text": "Until the 19th century, the city of Timbuktu remained important as an outpost at the southwestern fringe of the Muslim world and a hub of the trans-Saharan slave trade.",
      "source": 1,
      "corroborated": false
     }
    ],
-   "start": 1895,
-   "end": 1990,
+   "start": -9500,
+   "end": 1850,
+   "photos": [],
+   "narrative": "The history of Mali can be divided into several major periods: Pre-Imperial Mali before the 13th century, the Mali Empire from the 13th to 17th centuries, and the Songhai Empire in the 15th to 16th centuries [S1]. The borders of Mali are those of French Sudan, drawn in 1891, which unite part of the larger Sudan region with parts of the Sahara [S1]. Beginning in 1230, the Mali Empire was the largest empire in West Africa and profoundly influenced the culture of the region through the spread of its language, laws, and customs along the Niger River [S1]. After Soumaoro Kanté's defeat in the Battle of Kirina in 1235, the Ghana Empire became permanent allies with the Mali Empire [S1]."
+  },
+  {
+   "title": "After the empires (1591–1892)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Mali#After_the_empires_(1591–1892)",
+   "source": 2,
+   "summary": "The Songhai empire eventually collapsed under pressure from the Moroccan Saadi dynasty. The turning point was the Battle of Tondibi of March 13, 1591.",
+   "events": [
+    {
+     "year": 1591,
+     "label": "1591",
+     "text": "The turning point was the Battle of Tondibi of March 13, 1591.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1650,
+     "label": "17th c.",
+     "text": "The Senufo Kenedugu Kingdom originated in the 17th century in the area around what is now the border of Mali and Burkina Faso.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1712,
+     "label": "1712",
+     "text": "The Bambara Empire existed as a centralized state from 1712 to 1861.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1753,
+     "label": "1753",
+     "text": "A split in the Coulibaly dynasty in Ségou led to the establishment of a second Bambara state, the kingdom of Kaarta, in what is now western Mali, in 1753.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1854,
+     "label": "1854",
+     "text": "It was defeated in 1854 by Umar Tall, leader of Toucouleur Empire, before his war with Ségou.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1861,
+     "label": "1861",
+     "text": "Umar Tall's mujahideen readily defeated the Bambara, seizing Ségou itself on March 10, 1861, and declaring an end to the empire.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1862,
+     "label": "1862",
+     "text": "It later allied with Bambara Empire against Umar Tall's Toucouleur Empire and was also defeated by it in 1862.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1864,
+     "label": "1864",
+     "text": "This empire, founded by El Hadj Umar Tall of the Toucouleur peoples, beginning in 1864, ruled eventually most of what is now Mali until the French conquest of the region in 1890.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1878,
+     "label": "1878",
+     "text": "The Wassoulou or Wassulu Empire was a short-lived (1878–1898) empire, led by Samori Ture in the predominantly Malinké area of what is now upper Guinea and southwestern Mali (Wassoulou).",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1887,
+     "label": "1887",
+     "text": "It resisted the effort of Samori Ture, leader of Wassoulou Empire, in 1887, to conquer it, and was one of the last kingdoms in the area to fall to the French in 1898.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": 1591,
+   "end": 1887,
+   "photos": [
+    {
+     "title": "Jean Bayol. Notes et documents sur les voyages de Jean Bayol en Sénégambie et au Soudan français, 1880-1886 (23 pièces) ; \"Considérations politiques sur les États nègres situés sur la rive... - btv1b10889719j (002 of 149)",
+     "year": 1879,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais%2C_1880-1886_%2823_pi%C3%A8ces%29_%3B_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_%28002_of_149%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais,_1880-1886_(23_pi%C3%A8ces)_;_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_(002_of_149).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Jean Bayol. Notes et documents sur les voyages de Jean Bayol en Sénégambie et au Soudan français, 1880-1886 (23 pièces) ; \"Considérations politiques sur les États nègres situés sur la rive... - btv1b10889719j (004 of 149)",
+     "year": 1879,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais%2C_1880-1886_%2823_pi%C3%A8ces%29_%3B_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_%28004_of_149%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais,_1880-1886_(23_pi%C3%A8ces)_;_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_(004_of_149).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Jean Bayol. Notes et documents sur les voyages de Jean Bayol en Sénégambie et au Soudan français, 1880-1886 (23 pièces) ; \"Considérations politiques sur les États nègres situés sur la rive... - btv1b10889719j (012 of 149)",
+     "year": 1879,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais%2C_1880-1886_%2823_pi%C3%A8ces%29_%3B_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_%28012_of_149%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais,_1880-1886_(23_pi%C3%A8ces)_;_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_(012_of_149).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Jean Bayol. Notes et documents sur les voyages de Jean Bayol en Sénégambie et au Soudan français, 1880-1886 (23 pièces) ; \"Considérations politiques sur les États nègres situés sur la rive... - btv1b10889719j (023 of 149)",
+     "year": 1879,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais%2C_1880-1886_%2823_pi%C3%A8ces%29_%3B_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_%28023_of_149%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais,_1880-1886_(23_pi%C3%A8ces)_;_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_(023_of_149).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Jean Bayol. Notes et documents sur les voyages de Jean Bayol en Sénégambie et au Soudan français, 1880-1886 (23 pièces) ; \"Considérations politiques sur les États nègres situés sur la rive... - btv1b10889719j (026 of 149)",
+     "year": 1879,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais%2C_1880-1886_%2823_pi%C3%A8ces%29_%3B_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_%28026_of_149%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais,_1880-1886_(23_pi%C3%A8ces)_;_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_(026_of_149).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Jean Bayol. Notes et documents sur les voyages de Jean Bayol en Sénégambie et au Soudan français, 1880-1886 (23 pièces) ; \"Considérations politiques sur les États nègres situés sur la rive... - btv1b10889719j (028 of 149)",
+     "year": 1879,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais%2C_1880-1886_%2823_pi%C3%A8ces%29_%3B_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_%28028_of_149%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais,_1880-1886_(23_pi%C3%A8ces)_;_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_(028_of_149).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Jean Bayol. Notes et documents sur les voyages de Jean Bayol en Sénégambie et au Soudan français, 1880-1886 (23 pièces) ; \"Considérations politiques sur les États nègres situés sur la rive... - btv1b10889719j (030 of 149)",
+     "year": 1879,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais%2C_1880-1886_%2823_pi%C3%A8ces%29_%3B_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_%28030_of_149%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais,_1880-1886_(23_pi%C3%A8ces)_;_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_(030_of_149).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Jean Bayol. Notes et documents sur les voyages de Jean Bayol en Sénégambie et au Soudan français, 1880-1886 (23 pièces) ; \"Considérations politiques sur les États nègres situés sur la rive... - btv1b10889719j (035 of 149)",
+     "year": 1879,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais%2C_1880-1886_%2823_pi%C3%A8ces%29_%3B_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_%28035_of_149%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Bayol._Notes_et_documents_sur_les_voyages_de_Jean_Bayol_en_S%C3%A9n%C3%A9gambie_et_au_Soudan_fran%C3%A7ais,_1880-1886_(23_pi%C3%A8ces)_;_%22Consid%C3%A9rations_politiques_sur_les_%C3%89tats_n%C3%A8gres_situ%C3%A9s_sur_la_rive..._-_btv1b10889719j_(035_of_149).jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "The Songhai empire collapsed under pressure from the Moroccan Saadi dynasty with the Battle of Tondibi of March 13, 1591 as the turning point [S2]. The Senufo Kenedugu Kingdom originated in the 17th century around what is now the border of Mali and Burkina Faso [S2]. The Bambara Empire existed as a centralized state from 1712 to 1861, and a split in the Coulibaly dynasty led to the kingdom of Kaarta in what is now western Mali in 1753 [S2]. Umar Tall's mujahideen seized Ségou on March 10, 1861 [S2]. The Toucouleur Empire founded by El Hadj Umar Tall beginning in 1864 ruled most of what is now Mali until the French conquest in 1890 [S2]."
+  },
+  {
+   "title": "French Sudan (1892–1960)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Mali#French_Sudan_(1892–1960)",
+   "source": 3,
+   "summary": "Mali fell under French colonial rule in 1892. By 1893, the French appointed a civilian governor of the territory they called Soudan Français (French Sudan), but active resistance to French rule continued.",
+   "events": [
+    {
+     "year": 1892,
+     "label": "1892",
+     "text": "Mali fell under French colonial rule in 1892.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1893,
+     "label": "1893",
+     "text": "By 1893, the French appointed a civilian governor of the territory they called Soudan Français (French Sudan), but active resistance to French rule continued.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1905,
+     "label": "1905",
+     "text": "By 1905, most of the area was under firm French control.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1958,
+     "label": "1958",
+     "text": "In 1958 the renamed Sudanese Republic obtained complete internal autonomy and joined the French Community.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1960,
+     "label": "1960",
+     "text": "On June 20, 1960, the Federation of Mali became an independent country and Modibo Keïta became its first President.",
+     "source": 3,
+     "corroborated": true
+    }
+   ],
+   "start": 1892,
+   "end": 1960,
    "photos": [
     {
      "title": "Le pavillon de l'AOF (Afrique occidentale francaise) à l'Exposition coloniale internationale de 1931",
@@ -105,389 +355,146 @@
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Le Mali a été le berceau de plusieurs grands empires dont l'empire du Ghana (l'empire Wagadou), l'empire du Mali et l'Empire songhaï [S1]. Il est ensuite devenu une colonie française de 1895 à 1960 [S1]. Quelques années après son indépendance, il a subi la dictature de Moussa Traoré avant de connaître un régime démocratique depuis le début des années 1990 [S1]. Les extraits fournis présentent ces informations de manière factuelle et succincte sans refléter un point de vue colonial exclusif [S1]. Cette introduction résume ainsi l'histoire du Mali des empires à la période contemporaine [S1]."
+   "narrative": "Mali fell under French colonial rule in 1892 [S3]. By 1893, the French appointed a civilian governor of the territory they called Soudan Français (French Sudan), but active resistance to French rule continued [S3]. By 1905, most of the area was under firm French control [S3]. In 1958 the renamed Sudanese Republic obtained complete internal autonomy and joined the French Community [S3]. On June 20, 1960, the Federation of Mali became an independent country and Modibo Keïta became its first President [S3]. The excerpts only reflect a French colonial administrative point of view as presented [S3]."
   },
   {
-   "title": "Préhistoire",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali#Préhistoire",
-   "source": 2,
-   "summary": "Les premières traces de peuplement humain remontent au Ve millénaire av. J.-C., on trouve en effet des vestiges néolithiques du Sahara vert dans l'Adrar des Ifoghas. Les premières formes de vie urbaine apparaissent vers 250 avant notre ère à Djenné-Djeno, près de l'actuelle Djenné, dans le delta intérieur du Niger.",
-   "events": [
-    {
-     "year": 1050,
-     "label": "XIe s.",
-     "text": "Fondé au XIe siècle, il est unifié vers 1222 ou 1230 par Soundiata Keïta, roi du Mandé, région correspondant à peu près à l'actuel Mali.",
-     "source": 2,
-     "corroborated": true
-    },
-    {
-     "year": 1450,
-     "label": "XVe s.",
-     "text": "C'est l'avènement du troisième empire, l'Empire songhaï, lequel se développe durant le XVe siècle et le XVIe siècle, la conquête territoriale s'appuyant sur une organisation politique largement inspirée de celle de l'empire du Mali.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1464,
-     "label": "1464",
-     "text": "Sous l'impulsion de Sonni Ali Ber (« Sonni Ali le grand », 1464-1492), considéré comme un grand stratège, le royaume du Songhaï, tributaire de l'empire du Mali depuis 1300, met en place une politique de conquêtes territoriales, rompant avec l'économie de razzia qui prévalait jusqu'alors.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1550,
-     "label": "XVIe s.",
-     "text": "À sa mort, le parti musulman l'emporte et l'Empire Songhaï est dirigé par une dynastie musulmane, les Askia, qui porte l'empire à son apogée au XVIe siècle.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1591,
-     "label": "1591",
-     "text": "La bataille de Tondibi, perdue contre les Saadiens, le 12 avril 1591, marque la fin de l'empire et son allégeance au sultan du Maroc.",
-     "source": 2,
-     "corroborated": true
-    },
-    {
-     "year": 1766,
-     "label": "1766",
-     "text": "En 1766, Ngolo Diarra, un esclave pas tout à fait esclave (il est devenu captif à la suite des conditions de dettes d'impôts imposées par les Coulibaly), s’empare du trône et rétablit l’autorité sur les \"tondjons\".",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1818,
-     "label": "1818",
-     "text": "L’empire du Macina (parfois Massina) est un empire peul théocratique fondé en 1818 par le marabout Sékou Amadou du clan des Barry, et qui sera détruit par l'invasion des Toucouleurs sous la conduite d'El Hadj Omar en 1868.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1946,
-     "label": "1946",
-     "text": "Le Rassemblement démocratique africain (RDA) tient son congrès constitutif à Bamako du 18 au 21 octobre 1946 et le lendemain, sa section soudanaise, l'Union soudanaise-Rassemblement démocratique africain voit le jour par la fusion du Bloc démocratique soudanais et du Parti démocratique soudanais.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1958,
-     "label": "1958",
-     "text": "Le référendum du 28 septembre 1958 sur la Constitution de la République française voulue par le général De Gaulle contribue à la désunion, partageant les Africains en trois camps : les indépendantistes, les fédéralistes et les anti-fédéralistes.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1959,
-     "label": "1959",
-     "text": "Le 23 janvier 1959, l’Assemblée du Soudan adopte la constitution de la République soudanaise et la constitution fédérale.",
-     "source": 2,
-     "corroborated": false
-    }
-   ],
-   "start": 1050,
-   "end": 1959,
-   "photos": [
-    {
-     "title": "Djenné - pêcheur Bozo (Soudan français) (Début XXème siècle) - btv1b10122177n (1 of 2)",
-     "year": 1900,
-     "license": "Public domain",
-     "image": "/media/places/djenne-mosquee/archive/3f3082ba74f5.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_-_p%C3%AAcheur_Bozo_(Soudan_fran%C3%A7ais)_(D%C3%A9but_XX%C3%A8me_si%C3%A8cle)_-_btv1b10122177n_(1_of_2).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Djenné - pêcheur Bozo (Soudan français) (Début XXème siècle) - btv1b10122177n (2 of 2)",
-     "year": 1900,
-     "license": "Public domain",
-     "image": "/media/places/djenne-mosquee/archive/232805535bbe.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_-_p%C3%AAcheur_Bozo_(Soudan_fran%C3%A7ais)_(D%C3%A9but_XX%C3%A8me_si%C3%A8cle)_-_btv1b10122177n_(2_of_2).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Notable sortant de sa maison en banco typique de l'architecture de la ville de Djenné - Paul Deringère - btv1b10103827z",
-     "year": 1900,
-     "license": "Public domain",
-     "image": "/media/places/djenne-mosquee/archive/8658fa0e6f14.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Notable_sortant_de_sa_maison_en_banco_typique_de_l%27architecture_de_la_ville_de_Djenn%C3%A9_-_Paul_Dering%C3%A8re_-_btv1b10103827z.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Le Sénégal et le Soudan français (1898) (14576939130)",
-     "year": 1898,
-     "license": "No restrictions",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814576939130%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814576939130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14576939130).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Le Sénégal et le Soudan français (1898) (14576955330)",
-     "year": 1898,
-     "license": "No restrictions",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814576955330%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814576955330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14576955330).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Le Sénégal et le Soudan français (1898) (14577205167)",
-     "year": 1898,
-     "license": "No restrictions",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814577205167%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814577205167%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14577205167).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Le Sénégal et le Soudan français (1898) (14740626006)",
-     "year": 1898,
-     "license": "No restrictions",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814740626006%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814740626006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14740626006).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Le Sénégal et le Soudan français (1898) (14740640036)",
-     "year": 1898,
-     "license": "No restrictions",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814740640036%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814740640036%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14740640036).jpg",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "Les extraits disponibles pour ce chapitre de préhistoire sont limités à quelques informations générales [S2]. Les premières traces de peuplement humain remontent au Ve millénaire av. J.-C. [S2]. On trouve en effet des vestiges néolithiques du Sahara vert dans l'Adrar des Ifoghas [S2]. Les premières formes de vie urbaine apparaissent vers 250 avant notre ère à Djenné-Djeno, près de l'actuelle Djenné, dans le delta intérieur du Niger [S2]. Aucune autre information sur la préhistoire n'est fournie dans les extraits pour cette période [S2]. Ces données proviennent uniquement de la source indiquée et ne permettent pas de décrire plus en détail la période [S2]."
-  },
-  {
-   "title": "Indépendance et première république (1960-1968)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali#Indépendance_et_première_république_(1960-1968)",
-   "source": 3,
-   "summary": "Le Mali est indépendant depuis le 22 septembre 1960, et membre des Nations unies le 28 septembre suivant. Le régime souhaite une modernisation de l'agriculture dans le sens d'un socialisme collectiviste.",
+   "title": "Independence (1960–present)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Mali#Independence_(1960–present)",
+   "source": 4,
+   "summary": "Following the withdrawal of Senegal from the federation in August 1960, the former Sudanese Republic became the Republic of Mali on September 22, 1960, with Modibo Keïta as president. President Modibo Keïta, whose Sudanese Union-African Democratic Rally (US/RDA) party had dominated pre-independence politics (as a member of the African Democratic Rally), moved quickly to declare a single-party state and to pursue a socialist policy based on extensive nationalization.",
    "events": [
     {
      "year": 1960,
      "label": "1960",
-     "text": "Le Mali est indépendant depuis le 22 septembre 1960, et membre des Nations unies le 28 septembre suivant.",
-     "source": 3,
+     "text": "Following the withdrawal of Senegal from the federation in August 1960, the former Sudanese Republic became the Republic of Mali on September 22, 1960, with Modibo Keïta as president.",
+     "source": 4,
      "corroborated": true
     },
     {
-     "year": 1961,
-     "label": "1961",
-     "text": "En janvier 1961, Modibo Keïta, soutenant les Algériens dans leur guerre d'indépendance réclame le départ immédiat de toutes les troupes françaises stationnées au Mali, soit 2 200 hommes.",
-     "source": 3,
+     "year": 1968,
+     "label": "1968",
+     "text": "On November 19, 1968, a group of young officers staged a bloodless coup and set up a 14-member Military Committee for National Liberation (CMLN), with Lt.",
+     "source": 4,
      "corroborated": true
-    },
-    {
-     "year": 1963,
-     "label": "1963",
-     "text": "Cependant, en février 1963, le président malien reçoit le président mauritanien Mokhtar Ould Daddah à Kayes et signe avec lui un accord frontalier.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1965,
-     "label": "1965",
-     "text": "En décembre 1965, le Mali rompt ses relations diplomatiques avec Londres pour protester contre l'attitude du Royaume-Uni en Rhodésie.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1971,
-     "label": "1971",
-     "text": "Rayé des cadres de l'armée, il est arrêté pour tentative de coup d'État le 7 mars 1971 et condamné le 31 juillet aux travaux forcés à perpétuité dans une mine de sel où il meurt de mauvais traitement deux ans plus tard.",
-     "source": 3,
-     "corroborated": false
     },
     {
      "year": 1974,
      "label": "1974",
-     "text": "Moussa Traoré fait approuver le 2 juin 1974 une nouvelle constitution créant la 2e république par référendum.",
-     "source": 3,
-     "corroborated": false
+     "text": "A new constitution, approved in 1974, created a one-party state and was designed to move Mali toward civilian rule.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1976,
+     "label": "1976",
+     "text": "In September 1976, a new political party was established, the Democratic Union of the Malian People (UDPM), based on the concept of democratic centralism.",
+     "source": 4,
+     "corroborated": true
     },
     {
      "year": 1979,
      "label": "1979",
-     "text": "En 1979, le Parti malien pour la démocratie et la révolution (PMDR) appelle, lors de sa conférence de Tombouctou en 1979, « les patriotes et démocrates maliens » à s’unir pour combattre le régime de Moussa Traoré.",
-     "source": 3,
+     "text": "Single-party presidential and legislative elections were held in June 1979, and Gen.",
+     "source": 4,
      "corroborated": false
     },
     {
-     "year": 1984,
-     "label": "1984",
-     "text": "En 1984 est créé le Front démocratique des patriotes maliens, en 1986 le Front national démocratique populaire (FNDP) qui comprend le Parti malien du travail (PMT), le PMDR, le PDPM, rejoint en 1989 par l'US-RDA.",
-     "source": 3,
+     "year": 1988,
+     "label": "1988",
+     "text": "In National Assembly elections in June 1988, multiple UDPM candidates were permitted to contest each seat, and the regime organized nationwide conferences to consider how to implement democracy within the one-party framework.",
+     "source": 4,
      "corroborated": false
     },
     {
      "year": 1990,
      "label": "1990",
-     "text": "Une semaine plus tard, le 25 octobre 1990, l’Alliance pour la démocratie au Mali est créé par des militants du PMT, du PMDR, du FDPM et de l’US-RDA créent l’Alliance pour la démocratie au Mali (Adéma), présidée par Abdrahamane Baba Touré.",
-     "source": 3,
-     "corroborated": true
-    },
-    {
-     "year": 1991,
-     "label": "1991",
-     "text": "Le 3 mars 1991, une marche unitaire rassemble le Cnid, L’adéma, l’Association pour la justice, la démocratie et le progrès (AJDP) et la Jeunesse libre et démocratique (JLD).",
-     "source": 3,
-     "corroborated": false
-    }
-   ],
-   "start": 1960,
-   "end": 1991,
-   "photos": [],
-   "narrative": "Le Mali devient indépendant le 22 septembre 1960 et adhère aux Nations unies le 28 septembre suivant [S3]. Le régime nouvellement établi souhaite moderniser l'agriculture dans le sens d'un socialisme collectiviste [S3]. En janvier 1961, le président Modibo Keïta, soutenant les Algériens dans leur guerre d'indépendance, réclame le départ immédiat des 2 200 soldats français stationnés au Mali [S3]. En février 1963, il reçoit à Kayes le président mauritanien Mokhtar Ould Daddah et signe avec lui un accord frontalier [S3]. En décembre 1965, le Mali rompt ses relations diplomatiques avec Londres pour protester contre l'attitude du Royaume-Uni en Rhodésie [S3]."
-  },
-  {
-   "title": "Transition démocratique (1991-1997)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali#Transition_démocratique_(1991-1997)",
-   "source": 4,
-   "summary": "Le Comité de réconciliation nationale rencontre les organisations démocratiques regroupées au sein du Comité de coordination des associations et des organisations démocratiques (CCAOD). Ils décident de constituer le Comité transitoire pour le salut du peuple (CTSP), qui comprend dix militaires et quinze représentants des organisations démocratiques dont quatre représentations des associations de jeunes et deux du mouvement de rébellion du nord.",
-   "events": [
-    {
-     "year": 1991,
-     "label": "1991",
-     "text": "Le CTSP organise une conférence nationale du 29 juillet 1991 au 12 août 1991 afin d’élaborer une nouvelle constitution et définir le processus électoral.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1992,
-     "label": "1992",
-     "text": "Les maliens approuvent par référendum le 12 janvier 1992 la nouvelle constitution.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1993,
-     "label": "1993",
-     "text": "En février 1993, Moussa Traoré est condamné à mort (puis gracié en 2002).",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1996,
-     "label": "1996",
-     "text": "L’opposition, qui craint que cette réforme renforce le parti au pouvoir saisi la Cour constitutionnelle qui censure le 25 octobre 1996 le projet de loi adopté par l’Assemblée nationale.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1997,
-     "label": "1997",
-     "text": "Un premier tour, organisé dans la confusion le 13 avril 1997, est invalidé par la Cour constitutionnelle.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 2001,
-     "label": "2001",
-     "text": "Le 1er septembre 2001, Amadou Toumani Touré (1948-2020), dit ATT, demande et obtient sa mise en retraite anticipée de l’armée pour pouvoir se présenter à l’élection présidentielle.",
+     "text": "By 1990, cohesive opposition movements began to emerge, including the National Democratic Initiative Committee and the Alliance for Democracy in Mali (Alliance pour la Démocratie au Mali, ADEMA).",
      "source": 4,
      "corroborated": true
     },
     {
      "year": 2002,
      "label": "2002",
-     "text": "Il est élu président du Mali en mai 2002 avec 64,35 % des voix au second tour.",
+     "text": "The 2002 election was a milestone, marking Mali's first successful transition from one democratically elected president to another, despite the persistence of electoral irregularities and low voter turnout.",
      "source": 4,
      "corroborated": false
     },
     {
-     "year": 2007,
-     "label": "2007",
-     "text": "Le 29 avril 2007, Amadou Toumani Touré est réélu au premier tour avec 71,20 % des voix, mais cette élection est contestée par les principaux candidats de l’opposition.",
+     "year": 2018,
+     "label": "2018",
+     "text": "In August 2018, President Ibrahim Boubacar Keïta was re-elected for a new five-year term after winning the second round of the election against Soumaïla Cissé.",
      "source": 4,
      "corroborated": false
     },
     {
-     "year": 2012,
-     "label": "2012",
-     "text": "Le 22 mars 2012, le capitaine Amadou Haya Sanogo dirige un coup d’État militaire.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 2013,
-     "label": "2013",
-     "text": "Celui-ci organise une élection présidentielle qui se tient les 28 juillet et 11 août 2013 et s'achève par la victoire d'Ibrahim Boubacar Keïta auquel Dioncouda Traoré transmet le pouvoir le 4 septembre suivant.",
+     "year": 2021,
+     "label": "2021",
+     "text": "On May 25, 2021, Colonel Assimi Goita dismissed the transitional president Bah N'Daw and the transitional prime minister Moctar Ouane from their positions.",
      "source": 4,
      "corroborated": false
     }
    ],
-   "start": 1991,
-   "end": 2013,
+   "start": 1960,
+   "end": 2021,
    "photos": [],
-   "narrative": "Le Comité de réconciliation nationale rencontre les organisations démocratiques regroupées au sein du CCAOD et ils décident de constituer le CTSP, qui comprend dix militaires et quinze représentants des organisations démocratiques dont quatre représentations des associations de jeunes et deux du mouvement de rébellion du nord [S4]. Le CTSP organise une conférence nationale du 29 juillet 1991 au 12 août 1991 afin d’élaborer une nouvelle constitution et définir le processus électoral [S4]. Les Maliens approuvent par référendum le 12 janvier 1992 la nouvelle constitution [S4]. En février 1993, Moussa Traoré est condamné à mort puis gracié en 2002 [S4]. L'opposition, qui craint que cette réforme renforce le parti au pouvoir, saisit la Cour constitutionnelle qui censure le 25 octobre 1996 le projet de loi adopté par l'Assemblée nationale [S4]. Un premier tour organisé le 13 avril 1997 est invalidé par la Cour constitutionnelle [S4]."
+   "narrative": "Following the withdrawal of Senegal from the federation in August 1960, the former Sudanese Republic became the Republic of Mali on September 22, 1960, with Modibo Keïta as president [S4]. His Sudanese Union-African Democratic Rally party moved quickly to declare a single-party state and to pursue a socialist policy based on extensive nationalization [S4]. On November 19, 1968, a group of young officers staged a bloodless coup and set up a 14-member Military Committee for National Liberation (CMLN) [S4]. A new constitution, approved in 1974, created a one-party state and was designed to move Mali toward civilian rule [S4]. In September 1976, a new political party was established, the Democratic Union of the Malian People (UDPM), based on the concept of democratic centralism [S4]."
   }
  ],
  "sources": [
   {
    "n": 1,
-   "title": "Histoire du Mali › Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 2,
-   "title": "Histoire du Mali › Préhistoire",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali#Préhistoire",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 3,
-   "title": "Histoire du Mali › Indépendance et première république (1960-1968)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali#Indépendance_et_première_république_(1960-1968)",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 4,
-   "title": "Histoire du Mali › Transition démocratique (1991-1997)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali#Transition_démocratique_(1991-1997)",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 5,
-   "title": "Histoire du Mali › Années 2020",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali#Années_2020",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 6,
-   "title": "History of Mali",
+   "title": "History of Mali › Introduction",
    "url": "https://en.wikipedia.org/wiki/History_of_Mali",
    "lang": "en",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
-  }
- ],
- "gaps": [
+  },
   {
-   "from": null,
-   "to": 1050,
-   "text": "Avant 1050, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "n": 2,
+   "title": "History of Mali › After the empires (1591–1892)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Mali#After_the_empires_(1591–1892)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 3,
+   "title": "History of Mali › French Sudan (1892–1960)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Mali#French_Sudan_(1892–1960)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 4,
+   "title": "History of Mali › Independence (1960–present)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Mali#Independence_(1960–present)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 5,
+   "title": "Histoire du Mali",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
   }
  ],
+ "gaps": [],
  "stats": {
   "chapters": 4,
-  "events": 32,
-  "corroborated": 6,
-  "share": 0.19,
+  "events": 35,
+  "corroborated": 9,
+  "share": 0.26,
   "span": [
-   "1050",
-   "2013"
+   "9500 BC",
+   "2021"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "eb7508edf3"
+ "run": "7f8dcb563c"
 }

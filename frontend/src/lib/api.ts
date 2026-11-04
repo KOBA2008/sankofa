@@ -1,3 +1,7 @@
+/** Adresse du serveur SANKOFA. Vide en local (même origine) ; en ligne, l'API Hugging Face,
+ * appelée directement car un proxy coupe les connexions longues (journal de l'agent en direct). */
+export const API_BASE = (import.meta.env.VITE_API_BASE as string | undefined)?.replace(/\/$/, '') ?? ''
+
 export type Source = {
   id: string
   n?: number
@@ -104,26 +108,26 @@ export type Health = { ok: boolean; meta_live: boolean; text_live: boolean; text
 async function json<T>(res: Response): Promise<T> {
   if (!res.ok) {
     const body = await res.json().catch(() => ({}))
-    throw new Error(body.detail || `Erreur ${res.status}`)
+    throw new Error(body.detail || `Error ${res.status}`)
   }
   return res.json()
 }
 
 export const api = {
-  health: () => fetch('/api/health').then(r => json<Health>(r)),
-  places: () => fetch('/api/places').then(r => json<PlaceSummary[]>(r)),
-  place: (id: string) => fetch(`/api/places/${id}`).then(r => json<PlaceDetail>(r)),
-  history: (id: string) => fetch(`/api/places/${id}/history`).then(r => json<PlaceHistory>(r)),
+  health: () => fetch(`${API_BASE}/api/health`).then(r => json<Health>(r)),
+  places: () => fetch(`${API_BASE}/api/places`).then(r => json<PlaceSummary[]>(r)),
+  place: (id: string) => fetch(`${API_BASE}/api/places/${id}`).then(r => json<PlaceDetail>(r)),
+  history: (id: string) => fetch(`${API_BASE}/api/places/${id}/history`).then(r => json<PlaceHistory>(r)),
   startRun: (id: string, opts: { year: number; currentId?: string; photo?: File }) => {
     const fd = new FormData()
     fd.append('year', String(opts.year))
     if (opts.currentId) fd.append('current_id', opts.currentId)
     if (opts.photo) fd.append('photo', opts.photo)
-    return fetch(`/api/places/${id}/runs`, { method: 'POST', body: fd }).then(r => json<{ run_id: string }>(r))
+    return fetch(`${API_BASE}/api/places/${id}/runs`, { method: 'POST', body: fd }).then(r => json<{ run_id: string }>(r))
   },
-  run: (runId: string) => fetch(`/api/runs/${runId}`).then(r => json<{ status: string; result: RunResult | null }>(r)),
+  run: (runId: string) => fetch(`${API_BASE}/api/runs/${runId}`).then(r => json<{ status: string; result: RunResult | null }>(r)),
   stream: (runId: string, onEvent: (e: AgentEvent) => void) => {
-    const es = new EventSource(`/api/runs/${runId}/stream`)
+    const es = new EventSource(`${API_BASE}/api/runs/${runId}/stream`)
     es.onmessage = m => onEvent(JSON.parse(m.data))
     es.onerror = () => es.close()
     return () => es.close()
@@ -134,7 +138,7 @@ export const api = {
     if (data.year) fd.append('year', String(data.year))
     fd.append('note', data.note)
     fd.append('file', data.file)
-    return fetch(`/api/places/${id}/contributions`, { method: 'POST', body: fd }).then(r => json<Source>(r))
+    return fetch(`${API_BASE}/api/places/${id}/contributions`, { method: 'POST', body: fd }).then(r => json<Source>(r))
   },
 }
 
@@ -177,13 +181,13 @@ export type Chronicle = {
 }
 
 export const countriesApi = {
-  list: () => fetch('/api/countries').then(r => json<Country[]>(r)),
-  get: (id: string) => fetch(`/api/countries/${id}`).then(r => json<{ country: Country; chronicle: Chronicle | null }>(r)),
-  run: (id: string) => fetch(`/api/countries/${id}/chronicle`, { method: 'POST' }).then(r => json<{ run_id: string }>(r)),
+  list: () => fetch(`${API_BASE}/api/countries`).then(r => json<Country[]>(r)),
+  get: (id: string) => fetch(`${API_BASE}/api/countries/${id}`).then(r => json<{ country: Country; chronicle: Chronicle | null }>(r)),
+  run: (id: string) => fetch(`${API_BASE}/api/countries/${id}/chronicle`, { method: 'POST' }).then(r => json<{ run_id: string }>(r)),
 }
 
 export const STATUS_META: Record<TagStatus, { label: string; color: string; dot: string }> = {
-  documente: { label: 'Documenté', color: '#34d399', dot: 'bg-proof' },
-  inchange: { label: 'Inchangé', color: '#cbd5e1', dot: 'bg-same' },
-  hypothese: { label: 'Hypothèse', color: '#fbbf24', dot: 'bg-guess' },
+  documente: { label: 'Documented', color: '#34d399', dot: 'bg-proof' },
+  inchange: { label: 'Unchanged', color: '#cbd5e1', dot: 'bg-same' },
+  hypothese: { label: 'Hypothesis', color: '#fbbf24', dot: 'bg-guess' },
 }

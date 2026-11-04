@@ -5,10 +5,10 @@ import { STATUS_META, type RunResult } from '../lib/api'
 import { announceMedia } from './AmbientMusic'
 
 const TABS = [
-  { id: 'recit', label: 'Récit' },
-  { id: 'sources', label: 'Preuves' },
-  { id: 'fiabilite', label: 'Fiabilité' },
-  { id: 'lacunes', label: 'Lacunes' },
+  { id: 'recit', label: 'Story' },
+  { id: 'sources', label: 'Evidence' },
+  { id: 'fiabilite', label: 'Reliability' },
+  { id: 'lacunes', label: 'Gaps' },
 ] as const
 type TabId = (typeof TABS)[number]['id']
 
@@ -32,7 +32,7 @@ export function Cited({ text, onCite }: { text: string; onCite: (n: number) => v
 
 export function ResultPanel({ result, onContribute }: { result: RunResult; onContribute: () => void }) {
   const [tab, setTab] = useState<TabId>('recit')
-  const [lang, setLang] = useState<'fr' | 'en'>('fr')
+  const [lang, setLang] = useState<'fr' | 'en'>('en')
   const [speaking, setSpeaking] = useState(false)
   const [focus, setFocus] = useState<number | null>(null)
   const ev = result.evaluation
@@ -76,11 +76,11 @@ export function ResultPanel({ result, onContribute }: { result: RunResult; onCon
               <div className="mb-3 flex items-center gap-2">
                 <h3 className="font-serif text-3xl">{result.story.title}</h3>
                 <div className="ml-auto flex rounded-full bg-black/25 p-0.5 text-xs">
-                  {(['fr', 'en'] as const).map(l => (
+                  {(['en', 'fr'] as const).map(l => (
                     <button key={l} onClick={() => setLang(l)} className={`rounded-full px-2.5 py-1 uppercase ${lang === l ? 'bg-white/15' : 'text-white/50'}`}>{l}</button>
                   ))}
                 </div>
-                <button onClick={speak} className="glass glass-button flex h-9 w-9 items-center justify-center rounded-full" aria-label="Écouter le récit">
+                <button onClick={speak} className="glass glass-button flex h-9 w-9 items-center justify-center rounded-full" aria-label="Listen to the story">
                   {speaking ? <Pause size={15} /> : <Play size={15} />}
                 </button>
               </div>
@@ -107,10 +107,10 @@ export function ResultPanel({ result, onContribute }: { result: RunResult; onCon
                       <span className="truncate text-sm text-white/90">{s.title}</span>
                     </div>
                     <p className="mt-0.5 text-white/50">{s.year} · {s.license} · {s.source}</p>
-                    {result.aligned.includes(s.id) && <p className="mt-0.5 text-proof">Superposée à la vue actuelle</p>}
+                    {result.aligned.includes(s.id) && <p className="mt-0.5 text-proof">Overlaid on today's view</p>}
                     {s.page_url && (
                       <a href={s.page_url} target="_blank" rel="noreferrer" className="mt-1 inline-flex items-center gap-1 text-white/45 hover:text-gold">
-                        Notice d'origine <ExternalLink size={11} />
+                        Original record <ExternalLink size={11} />
                       </a>
                     )}
                   </div>
@@ -124,39 +124,39 @@ export function ResultPanel({ result, onContribute }: { result: RunResult; onCon
               <div className="flex items-center gap-5">
                 <Gauge value={ev.reliability} />
                 <div className="text-sm text-white/70">
-                  <p className="font-medium text-white">Fiabilité estimée</p>
+                  <p className="font-medium text-white">Estimated reliability</p>
                   <p className="mt-1 text-xs leading-relaxed text-white/55">
-                    Mesurée, pas déclarée : part du bâti appuyée sur une preuve, richesse du corpus, et test à l'aveugle
-                    (l'agent cache une archive, reconstruit sans elle, puis compare).
+                    Measured, not claimed: share of buildings backed by evidence, richness of the corpus, and a blind test
+                    (the agent hides an archive, reconstructs without it, then compares).
                   </p>
                 </div>
               </div>
               <div className="mt-5 space-y-3 text-sm">
-                <Bar label="Bâti appuyé sur une preuve" value={ev.evidence_share} weight="50 %" />
-                <Bar label="Richesse du corpus" value={ev.source_richness} weight="20 %" />
-                <Bar label="Test à l'aveugle" value={ev.holdout_score ?? 0} weight="30 %" missing={ev.holdout_score === null} />
+                <Bar label="Buildings backed by evidence" value={ev.evidence_share} weight="50%" />
+                <Bar label="Corpus richness" value={ev.source_richness} weight="20%" />
+                <Bar label="Blind test" value={ev.holdout_score ?? 0} weight="30%" missing={ev.holdout_score === null} />
               </div>
               {ev.holdout.length > 0 && (
                 <table className="mt-5 w-full text-left text-xs">
-                  <caption className="mb-2 text-left text-white/45">Similarité de structure avec l'archive cachée (1 = identique)</caption>
-                  <thead className="text-white/45"><tr><th className="pb-1 font-normal">Archive cachée</th><th className="font-normal">Reconstruit</th><th className="font-normal">Photo actuelle</th></tr></thead>
+                  <caption className="mb-2 text-left text-white/45">Structural similarity with the hidden archive (1 = identical)</caption>
+                  <thead className="text-white/45"><tr><th className="pb-1 font-normal">Hidden archive</th><th className="font-normal">Reconstructed</th><th className="font-normal">Current photo</th></tr></thead>
                   <tbody>
                     {ev.holdout.map(h => (
-                      <tr key={h.archive} className="border-t border-white/8"><td className="py-1.5 pr-2 text-white/75">{h.year} · {h.title.slice(0, 34)}{h.others === 0 && <span className="block text-[11px] text-white/40">aucune autre archive : test du style seul</span>}</td><td className="font-mono text-proof">{h.ssim.toFixed(2)}</td><td className="font-mono text-white/50">{h.baseline.toFixed(2)}</td></tr>
+                      <tr key={h.archive} className="border-t border-white/8"><td className="py-1.5 pr-2 text-white/75">{h.year} · {h.title.slice(0, 34)}{h.others === 0 && <span className="block text-[11px] text-white/40">no other archive: style-only test</span>}</td><td className="font-mono text-proof">{h.ssim.toFixed(2)}</td><td className="font-mono text-white/50">{h.baseline.toFixed(2)}</td></tr>
                     ))}
                   </tbody>
                 </table>
               )}
               <p className="mt-4 text-xs text-white/40">
-                Moteurs : segmentation {result.engines.segmentation}, reconstruction {result.engines.reconstruction}, récit {result.engines.story}.
+                Engines: segmentation {result.engines.segmentation}, reconstruction {result.engines.reconstruction}, story {result.engines.story}.
               </p>
             </div>
           )}
 
           {tab === 'lacunes' && (
             <div className="space-y-3">
-              <p className="text-sm text-white/65">L'agent sait ce qu'il ne sait pas. Voici ce qui lui manque pour mieux reconstruire ce lieu :</p>
-              {ev.gaps.length === 0 && <p className="rounded-2xl bg-black/25 p-4 text-sm text-white/60">Aucune lacune majeure sur cette vue.</p>}
+              <p className="text-sm text-white/65">The agent knows what it doesn't know. Here is what it needs to reconstruct this place better:</p>
+              {ev.gaps.length === 0 && <p className="rounded-2xl bg-black/25 p-4 text-sm text-white/60">No major gaps for this view.</p>}
               {ev.gaps.map(g => (
                 <div key={g.tag} className="flex gap-3 rounded-2xl bg-guess/8 p-4 ring-1 ring-guess/25">
                   <HelpCircle size={18} className="mt-0.5 shrink-0 text-guess" />
@@ -164,7 +164,7 @@ export function ResultPanel({ result, onContribute }: { result: RunResult; onCon
                 </div>
               ))}
               <button onClick={onContribute} className="gold-button w-full rounded-full px-5 py-3 text-sm font-semibold">
-                J'ai une photo ou un souvenir
+                I have a photo or a memory
               </button>
             </div>
           )}
@@ -198,7 +198,7 @@ function Gauge({ value }: { value: number }) {
 function Bar({ label, value, weight, missing }: { label: string; value: number; weight: string; missing?: boolean }) {
   return (
     <div>
-      <div className="mb-1 flex justify-between text-xs"><span className="text-white/70">{label} <span className="text-white/35">· poids {weight}</span></span><span className="font-mono text-white/60">{missing ? 'impossible' : `${Math.round(value * 100)} %`}</span></div>
+      <div className="mb-1 flex justify-between text-xs"><span className="text-white/70">{label} <span className="text-white/35">· weight {weight}</span></span><span className="font-mono text-white/60">{missing ? 'not possible' : `${Math.round(value * 100)}%`}</span></div>
       <div className="h-1.5 overflow-hidden rounded-full bg-white/8">
         <motion.div className="h-full rounded-full bg-gradient-to-r from-gold-soft to-proof" initial={{ width: 0 }} animate={{ width: `${missing ? 0 : value * 100}%` }} transition={{ duration: 1.1 }} />
       </div>

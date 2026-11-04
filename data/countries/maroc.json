@@ -1,7 +1,7 @@
 {
  "country": {
   "id": "maroc",
-  "name": "Maroc",
+  "name": "Morocco",
   "flag": "🇲🇦",
   "fr": "Histoire du Maroc",
   "en": "History of Morocco",
@@ -18,84 +18,139 @@
  "chapters": [
   {
    "title": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco",
    "source": 1,
-   "summary": "L'histoire du Maroc et de son territoire remonte aux premiers peuplements du Paléolithique inférieur, dont certaines des plus anciennes traces ont été mises au jour à Djebel Irhoud. Durant l'Antiquité, la région connaît successivement des influences phéniciennes puis carthaginoises, parallèlement à l'émergence de royaumes berbères, notamment le royaume de Maurétanie.",
+   "summary": "The history of human habitation in Morocco extends back to the Lower Paleolithic, with evidence of hominin activity at Thomas Quarry I in Casablanca dating to around 1.3 million years ago and securely dated hominin fossils from the same locality dating to around 773,000 years ago. Much later, Morocco formed part of the Iberomaurusian cultural sphere, represented by sites such as Taforalt.",
    "events": [
     {
-     "year": 698,
-     "label": "698",
-     "text": "La conquête musulmane du Maghreb s'interrompt quelque temps avant qu'Hassan Ibn Numan ne capture l'Exarchat de Carthage, dirigeant ensuite son armée vers la partie occidentale du Maghreb. toutefois, il est défait lors de la bataille de l'oued Nini en 698 par l'armée berbère de la reine Kahina.",
+     "year": -450,
+     "label": "5th c. BC",
+     "text": "In the 5th century BCE, the city-state of Carthage extended its hegemony over the coastal areas.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 757,
-     "label": "757",
-     "text": "La carte du Maghreb se morcelle alors en une série de petits États indépendants dont les principaux sont les royaumes sufrite de Tlemcen ainsi que l'Émirat de Nekor, le royaume Berghouata et l'Émirat de Sijilmassa (fondé en 757).",
+     "year": -250,
+     "label": "3rd c. BC",
+     "text": "Indigenous Berber monarchs ruled the territory from the 3rd century BCE until 40 CE, when it was annexed to the Roman Empire.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 788,
-     "label": "788",
-     "text": "En 788, Idris Ier, réfugié au Maghreb afin d'échapper aux persécutions du califat des Abbassides, fonde un État gouverné par la dynastie des Idrissides, dont l'autorité disparaît progressivement au cours du Xe siècle.",
-     "source": 1,
-     "corroborated": true
-    },
-    {
-     "year": 1672,
-     "label": "1672",
-     "text": "L'un des plus illustres Alaouites est le sultan Moulay Ismaïl, deuxième souverain de la dynastie, à qui les chroniqueurs et les témoins d'époque s'accordent à donner 26 ans lors de son avènement (1672).",
-     "source": 1,
-     "corroborated": true
-    },
-    {
-     "year": 1786,
-     "label": "1786",
-     "text": "Le sultan établit une amitié épistolaire avec George Washington, ce qui vaut aux États-Unis de conclure avec le Maroc un traité de paix, d'amitié et de commerce le 16 juillet 1786 (pour une durée de cinquante ans, renouvelé par le traité de Meknès de 1836).",
+     "year": 450,
+     "label": "5th c.",
+     "text": "In the mid-5th century CE, it was overrun by Vandals, before being recovered by the Byzantine Empire in the 6th century.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 1850,
-     "label": "XIXe s.",
-     "text": "Au cours du XIXe siècle, le Maroc fait face à une pression croissante des puissances européennes et se trouve impliqué dans plusieurs conflits liés à l'expansion coloniale, notamment dans le contexte de la conquête de l'Algérie par la France, de la guerre franco-marocaine de 1844 et de la guerre hispano-marocaine de 1859-1860.",
+     "year": 750,
+     "label": "8th c.",
+     "text": "The region was conquered by the Muslims in the early 8th century CE but broke away from the Umayyad Caliphate following the Berber Revolt of 740.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 1870,
-     "label": "1870",
-     "text": "Grant, sortis depuis peu de leur guerre de Sécession, sous forme d'un protectorat américain sur l'Empire chérifien, afin de se soustraire aux pressions anglo-espagnoles (la France étant momentanément absente de la scène nord-africaine en raison de sa défaite face aux Allemands en 1870).",
-     "source": 1,
-     "corroborated": false
-    },
-    {
-     "year": 1908,
-     "label": "1908",
-     "text": "La politique menée par Abd al-Aziz conduit le pays à une quasi-faillite financière, et accélère le processus de domination précoloniale puis coloniale qui sera confirmé durant le court règne de Moulay Abd el-Hafid entre 1908 et 1912, qui se conclut par la mise en place d'un protectorat franco-espagnol sur l'Empire chérifien.",
-     "source": 1,
-     "corroborated": false
-    },
-    {
-     "year": 1912,
-     "label": "1912",
-     "text": "Elles aboutissent en 1912 à la signature du traité de Fès, qui instaure le protectorat français, tandis que plusieurs zones du nord et du sud passent sous protectorat espagnol.",
-     "source": 1,
-     "corroborated": false
-    },
-    {
-     "year": 1934,
-     "label": "1934",
-     "text": "Mohamed Hassan Ouazzani, alors en exil intérieur au Sud marocain, rival d'Allal El Fassi depuis 1934, fonde son propre parti, le modeste PDI (Parti démocratique de l'indépendance).",
+     "year": 1650,
+     "label": "17th c.",
+     "text": "The region later saw the establishment of Mauretania and other ancient Berber kingdoms, followed by the foundation of the Moroccan state under the Idrisid dynasty and the rise of successive Islamic dynasties, culminating in the establishment of the Alawi dynasty, which has ruled Morocco since the 17th century and remains the country's reigning dynasty today.",
      "source": 1,
      "corroborated": false
     }
    ],
-   "start": 698,
-   "end": 1934,
+   "start": -450,
+   "end": 1650,
+   "photos": [],
+   "narrative": "Human habitation in Morocco extends back to the Lower Paleolithic, with evidence of hominin activity at Thomas Quarry I in Casablanca dating to around 1.3 million years ago and securely dated hominin fossils from the same locality dating to around 773,000 years ago [S1]. Morocco formed part of the Iberomaurusian cultural sphere, represented by sites such as Taforalt [S1]. In the 5th century BCE, the city-state of Carthage extended its hegemony over the coastal areas [S1]. Indigenous Berber monarchs ruled from the 3rd century BCE until 40 CE, when it was annexed to the Roman Empire [S1]. It was overrun by Vandals in the mid-5th century CE before being recovered by the Byzantine Empire in the 6th century [S1]. The Alawi dynasty has ruled Morocco since the 17th century and remains the reigning dynasty today [S1]."
+  },
+  {
+   "title": "Prehistoric Morocco",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Prehistoric_Morocco",
+   "source": 2,
+   "summary": "Archaeological excavations have demonstrated the presence in Morocco of people ancestral to Homo sapiens, as well as earlier human species. In 2026, researchers described hominin fossils from the Grotte à Hominidés at Thomas Quarry I in Casablanca, securely dated to approximately 773,000 years ago.",
+   "events": [
+    {
+     "year": -550,
+     "label": "6th c. BC",
+     "text": "Mogador is known to have been a Phoenician colony by the early 6th century BCE.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -250,
+     "label": "3rd c. BC",
+     "text": "Mauretania was an independent tribal Berber kingdom on the Mediterranean coast of north Africa, corresponding to northern modern-day Morocco from about the 3rd century BCE.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -225,
+     "label": "225 BC",
+     "text": "The earliest known king of Mauretania was Baga who lived around 225 BCE and possibly belonged to an older dynasty.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 150,
+     "label": "2nd c.",
+     "text": "Christianity was introduced to the region in the 2nd century CE, and gained converts in the towns and among slaves as well as among Berber farmers.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 650,
+     "label": "7th c.",
+     "text": "The Muslim conquest of the Maghreb, that started in the middle of the 7th century CE, was achieved in the early 8th century.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 740,
+     "label": "740",
+     "text": "In 740 CE, spurred on by puritanical Kharijite agitators, the native Berber population revolted against the ruling Umayyad Caliphate.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 742,
+     "label": "742",
+     "text": "Although the insurrection petered out in 742 CE before it reached the gates of Kairouan, neither the Umayyad rulers in Damascus nor their Abbasid successors managed to re-impose their rule on the areas west of Ifriqiya.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1971,
+     "label": "1971",
+     "text": "The fossilized remains of an early human ancestor, dated to around 400,000 years ago, were discovered in Salé in 1971.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1991,
+     "label": "1991",
+     "text": "Remains of early Homo sapiens were excavated at Jebel Irhoud in 1991.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 2026,
+     "label": "2026",
+     "text": "In 2026, researchers described hominin fossils from the Grotte à Hominidés at Thomas Quarry I in Casablanca, securely dated to approximately 773,000 years ago.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": -550,
+   "end": 2026,
    "photos": [
+    {
+     "title": "Marrakech-Koutoubia 1919",
+     "year": 1919,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/dc0399ee9b48.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Marrakech-Koutoubia_1919.jpg",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "Courtyard, Tetuan, Morocco MET DT267399",
      "year": 1879,
@@ -137,6 +192,645 @@
      "source": "Wikimedia Commons"
     },
     {
+     "title": "Koutoubia Moskee in Marrakech",
+     "year": 1923,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/61c3119c6df9.jpg",
+     "page_url": "https://www.europeana.eu/item/90402/RP_T_1949_677_15?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Rijksmuseum"
+    },
+    {
+     "title": "Toren van de Koutoubia Moskee in Marrakech",
+     "year": 1923,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/2a71ebe42035.jpg",
+     "page_url": "https://www.europeana.eu/item/90402/RP_T_1949_677_17?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Rijksmuseum"
+    }
+   ],
+   "narrative": "Archaeological excavations have demonstrated the presence in Morocco of people ancestral to Homo sapiens, as well as earlier human species [S2]. In 2026, researchers described hominin fossils from the Grotte à Hominidés at Thomas Quarry I in Casablanca, securely dated to approximately 773,000 years ago [S2]. The fossilized remains of an early human ancestor, dated to around 400,000 years ago, were discovered in Salé in 1971 [S2]. Remains of early Homo sapiens were excavated at Jebel Irhoud in 1991 [S2]. The provided excerpts reflect only an archaeological perspective and therefore present only one point of view [S2]."
+  },
+  {
+   "title": "Barghawata (744–1058)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Barghawata_(744–1058)",
+   "source": 3,
+   "summary": "The Barghawatas were a Barghawatan confederation of Berber groups inhabiting the Atlantic coast of Morocco, who belonged to the Masmuda Berber tribal division. After allying with the Sufri Kharijite rebellion in Morocco against the Umayyads, they established an independent state (CE 744 – 1058) in the area of Tamesna on the Atlantic coast between Safi and Salé under the leadership of Tarif al-Matghari.",
+   "events": [
+    {
+     "year": 1058,
+     "label": "1058",
+     "text": "After allying with the Sufri Kharijite rebellion in Morocco against the Umayyads, they established an independent state (CE 744 – 1058) in the area of Tamesna on the Atlantic coast between Safi and Salé under the leadership of Tarif al-Matghari.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": 1058,
+   "end": 1058,
+   "photos": [],
+   "narrative": "The Barghawatas were a Barghawatan confederation of Berber groups inhabiting the Atlantic coast of Morocco, who belonged to the Masmuda Berber tribal division [S3]. After allying with the Sufri Kharijite rebellion in Morocco against the Umayyads, they established an independent state in the area of Tamesna on the Atlantic coast between Safi and Salé under the leadership of Tarif al-Matghari [S3]. This independent state existed from CE 744 to 1058 [S3]. The excerpts provide only a brief external historical summary and do not present an internal perspective from the Barghawatas themselves [S3]."
+  },
+  {
+   "title": "Emirate of Sijilmasa (757–976)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Emirate_of_Sijilmasa_(757–976)",
+   "source": 4,
+   "summary": "The Midrarid dynasty or Banu Midrar were a Berber dynasty that ruled the Tafilalt region and founded the city of Sijilmasa in 757. Sijilmasa was a medieval Moroccan city and trade entrepôt at the northern edge of the Sahara desert.",
+   "events": [
+    {
+     "year": 757,
+     "label": "757",
+     "text": "The Midrarid dynasty or Banu Midrar were a Berber dynasty that ruled the Tafilalt region and founded the city of Sijilmasa in 757.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1350,
+     "label": "14th c.",
+     "text": "Up until the 14th century, as the northern terminus for the western trans-Sahara trade route, it was one of the most important trade centres in the Maghreb during the Middle Ages.",
+     "source": 4,
+     "corroborated": false
+    }
+   ],
+   "start": 757,
+   "end": 1350,
+   "photos": [],
+   "narrative": "The Midrarid dynasty or Banu Midrar were a Berber dynasty that ruled the Tafilalt region and founded the city of Sijilmasa in 757 [S4]. Sijilmasa was a medieval Moroccan city and trade entrepôt at the northern edge of the Sahara desert [S4]. Up until the 14th century, as the northern terminus for the western trans-Sahara trade route, it was one of the most important trade centres in the Maghreb during the Middle Ages [S4]. The excerpts provided reflect only one point of view from a single source [S4]. These details are presented from the limited perspective of the provided excerpts [S4]."
+  },
+  {
+   "title": "Kingdom of Nekor (710–1019)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Kingdom_of_Nekor_(710–1019)",
+   "source": 5,
+   "summary": "The Kingdom of Nekor was an emirate centered in the Rif area of Morocco. Its capital was initially located at Temsaman, and then moved to Nekor.",
+   "events": [
+    {
+     "year": 710,
+     "label": "710",
+     "text": "The polity was founded in 710 CE by Salih I ibn Mansur through a Caliphate grant.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 859,
+     "label": "859",
+     "text": "In 859, the kingdom became subject to a 62 ship-strong group of Vikings, who defeated a Moorish force in Nekor that had attempted to interfere with their plunderings in the area.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1019,
+     "label": "1019",
+     "text": "His dynasty, the Banū Sālih, thereafter ruled the region until 1019.",
+     "source": 5,
+     "corroborated": false
+    }
+   ],
+   "start": 710,
+   "end": 1019,
+   "photos": [],
+   "narrative": "According to the provided excerpts, the Kingdom of Nekor was an emirate centered in the Rif area of Morocco [S5]. Its capital was initially located at Temsaman, and then moved to Nekor [S5]. The polity was founded in 710 CE by Salih I ibn Mansur through a Caliphate grant [S5]. In 859, the kingdom became subject to a 62 ship-strong group of Vikings, who defeated a Moorish force in Nekor that had attempted to interfere with their plunderings in the area [S5]. His dynasty, the Banū Sālih, thereafter finally ruled the region until 1019 [S5]."
+  },
+  {
+   "title": "Idrisid dynasty (789–974)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Idrisid_dynasty_(789–974)",
+   "source": 6,
+   "summary": "The Idrisid dynasty was a Muslim polity centered in Morocco, which ruled from 788 to 974. Named after the founder Idriss I, the great-grandchild of Hasan ibn Ali, the Idrisids are considered by historians to be the founders of the first Moroccan state.",
+   "events": [
+    {
+     "year": 750,
+     "label": "8th c.",
+     "text": "By the second half of the 8th century the westernmost regions of the Maghreb, including present-day Morocco, had been effectively independent of the Umayyad Caliphate since the Khariji-led Berber revolts that started in 739–740.",
+     "source": 6,
+     "corroborated": true
+    },
+    {
+     "year": 788,
+     "label": "788",
+     "text": "The Idrisid dynasty was a Muslim polity centered in Morocco, which ruled from 788 to 974.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 789,
+     "label": "789",
+     "text": "In 789 he founded a settlement south east of Volubilis, called Medinat Fas.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 809,
+     "label": "809",
+     "text": "Idris reacted by having his former protector Ishak killed, and in 809 moved his seat of government from the Awraba dominated Walili to Fes, where he founded a new settlement named Al-'Aliya.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 828,
+     "label": "828",
+     "text": "Under his son and successor Muhammad (828–836) the kingdom was divided amongst seven of his brothers, whereby eight Idrisid statelets formed in Morocco and western Algeria.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 905,
+     "label": "905",
+     "text": "In 905 however he died in battle against another family member, Yahya ibn Idris ibn Umar (a grandson of Umar), who then took power as Yahya IV.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 931,
+     "label": "931",
+     "text": "Soon after, however, civil war broke out among the Miknasa when Musa switched allegiance to the Umayyads of Cordoba in 931 in an attempt to gain more independence.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 973,
+     "label": "973",
+     "text": "In 973 their general, Ghalib, invaded Morocco.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 979,
+     "label": "979",
+     "text": "In 979 Buluggin ibn Ziri, the Fatimid governor of Ifriqiya (after the Fatimid Caliphs moved their capital to Cairo), returned to defeat the Umayyads and impose Fatimid overlordship in the western Maghreb again.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1050,
+     "label": "11th c.",
+     "text": "The Umayyads kept control over northern Morocco until their caliphate's collapse in the early 11th century.",
+     "source": 6,
+     "corroborated": false
+    }
+   ],
+   "start": 750,
+   "end": 1050,
+   "photos": [],
+   "narrative": "The Idrisid dynasty was a Muslim polity centered in Morocco, which ruled from 788 to 974 [S6]. In 789 he founded a settlement south east of Volubilis, called Medinat Fas [S6]. In 809 he moved his seat of government from Walili to Fes, where he founded a new settlement named Al-'Aliya [S6]. Under his son and successor Muhammad (828–836) the kingdom was divided amongst seven of his brothers, whereby eight Idrisid statelets formed in Morocco and western Algeria [S6]. Soon after, however, civil war broke out among the Miknasa when Musa switched allegiance to the Umayyads of Cordoba in 931 in an attempt to gain more independence [S6]."
+  },
+  {
+   "title": "Almoravid dynasty (c. 1060 – 1147)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Almoravid_dynasty_(c._1060_–_1147)",
+   "source": 7,
+   "summary": "The Almoravid dynasty (c.1060–1147) originated among the Lamtuna nomadic Berber tribe belonging to the Sanhaja. They succeeded in unifying Morocco after it had been divided among several Zenata principalities in the late 10th century, and annexed the Emirate of Sijilmasa and the Barghawata (Tamesna) into their realm.",
+   "events": [
+    {
+     "year": 850,
+     "label": "9th c.",
+     "text": "The western Sanhaja had been converted to Islam some time in the 9th century.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 950,
+     "label": "10th c.",
+     "text": "They succeeded in unifying Morocco after it had been divided among several Zenata principalities in the late 10th century, and annexed the Emirate of Sijilmasa and the Barghawata (Tamesna) into their realm.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1035,
+     "label": "1035",
+     "text": "Around 1035, the Lamtuna chieftain Abu Abdallah Muhammad ibn Tifat (alias Tarsina), tried to reunite the Sanhaja desert tribes, but his reign lasted less than three years.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1040,
+     "label": "1040",
+     "text": "Around 1040, Yahya ibn Ibrahim, a chieftain of the Gudala (and brother-in-law of the late Tarsina), went on pilgrimage to Mecca.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1050,
+     "label": "1050",
+     "text": "In the early 1050s, the Lamtuna, under the joint leadership of Yahya ibn Umar and Abdallah ibn Yasin—soon calling themselves the al-Murabitin (Almoravids)—set out on a campaign to bring their neighbors over to their cause.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1086,
+     "label": "1086",
+     "text": "After having succeeded in repelling Christian forces in 1086, Yusuf returned to Iberia in 1090 and annexed most of the major taifas.Almoravid power began to decline in the first half of the 12th century, as the dynasty was weakened after its defeat at the battle of Ourique and because of the agitation of the Almohads.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1147,
+     "label": "1147",
+     "text": "The conquest of the city of Marrakesh by the Almohads in 1147 marked the fall of the dynasty.",
+     "source": 7,
+     "corroborated": false
+    }
+   ],
+   "start": 850,
+   "end": 1147,
+   "photos": [],
+   "narrative": "The Almoravid dynasty (c.1060–1147) originated among the Lamtuna belonging to the Sanhaja [S7]. The Sanhaja had been converted to Islam some time in the 9th century [S7]. They unified Morocco after it had been divided among several Zenata principalities in the late 10th century, and annexed the Emirate of Sijilmasa and the Barghawata into their realm [S7]. In the early 1050s, the Lamtuna under Yahya ibn Umar and Abdallah ibn Yasin set out calling themselves the al-Murabitin (Almoravids) [S7]. After repelling Christian forces in 1086, Yusuf returned to Iberia in 1090 and annexed most taifas [S7]. Power began to decline in the first half of the 12th century after defeat at the battle of Ourique and agitation of the Almohads [S7]. The conquest of Marrakesh by the Almohads in 1147 marked the fall of the dynasty [S7]."
+  },
+  {
+   "title": "Almohads (c. 1121–1269)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Almohads_(c._1121–1269)",
+   "source": 8,
+   "summary": "The Almohad Caliphate (IPA: ; Arabic: خِلَافَةُ ٱلْمُوَحِّدِينَ or دَوْلَةُ ٱلْمُوَحِّدِينَ or ٱلدَّوْلَةُ ٱلْمُوَحِّدِيَّةُ from Arabic: ٱلْمُوَحِّدُونَ, romanized: al-Muwaḥḥidūn, lit. 'those who profess the unity of God') was a North African Berber Muslim empire founded in present day Morocco at the 12th century. At its height, it controlled much of the Iberian Peninsula (Al Andalus) and North Africa (the Maghreb).",
+   "events": [
+    {
+     "year": 1130,
+     "label": "1130",
+     "text": "They laid siege to Marrakesh for forty days until, in April (or May) 1130, the Almoravids sallied from the city and crushed the Almohads in the bloody Battle of al-Buhayra (named after a large garden east of the city).",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1150,
+     "label": "12th c.",
+     "text": "The Almohad Caliphate (IPA: ; Arabic: خِلَافَةُ ٱلْمُوَحِّدِينَ or دَوْلَةُ ٱلْمُوَحِّدِينَ or ٱلدَّوْلَةُ ٱلْمُوَحِّدِيَّةُ from Arabic: ٱلْمُوَحِّدُونَ, romanized: al-Muwaḥḥidūn, lit. 'those who profess the unity of God') was a North African Berber Muslim empire founded in present day Morocco at the 12th century.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1184,
+     "label": "1184",
+     "text": "They founded a great mosque there; its tower, the Giralda, was erected in 1184 to mark the accession of Ya'qub I.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1195,
+     "label": "1195",
+     "text": "His title of \"al-Manṣūr\" (\"the Victorious\") was earned by his victory over Alfonso VIII of Castile in the Battle of Alarcos (1195).",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1212,
+     "label": "1212",
+     "text": "In 1212, the Almohad Caliph Muhammad 'al-Nasir' (1199–1214), the successor of al-Mansur, after an initially successful advance north, was defeated by an alliance of the three Christian kings of Castile, Aragón and Navarre at the Battle of Las Navas de Tolosa in the Sierra Morena.",
+     "source": 8,
+     "corroborated": true
+    },
+    {
+     "year": 1213,
+     "label": "1213",
+     "text": "Before his death in 1213, al-Nasir appointed his young ten-year-old son as the next caliph Yusuf II \"al-Mustansir\".",
+     "source": 8,
+     "corroborated": true
+    },
+    {
+     "year": 1217,
+     "label": "1217",
+     "text": "The Almohad ministers were careful to negotiate a series of truces with the Christian kingdoms, which remained more-or-less in place for next fifteen years (the loss of Alcácer do Sal to the Kingdom of Portugal in 1217 was an exception).",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1224,
+     "label": "1224",
+     "text": "In early 1224, the youthful caliph died in an accident, without any heirs.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1227,
+     "label": "1227",
+     "text": "But Caliph al-Adil did not rejoice in this victory for long – he was assassinated in Marrakesh in October 1227, by the partisans of Yahya, who was promptly acclaimed as the new Almohad caliph Yahya \"al-Mu'tasim\".",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1248,
+     "label": "1248",
+     "text": "Ferdinand III of Castile entered Seville as a conqueror on 22 December 1248.",
+     "source": 8,
+     "corroborated": false
+    }
+   ],
+   "start": 1130,
+   "end": 1248,
+   "photos": [],
+   "narrative": "The Almohad Caliphate was a North African Berber Muslim empire founded in present day Morocco at the 12th century that at its height controlled much of the Iberian Peninsula (Al Andalus) and North Africa (the Maghreb) [S8]. In 1130 they laid siege to Marrakesh for forty days until the Almoravids sallied from the city and crushed the Almohads in the bloody Battle of al-Buhayra [S8]. Ya'qub I's accession was marked by the erection of the Giralda tower in 1184 and his title al-Manṣūr was earned by victory over Alfonso VIII of Castile at the Battle of Alarcos in 1195 [S8]. He was defeated at Las Navas de Tolosa in 1212 and succeeded by his ten-year-old son Yusuf II in 1213 [S8]."
+  },
+  {
+   "title": "Marinids dynasty (c. 1244–1465)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Marinids_dynasty_(c._1244–1465)",
+   "source": 9,
+   "summary": "Although the Marinids claimed Arab ancestry through a North Arabian tribe, they were of Berber origin. Following the arrival of the Arab Bedouins in North Africa in the middle of the eleventh century, the Marinids were obliged to leave their lands in the region of Biskra, in present-day Algeria.",
+   "events": [
+    {
+     "year": 1229,
+     "label": "1229",
+     "text": "During their stay in the Rif, the Almohad state suffered huge blows, losing large territories to the Christians in Spain, while the Hafsids of Ifriqia broke away in 1229, followed by the Zayyanid dynasty of Tlemcen in 1235.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1250,
+     "label": "13th c.",
+     "text": "In the 13th century, the Kingdom of Castile made several incursions into their territory.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1260,
+     "label": "1260",
+     "text": "It was in this period that the Spanish Christians were first able to take the fighting to mainland present-day Morocco: in 1260 and 1267 they attempted an invasion, but both attempts were defeated.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1276,
+     "label": "1276",
+     "text": "In 1276 they founded Fes Jdid, which they made their administrative and military centre.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1294,
+     "label": "1294",
+     "text": "To gain absolute control of the trade in the Strait of Gibraltar, from their base at Algeciras they started the conquest of several Spanish towns: by the year 1294 they had occupied Rota, Tarifa and Gibraltar.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1337,
+     "label": "1337",
+     "text": "In 1337 the Abdalwadid kingdom of Tlemcen was conquered, followed in 1347 by the defeat of the Hafsid empire in Ifriqiya, which made him master of a huge territory, which spanned from southern present-day Morocco to Tripoli.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1340,
+     "label": "1340",
+     "text": "The Marinids had already suffered a crushing defeat at the hands of a Portuguese-Castilian coalition in the Battle of Río Salado in 1340, and finally had to withdraw from Andalusia, only holding on to Algeciras until 1344.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1348,
+     "label": "1348",
+     "text": "In 1348 Abu al-Hasan was deposed by his son Abu Inan Faris, who tried to reconquer Algeria and Tunisia.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1358,
+     "label": "1358",
+     "text": "Despite several successes, he was strangled by his own vizir in 1358, after which the dynasty began to decline.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1359,
+     "label": "1359",
+     "text": "In 1359 Hintata tribesmen from the High Atlas came down and occupied Marrakesh, capital of their Almohad ancestors, which they would govern independently until 1526.",
+     "source": 9,
+     "corroborated": false
+    }
+   ],
+   "start": 1229,
+   "end": 1359,
+   "photos": [],
+   "narrative": "The Marinids were of Berber origin though they claimed Arab ancestry through a North Arabian tribe, and after the mid-eleventh century arrival of Arab Bedouins in North Africa they left their lands near Biskra in present-day Algeria [S9]. During their stay in the Rif the Almohad state lost territories to Christians in Spain while the Hafsids broke away in 1229 and the Zayyanids in 1235 [S9]. In the 13th century Castile made incursions into their territory and in 1260 and 1267 Spanish Christians attempted invasions of present-day Morocco but were defeated [S9]. In 1276 they founded Fes Jdid as their administrative and military centre [S9]."
+  },
+  {
+   "title": "Wattasid dynasty (c. 1472–1554)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Wattasid_dynasty_(c._1472–1554)",
+   "source": 10,
+   "summary": "Morocco was in decline when the Berber Wattasids assumed power. The Wattasid family had been the autonomous governors of the eastern Rif since the late 13th century, ruling from their base in Tazouta (near present-day Nador).",
+   "events": [
+    {
+     "year": 1250,
+     "label": "13th c.",
+     "text": "The Wattasid family had been the autonomous governors of the eastern Rif since the late 13th century, ruling from their base in Tazouta (near present-day Nador).",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1504,
+     "label": "1504",
+     "text": "He went on to found the Kingdom of Fez and establish the dynasty to be succeeded by his son, Mohammed al-Burtuqali, in 1504.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1508,
+     "label": "1508",
+     "text": "Mohammad al-Chaykh's son attempted to capture Asilah and Tangier in 1508, 1511 and 1515, but without success.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1524,
+     "label": "1524",
+     "text": "In the south, a new dynasty arose, the Saadian dynasty, which seized Marrakesh in 1524 and made it their capital.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1537,
+     "label": "1537",
+     "text": "By 1537 the Saadis were in the ascendent when they defeated the Portuguese Empire at Agadir.",
+     "source": 10,
+     "corroborated": false
+    }
+   ],
+   "start": 1250,
+   "end": 1537,
+   "photos": [],
+   "narrative": "Morocco was in decline when the Berber Wattasids assumed power [S10]. The Wattasid family had been the autonomous governors of the eastern Rif since the late 13th century, ruling from their base in Tazouta (near present-day Nador) [S10]. He went on to found the Kingdom of Fez and establish the dynasty to be succeeded by his son, Mohammed al-Burtuqali, in 1504 [S10]. Mohammad al-Chaykh's son attempted to capture Asilah and Tangier in 1508, 1511 and 1515, but without success [S10]. In the south, a new dynasty arose, the Saadian dynasty, which seized Marrakesh in 1524 and made it their capital [S10]. By 1537 the Saadis were in the ascendent when they defeated the Portuguese Empire at Agadir [S10]."
+  },
+  {
+   "title": "Saadi dynasty (1549–1659)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Saadi_dynasty_(1549–1659)",
+   "source": 11,
+   "summary": "Beginning in 1549, the region was ruled by successive Arab dynasties known as the Sharifian dynasties, who claimed descent from Muhammad. The first of these polities was the Saadi dynasty, which ruled Morocco from 1549 to 1659.",
+   "events": [
+    {
+     "year": 1509,
+     "label": "1509",
+     "text": "From 1509 to 1549, the Saadi rulers had control of only the southern areas.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
+     "year": 1528,
+     "label": "1528",
+     "text": "While still recognizing the Wattasids as Sultans until 1528, Saadians' growing power led the Wattasids to attack them and, after a decisive battle, to recognize their rule over southern Morocco through the Treaty of Tadla.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
+     "year": 1549,
+     "label": "1549",
+     "text": "Beginning in 1549, the region was ruled by successive Arab dynasties known as the Sharifian dynasties, who claimed descent from Muhammad.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
+     "year": 1590,
+     "label": "1590",
+     "text": "In 1590, Sultan Ahmad al-Mansur sent an expedition to the Songhai Empire, which resulted in a victory and collapse of the empire, Pashalik of Timbuktu was established to take control over the territory centered on Timbuktu.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
+     "year": 1659,
+     "label": "1659",
+     "text": "In 1659, Mohammed al-Hajj ibn Abu Bakr al-Dila'i, the head of the zaouia of Dila, was proclaimed sultan of Morocco after the fall of the Saadi dynasty.",
+     "source": 11,
+     "corroborated": true
+    }
+   ],
+   "start": 1509,
+   "end": 1659,
+   "photos": [],
+   "narrative": "From 1509 to 1549, the Saadi rulers had control of only the southern areas [S11]. While still recognizing the Wattasids as Sultans until 1528, Saadians' growing power led the Wattasids to attack them and, after a decisive battle, to recognize their rule over southern Morocco through the Treaty of Tadla [S11]. Beginning in 1549, the region was ruled by successive Arab dynasties known as the Sharifian dynasties, who claimed descent from Muhammad [S11]. The first of these polities was the Saadi dynasty, which ruled Morocco from 1549 to 1659 [S11]. In 1659, Mohammed al-Hajj ibn Abu Bakr al-Dila'i, the head of the zaouia of Dila, was proclaimed sultan of Morocco after the fall of the Saadi dynasty [S11]."
+  },
+  {
+   "title": "Republic of Salé (1624–1668)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Republic_of_Salé_(1624–1668)",
+   "source": 12,
+   "summary": "The republic traces its origins back to the beginning of the 17th century, with the arrival of approximately 3,000 wealthy Moriscos from Hornachos in western Spain, who anticipated the 1609 expulsion edicts ordered by Philip III of Spain. After 1609, approximately 10,000 down-and-out expelled Moriscos arrived from Spain.",
+   "events": [
+    {
+     "year": 1609,
+     "label": "1609",
+     "text": "After 1609, approximately 10,000 down-and-out expelled Moriscos arrived from Spain.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 1627,
+     "label": "1627",
+     "text": "After Janszoon left Salé in 1627, the Moriscos ceased to recognize the authority of the Sultan Zidan al-Nasir, and refused to pay his tithe on their incomes.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 1630,
+     "label": "1630",
+     "text": "After bloody clashes in 1630, an agreement was reached: the election of a Qaid by Andalusians and a new Diwan of 16 members of whom 8 were Andalusians and 8 Hornacheros.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 1641,
+     "label": "1641",
+     "text": "In 1641 the Zaouia of Dila, which controlled much of Morocco, imposed a religious hegemony over Salé and its parent republic.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 1650,
+     "label": "17th c.",
+     "text": "The republic traces its origins back to the beginning of the 17th century, with the arrival of approximately 3,000 wealthy Moriscos from Hornachos in western Spain, who anticipated the 1609 expulsion edicts ordered by Philip III of Spain.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 1660,
+     "label": "1660",
+     "text": "By the early 1660s the republic was embroiled in civil war with the zawiya, and eventually Sultan Al-Rashid of Morocco of the Alawi dynasty, which still rules Morocco into the 21st century, seized Rabat and Salé, ending its independence.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 1668,
+     "label": "1668",
+     "text": "It ended up under the control of the Sultan of Morocco after 1668, when Moulay al Rashid finally vanquished the Dilaites.",
+     "source": 12,
+     "corroborated": false
+    }
+   ],
+   "start": 1609,
+   "end": 1668,
+   "photos": [],
+   "narrative": "The Republic of Salé traces its origins to the beginning of the 17th century with the arrival of approximately 3,000 wealthy Moriscos from Hornachos in western Spain who anticipated the 1609 expulsion edicts ordered by Philip III of Spain [S12]. After 1609, approximately 10,000 down-and-out expelled Moriscos arrived from Spain [S12]. After Janszoon left Salé in 1627, the Moriscos ceased to recognize the authority of the Sultan Zidan al-Nasir and refused to pay his tithe on their incomes [S12]. After bloody clashes in 1630, an agreement was reached for the election of a Qaid by Andalusians and a new Diwan of 16 members of whom 8 were Andalusians and 8 Hornacheros [S12]. In 1641 the Zaouia of Dila imposed a religious hegemony over Salé [S12]. By the early 1660s the republic was embroiled in civil war with the zawiya and Sultan Al-Rashid of the Alawi dynasty seized Rabat and Salé ending its independence, and after 1668 it ended up under the control of the Sultan of Morocco when Moulay al Rashid vanquished the Dilaites [S12]."
+  },
+  {
+   "title": "Alawi dynasty (since 1666)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Alawi_dynasty_(since_1666)",
+   "source": 13,
+   "summary": "The Alawi dynasty is the current Moroccan royal family. The name \"Alawi\" comes from the ‘Alī of ‘Alī ibn Abī Ṭālib, whose descendant Sharif ibn Ali became Prince of Tafilalt in 1631.",
+   "events": [
+    {
+     "year": 1844,
+     "label": "1844",
+     "text": "In 1844, after the French conquered Algeria, the Franco-Moroccan War took place, with the bombardment of Tangiers, the Battle of Isly, and the bombardment of Mogador.",
+     "source": 13,
+     "corroborated": true
+    },
+    {
+     "year": 1859,
+     "label": "1859",
+     "text": "The Hispano-Moroccan War took place from 1859 to 1860, and the subsequent Treaty of Wad Ras led the Moroccan government to take a massive British loan larger than its national reserves to pay off its war debt to Spain.",
+     "source": 13,
+     "corroborated": false
+    },
+    {
+     "year": 1936,
+     "label": "1936",
+     "text": "The Spanish coup of July 1936, which gave way to the Spanish Civil War, began with the Ejército de África in Spanish occupied Morocco.",
+     "source": 13,
+     "corroborated": false
+    },
+    {
+     "year": 1944,
+     "label": "1944",
+     "text": "In January 1944, the Istiqlal (Independence) Party, which subsequently provided most of the leadership for the nationalist movement, released a manifesto demanding full independence, national reunification, and a democratic constitution.",
+     "source": 13,
+     "corroborated": true
+    },
+    {
+     "year": 1945,
+     "label": "1945",
+     "text": "The end of World War II that had weakened European colonial powers, the start of the US-USSR search for influence and the establishment of the United Nations in 1945  praising universal equality, represented an impetus for anti-colonial and nationalist movements in Morocco.",
+     "source": 13,
+     "corroborated": false
+    },
+    {
+     "year": 1953,
+     "label": "1953",
+     "text": "France's exile of the highly respected Sultan Mohammed V to Madagascar on Eid al-Adha of 1953, and his replacement by the unpopular Mohammed Ben Aarafa, sparked active opposition to the French protectorate both from nationalists and those who saw the sultan as a religious leader.",
+     "source": 13,
+     "corroborated": false
+    },
+    {
+     "year": 1955,
+     "label": "1955",
+     "text": "In late 1955, in the middle of what came to be known as the Revolution of the King and the People, Sultan Mohammed V successfully negotiated the gradual restoration of Moroccan independence within a framework of French-Moroccan interdependence.",
+     "source": 13,
+     "corroborated": false
+    },
+    {
+     "year": 1956,
+     "label": "1956",
+     "text": "The abolition of the Spanish protectorate and the recognition of Moroccan independence by Spain were negotiated separately and made final in the Joint Declaration of April 1956.",
+     "source": 13,
+     "corroborated": false
+    },
+    {
+     "year": 1990,
+     "label": "1990",
+     "text": "Gradual political reforms in the 1990s culminated in the constitutional reform of 1996, which created a new bicameral legislature with expanded, although still limited, powers.",
+     "source": 13,
+     "corroborated": false
+    },
+    {
+     "year": 2011,
+     "label": "2011",
+     "text": "In February 2011, thousands of people rallied in Rabat and other cities calling for political reform and a new constitution curbing the powers of the king.",
+     "source": 13,
+     "corroborated": false
+    }
+   ],
+   "start": 1844,
+   "end": 2011,
+   "photos": [
+    {
      "title": "Marrakech-Koutoubia 1919",
      "year": 1919,
      "license": "Public domain",
@@ -145,87 +839,175 @@
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Benjamin Constant, Moroccan women, Tangiers",
-     "year": 1850,
+     "title": "Koutoubia Moskee in Marrakech",
+     "year": 1923,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Benjamin_Constant%2C_Moroccan_women%2C_Tangiers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Constant,_Moroccan_women,_Tangiers.jpg",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/61c3119c6df9.jpg",
+     "page_url": "https://www.europeana.eu/item/90402/RP_T_1949_677_15?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Rijksmuseum"
+    },
+    {
+     "title": "Toren van de Koutoubia Moskee in Marrakech",
+     "year": 1923,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/2a71ebe42035.jpg",
+     "page_url": "https://www.europeana.eu/item/90402/RP_T_1949_677_17?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Rijksmuseum"
+    },
+    {
+     "title": "Historical photo of Jamaa el Fna in Marrakech",
+     "year": 1925,
+     "license": "Public domain",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/bf047ccbeb9c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Historical_photo_of_Jamaa_el_Fna_in_Marrakech.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Embroidery (Morocco), 19th century (CH 18570963)",
-     "year": 1850,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Embroidery_%28Morocco%29%2C_19th_century_%28CH_18570963%29.jpg/960px-Embroidery_%28Morocco%29%2C_19th_century_%28CH_18570963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Embroidery_(Morocco),_19th_century_(CH_18570963).jpg",
+     "title": "ETH-BIB-Marrakech, Place Djemâa el Fna-Dia 247-04031-1",
+     "year": 1925,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/870192fb9bf3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Marrakech,_Place_Djem%C3%A2a_el_Fna-Dia_247-04031-1.tif",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "ETH-BIB-Marrakech, Place Djemâa el Fna von oben, Mitte-Dia 247-04032",
+     "year": 1925,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/4c724f3f083b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Marrakech,_Place_Djem%C3%A2a_el_Fna_von_oben,_Mitte-Dia_247-04032.tif",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "ETH-BIB-Marrakech, Place Djemâa el Fna von oben, links-Dia 247-04033",
+     "year": 1925,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/747bf06fa79c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Marrakech,_Place_Djem%C3%A2a_el_Fna_von_oben,_links-Dia_247-04033.tif",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "ETH-BIB-Marrakech, Place Djemâa el Fnâ von oben (Panorama rechts)-Dia 247-04031",
+     "year": 1925,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/marrakech-jemaa-el-fna/archive/d4921a8ec7d6.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Marrakech,_Place_Djem%C3%A2a_el_Fn%C3%A2_von_oben_(Panorama_rechts)-Dia_247-04031.tif",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'histoire du Maroc remonte aux premiers peuplements du Paléolithique inférieur dont des traces ont été trouvées à Djebel Irhoud, puis aux influences phéniciennes et carthaginoises parallèlement aux royaumes berbères comme la Maurétanie [S1]. En 698, Hassan Ibn Numan capture l'Exarchat de Carthage avant d'être défait par l'armée de la reine Kahina à l'oued Nini [S1]. En 788, Idris Ier fonde la dynastie des Idrissides après avoir fui les Abbassides [S1]. Moulay Ismaïl devient sultan en 1672 à 26 ans selon les chroniqueurs [S1]. Le Maroc signe en 1786 un traité de paix avec les États-Unis après une amitié épistolaire entre le sultan et George Washington [S1]. Au XIXe siècle, il subit la pression européenne et en 1912 le traité de Fès instaure le protectorat français [S1]."
-  },
-  {
-   "title": "Historiographie du Maroc",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc#Historiographie_du_Maroc",
-   "source": 2,
-   "summary": "L'établissement d'une synthèse encyclopédique ou chronologique sur l'histoire du Maroc se heurte à plusieurs défits méthodologiques récurrents. D'une part, la divergence entre spécialistes quant à la datation exacte de certains événements ou règnes nécessité fréquemment des arbitrages critiques entre sources primaires et historiographie secondaire.",
-   "events": [
-    {
-     "year": 1050,
-     "label": "XIe s.",
-     "text": "Mohammed El Fasi, « L'Afrique du VIIe au XIe siècle », dans Histoire générale de l'Afrique, vol.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1326,
-     "label": "1326",
-     "text": "Alī ibn Abd Allāh ibn Abī Zar al-Fāsī, Rawd al-qirtās, Histoire des souverains du Maghreb et annales de la ville de Fès (des Idrissides aux Mérinides), écrit vers 1326, trad.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1550,
-     "label": "XVIe s.",
-     "text": "Djibril Tamsir Niane (dir.), Comité scientifique international pour la rédaction d'une Histoire générale de l'Afrique, Histoire générale de l'Afrique : L’Afrique du XIIe au XVIe siècle, vol.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1750,
-     "label": "XVIIIe s.",
-     "text": "Mohammed El Fasi, Histoire générale de l’Afrique : L'Afrique du XVIe au XVIIIe siècle, UNESCO Publishing, 31 décembre 1999, 1089 p.",
-     "source": 2,
-     "corroborated": false
-    }
-   ],
-   "start": 1050,
-   "end": 1750,
-   "photos": [],
-   "narrative": "L'établissement d'une synthèse encyclopédique ou chronologique sur l'histoire du Maroc se heurte à plusieurs défis méthodologiques récurrents [S2]. La divergence entre spécialistes quant à la datation exacte de certains événements ou règnes nécessite fréquemment des arbitrages critiques entre sources primaires et historiographie secondaire [S2]. Parmi les références mobilisées figurent l'ouvrage de Mohammed El Fasi sur l'Afrique du VIIe au XIe siècle [S2], le Rawd al-qirtās d'Alī ibn Abd Allāh ibn Abī Zar al-Fāsī écrit vers 1326 [S2], ainsi que les volumes de l'Histoire générale de l'Afrique dirigés par Djibril Tamsir Niane pour la période du XIIe au XVIe siècle [S2] et par Mohammed El Fasi pour la période du XVIe au XVIIIe siècle [S2]."
+   "narrative": "The Alawi dynasty is the current Moroccan royal family, with the name Alawi coming from ‘Alī ibn Abī Ṭālib, whose descendant Sharif ibn Ali became Prince of Tafilalt in 1631 [S13]. In 1844 after the French conquered Algeria the Franco-Moroccan War took place with the bombardment of Tangiers, the Battle of Isly and the bombardment of Mogador [S13]. The Hispano-Moroccan War from 1859 to 1860 was followed by the Treaty of Wad Ras that led the Moroccan government to take a massive British loan larger than its national reserves to pay off war debt to Spain [S13]. In January 1944 the Istiqlal Party released a manifesto demanding full independence, national reunification and a democratic constitution [S13]."
   }
  ],
  "sources": [
   {
    "n": 1,
-   "title": "Histoire du Maroc › Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
-   "lang": "fr",
+   "title": "History of Morocco › Introduction",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 2,
-   "title": "Histoire du Maroc › Historiographie du Maroc",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc#Historiographie_du_Maroc",
-   "lang": "fr",
+   "title": "History of Morocco › Prehistoric Morocco",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Prehistoric_Morocco",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 3,
-   "title": "History of Morocco",
-   "url": "https://en.wikipedia.org/wiki/History_of_Morocco",
+   "title": "History of Morocco › Barghawata (744–1058)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Barghawata_(744–1058)",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 4,
+   "title": "History of Morocco › Emirate of Sijilmasa (757–976)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Emirate_of_Sijilmasa_(757–976)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 5,
+   "title": "History of Morocco › Kingdom of Nekor (710–1019)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Kingdom_of_Nekor_(710–1019)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 6,
+   "title": "History of Morocco › Idrisid dynasty (789–974)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Idrisid_dynasty_(789–974)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 7,
+   "title": "History of Morocco › Almoravid dynasty (c. 1060 – 1147)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Almoravid_dynasty_(c._1060_–_1147)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 8,
+   "title": "History of Morocco › Almohads (c. 1121–1269)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Almohads_(c._1121–1269)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 9,
+   "title": "History of Morocco › Marinids dynasty (c. 1244–1465)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Marinids_dynasty_(c._1244–1465)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 10,
+   "title": "History of Morocco › Wattasid dynasty (c. 1472–1554)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Wattasid_dynasty_(c._1472–1554)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 11,
+   "title": "History of Morocco › Saadi dynasty (1549–1659)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Saadi_dynasty_(1549–1659)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 12,
+   "title": "History of Morocco › Republic of Salé (1624–1668)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Republic_of_Salé_(1624–1668)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 13,
+   "title": "History of Morocco › Alawi dynasty (since 1666)",
+   "url": "https://en.wikipedia.org/wiki/History_of_Morocco#Alawi_dynasty_(since_1666)",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 14,
+   "title": "Histoire du Maroc",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
@@ -233,22 +1015,32 @@
  "gaps": [
   {
    "from": null,
-   "to": 698,
-   "text": "Avant 698, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": -550,
+   "text": "Before 550 BC, history is not dated in these sources: oral traditions, archaeology and local sources are still to be brought in."
+  },
+  {
+   "from": 1668,
+   "to": 1844,
+   "text": "Between 1668 and 1844, the sources consulted give no precise date."
+  },
+  {
+   "from": null,
+   "to": null,
+   "text": "Thinly dated chapters: Barghawata (744–1058)."
   }
  ],
  "stats": {
-  "chapters": 2,
-  "events": 14,
-  "corroborated": 2,
-  "share": 0.14,
+  "chapters": 13,
+  "events": 85,
+  "corroborated": 7,
+  "share": 0.08,
   "span": [
-   "698",
-   "1934"
+   "550 BC",
+   "2026"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "840629f1ca"
+ "run": "63a0734677"
 }

@@ -1,0 +1,1239 @@
+{
+  "run": "5875d154db",
+  "place": {
+    "id": "paris-parvis-notre-dame",
+    "continent": "Europe",
+    "city": "Paris",
+    "country": "France",
+    "name": "The square in front of Notre-Dame",
+    "lat": 48.853,
+    "lon": 2.349,
+    "era": 1900,
+    "context": "Haussmann enlarged the square in the 1860s, wiping out the medieval lanes of the Île de la Cité. The cathedral was restored after the 2019 fire.",
+    "archive_queries": [
+      "Parvis Notre-Dame 1900",
+      "Notre-Dame de Paris parvis",
+      "Notre-Dame vue du parvis",
+      "Place du Parvis Notre-Dame"
+    ],
+    "current_queries": [
+      "Notre-Dame de Paris façade",
+      "Parvis Notre-Dame Paris",
+      "Notre-Dame de Paris west facade"
+    ],
+    "keywords": [
+      "notre-dame",
+      "notre dame"
+    ],
+    "require": [
+      "paris",
+      "parvis",
+      "cité",
+      "seine"
+    ],
+    "exclude": [
+      "québec",
+      "quebec",
+      " qc",
+      "montréal",
+      "montreal",
+      "reims",
+      "chartres",
+      "amiens",
+      "rouen",
+      "strasbourg"
+    ]
+  },
+  "year": 1912,
+  "current": "/media/runs/5875d154db/current.jpg",
+  "reconstruction": "/media/runs/5875d154db/reconstruction.jpg",
+  "size": [
+    1009,
+    1280
+  ],
+  "tags": [
+    {
+      "id": "building-0",
+      "label": "building",
+      "status": "inchange",
+      "note": "Same structure as in 1912",
+      "confidence": 0.9,
+      "coverage": 1.0,
+      "sources": [
+        "archive-02",
+        "archive-11"
+      ],
+      "polygon": [
+        [
+          989,
+          875
+        ],
+        [
+          979,
+          877
+        ],
+        [
+          974,
+          886
+        ],
+        [
+          971,
+          882
+        ],
+        [
+          957,
+          882
+        ],
+        [
+          950,
+          902
+        ],
+        [
+          941,
+          900
+        ],
+        [
+          936,
+          890
+        ],
+        [
+          911,
+          889
+        ],
+        [
+          904,
+          918
+        ],
+        [
+          884,
+          953
+        ],
+        [
+          880,
+          971
+        ],
+        [
+          880,
+          1012
+        ],
+        [
+          889,
+          1040
+        ],
+        [
+          897,
+          1040
+        ],
+        [
+          905,
+          1054
+        ],
+        [
+          912,
+          1055
+        ],
+        [
+          926,
+          1066
+        ],
+        [
+          938,
+          1063
+        ],
+        [
+          973,
+          1065
+        ],
+        [
+          984,
+          1045
+        ],
+        [
+          973,
+          1039
+        ],
+        [
+          968,
+          1017
+        ],
+        [
+          973,
+          1001
+        ],
+        [
+          988,
+          995
+        ],
+        [
+          1006,
+          971
+        ],
+        [
+          1006,
+          882
+        ],
+        [
+          995,
+          888
+        ]
+      ],
+      "bbox": [
+        880,
+        875,
+        1006,
+        1066
+      ]
+    },
+    {
+      "id": "building-1",
+      "label": "building",
+      "status": "inchange",
+      "note": "Same structure as in 1912",
+      "confidence": 0.9,
+      "coverage": 1.0,
+      "sources": [
+        "archive-02",
+        "archive-11"
+      ],
+      "polygon": [
+        [
+          0,
+          812
+        ],
+        [
+          0,
+          996
+        ],
+        [
+          3,
+          998
+        ],
+        [
+          3,
+          1028
+        ],
+        [
+          55,
+          1041
+        ],
+        [
+          76,
+          1042
+        ],
+        [
+          82,
+          1037
+        ],
+        [
+          93,
+          1036
+        ],
+        [
+          114,
+          1045
+        ],
+        [
+          127,
+          1042
+        ],
+        [
+          131,
+          871
+        ],
+        [
+          118,
+          861
+        ],
+        [
+          109,
+          860
+        ],
+        [
+          99,
+          845
+        ],
+        [
+          90,
+          845
+        ],
+        [
+          85,
+          832
+        ],
+        [
+          49,
+          829
+        ],
+        [
+          39,
+          815
+        ],
+        [
+          23,
+          810
+        ]
+      ],
+      "bbox": [
+        0,
+        810,
+        131,
+        1045
+      ]
+    },
+    {
+      "id": "building-2",
+      "label": "building",
+      "status": "inchange",
+      "note": "Same structure as in 1912",
+      "confidence": 0.9,
+      "coverage": 1.0,
+      "sources": [
+        "archive-02",
+        "archive-06",
+        "archive-11"
+      ],
+      "polygon": [
+        [
+          761,
+          73
+        ],
+        [
+          748,
+          99
+        ],
+        [
+          733,
+          107
+        ],
+        [
+          699,
+          113
+        ],
+        [
+          685,
+          108
+        ],
+        [
+          655,
+          113
+        ],
+        [
+          607,
+          108
+        ],
+        [
+          596,
+          122
+        ],
+        [
+          586,
+          163
+        ],
+        [
+          572,
+          182
+        ],
+        [
+          566,
+          212
+        ],
+        [
+          570,
+          256
+        ],
+        [
+          562,
+          272
+        ],
+        [
+          559,
+          301
+        ],
+        [
+          564,
+          363
+        ],
+        [
+          562,
+          398
+        ],
+        [
+          554,
+          412
+        ],
+        [
+          540,
+          415
+        ],
+        [
+          519,
+          414
+        ],
+        [
+          510,
+          409
+        ],
+        [
+          514,
+          405
+        ],
+        [
+          506,
+          393
+        ],
+        [
+          501,
+          319
+        ],
+        [
+          494,
+          401
+        ],
+        [
+          486,
+          405
+        ],
+        [
+          484,
+          412
+        ],
+        [
+          472,
+          413
+        ],
+        [
+          470,
+          405
+        ],
+        [
+          454,
+          412
+        ],
+        [
+          452,
+          408
+        ],
+        [
+          458,
+          405
+        ],
+        [
+          439,
+          405
+        ],
+        [
+          431,
+          398
+        ],
+        [
+          433,
+          292
+        ],
+        [
+          425,
+          255
+        ],
+        [
+          428,
+          209
+        ],
+        [
+          424,
+          183
+        ],
+        [
+          415,
+          171
+        ],
+        [
+          401,
+          116
+        ],
+        [
+          394,
+          112
+        ],
+        [
+          374,
+          115
+        ],
+        [
+          247,
+          115
+        ],
+        [
+          238,
+          110
+        ],
+        [
+          232,
+          89
+        ],
+        [
+          223,
+          76
+        ],
+        [
+          209,
+          98
+        ],
+        [
+          208,
+          108
+        ],
+        [
+          190,
+          120
+        ],
+        [
+          184,
+          142
+        ],
+        [
+          187,
+          175
+        ],
+        [
+          175,
+          188
+        ],
+        [
+          169,
+          210
+        ],
+        [
+          174,
+          240
+        ],
+        [
+          173,
+          403
+        ],
+        [
+          166,
+          419
+        ],
+        [
+          153,
+          419
+        ],
+        [
+          150,
+          423
+        ],
+        [
+          160,
+          538
+        ],
+        [
+          154,
+          570
+        ],
+        [
+          158,
+          620
+        ],
+        [
+          153,
+          638
+        ],
+        [
+          152,
+          678
+        ],
+        [
+          148,
+          685
+        ],
+        [
+          145,
+          682
+        ],
+        [
+          139,
+          703
+        ],
+        [
+          136,
+          1034
+        ],
+        [
+          148,
+          1032
+        ],
+        [
+          159,
+          1043
+        ],
+        [
+          199,
+          1040
+        ],
+        [
+          216,
+          1046
+        ],
+        [
+          223,
+          1042
+        ],
+        [
+          243,
+          1042
+        ],
+        [
+          266,
+          1048
+        ],
+        [
+          293,
+          1043
+        ],
+        [
+          307,
+          1050
+        ],
+        [
+          329,
+          1033
+        ],
+        [
+          350,
+          1048
+        ],
+        [
+          368,
+          1045
+        ],
+        [
+          384,
+          1050
+        ],
+        [
+          404,
+          1037
+        ],
+        [
+          416,
+          1050
+        ],
+        [
+          431,
+          1048
+        ],
+        [
+          438,
+          1052
+        ],
+        [
+          460,
+          1042
+        ],
+        [
+          491,
+          1040
+        ],
+        [
+          509,
+          1057
+        ],
+        [
+          529,
+          1047
+        ],
+        [
+          539,
+          1052
+        ],
+        [
+          554,
+          1051
+        ],
+        [
+          568,
+          1042
+        ],
+        [
+          601,
+          1052
+        ],
+        [
+          621,
+          1048
+        ],
+        [
+          626,
+          1043
+        ],
+        [
+          643,
+          1047
+        ],
+        [
+          660,
+          1042
+        ],
+        [
+          667,
+          1050
+        ],
+        [
+          679,
+          1051
+        ],
+        [
+          685,
+          1046
+        ],
+        [
+          727,
+          1042
+        ],
+        [
+          738,
+          1051
+        ],
+        [
+          753,
+          1052
+        ],
+        [
+          763,
+          1058
+        ],
+        [
+          797,
+          1059
+        ],
+        [
+          812,
+          1048
+        ],
+        [
+          822,
+          1048
+        ],
+        [
+          825,
+          1042
+        ],
+        [
+          831,
+          1041
+        ],
+        [
+          835,
+          1026
+        ],
+        [
+          847,
+          1021
+        ],
+        [
+          849,
+          903
+        ],
+        [
+          845,
+          701
+        ],
+        [
+          831,
+          671
+        ],
+        [
+          825,
+          612
+        ],
+        [
+          828,
+          580
+        ],
+        [
+          825,
+          504
+        ],
+        [
+          835,
+          419
+        ],
+        [
+          831,
+          409
+        ],
+        [
+          825,
+          414
+        ],
+        [
+          813,
+          410
+        ],
+        [
+          810,
+          386
+        ],
+        [
+          811,
+          235
+        ],
+        [
+          817,
+          209
+        ],
+        [
+          811,
+          198
+        ],
+        [
+          810,
+          181
+        ],
+        [
+          798,
+          165
+        ],
+        [
+          795,
+          126
+        ],
+        [
+          787,
+          113
+        ],
+        [
+          776,
+          107
+        ]
+      ],
+      "bbox": [
+        135,
+        73,
+        849,
+        1059
+      ]
+    }
+  ],
+  "counts": {
+    "documente": 0,
+    "inchange": 3,
+    "hypothese": 0
+  },
+  "evaluation": {
+    "reliability": 0.76,
+    "evidence_share": 1.0,
+    "holdout": [
+      {
+        "archive": "archive-02",
+        "title": "Notre-Dame (vue de la foule sur le parvis, drapeaux sur la façade)",
+        "year": 1912,
+        "ssim": 0.229,
+        "baseline": 0.282,
+        "others": 2
+      },
+      {
+        "archive": "archive-06",
+        "title": "Notre-Dame de Paris",
+        "year": 1880,
+        "ssim": 0.164,
+        "baseline": 0.362,
+        "others": 2
+      },
+      {
+        "archive": "archive-11",
+        "title": "Auguste Hippolyte Collard, Notre-Dame de Paris, façade ouest et parvis, 1890 01",
+        "year": 1890,
+        "ssim": 0.203,
+        "baseline": 0.309,
+        "others": 2
+      }
+    ],
+    "holdout_score": 0.199,
+    "source_richness": 1.0,
+    "n_sources": 18,
+    "gaps": []
+  },
+  "story": {
+    "title": "The Parvis in 1912",
+    "en": "The square in front of Notre-Dame in 1912 faced the western facade of the cathedral [S5]. Press photographs taken that year document the Place du Parvis-Notre-Dame [S1]. One view shows a crowd gathered on the parvis with flags displayed on the facade [S2]. The equestrian statue 'Charlemagne et ses leudes' by Louis Rochet stood on the parvis [S4]. As general context, the square had been enlarged in the 1860s. Construction of Notre-Dame had begun between 24 March and 25 April 1163 with the laying of the cornerstone in presence of King Louis VII and Pope Alexander III [S9]. The choir was completed in 1177 and the high altar consecrated on 19 May 1182 [S9]. Interest inspired by the 1831 publication of Victor Hugo's novel led to restoration between 1844 and 1864, supervised by Eugène Viollet-le-Duc [S9].",
+    "fr": "La place devant Notre-Dame en 1912 faisait face à la façade occidentale de la cathédrale [S5]. Des photographies de presse prises cette année-là documentent la place du Parvis-Notre-Dame [S1]. Une vue montre une foule rassemblée sur le parvis avec des drapeaux déployés sur la façade [S2]. La statue équestre « Charlemagne et ses leudes » de Louis Rochet se dressait sur le parvis [S4]. Comme contexte général, la place avait été agrandie dans les années 1860. La construction de Notre-Dame avait commencé entre le 24 mars et le 25 avril 1163 par la pose de la première pierre en présence du roi Louis VII et du pape Alexandre III [S9]. Le chœur fut achevé en 1177 et le maître-autel consacré le 19 mai 1182 [S9]. L’intérêt suscité par la publication en 1831 du roman de Victor Hugo conduisit à une restauration entre 1844 et 1864, supervisée par Eugène Viollet-le-Duc [S9]."
+  },
+  "sources": [
+    {
+      "id": "archive-01",
+      "title": "Notre-Dame (de Paris, vue du parvis)",
+      "year": 1912,
+      "date_raw": "1912 date QS:P571,+1912-00-00T00:00:00Z/9",
+      "license": "Public domain",
+      "artist": "Agence Rol. Agence photographique (commanditaire)",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_(de_Paris,_vue_du_parvis)_-_btv1b531142591.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Sujet : Cathédrales -- Paris (France) Paris (France) -- Cathédrale Notre-Dame Paris (France) -- Place du Parvis-Notre-Dame Photographie de presse -- 1900-1945 Référence bibliographique : Rol, 20344 Appartient à l’ensemble documentaire : Pho20Rol Couverture : .. 1912 Langue : français",
+      "image": "/media/places/paris-parvis-notre-dame/archive/ca34ca71880d.jpg",
+      "n": 1
+    },
+    {
+      "id": "archive-02",
+      "title": "Notre-Dame (vue de la foule sur le parvis, drapeaux sur la façade)",
+      "year": 1912,
+      "date_raw": "1912 date QS:P571,+1912-00-00T00:00:00Z/9",
+      "license": "Public domain",
+      "artist": "Agence Rol. Agence photographique (commanditaire)",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_(vue_de_la_foule_sur_le_parvis,_drapeaux_sur_la_fa%C3%A7ade)_-_btv1b69178692.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Sujet : Cathédrales -- France Drapeaux Paris (France) -- Cathédrale Notre-Dame Paris (France) -- Place du Parvis-Notre-Dame Photographie de presse -- 1900-1945 Référence bibliographique : Rol, 20694 Appartient à l’ensemble documentaire : Pho20Rol Couverture : .. mai 1912 Langue : français",
+      "image": "/media/places/paris-parvis-notre-dame/archive/1f1f6dfdcc21.jpg",
+      "n": 2
+    },
+    {
+      "id": "archive-00",
+      "title": "Notre-Dame te Parijs 223 Paris. - Église Notre-Dame (titel op object)",
+      "year": 1900,
+      "date_raw": "ca. 1900 - ca. 1920",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_te_Parijs_223_Paris._-_%C3%89glise_Notre-Dame_(titel_op_object),_RP-F-F16452.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Notre-Dame te Parijs223 Paris. - Église Notre-Dame (titel op object) Objecttype: foto Objectnummer: RP-F-F16452 Vervaardiging Vervaardiger: fotograaf: X phot. (vermeld op object) Plaats vervaardiging: Frankrijk Datering: ca. 1900 - ca. 1920 Fysieke kenmerken: ontwikkelgelatinezilverdruk Materiaal: papier Techniek: ontwikkelgelatinezilverdruk Afmetingen: foto: h 218 mm × b 278 mm Onderwerp Waar: Notre-Dame. Seine Verwerving en rechten Verwerving: overdracht van beheer 1994 Copyright: Publiek domein",
+      "image": "/media/places/paris-parvis-notre-dame/archive/ce6ec89230ab.jpg",
+      "n": 3
+    },
+    {
+      "id": "archive-10",
+      "title": "Statue \"Charlemagne et ses leudes\" située sur le parvis de Notre-Dame à Paris, oeuvre de Louis Rochet",
+      "year": 1908,
+      "date_raw": "1908 date QS:P571,+1908-00-00T00:00:00Z/9",
+      "license": "Public domain",
+      "artist": "Agence Rol. Agence photographique (commanditaire)",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Statue_%22Charlemagne_et_ses_leudes%22_situ%C3%A9e_sur_le_parvis_de_Notre-Dame_%C3%A0_Paris,_oeuvre_de_Louis_Rochet_-_btv1b6904909x.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Sujet : Charlemagne (0742-0814 ; empereur d'Occident) -- Statues Statues équestres Paris (France) -- Place du Parvis-Notre-Dame Paris (France) -- Arrondissement (04e) Photographie de presse -- 1900-1945 Référence bibliographique : Rol, 559 Appartient à l’ensemble documentaire : Pho20Rol Couverture : .. avril 1908 Langue : français",
+      "image": "/media/places/paris-parvis-notre-dame/archive/a43726b0288a.jpg",
+      "n": 4
+    },
+    {
+      "id": "archive-07",
+      "title": "L'église Notre-Dame face Paris",
+      "year": 1900,
+      "date_raw": "between 1900 and 1920 date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1900-00-00T00:00:",
+      "license": "Licence Ouverte",
+      "artist": "Unknown author Unknown author",
+      "page_url": "https://commons.wikimedia.org/wiki/File:L%27%C3%A9glise_Notre-Dame_face_Paris.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Façade occidentale et parvis de la cathédrale Notre-Dame de Paris.",
+      "image": "/media/places/paris-parvis-notre-dame/archive/917ef7372eda.jpg",
+      "n": 5
+    },
+    {
+      "id": "archive-08",
+      "title": "Paris - Parvis Notre Dame, ca. 1900",
+      "year": 1900,
+      "date_raw": "circa 1900 date QS:P,+1900-00-00T00:00:00Z/9,P1480,Q5727902",
+      "license": "Public domain",
+      "artist": "Unknown, S.F. Electrographie",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Paris_-_Parvis_Notre_Dame,_ca._1900.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Notre-Dame de Paris, France.",
+      "image": "/media/places/paris-parvis-notre-dame/archive/e8cbc1b596e6.jpg",
+      "n": 6
+    },
+    {
+      "id": "archive-04",
+      "title": "Interieur van de Cathédrale Notre-Dame in Parijs PARIS Eglise Notre-Dame, la Nef. (titel op object)",
+      "year": 1880,
+      "date_raw": "ca. 1880 - ca. 1900",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Interieur_van_de_Cath%C3%A9drale_Notre-Dame_in_Parijs_PARIS_Eglise_Notre-Dame,_la_Nef._(titel_op_object),_RP-F-F01092-I.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Interieur van de Cathédrale Notre-Dame in Parijs. PARIS Eglise Notre-Dame, la Nef. (titel op object) Objecttype: foto Objectnummer: RP-F-F01092-I Opschriften / Merken: negatiefnummer, recto: ‘68’, Tweemaal vermeld. Omschrijving: Onderdeel van Reisalbum met foto's van bezienswaardigheden in België en Frankrijk. Vervaardiging Vervaardiger: fotograaf: X phot.fotograaf: Étienne Neurdein Plaats vervaardiging: Parijs Datering: ca. 1880 - ca. 1900 Fysieke kenmerken: albuminedruk Materiaal: papier fotopapier karton Techniek: albuminedruk Afmetingen: foto: h 277 mm × b 209 mm On",
+      "image": "/media/places/paris-parvis-notre-dame/archive/d91b8dd42349.jpg",
+      "n": 7
+    },
+    {
+      "id": "archive-05",
+      "title": "Noord- en westgevel van de Cathédrale Notre-Dame in Parijs PARIS. La Cathedrale, Notre-Dame (titel op object)",
+      "year": 1880,
+      "date_raw": "ca. 1880 - ca. 1900",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Noord-_en_westgevel_van_de_Cath%C3%A9drale_Notre-Dame_in_Parijs_PARIS._La_Cathedrale,_Notre-Dame_(titel_op_object),_RP-F-F01092-J.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Noord- en westgevel van de Cathédrale Notre-Dame in Parijs. PARIS. La Cathedrale, Notre-Dame (titel op object) Objecttype: foto Objectnummer: RP-F-F01092-J Opschriften / Merken: negatiefnummer, recto: ‘35’ Omschrijving: Onderdeel van Reisalbum met foto's van bezienswaardigheden in België en Frankrijk. Vervaardiging Vervaardiger: fotograaf: LP Plaats vervaardiging: Parijs Datering: ca. 1880 - ca. 1900 Fysieke kenmerken: albuminedruk Materiaal: papier fotopapier karton Techniek: albuminedruk Afmetingen: foto: h 213 mm × b 265 mm Onderwerp Wat: church (exterior), parts of ",
+      "image": "/media/places/paris-parvis-notre-dame/archive/98e0b2a285b0.jpg",
+      "n": 8
+    },
+    {
+      "id": "wikipedia",
+      "n": 9,
+      "title": "Notre-Dame de Paris",
+      "year": null,
+      "license": "CC BY-SA 4.0",
+      "source": "Wikipedia",
+      "page_url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+      "image": "/favicon.svg",
+      "description": ""
+    }
+  ],
+  "history": {
+    "place": "paris-parvis-notre-dame",
+    "lang": "en",
+    "sources": [
+      {
+        "n": 1,
+        "title": "Notre-Dame de Paris",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "lang": "en",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikipedia"
+      },
+      {
+        "n": 2,
+        "title": "Cathédrale Notre-Dame de Paris",
+        "url": "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Paris",
+        "lang": "fr",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikipedia"
+      }
+    ],
+    "events": [
+      {
+        "year": 800,
+        "label": "800",
+        "text": "According to Tallon, the scans indicate that \"the upper part of the building has not moved one smidgen in 800 years,\" whereas if they were added later some movement from prior to their addition would be expected.",
+        "section": "Construction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Construction",
+        "corroborated": false
+      },
+      {
+        "year": 1163,
+        "label": "1163",
+        "text": "The chronicler Jean de Saint-Victor recorded in the Memorial Historiarum that the construction of Notre-Dame began between 24 March and 25 April 1163 with the laying of the cornerstone in the presence of King Louis VII and Pope Alexander III.",
+        "section": "Construction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Construction",
+        "corroborated": true
+      },
+      {
+        "year": 1177,
+        "label": "1177",
+        "text": "According to Robert of Torigni, the choir was completed in 1177 and the high altar consecrated on 19 May 1182 by Cardinal Henri de Château-Marçay, the Papal legate in Paris, and Maurice de Sully.",
+        "section": "Construction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Construction",
+        "corroborated": true
+      },
+      {
+        "year": 1431,
+        "label": "1431",
+        "text": "On 16 December 1431, the boy-king Henry VI of England was crowned king of France in Notre-Dame, aged ten, the traditional coronation church of Reims Cathedral being under French control.",
+        "section": "15th–18th century",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#15th–18th_century",
+        "corroborated": true
+      },
+      {
+        "year": 1789,
+        "label": "1789",
+        "text": "After the French Revolution in 1789, Notre-Dame and the rest of the church's property in France were seized and made public property.",
+        "section": "French Revolution and Napoleon",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#French_Revolution_and_Napoleon",
+        "corroborated": false
+      },
+      {
+        "year": 1790,
+        "label": "1790",
+        "text": "In the 1790s, during the French Revolution, Notre-Dame suffered extensive desecration; much of its religious imagery was damaged or destroyed.",
+        "section": "Introduction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "corroborated": true
+      },
+      {
+        "year": 1805,
+        "label": "1805",
+        "text": "In 1805, Pope Pius VII awarded it honorary status as a minor basilica.",
+        "section": "Introduction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "corroborated": false
+      },
+      {
+        "year": 1830,
+        "label": "1830",
+        "text": "It was seriously damaged in the French Revolution of 1830.",
+        "section": "Stained-glass windows",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Stained-glass_windows",
+        "corroborated": true
+      },
+      {
+        "year": 1831,
+        "label": "1831",
+        "text": "The 1831 publication of Victor Hugo's novel Notre-Dame de Paris (English title: The Hunchback of Notre-Dame) inspired interest which led to restoration between 1844 and 1864, supervised by Eugène Viollet-le-Duc.",
+        "section": "Introduction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "corroborated": true
+      },
+      {
+        "year": 1844,
+        "label": "1844",
+        "text": "In 1844 King Louis Philippe I ordered that the church be restored.",
+        "section": "19th-century restoration",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#19th-century_restoration",
+        "corroborated": true
+      },
+      {
+        "year": 1850,
+        "label": "19th c.",
+        "text": "In the 19th century, the cathedral hosted the coronation of Napoleon and the funerals of many of the French Republic's presidents.",
+        "section": "Introduction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "corroborated": true
+      },
+      {
+        "year": 1944,
+        "label": "1944",
+        "text": "On 26 August 1944, the Liberation of Paris from German occupation was celebrated in Notre-Dame with the singing of the Magnificat.",
+        "section": "Introduction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "corroborated": true
+      },
+      {
+        "year": 1963,
+        "label": "1963",
+        "text": "Beginning in 1963, the cathedral's façade was cleaned of soot and grime.",
+        "section": "Introduction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "corroborated": false
+      },
+      {
+        "year": 1991,
+        "label": "1991",
+        "text": "Another cleaning and restoration project was carried out between 1991 and 2000.",
+        "section": "Introduction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "corroborated": false
+      },
+      {
+        "year": 2019,
+        "label": "2019",
+        "text": "A fire in April 2019 caused serious damage, closing the cathedral for extensive and costly repairs; it reopened in December 2024.",
+        "section": "Introduction",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "corroborated": false
+      },
+      {
+        "year": 2024,
+        "label": "2024",
+        "text": "The cathedral reopened on 7 December 2024 in a ceremony presided over by Laurent Ulrich, the Archbishop of Paris, and attended by 1,500 world leaders and dignitaries such as US President-elect Donald Trump, US first lady Jill Biden, Britain's Prince William, and Ukrainian president Volodymyr Zelenskyy.",
+        "section": "Reopening",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Reopening",
+        "corroborated": true
+      }
+    ],
+    "intro": "Notre-Dame de Paris (French: Cathédrale Notre-Dame de Paris French: [nɔtʁ(ə) dam də paʁi] : \"Cathedral of Our Lady of Paris\"), often referred to simply as Notre-Dame, is a medieval Catholic cathedral and basilica on the Île de la Cité (an island in the River Seine), in the 4th arrondissement of Paris, France. It is the cathedral church of the Roman Catholic Archdiocese of Paris. The cathedral, dedicated to the Virgin Mary (\"Our Lady\"), is considered one of the finest examples of French Gothic architecture.",
+    "stats": {
+      "events": 16,
+      "corroborated": 10
+    }
+  },
+  "aligned": [
+    "archive-02",
+    "archive-06",
+    "archive-11"
+  ],
+  "nearest": [
+    {
+      "id": "archive-02",
+      "title": "Notre-Dame (vue de la foule sur le parvis, drapeaux sur la façade)",
+      "year": 1912,
+      "date_raw": "1912 date QS:P571,+1912-00-00T00:00:00Z/9",
+      "license": "Public domain",
+      "artist": "Agence Rol. Agence photographique (commanditaire)",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_(vue_de_la_foule_sur_le_parvis,_drapeaux_sur_la_fa%C3%A7ade)_-_btv1b69178692.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Sujet : Cathédrales -- France Drapeaux Paris (France) -- Cathédrale Notre-Dame Paris (France) -- Place du Parvis-Notre-Dame Photographie de presse -- 1900-1945 Référence bibliographique : Rol, 20694 Appartient à l’ensemble documentaire : Pho20Rol Couverture : .. mai 1912 Langue : français",
+      "image": "/media/places/paris-parvis-notre-dame/archive/1f1f6dfdcc21.jpg",
+      "inliers": 25,
+      "aligned": true
+    },
+    {
+      "id": "archive-06",
+      "title": "Notre-Dame de Paris",
+      "year": 1880,
+      "date_raw": "between 1880 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1880-00-00T00:00:",
+      "license": "CC0",
+      "artist": "Anonyme, photographe",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris,_PH2799.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Auteur(s): Anonyme, photographe Autre titre: Façade principale de Notre-Dame, 4ème arrondissement, Paris. (Titre factice) Date de production: Entre 1880 et 1900 Type(s) d'objet(s): Photographie, Arts graphiques Dénomination(s): Photographie Lieu(x) d'exécution / réalisation: Paris Dimensions - Oeuvre: Hauteur : 21.2 cm Largeur : 27.5 cm Dimensions - Passe-partout du musée: Hauteur : 30 cm Largeur : 40 cm Marques, inscriptions, poinçons: Pas d'inscription au verso Description iconographique: Façade de Notre-Dame, 4ème arrondissement. Façade occidentale. Portail du Jugement dernier au centre, po",
+      "image": "/media/places/paris-parvis-notre-dame/archive/641fe28cf795.jpg",
+      "inliers": 18,
+      "aligned": true
+    },
+    {
+      "id": "archive-11",
+      "title": "Auguste Hippolyte Collard, Notre-Dame de Paris, façade ouest et parvis, 1890 01",
+      "year": 1890,
+      "date_raw": "1890",
+      "license": "CC BY-SA 4.0",
+      "artist": "Le Havre, bibliothèque municipale, Ph 40",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Auguste_Hippolyte_Collard,_Notre-Dame_de_Paris,_fa%C3%A7ade_ouest_et_parvis,_1890_01.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Notre-Dame de Paris Cathedral",
+      "image": "/media/places/paris-parvis-notre-dame/archive/66a6345344e7.jpg",
+      "inliers": 18,
+      "aligned": true
+    },
+    {
+      "id": "archive-04",
+      "title": "Interieur van de Cathédrale Notre-Dame in Parijs PARIS Eglise Notre-Dame, la Nef. (titel op object)",
+      "year": 1880,
+      "date_raw": "ca. 1880 - ca. 1900",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Interieur_van_de_Cath%C3%A9drale_Notre-Dame_in_Parijs_PARIS_Eglise_Notre-Dame,_la_Nef._(titel_op_object),_RP-F-F01092-I.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Interieur van de Cathédrale Notre-Dame in Parijs. PARIS Eglise Notre-Dame, la Nef. (titel op object) Objecttype: foto Objectnummer: RP-F-F01092-I Opschriften / Merken: negatiefnummer, recto: ‘68’, Tweemaal vermeld. Omschrijving: Onderdeel van Reisalbum met foto's van bezienswaardigheden in België en Frankrijk. Vervaardiging Vervaardiger: fotograaf: X phot.fotograaf: Étienne Neurdein Plaats vervaardiging: Parijs Datering: ca. 1880 - ca. 1900 Fysieke kenmerken: albuminedruk Materiaal: papier fotopapier karton Techniek: albuminedruk Afmetingen: foto: h 277 mm × b 209 mm On",
+      "image": "/media/places/paris-parvis-notre-dame/archive/d91b8dd42349.jpg",
+      "inliers": 15,
+      "aligned": false
+    },
+    {
+      "id": "archive-29",
+      "title": "Notre Dame, Paris, ca. 1920–39",
+      "year": 1920,
+      "date_raw": "circa 1920 date QS:P571,+1920-00-00T00:00:00Z/9,P1480,Q5727902 –39",
+      "license": "Public domain",
+      "artist": "Unknown author Unknown author",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame,_Paris,_ca._1920%E2%80%9339.jpg",
+      "source": "Wikimedia Commons",
+      "description": "",
+      "image": "/media/places/paris-parvis-notre-dame/archive/04b1b62403ef.jpg",
+      "inliers": 15,
+      "aligned": false
+    },
+    {
+      "id": "archive-15",
+      "title": "Bundesarchiv Bild 101I-129-0480-05A, Paris, Notre Dame, deutsche Soldaten beim Einkauf",
+      "year": 1940,
+      "date_raw": "Taken on 21 June 1940",
+      "license": "CC BY-SA 3.0 de",
+      "artist": "Heinz Boesig",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-129-0480-05A,_Paris,_Notre_Dame,_deutsche_Soldaten_beim_Einkauf.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Title : Paris, Notre Dame, deutsche Soldaten beim Einkauf Extra information : Frankreich, Paris.- deutsche Soldaten beim Kauf von Kuchen bei einer Straßenverkäuferin, im Hintergrund Notre Dame; PK 689 For documentary purposes the German Federal Archive often retained the original image captions , which may be erroneous, biased, obsolete or politically extreme . Factual corrections and alternative descriptions are encouraged separately from the original description. Additionally errors can be reported at this page to inform the Bundesarchiv. Alemannisch | العربية | Boarisch | беларуская | белар",
+      "image": "/media/places/paris-parvis-notre-dame/archive/be094e13049b.jpg",
+      "inliers": 11,
+      "aligned": false
+    }
+  ],
+  "engines": {
+    "segmentation": "meta:sam-3.1",
+    "reconstruction": "local",
+    "story": "meta:muse-spark-1.3"
+  },
+  "style": {
+    "decade": 1910,
+    "tint": [
+      0.31220000982284546,
+      0.33709999918937683,
+      0.350600004196167
+    ]
+  }
+}

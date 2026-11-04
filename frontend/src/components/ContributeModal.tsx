@@ -39,14 +39,14 @@ export function ContributeModal({ open, placeId, onClose, onDone }: { open: bool
           >
             <div className="mb-4 flex items-start justify-between">
               <div>
-                <h3 className="font-serif text-3xl">Enrichir la mémoire</h3>
-                <p className="mt-1 text-sm text-white/55">Votre contribution rejoint le corpus avec la mention « non vérifiée » jusqu'à validation.</p>
+                <h3 className="font-serif text-3xl">Add to the memory</h3>
+                <p className="mt-1 text-sm text-white/55">Your contribution joins the corpus marked “unverified” until it is reviewed.</p>
               </div>
-              <button onClick={onClose} className="glass glass-button flex h-9 w-9 items-center justify-center rounded-full" aria-label="Fermer"><X size={16} /></button>
+              <button onClick={onClose} className="glass glass-button flex h-9 w-9 items-center justify-center rounded-full" aria-label="Close"><X size={16} /></button>
             </div>
 
             <div className="mb-4 grid grid-cols-2 gap-2">
-              {([['photo', 'Photo ancienne', ImagePlus], ['audio', 'Témoignage oral', Mic]] as const).map(([k, label, Icon]) => (
+              {([['photo', 'Old photo', ImagePlus], ['audio', 'Oral testimony', Mic]] as const).map(([k, label, Icon]) => (
                 <button key={k} onClick={() => { setKind(k); setFile(null) }} className={`flex items-center justify-center gap-2 rounded-2xl px-3 py-3 text-sm transition ${kind === k ? 'bg-gold/15 text-gold ring-1 ring-gold/50' : 'bg-black/25 text-white/60 hover:text-white'}`}>
                   <Icon size={16} /> {label}
                 </button>
@@ -55,16 +55,16 @@ export function ContributeModal({ open, placeId, onClose, onDone }: { open: bool
 
             <label className="mb-3 flex cursor-pointer flex-col items-center justify-center rounded-2xl border border-dashed border-white/20 bg-black/20 px-4 py-6 text-center text-sm text-white/60 hover:border-gold/50">
               <input type="file" className="hidden" accept={kind === 'photo' ? 'image/*' : 'audio/*'} onChange={e => setFile(e.target.files?.[0] ?? null)} />
-              {file ? <span className="text-white">{file.name}</span> : <span>{kind === 'photo' ? 'Choisir une photo' : 'Choisir un enregistrement (fon, gungbe, wolof, français…)'}</span>}
+              {file ? <span className="text-white">{file.name}</span> : <span>{kind === 'photo' ? 'Choose a photo' : 'Choose a recording (Fon, Gungbe, Wolof, French…)'}</span>}
             </label>
 
             <div className="mb-3 grid grid-cols-3 gap-2">
-              <input value={year} onChange={e => setYear(e.target.value.replace(/\D/g, '').slice(0, 4))} placeholder="Année" className="rounded-2xl bg-black/25 px-4 py-3 text-sm outline-none ring-1 ring-white/10 focus:ring-gold/50" />
-              <input value={note} onChange={e => setNote(e.target.value)} placeholder="Ce que montre ou raconte ce document" className="col-span-2 rounded-2xl bg-black/25 px-4 py-3 text-sm outline-none ring-1 ring-white/10 focus:ring-gold/50" />
+              <input value={year} onChange={e => setYear(e.target.value.replace(/\D/g, '').slice(0, 4))} placeholder="Year" className="rounded-2xl bg-black/25 px-4 py-3 text-sm outline-none ring-1 ring-white/10 focus:ring-gold/50" />
+              <input value={note} onChange={e => setNote(e.target.value)} placeholder="What this document shows or tells" className="col-span-2 rounded-2xl bg-black/25 px-4 py-3 text-sm outline-none ring-1 ring-white/10 focus:ring-gold/50" />
             </div>
             {error && <p className="mb-3 text-sm text-red-300">{error}</p>}
             <button disabled={!file || busy} onClick={submit} className="gold-button w-full rounded-full px-5 py-3 text-sm font-semibold">
-              {busy ? 'Envoi…' : 'Ajouter au corpus'}
+              {busy ? 'Sending…' : 'Add to the corpus'}
             </button>
           </motion.div>
         </motion.div>

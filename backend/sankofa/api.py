@@ -31,6 +31,7 @@ def health():
         "text_live": meta.text_live,
         "text_engine": meta.text_engine,
         "last_error": meta.last_error,
+        "budget": meta.budget,
         "models": {"text": config.MODEL_TEXT, "image": config.MODEL_IMAGE,
                    "segment": config.MODEL_SEGMENT, "transcribe": config.MODEL_TRANSCRIBE},
     }
@@ -58,7 +59,7 @@ def places():
 @app.get("/api/places/{place_id}")
 def place(place_id: str):
     if place_id not in BY_ID:
-        raise HTTPException(404, "Lieu inconnu")
+        raise HTTPException(404, "Unknown place")
     m = load_manifest(place_id) or {"archives": [], "currents": []}
     card = lambda a: {**{k: a.get(k) for k in ("id", "title", "year", "date_raw", "license", "artist",
                                                "page_url", "source", "description", "verified", "kind",
@@ -72,10 +73,17 @@ def place(place_id: str):
             "contributions": [card(a) for a in m.get("contributions", [])]}
 
 
+@app.get("/api/showcase")
+def showcase():
+    """Reconstructions de démonstration, précalculées : visibles sans dépenser de crédits."""
+    path = config.DATA / "showcase.json"
+    return json.loads(path.read_text()) if path.exists() else {}
+
+
 @app.get("/api/places/{place_id}/history")
 def place_history(place_id: str):
     if place_id not in BY_ID:
-        raise HTTPException(404, "Lieu inconnu")
+        raise HTTPException(404, "Unknown place")
     return history.get(place_id) or {"events": [], "sources": [], "intro": "", "stats": {"events": 0, "corroborated": 0}}
 
 
@@ -83,7 +91,7 @@ def place_history(place_id: str):
 async def create_run(place_id: str, year: int | None = Form(None), current_id: str | None = Form(None),
                      photo: UploadFile | None = File(None)):
     if place_id not in BY_ID:
-        raise HTTPException(404, "Lieu inconnu")
+        raise HTTPException(404, "Unknown place")
     current = None
     if photo is not None and photo.filename:
         dest = config.UPLOADS_DIR / f"{uuid.uuid4().hex[:10]}{Path(photo.filename).suffix.lower() or '.jpg'}"
@@ -110,14 +118,14 @@ def get_run(run_id: str):
     path = config.RUNS_DIR / run_id / "result.json"
     if path.exists():
         return {"status": "done", "events": [], "result": json.loads(path.read_text())}
-    raise HTTPException(404, "Exécution inconnue")
+    raise HTTPException(404, "Unknown run")
 
 
 @app.get("/api/runs/{run_id}/stream")
 async def stream(run_id: str):
     run = agent.RUNS.get(run_id)
     if not run:
-        raise HTTPException(404, "Exécution inconnue")
+        raise HTTPException(404, "Unknown run")
 
     async def gen():
         sent = 0
@@ -137,9 +145,9 @@ async def stream(run_id: str):
 async def contribute(place_id: str, kind: str = Form("photo"), year: int | None = Form(None),
                      note: str = Form(""), file: UploadFile = File(...)):
     if place_id not in BY_ID:
-        raise HTTPException(404, "Lieu inconnu")
+        raise HTTPException(404, "Unknown place")
     if kind not in ("photo", "audio"):
-        raise HTTPException(400, "Type de contribution invalide")
+        raise HTTPException(400, "Invalid contribution type")
     tmp = config.UPLOADS_DIR / f"tmp_{uuid.uuid4().hex[:8]}{Path(file.filename or 'x.jpg').suffix.lower()}"
     with tmp.open("wb") as f:
         shutil.copyfileobj(file.file, f)
@@ -161,14 +169,14 @@ def countries():
 @app.get("/api/countries/{country_id}")
 def country(country_id: str):
     if country_id not in COUNTRY_BY_ID:
-        raise HTTPException(404, "Pays inconnu")
+        raise HTTPException(404, "Unknown country")
     return {"country": COUNTRY_BY_ID[country_id], "chronicle": chronicle.cached(country_id)}
 
 
 @app.post("/api/countries/{country_id}/chronicle")
 def make_chronicle(country_id: str):
     if country_id not in COUNTRY_BY_ID:
-        raise HTTPException(404, "Pays inconnu")
+        raise HTTPException(404, "Unknown country")
     run = agent.start_task(f"pays:{country_id}", chronicle.run_chronicle(country_id))
     return {"run_id": run.id}
 
@@ -187,14 +195,14 @@ def storyboard(kind: str, key: str, seed: int | None = None, run: str | None = N
             return documentary.place_storyboard(key, run, seed)
     except ValueError as exc:
         raise HTTPException(400, str(exc))
-    raise HTTPException(404, "Inconnu")
+    raise HTTPException(404, "Unknown")
 
 
 @app.post("/api/documentary/{kind}/{key}/video")
 def documentary_video(kind: str, key: str, seed: int | None = Form(None), run: str | None = Form(None)):
     known = key in COUNTRY_BY_ID if kind == "country" else key in BY_ID if kind == "place" else False
     if not known:
-        raise HTTPException(404, "Inconnu")
+        raise HTTPException(404, "Unknown")
     task = agent.start_task(f"video:{kind}:{key}", documentary.make_video(kind, key, seed, run))
     return {"run_id": task.id}
 

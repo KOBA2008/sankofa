@@ -61,17 +61,18 @@ def build(place_id: str) -> dict | None:
              key=lambda a: len(_candidates(a)), default=None)
     en = wikipedia.article(titles[1], "en")
     # un article français trop pauvre en dates cède la place à l'article anglais, l'autre sert au recoupement
-    if fr and en and len(_candidates(fr)) < 6 and len(_candidates(en)) > len(_candidates(fr)):
+    # site en anglais : l'article anglais est la source principale, sauf s'il est trop pauvre en dates
+    if en and (len(_candidates(en)) >= 6 or not fr or len(_candidates(en)) >= len(_candidates(fr))):
         main, other = en, fr
     else:
         main, other = (fr, en) if fr else (en, None)
     if not main:
         return None
     sources = [{"n": 1, "title": main["title"], "url": main["url"], "lang": main["lang"],
-                "license": "CC BY-SA 4.0", "source": "Wikipédia" if main["lang"] == "fr" else "Wikipedia"}]
+                "license": "CC BY-SA 4.0", "source": "Wikipedia"}]
     if other:
         sources.append({"n": 2, "title": other["title"], "url": other["url"], "lang": other["lang"],
-                        "license": "CC BY-SA 4.0", "source": "Wikipédia" if other["lang"] == "fr" else "Wikipedia"})
+                        "license": "CC BY-SA 4.0", "source": "Wikipedia"})
     index = _en_index(other)
     cands = _candidates(main)
     cands.sort(key=lambda e: e["score"], reverse=True)

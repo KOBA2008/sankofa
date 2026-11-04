@@ -1,157 +1,157 @@
 {
  "place": "istanbul-sainte-sophie",
- "lang": "fr",
+ "lang": "en",
  "sources": [
   {
    "n": 1,
-   "title": "Sainte-Sophie (Constantinople)",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 2,
    "title": "Hagia Sophia",
    "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 2,
+   "title": "Sainte-Sophie (Constantinople)",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "events": [
   {
-   "year": 325,
-   "label": "325",
-   "text": "Sur le site de Sainte-Sophie de Constantinople se trouvait une église commandée par l'empereur Constantin en 325.",
-   "section": "Premières basiliques",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
-   "corroborated": false
-  },
-  {
-   "year": 350,
-   "label": "IVe s.",
-   "text": "À l'origine basilique chrétienne, elle est construite au IVe siècle, puis reconstruite bien plus grande au VIe siècle sous l'empereur byzantin Justinien, où elle acquiert sa forme actuelle.",
-   "section": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
-   "corroborated": false
-  },
-  {
-   "year": 360,
-   "label": "360",
-   "text": "C'est l'empereur Constance II qui consacra ce premier édifice, le 15 février 360.",
-   "section": "Premières basiliques",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
-   "corroborated": false
-  },
-  {
-   "year": 415,
-   "label": "415",
-   "text": "Il fut reconstruit en 415 par l'empereur Théodose II.",
-   "section": "Premières basiliques",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
-   "corroborated": false
-  },
-  {
-   "year": 450,
-   "label": "Ve s.",
-   "text": "Au début du Ve siècle, l'empereur Flavius Arcadius ratifia la déposition et l'exil de l'archevêque de Constantinople saint Jean Chrysostome, à la suite d'un bras de fer avec le patriarche Théophile d'Alexandrie que Jean avait été chargé de juger.",
-   "section": "Premières basiliques",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
-   "corroborated": true
-  },
-  {
-   "year": 532,
-   "label": "532",
-   "text": "Après les émeutes de Nika en 532, l'empereur Justinien entreprend de refonder l'édifice dont il pose lui-même la première pierre.",
-   "section": "Premières basiliques",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
+   "year": 408,
+   "label": "408",
+   "text": "The Patriarch of Constantinople John Chrysostom came into a conflict with Empress Aelia Eudoxia, wife of the emperor Arcadius (r. 383–408), and was sent into exile on 20 June 404.",
+   "section": "Church of Constantius II",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Church_of_Constantius_II",
    "corroborated": false
   },
   {
    "year": 537,
    "label": "537",
-   "text": "L'empereur put inaugurer la nouvelle église le 27 décembre 537, avec le patriarche Mennas, avec faste et solennité.",
-   "section": "Église de Justinien",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
-   "corroborated": false
-  },
-  {
-   "year": 565,
-   "label": "565",
-   "text": "Les décors intérieurs, particulièrement les mosaïques, ne furent achevés que sous le règne de l'empereur Justin II (565-578).",
-   "section": "Église de Justinien",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "text": "The current structure was built by the Byzantine emperor Justinian I as the Christian basilica of Constantinople between 532–537 and was designed by the Greek geometers Isidore of Miletus and Anthemius of Tralles.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
    "corroborated": false
   },
   {
    "year": 726,
    "label": "726",
-   "text": "En 726, l'empereur Léon l'Isaurien émit un certain nombre d'édits contre la vénération des images.",
-   "section": "Église de Justinien",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "text": "In 726, the emperor Leo the Isaurian issued a series of edicts against the veneration of images, ordering the army to destroy all icons – ushering in the period of Byzantine iconoclasm.",
+   "section": "Church of Justinian I (current structure)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Church_of_Justinian_I_(current_structure)",
    "corroborated": false
   },
   {
-   "year": 829,
-   "label": "829",
-   "text": "Après un bref répit sous l'impératrice Irène, le mouvement reprit de l'ampleur : l'empereur Théophile (829-842), dernier partisan de l'iconoclasme byzantin, interdit les images sculptées.",
-   "section": "Église de Justinien",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "year": 842,
+   "label": "842",
+   "text": "Emperor Theophilus (r. 829–842) had two-winged bronze doors with his monograms installed at the southern entrance of the church.",
+   "section": "Church of Justinian I (current structure)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Church_of_Justinian_I_(current_structure)",
    "corroborated": false
   },
   {
-   "year": 913,
-   "label": "913",
-   "text": "Dans son livre De caerimoniis aulae Byzantinae (Livre des Cérémonies), l'empereur Constantin VII Porphyrogénète (913-919) donne tous les détails sur les cérémonies célébrées à Sainte-Sophie, tant par l'empereur que par le patriarche.",
-   "section": "Église de Justinien",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "year": 959,
+   "label": "959",
+   "text": "In his book De Ceremoniis (\"Book of Ceremonies\"), the emperor Constantine VII (r. 913–959) wrote a detailed account of the ceremonies held in the Hagia Sophia by the emperor and the patriarch.",
+   "section": "Church of Justinian I (current structure)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Church_of_Justinian_I_(current_structure)",
+   "corroborated": false
+  },
+  {
+   "year": 989,
+   "label": "989",
+   "text": "After an earthquake in 989 collapsed the western dome arch, Emperor Basil II asked for the Armenian architect Trdat, creator of the Cathedral of Ani, to direct the repairs.",
+   "section": "Church of Justinian I (current structure)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Church_of_Justinian_I_(current_structure)",
+   "corroborated": false
+  },
+  {
+   "year": 1203,
+   "label": "1203",
+   "text": "Choniates writes that in 1203, during the Fourth Crusade, the emperors Isaac II Angelus and Alexius IV Angelus stripped Hagia Sophia of all gold ornaments and silver oil-lamps to pay off the Crusaders who had ousted Alexius III Angelus and helped Isaac return to the throne.",
+   "section": "Church of Justinian I (current structure)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Church_of_Justinian_I_(current_structure)",
    "corroborated": false
   },
   {
    "year": 1204,
    "label": "1204",
-   "text": "Baudouin VI de Hainaut fut couronné empereur le 16 mai 1204 à Sainte-Sophie, observant au plus près les rites byzantins en usage.",
-   "section": "Occupation latine (1204-1261)",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Occupation_latine_(1204-1261)",
+   "text": "In 1204, it was converted during the Fourth Crusade into a Catholic cathedral under the Latin Empire, before being restored to the Eastern Orthodox Church upon the restoration of the Byzantine Empire in 1261.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+   "corroborated": false
+  },
+  {
+   "year": 1261,
+   "label": "1261",
+   "text": "Upon the capture of Constantinople in 1261 by the Empire of Nicaea and the emperor Michael VIII Palaeologus, (r. 1261–1282), the church was in a dilapidated state.",
+   "section": "Church of Justinian I (current structure)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Church_of_Justinian_I_(current_structure)",
+   "corroborated": false
+  },
+  {
+   "year": 1452,
+   "label": "1452",
+   "text": "On 12 December 1452, Isidore of Kiev proclaimed in Hagia Sophia the long-anticipated ecclesiastical union between the western Catholic and eastern Orthodox Churches as decided at the Council of Florence and decreed by the papal bull Laetentur Caeli, though it would be short-lived.",
+   "section": "Church of Justinian I (current structure)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Church_of_Justinian_I_(current_structure)",
    "corroborated": false
   },
   {
    "year": 1453,
    "label": "1453",
-   "text": "Après la prise de Constantinople par les armées ottomanes en 1453, elle est convertie en mosquée sous le sultan Mehmet II, statut qu'elle conserve jusqu'à la fin de l'Empire ottoman.",
+   "text": "After the fall of Constantinople to the Ottoman Empire in 1453, it was converted to a mosque by Mehmed the Conqueror and became the principal mosque of Istanbul until the 1616 construction of the Sultan Ahmed Mosque.",
    "section": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
    "corroborated": true
   },
   {
    "year": 1550,
-   "label": "XVIe s.",
-   "text": "Au XVIe siècle, le sultan Soliman le Magnifique (1520-1566) rapporta deux chandeliers colossaux de sa conquête de la Hongrie.",
-   "section": "Mosquée de l'époque ottomane",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Mosquée_de_l'époque_ottomane",
+   "label": "16th c.",
+   "text": "In the 16th century, Sultan Suleiman the Magnificent (r. 1520–1566) brought two colossal candlesticks from his conquest of the Kingdom of Hungary and placed them on either side of the mihrab.",
+   "section": "Mosque (1453–1935)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Mosque_(1453–1935)",
    "corroborated": false
   },
   {
-   "year": 1934,
-   "label": "1934",
-   "text": "En 1934, elle perd son statut de lieu de culte pour devenir un musée, sur décision de Mustafa Kemal Atatürk, devenant l'un des musées les plus visités de la république de Turquie.",
-   "section": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
+   "year": 1594,
+   "label": "1594",
+   "text": "In 1594 Mimar (court architect) Davud Ağa built the türbe of Murad III, where the Sultan and his valide, Safiye Sultan were buried.",
+   "section": "Mosque (1453–1935)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Mosque_(1453–1935)",
+   "corroborated": false
+  },
+  {
+   "year": 1919,
+   "label": "1919",
+   "text": "The anti-occupation Sultanahmet demonstrations were held next to Hagia Sophia from March to May 1919.",
+   "section": "Occupation of Istanbul (1918–1923)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Occupation_of_Istanbul_(1918–1923)",
+   "corroborated": false
+  },
+  {
+   "year": 1930,
+   "label": "1930",
+   "text": "During Suleiman's reign, the mosaics above the narthex and imperial gates depicting Jesus, Mary, and various Byzantine emperors were covered by whitewash and plaster, which were removed in 1930 under the Turkish Republic.",
+   "section": "Mosque (1453–1935)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Mosque_(1453–1935)",
    "corroborated": true
   },
   {
-   "year": 2022,
-   "label": "2022",
-   "text": "Le comité du Patrimoine mondial de l'Unesco a demandé à la Turquie de présenter d'ici le 1er février 2022 un rapport sur l'état de conservation de la basilique, exprimant « sa profonde préoccupation » sur les conséquences de sa transformation en mosquée.",
-   "section": "Patrimoine mondial de l'humanité",
-   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Patrimoine_mondial_de_l'humanité",
+   "year": 1935,
+   "label": "1935",
+   "text": "In 1935, the first Turkish President and founder of the Republic of Turkey, Mustafa Kemal Atatürk, transformed the building into a museum.",
+   "section": "Museum (1935–2020)",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Museum_(1935–2020)",
    "corroborated": true
   }
  ],
- "intro": "« sagesse de Dieu », « sagesse divine », nom repris en turc sous la forme Ayasofya) est une ancienne basilique byzantine devenue mosquée, située à Istanbul, dans l'ancienne Constantinople, sur le côté ouest du Bosphore. À l'origine basilique chrétienne, elle est construite au IVe siècle, puis reconstruite bien plus grande au VIe siècle sous l'empereur byzantin Justinien, où elle acquiert sa forme actuelle. Souvent surnommée « la Grande Église », elle est le plus important monument de l'architecture byzantine et demeure l'une des plus prestigieuses églises de la chrétienté jusqu'au XVe siècle.",
+ "intro": "Hagia Sophia, officially the Hagia Sophia Grand Mosque, is a mosque and a major cultural and historical site in Istanbul, Turkey. It was formerly a church (360–1453) and a museum (1935–2020). The last of three church buildings to be successively erected on the site by the Eastern Roman Empire, it was completed in AD 537, becoming the world's largest interior space and among the first to employ a fully pendentive dome.",
  "stats": {
   "events": 16,
-  "corroborated": 4
+  "corroborated": 3
  }
 }

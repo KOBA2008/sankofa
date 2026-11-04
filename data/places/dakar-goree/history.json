@@ -1,157 +1,157 @@
 {
  "place": "dakar-goree",
- "lang": "fr",
+ "lang": "en",
  "sources": [
   {
    "n": 1,
-   "title": "Île de Gorée",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 2,
    "title": "Gorée",
    "url": "https://en.wikipedia.org/wiki/Gorée",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 2,
+   "title": "Île de Gorée",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "events": [
   {
-   "year": 1444,
-   "label": "1444",
-   "text": "Le navigateur portugais Dinis Dias atteint l'île de Gorée en 1444, qu'il baptise « Palma ».",
-   "section": "Possession hollandaise",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Possession_hollandaise",
+   "year": 1660,
+   "label": "1660",
+   "text": "Many slaves were shipped through Goree to the Dutch colony of Curaçao in the 1660s and 70s.",
+   "section": "Dutch West India Company rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#Dutch_West_India_Company_rule",
+   "corroborated": false
+  },
+  {
+   "year": 1674,
+   "label": "1674",
+   "text": "Repeated wars weakened the Dutch West India Company, however, and the Third Anglo-Dutch War precipitated the bankruptcy of the company in 1674.",
+   "section": "Dutch West India Company rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#Dutch_West_India_Company_rule",
+   "corroborated": false
+  },
+  {
+   "year": 1677,
+   "label": "1677",
+   "text": "After the French invasion in 1677, during the Franco-Dutch War, the island remained chiefly French until 1960.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
+   "corroborated": false
+  },
+  {
+   "year": 1758,
+   "label": "1758",
+   "text": "The island was notably taken and occupied by the British between 1758 and 1763 following the Capture of Gorée and wider Capture of Senegal during the Seven Years' War before being returned to France at the Treaty of Paris (1763).",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
    "corroborated": true
   },
   {
-   "year": 1450,
-   "label": "XVe s.",
-   "text": "Les rois du Cayor se heurtèrent néanmoins à une forte résistance des Lébous et des Sérères habitant la petite côte du Sénégal, lesquels furent décrits dès le début du XVe siècle par le navigateur Alvise Cadamosto comme des peuples refusant de vendre des esclaves.",
-   "section": "Fort de traite",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Fort_de_traite",
+   "year": 1770,
+   "label": "1770",
+   "text": "After the decline of the slave trade from Senegal in the 1770s and 1780s, the town became an important port for the shipment of peanuts, peanut oil, gum arabic, ivory, and other products of the \"legitimate\" trade.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
    "corroborated": false
   },
   {
-   "year": 1588,
-   "label": "1588",
-   "text": "Les Hollandais s'emparent de Gorée en 1588 et la baptisent Goede Reede, « la bonne rade », étymon du nom actuel.",
-   "section": "Possession hollandaise",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Possession_hollandaise",
+   "year": 1780,
+   "label": "1780",
+   "text": "Gorée is known as the location of the House of Slaves (French: Maison des esclaves), built by an Afro-French Métis family about 1780–1784.",
+   "section": "Post-independence",
+   "url": "https://en.wikipedia.org/wiki/Gorée#Post-independence",
    "corroborated": false
   },
   {
-   "year": 1726,
-   "label": "1726",
-   "text": "Cependant, l'île de Gorée reste une place qui a joué un rôle non négligeable dans la traite, par la présence de captiveries françaises et le nombre d'esclaves déportés (environ 500 par an entre 1726 et 1755 et 15 476 entre 1761 et 1848).",
-   "section": "Fort de traite",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Fort_de_traite",
+   "year": 1794,
+   "label": "1794",
+   "text": "In February 1794 during the French Revolution, France abolished slavery, and the slave trade from Senegal was said to have stopped.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
+   "corroborated": false
+  },
+  {
+   "year": 1815,
+   "label": "1815",
+   "text": "In March 1815, during his political comeback known as the Hundred Days, Napoleon definitively abolished the slave trade to build relations with Great Britain.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
    "corroborated": false
   },
   {
    "year": 1850,
-   "label": "XIXe s.",
-   "text": "En parallèle du commerce des esclaves contrôlé par l'administration des Rois de France et d'Angleterre, le commerce de la gomme, de l'arachide, des peaux, de l'or du Galam, des épices pauvres ainsi que la fourniture d'ouvriers qualifiés (charpentiers, maçons…) assurent la prospérité économique des signares de l'île de Gorée du XVIIIe au XIXe siècle.",
-   "section": "Fort de traite",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Fort_de_traite",
+   "label": "19th c.",
+   "text": "In the 18th and 19th century, Gorée was home to a Franco-African Creole, or Métis, community of merchants with links to similar communities in Saint-Louis and the Gambia, and across the Atlantic to France's colonies in the Americas.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
    "corroborated": true
   },
   {
    "year": 1872,
    "label": "1872",
-   "text": "En 1872 l'administration coloniale française crée les deux communes de Saint-Louis et Gorée, les deux premières communes d'Afrique de l'ouest sur le modèle occidental, dotées exactement du même statut que les autres communes françaises (statut ultérieurement étendu à Dakar et Rufisque : les quatre communes).",
-   "section": "Déclin à partir de seconde moitié du xixe siècle",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Déclin_à_partir_de_seconde_moitié_du_xixe_siècle",
+   "text": "Civic franchise for the citizens of Gorée was institutionalized in 1872, when it became a French commune with an elected mayor and a municipal council.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
    "corroborated": true
   },
   {
-   "year": 1944,
-   "label": "1944",
-   "text": "Dès 1944, l'administration coloniale française décide de mesures de sauvegarde en vue de préserver l'authenticité du patrimoine historique de l'île.",
-   "section": "Patrimoine et sites touristiques",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Patrimoine_et_sites_touristiques",
+   "year": 1913,
+   "label": "1913",
+   "text": "From 1913 to 1938, Gorée was home to the École normale supérieure William Ponty, a government teachers' college run by the French Colonial Government.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
+   "corroborated": true
+  },
+  {
+   "year": 1914,
+   "label": "1914",
+   "text": "Blaise Diagne, the first African deputy elected to the French National Assembly (served 1914 to 1934), was born on Gorée.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
    "corroborated": false
   },
   {
-   "year": 1978,
-   "label": "1978",
-   "text": "C'est un lieu symbolique de la mémoire de la traite négrière en Afrique, reconnu officiellement par l'Organisation des Nations unies (ONU) en 1978.",
-   "section": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée",
+   "year": 1940,
+   "label": "1940",
+   "text": "In 1940 Gorée was annexed to the municipality of Dakar.",
+   "section": "French colonial rule",
+   "url": "https://en.wikipedia.org/wiki/Gorée#French_colonial_rule",
    "corroborated": false
   },
   {
-   "year": 1979,
-   "label": "1979",
-   "text": "L'université des Mutants est un centre international de rencontres et de conférences fondé en 1979 à l'initiative du président Léopold Sédar Senghor et de l'écrivain et philosophe français Roger Garaudy.",
-   "section": "Université des Mutants",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Université_des_Mutants",
-   "corroborated": false
-  },
-  {
-   "year": 1980,
-   "label": "1980",
-   "text": "Sous le mandat d'Urbain Diagne, militaire de carrière et adjoint spécial au Maire de Dakar chargé de Gorée à partir de 1980, qui s'achèvera par sa retraite politique en 2001, Gorée renaît notamment par sa classification sur la liste du patrimoine mondial de l'Unesco (1978) avec le concours de son Secrétaire Général, le Sénégalais Amadou-Mahtar M'Bow et d'Abdou Diouf, alors Premier Ministre de Léopold Senghor.",
-   "section": "Administration",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Administration",
+   "year": 1985,
+   "label": "1985",
+   "text": "The Dakar-Gorée Swim was launched in 1985 as a homage to the victims of slavery who displayed resilience by attempting to swim towards freedom.",
+   "section": "Post-independence",
+   "url": "https://en.wikipedia.org/wiki/Gorée#Post-independence",
    "corroborated": false
   },
   {
    "year": 1996,
    "label": "1996",
-   "text": "En 1996 le Parlement se prononce en faveur d'une profonde réforme de l'organisation territoriale du Sénégal.",
+   "text": "In 1996, a massive reform of the administrative and political divisions of Senegal was voted by the Parliament of Senegal.",
    "section": "Administration",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Administration",
+   "url": "https://en.wikipedia.org/wiki/Gorée#Administration",
    "corroborated": true
-  },
-  {
-   "year": 1999,
-   "label": "1999",
-   "text": "(Thèse de 3e cycle) Alain Sinou, Comptoirs et villes coloniales du Sénégal : Saint-Louis, Gorée, Dakar, Karthala, 1999, 344 p.",
-   "section": "Essais",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Essais",
-   "corroborated": false
   },
   {
    "year": 2002,
    "label": "2002",
-   "text": "Le maire actuel est Maître Augustin Senghor, élu en 2002, puis réélu en 2009.",
+   "text": "The current mayor of Gorée is Augustin Senghor, elected in 2002.",
    "section": "Administration",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Administration",
+   "url": "https://en.wikipedia.org/wiki/Gorée#Administration",
    "corroborated": true
-  },
-  {
-   "year": 2005,
-   "label": "2005",
-   "text": "En 2005 a eu lieu la première édition du Gorée Diaspora Festival, une manifestation lancée par la commune et associant danses, musique, arts plastiques, conférences, sports, carnaval et spectacles sons et lumières.",
-   "section": "Gorée et les arts",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Gorée_et_les_arts",
-   "corroborated": false
-  },
-  {
-   "year": 2009,
-   "label": "2009",
-   "text": "Grâce au charisme et à la persévérance de son conservateur, Joseph Ndiaye, mort en février 2009, la Maison des Esclaves constitue le passage obligé de quiconque se rend à Gorée pour la première fois.",
-   "section": "Maison des Esclaves",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Maison_des_Esclaves",
-   "corroborated": false
-  },
-  {
-   "year": 2010,
-   "label": "2010",
-   "text": "A l'occasion du 3ème Festival mondial des arts nègres (FESMAN) à Dakar en 2010, le bassiste de jazz fusion Marcus Miller décide d'aller visiter la Maison des Esclaves, lui inspirant le morceau \"Gorée (Go-ray)\".",
-   "section": "Gorée et les arts",
-   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Gorée_et_les_arts",
-   "corroborated": false
   }
  ],
- "intro": "L'île de Gorée, ou simplement Gorée, est à la fois une île de l'océan Atlantique située dans la baie de Dakar et l'une des 19 communes d'arrondissement de la capitale du Sénégal. C'est un lieu symbolique de la mémoire de la traite négrière en Afrique, reconnu officiellement par l'Organisation des Nations unies (ONU) en 1978. Gorée, « île-mémoire » de cette tragédie, fut ainsi l'un des tout premiers lieux à être portés sur la liste du patrimoine mondial de l'UNESCO.",
+ "intro": "Île de Gorée (French pronunciation: [ildəɡoʁe]; \"Gorée Island\"; Wolof: Beer Dun) is one of the 19 communes d'arrondissement (i.e., districts) of the city of Dakar, Senegal. It is an 18.2-hectare (45-acre) island located two kilometres (1.1 nmi; 1.2 mi) at sea from the main harbour of Dakar (14°40′N 17°24′W), famous as a destination for people interested in the  Atlantic slave trade. Its population as of the 2013 census was 1,680 inhabitants, giving a density of 5,802 inhabitants per square kilometre (15,030/sq mi), which is only half the average density of the city of Dakar.",
  "stats": {
   "events": 16,
-  "corroborated": 5
+  "corroborated": 6
  }
 }

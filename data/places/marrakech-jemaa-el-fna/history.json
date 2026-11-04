@@ -1,101 +1,125 @@
 {
  "place": "marrakech-jemaa-el-fna",
- "lang": "fr",
+ "lang": "en",
  "sources": [
   {
    "n": 1,
-   "title": "Place Jemaa el-Fna",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 2,
    "title": "Jemaa el-Fnaa",
    "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 2,
+   "title": "Place Jemaa el-Fna",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "events": [
   {
-   "year": 1150,
-   "label": "XIIe s.",
-   "text": "Au XIIe siècle, la place Jemaa el-Fna était un lieu de justice où les peines étaient publiquement appliquées.",
-   "section": "Avant le XXIe siècle",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "year": 1050,
+   "label": "1050",
+   "text": "Meanings could thus be \"The Assembly of Death/the Dead\", referring to public executions on the plaza around 1050 CE; \"The Mosque at the End of the World\"; or a reference to a mosque with a distinctive courtyard or square in front of it.",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Name",
    "corroborated": false
   },
   {
-   "year": 1550,
-   "label": "XVIe s.",
-   "text": "Dès la seconde moitié du XVIe siècle, les activités et fonctions de la place ont évolué.",
-   "section": "Avant le XXIe siècle",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "year": 1070,
+   "label": "1070",
+   "text": "Marrakesh was founded by the Almoravid dynasty in 1070 by Abu Bakr ibn Umar and subsequently developed by his successors.",
+   "section": "Early history: Almoravid and Almohad periods",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Early_history:_Almoravid_and_Almohad_periods",
    "corroborated": false
   },
   {
-   "year": 1650,
-   "label": "XVIIe s.",
-   "text": "Pendant des siècles, la place Jemaa el-Fna s'est animée et s'est inscrite dans la culture du Maroc puisqu'elle est qualifiée de lieu de spectacle au XVIIe siècle.",
-   "section": "Avant le XXIe siècle",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "year": 1106,
+   "label": "1106",
+   "text": "The Almoravid emir Ali ibn Yusuf (ruled 1106–1143) soon afterwards constructed a palace directly south of and adjacent to the Ksar el-Hajjar, on the actual site of the later Kutubiyya Mosque.",
+   "section": "Early history: Almoravid and Almohad periods",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Early_history:_Almoravid_and_Almohad_periods",
    "corroborated": false
   },
   {
-   "year": 1921,
-   "label": "1921",
-   "text": "En effet, sous le protectorat français, le maréchal Lyautey, résident général, a signé l'arrêté viziriel du 26 juillet 1921 ordonnant une enquête en vue du classement de la place, qui eut lieu par le dahir du 20 juillet 1922.",
-   "section": "Avant le XXIe siècle",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "year": 1147,
+   "label": "1147",
+   "text": "After a destructive struggle, Marrakech fell to the Almohads in 1147, who undertook many construction projects throughout the city.",
+   "section": "Early history: Almoravid and Almohad periods",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Early_history:_Almoravid_and_Almohad_periods",
    "corroborated": false
   },
   {
-   "year": 1950,
-   "label": "XXe s.",
-   "text": "Dès le XXe siècle, de nombreux bâtiments sont construits et la place commence à prendre l'aspect de celle d'aujourd'hui qui a donné à la place son nom actuel La rhétorique coloniale a joué un rôle dans l'introduction de la place dans le patrimoine.",
-   "section": "Avant le XXIe siècle",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "year": 1184,
+   "label": "1184",
+   "text": "Notably, a new royal kasbah (citadel) was erected further south by Ya'qub al-Mansur after 1184.",
+   "section": "Early history: Almoravid and Almohad periods",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Early_history:_Almoravid_and_Almohad_periods",
    "corroborated": false
   },
   {
-   "year": 1981,
-   "label": "1981",
-   "text": "Elias Canetti, prix Nobel de littérature 1981, décrit des halqa vues en 1954 dans le chapitre \"la voix des conteurs\" de son récit \"Voix de Marrakech\".",
-   "section": "Les activités",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Les_activités",
+   "year": 1850,
+   "label": "19th c.",
+   "text": "The ruined outline of its walls was apparently still visible in the 19th century and corresponded roughly to the current site of the \"Souk Jdid\" (the \"new souk\" just north of the food-stalls).",
+   "section": "Name",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Name",
    "corroborated": false
   },
   {
-   "year": 1985,
-   "label": "1985",
-   "text": "En 1985, la place Jemaa el-Fna est inscrite sur la liste du patrimoine mondial de l'Unesco dans le cadre de l'inscription de la médina de Marrakech.",
-   "section": "Inscription",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Inscription",
+   "year": 1864,
+   "label": "1864",
+   "text": "On January 24, 1864, a massive explosion took place in the area of the square, reportedly caused by the criminal negligence of certain officials trying to avoid a government inspection.",
+   "section": "Later history: Saadian period to modern times",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Later_history:_Saadian_period_to_modern_times",
    "corroborated": false
   },
   {
-   "year": 2008,
-   "label": "2008",
-   "text": "« L'espace culturel de la place Jemaa el-Fna » est inscrit patrimoine culturel immatériel depuis 2008 (proclamation en 2001) et au patrimoine mondial depuis 1985 par l'Unesco.",
-   "section": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna",
+   "year": 1922,
+   "label": "1922",
+   "text": "In 1922 the government (under French administration at the time), passed the first laws aimed at protecting and preserving the square's cultural space and heritage.",
+   "section": "Later history: Saadian period to modern times",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Later_history:_Saadian_period_to_modern_times",
+   "corroborated": false
+  },
+  {
+   "year": 2001,
+   "label": "2001",
+   "text": "In 2001 the square was proclaimed an Intangible Cultural Heritage by UNESCO, and in 2008 it was included in UNESCO's List of Intangible Cultural Heritage of Humanity.",
+   "section": "Later history: Saadian period to modern times",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Later_history:_Saadian_period_to_modern_times",
    "corroborated": false
   },
   {
    "year": 2011,
    "label": "2011",
-   "text": "Le 28 avril 2011, un attentat est perpétré dans le restaurant Argana donnant sur la place.",
-   "section": "Attentat du 28 avril 2011",
-   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Attentat_du_28_avril_2011",
+   "text": "Shortly before noon on April 28, 2011, a blast originating in a café in the square killed 17 people and injured another 25.",
+   "section": "2011 bombing",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#2011_bombing",
+   "corroborated": false
+  },
+  {
+   "year": 2023,
+   "label": "2023",
+   "text": "An earthquake with a 6.8 magnitude that struck Morocco in the evening of Friday the 8th of September 2023 highly damaged the Kharbouch Mosque and collapsed its minaret, which overlooked the square.",
+   "section": "2023 earthquake",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#2023_earthquake",
+   "corroborated": false
+  },
+  {
+   "year": 2025,
+   "label": "2025",
+   "text": "Beginning in May 2025, the square underwent a major renovation program scheduled for completion by the end of the year.",
+   "section": "Later history: Saadian period to modern times",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa#Later_history:_Saadian_period_to_modern_times",
    "corroborated": false
   }
  ],
- "intro": "La place Jamaa Alfna (en amazighe : ⴰⴱⴰⵔⴰⵣ ⵏ ⵊⴰⵎⵄ ⵍⴼⵏⴰ, en arabe : ساحة جامع الفنا, « place de la mosquée des trépassés ») est une célèbre place publique au sud-ouest de la médina de Marrakech au Maroc. Ce haut-lieu traditionnel, populaire et animé, notamment la nuit, attire plus d'un million de visiteurs chaque année. Jemaa el-Fna incarne la diversité de l’identité marocaine en raison de la présence de représentants des différentes cultures qui constituent le Maroc : Arabes, Berbères, Gnaouas.",
+ "intro": "Jemaa el-Fnaa (Arabic: ساحة جامع الفناء, romanized: Sāḥat Jāmiʿ al-Fanāʾ; Standard Moroccan Tamazight: ⵊⴰⵎⵄ ⵍⴼⵏⴰ, romanized: Jamɛ Lfna), also Jemaa el-Fna, Djema el-Fna or Djemaa el-Fnaa, is a square and market place in the medina quarter (old city) of Marrakesh, Morocco. It remains the main square of Marrakesh, used by locals and tourists.",
  "stats": {
-  "events": 9,
+  "events": 12,
   "corroborated": 0
  }
 }

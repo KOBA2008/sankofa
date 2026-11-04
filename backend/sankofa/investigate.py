@@ -87,13 +87,13 @@ def collect(place: dict, target_year: int | None = None, log=lambda *_: None) ->
         # recherches par décennie, avec le nom le plus caractéristique du lieu
         by_decade = [f"{place['keywords'][0]} {d}" for d in (1880, 1900, 1920, 1940)]
         for q in place["archive_queries"] + by_decade + place["current_queries"]:
-            log(f"Wikimedia Commons : « {q} »")
+            log(f"Wikimedia Commons: “{q}”")
             yield wikimedia.search(q)
         radius = int(place.get("radius", 350) * 1.5)
-        log(f"Wikimedia Commons : images géolocalisées à moins de {radius} m")
+        log(f"Wikimedia Commons: geotagged images within {radius} m")
         yield wikimedia.geosearch(place["lat"], place["lon"], radius, limit=120)
         for q in place.get("europeana_queries", place["archive_queries"][:2]):
-            log(f"Europeana : « {q} »")
+            log(f"Europeana: “{q}”")
             yield europeana.search(q)
 
     for batch in batches():
@@ -133,15 +133,15 @@ def build_corpus(place: dict, n_archives: int = 30, n_currents: int = 12, log=pr
             if ext not in (".jpg", ".jpeg", ".png"):
                 ext = ".jpg"
             local = root / kind / f"{hashlib.sha1(doc['thumb_url'].encode()).hexdigest()[:12]}{ext}"
-            log(f"Téléchargement {kind} {i + 1}/{min(limit, len(docs))} : {doc['title'][:70]}")
+            log(f"Downloading {kind} {i + 1}/{min(limit, len(docs))}: {doc['title'][:70]}")
             try:
                 wikimedia.download(doc["thumb_url"], local)
                 if not _valid_image(local):
-                    raise ValueError("fichier reçu illisible ou trop petit")
+                    raise ValueError("unreadable or too small file")
                 if kind == "current" and not _is_color_photo(local):
-                    raise ValueError("vue « actuelle » en noir et blanc ou sépia : probablement une archive mal datée")
+                    raise ValueError("black-and-white or sepia “current” view: probably a misdated archive")
             except Exception as exc:  # une image manquante ne bloque pas le corpus
-                log(f"  échec : {exc}")
+                log(f"  failed: {exc}")
                 local.unlink(missing_ok=True)
                 continue
             doc = {**doc, "id": f"{kind}-{i:02d}", "path": str(local.relative_to(PLACES_DIR))}

@@ -1,7 +1,7 @@
 {
  "country": {
   "id": "senegal",
-  "name": "Sénégal",
+  "name": "Senegal",
   "flag": "🇸🇳",
   "fr": "Histoire du Sénégal",
   "en": "History of Senegal",
@@ -17,56 +17,55 @@
  },
  "chapters": [
   {
-   "title": "Historiographie",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Historiographie",
-   "source": 2,
-   "summary": "Comme pour bien d'autres pays du continent africain, l'écriture de cette histoire se heurte à de multiples difficultés, tant méthodologiques qu'idéologiques. Les commentaires attribués à certains explorateurs antiques, les manuscrits des voyageurs arabes constituent les premiers témoignages connus.",
-   "events": [
-    {
-     "year": 1980,
-     "label": "1980",
-     "text": "Les traditions orales – désormais reconnues patrimoine culturel immatériel de l'humanité par l'UNESCO – sont un peu mieux prises en compte, comme en témoigne ce colloque international consacré aux traditions orales du Kaabu en 1980 à Dakar, mais n'ont pas encore trouvé une vraie place dans la construction du savoir à l'occidentale.",
-     "source": 2,
-     "corroborated": false
-    }
-   ],
-   "start": 1980,
-   "end": 1980,
+   "title": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal",
+   "source": 1,
+   "summary": "The history of Senegal is commonly divided into a number of periods, encompassing the prehistoric era, the precolonial period, colonialism, and the contemporary era.",
+   "events": [],
+   "start": null,
+   "end": null,
    "photos": [],
-   "narrative": "L'écriture de l'histoire de ce pays, comme de bien d'autres pays du continent africain, se heurte à de multiples difficultés tant méthodologiques qu'idéologiques [S2]. Les premiers témoignages connus proviennent des commentaires attribués à certains explorateurs antiques et des manuscrits des voyageurs arabes [S2]. Les traditions orales, désormais reconnues patrimoine culturel immatériel de l'humanité par l'UNESCO, sont un peu mieux prises en compte [S2]. En témoigne le colloque international consacré aux traditions orales du Kaabu tenu en 1980 à Dakar [S2]. Toutefois, elles n'ont pas encore trouvé une vraie place dans la construction du savoir à l'occidentale [S2]."
+   "narrative": "The excerpts provided do not contain sufficient information to write a 90 to 130 word historical paragraph without adding invented details [S1]. According to the only available source, the history of Senegal is commonly divided into a number of periods, encompassing the prehistoric era, the precolonial period, colonialism, and the contemporary era [S1]. No further facts, events, or details about Senegal are present in the excerpts provided [S1]. Due to this limitation, a longer paragraph meeting the requested word count cannot be produced without violating the instruction to use only the excerpts [S1]. The single excerpt reflects a general periodization and does not provide enough material to determine a distinct point of view [S1]."
   },
   {
-   "title": "Préhistoire du Sénégal",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Préhistoire_du_Sénégal",
-   "source": 3,
-   "summary": "Préhistoire du Sénégal En l’état actuel de nos connaissances, selon Abdoulaye Camara, on peut considérer que les hommes sont apparus au Sénégal il y a environ 350 000 ans. C’est dans la vallée de la Falémé, dans le sud-est du pays, que l’on a trouvé les plus anciennes traces de vie humaine.",
+   "title": "Prehistory",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Prehistory",
+   "source": 2,
+   "summary": "In the case of Senegal, the periodization of prehistory remains controversial. It is often described as beginning with the age of metallurgy, thus placing it between the first metalworking and the appearance of writing.",
    "events": [
     {
      "year": 1938,
      "label": "1938",
-     "text": "Cependant la présence de l’homme au paléolithique inférieur est attestée par la découverte d’outils lithiques caractéristiques de l’Acheuléen, tels que les bifaces signalés par Théodore Monod à la pointe de Fann, dans la presqu'île du Cap-Vert, en 1938, ou les hachereaux trouvés dans le sud-est du pays.",
-     "source": 3,
+     "text": "The presence of man in the Lower Paleolithic is attested by the discovery of stone tools characteristic of Acheulean such as hand axes reported by Théodore Monod at the tip of Fann in the peninsula of Cap-Vert in 1938, or cleavers found in the south-east.",
+     "source": 2,
      "corroborated": true
     },
     {
      "year": 1940,
      "label": "1940",
-     "text": "On peut néanmoins distinguer : le néolithique du Cap Manuel : le gisement manuélin de Dakar n’a été découvert qu’en 1940.",
-     "source": 3,
+     "text": "What can be distinguished is: The dig of Cape Manuel: the Neolithic deposit Manueline Dakar was discovered in 1940.",
+     "source": 2,
      "corroborated": true
     },
     {
      "year": 1970,
      "label": "1970",
-     "text": "L'existence de vestiges protohistoriques dans la moyenne vallée du fleuve Sénégal est confirmée dès la fin des années 1970.",
-     "source": 3,
+     "text": "The existence of proto-historic ruins in the middle Senegal River valley was confirmed in the late 1970s.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1980,
+     "label": "1980",
+     "text": "Other approaches exist such as that of Guy Thilmans and his team in 1980, who felt that any archeology from pre-colonial could be attached to that designation or that of Hamady Bocoum, who speaks of \"Historical Archaeology\" from the 4th century, at least for the former Tekrur.",
+     "source": 2,
      "corroborated": true
     },
     {
      "year": 2006,
      "label": "2006",
-     "text": "C'est dans une très vaste zone de près de 33 000 km2 localisée dans le centre-sud du pays tout autour de la Gambie que l'on trouve les alignements de grosses pierres connus sous le nom de cercles mégalithiques de Sénégambie et inscrits sur la liste du patrimoine mondial de l'UNESCO en 2006.",
-     "source": 3,
+     "text": "In a huge area of nearly 33,000 km2 located in the center-south around the Gambia there have been found alignments of boulders known as the Stone Circles of Senegambia which were placed on the list of UNESCO World Heritage sites in 2006.",
+     "source": 2,
      "corroborated": true
     }
    ],
@@ -138,52 +137,159 @@
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Selon Abdoulaye Camara, les hommes seraient apparus au Sénégal il y a environ 350 000 ans et les plus anciennes traces ont été trouvées dans la vallée de la Falémé au sud-est [S3]. La présence au paléolithique inférieur est attestée par des outils acheuléens comme les bifaces signalés par Théodore Monod à la pointe de Fann en 1938 et des hachereaux dans le sud-est [S3]. Le gisement néolithique du Cap Manuel à Dakar n'a été découvert qu'en 1940 [S3]. L'existence de vestiges protohistoriques dans la moyenne vallée du fleuve Sénégal est confirmée dès la fin des années 1970 [S3]. Les cercles mégalithiques de Sénégambie, sur près de 33 000 km2 dans le centre-sud autour de la Gambie, sont inscrits au patrimoine mondial de l'UNESCO en 2006 [S3]. Ce résumé repose uniquement sur les extraits fournis qui reflètent un point de vue limité [S3]."
+   "narrative": "In Senegal the periodization of prehistory remains controversial and is often described as beginning with the age of metallurgy between first metalworking and writing [S2]. Lower Paleolithic presence is attested by Acheulean tools such as hand axes reported by Théodore Monod at Fann in Cap-Vert in 1938 and cleavers in the south-east [S2]. The Neolithic deposit Manueline Dakar at Cape Manuel was discovered in 1940 and proto-historic ruins in the middle Senegal River valley were confirmed in the late 1970s [S2]. Guy Thilmans and his team in 1980 felt any pre-colonial archeology could be attached to that designation and Hamady Bocoum speaks of Historical Archaeology from the 4th century for former Tekrur [S2]. The Stone Circles of Senegambia in nearly 33,000 km2 around the Gambia were listed by UNESCO in 2006 [S2]."
   },
   {
-   "title": "De c. 500 à c. 1900 : États, royaumes et Empires pré-coloniaux",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#De_c._500_à_c._1900_:_États,_royaumes_et_Empires_pré-coloniaux",
+   "title": "Early historical inhabitants",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Early_historical_inhabitants",
+   "source": 3,
+   "summary": "In the absence of written sources and monumental ruins in this region, the history of the early centuries of the modern era must be based primarily on archaeological excavations, the writing of early Arab geographers and travelers, and data derived from oral tradition. Combining these data suggests that Senegal was first populated from the north and east in several waves of migration, the last being that of the Wolof, the Fulani and the Serer who dominate the area today.",
+   "events": [],
+   "start": null,
+   "end": null,
+   "photos": [],
+   "narrative": "The provided excerpt reflects a single synthesized perspective on this period. In the absence of written sources and monumental ruins in this region, the history of the early centuries of the modern era must be based primarily on archaeological excavations, the writing of early Arab geographers and travelers, and data derived from oral tradition [S3]. Combining these data suggests that Senegal was first populated from the north and east in several waves of migration [S3]. The last being that of the Wolof, the Fulani and the Serer who dominate the area today [S3]. Oral tradition is cited alongside archaeology and Arab geographers as a primary basis for this history [S3]."
+  },
+  {
+   "title": "Kingdoms and empires",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Kingdoms_and_empires",
    "source": 4,
-   "summary": "En l'absence de sources écrites et de vestiges monumentaux dans cette région, l’historiographie des premiers siècles de notre ère doit s’appuyer principalement sur les fouilles archéologiques, les mentions éventuelles des chroniqueurs arabes et les données issues de la tradition orale. Le croisement de ces informations suggère que le peuplement du Sénégal s’est d’abord effectué à partir du nord et de l'est (probablement l'actuelle Égypte, en témoignent les travaux du professeur Cheikh Anta Diop), en plusieurs vague",
+   "summary": "The medieval history of the Sahel is characterized by the consolidation of settlements into large state entities – the Ghana Empire, the Mali Empire and the Songhai Empire. The cores of these great empires were located on the territory of the current Republic of Mali, so current-day Senegal occupied a peripheral position.",
    "events": [
+    {
+     "year": 850,
+     "label": "9th c.",
+     "text": "Its existence in the 9th century is attested by Arabic manuscripts.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1000,
+     "label": "1000",
+     "text": "John Donnelly Fage suggests that Takrur was formed through the interaction of Berbers from the Sahara and \"Negro agricultural peoples\" who were \"essentially Serer\" although its kings after 1000 CE might have been Soninke (northern Mande).",
+     "source": 4,
+     "corroborated": false
+    },
     {
      "year": 1040,
      "label": "1040",
-     "text": "Le Tekrour est l’un des premiers États convertis à l'islam, très certainement avant 1040.",
+     "text": "The Tekrur were among the first converts to Islam, certainly before 1040.",
      "source": 4,
      "corroborated": false
     },
     {
      "year": 1250,
-     "label": "XIIIe s.",
-     "text": "Fondé au XIIIe siècle par le chef wolof Ndiadiane Ndiaye, le Djolof élargit sa domination aux petites chefferies au sud du fleuve Sénégal (Waalo, Cayor, Baol, Sine-Saloum), réunissant tout l'espace sénégambien auquel il donne une unité sociale et religieuse : c'est le « Grand Djolof » qui s'effondrera vers 1550.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1350,
-     "label": "XIVe s.",
-     "text": "Deux autres grandes entités politiques se constituent et se développent au cours des XIIIe et XIVe siècles, l'empire du Mali et l'empire du Djolof qui va devenir le vassal du premier au moment de son apogée.",
+     "label": "13th c.",
+     "text": "In Casamance, the Baïnounks, the Manjaques and Diola inhabited the coastal area while the mainland – unified 13th century under the name of Kaabu – was occupied by the Mandingo.",
      "source": 4,
      "corroborated": true
     },
     {
-     "year": 1895,
-     "label": "1895",
-     "text": "En 1895 est créée l'Afrique Occidentale Française (AOF) qui regroupe les territoires sous domination française dans la région dont le Sénégal, le Soudan français (actuel Mali) la Guinée, la Haute-Volta (actuel Burkina Faso).",
+     "year": 1350,
+     "label": "14th c.",
+     "text": "Two other major political entities were formed and grew during the 13th and 14th century: the Mali Empire and the Jolof Empire which become the vassal of the first in its heyday.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1450,
+     "label": "15th c.",
+     "text": "In the 15th century, the king of one of the tribes, Kassas gave his name to the region: Kassa Mansa (King of Kassas).",
      "source": 4,
      "corroborated": false
     },
     {
-     "year": 1896,
-     "label": "1896",
-     "text": "Ce dernier est tué et le Cayor annexé en 1896.",
+     "year": 1550,
+     "label": "1550",
+     "text": "Djolof expanded its dominance of small chiefdoms south of the Senegal River (Waalo, Cayor, Baol, Sine – Saloum), bringing together all the Senegambia to which he gave religious and social unity: the \"Grand Djolof\"   which collapsed in 1550.",
      "source": 4,
-     "corroborated": false
+     "corroborated": true
     }
    ],
-   "start": 1040,
-   "end": 1896,
+   "start": 850,
+   "end": 1550,
+   "photos": [],
+   "narrative": "The Sahel history is characterized by consolidation into Ghana, Mali and Songhai empires whose cores were on territory of current Mali, so Senegal occupied peripheral position [S4]. Its existence in 9th century is attested by Arabic manuscripts [S4]. Takrur was formed through interaction of Berbers and agricultural peoples essentially Serer although kings after 1000 CE might have been Soninke [S4]. Tekrur were among first converts to Islam before 1040 [S4]. In Casamance Baïnounks, Manjaques and Diola inhabited coastal area while mainland unified in 13th century as Kaabu was occupied by Mandingo [S4]. Mali and Jolof empires grew during 13th and 14th century and Jolof became vassal of Mali [S4]. Grand Djolof collapsed in 1550 [S4]. The excerpts reflect a state-centered and external-source perspective [S4]."
+  },
+  {
+   "title": "The era of trading posts and trafficking",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#The_era_of_trading_posts_and_trafficking",
+   "source": 5,
+   "summary": "According to several ancient sources, including occasions by the Dictionnaire de pédagogie et d'instruction primaire by Ferdinand Buisson in 1887, the first French settlement in Senegal dates back to the Dieppe Mariners in the 14th century. Flattering for Norman sailors, this argument gives credence also to the idea of a precedence of the French presence in the region, but it is not confirmed by subsequent work.",
+   "events": [
+    {
+     "year": 1581,
+     "label": "1581",
+     "text": "After the Act of Abjuration in 1581, the United Provinces flouted the authority of the King of Spain.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1626,
+     "label": "1626",
+     "text": "In 1626 Richelieu founded the Norman Company, an association of Dieppe and Rouen merchants responsible for the operation in Senegal and the Gambia.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1645,
+     "label": "1645",
+     "text": "They also traversed the lower Casamance and founded Ziguinchor in 1645.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1650,
+     "label": "17th c.",
+     "text": "The Papacy, who had sometimes opposed slavery, did not condemn it explicitly to the end of the 17th century; in fact the Church itself has an interest in the colonial system.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1673,
+     "label": "1673",
+     "text": "The Company of Senegal was in turn founded by Colbert in 1673.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1685,
+     "label": "1685",
+     "text": "The Black Code, enacted in 1685, regulated the trafficking of slaves in the American colonies.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1763,
+     "label": "1763",
+     "text": "On 10 February 1763 the Treaty of Paris ended the Seven Years' War and reconciled, after three years of negotiations, France, Great Britain and Spain.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1794,
+     "label": "1794",
+     "text": "Slavery was abolished by the National Convention in 1794, then reinstated by Napoleon in 1802.",
+     "source": 5,
+     "corroborated": true
+    },
+    {
+     "year": 1833,
+     "label": "1833",
+     "text": "The British Empire abolished slavery in 1833; in France it was finally abolished in the Second Republic in 1848, under the leadership of Victor Schœlcher.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1887,
+     "label": "1887",
+     "text": "According to several ancient sources, including occasions by the Dictionnaire de pédagogie et d'instruction primaire by Ferdinand Buisson in 1887, the first French settlement in Senegal dates back to the Dieppe Mariners in the 14th century.",
+     "source": 5,
+     "corroborated": true
+    }
+   ],
+   "start": 1581,
+   "end": 1887,
    "photos": [
     {
      "title": "Loti - Sénégal (L’Illustration) 10",
@@ -250,488 +356,87 @@
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Faute de sources écrites et de vestiges monumentaux, l'historiographie des premiers siècles s'appuie sur l'archéologie, les chroniqueurs arabes et la tradition orale [S4]. Leur croisement suggère un peuplement du Sénégal depuis le nord et l'est, probablement l'actuelle Égypte selon Cheikh Anta Diop, en plusieurs vagues [S4]. Le Tekrour est l'un des premiers États convertis à l'islam avant 1040 [S4]. Fondé au XIIIe siècle par Ndiadiane Ndiaye, le Djolof domine Waalo, Cayor, Baol et Sine-Saloum formant le Grand Djolof, effondré vers 1550 et vassal de l'empire du Mali à son apogée aux XIIIe-XIVe siècles [S4]. En 1895 l'AOF regroupe Sénégal, Soudan français, Guinée et Haute-Volta, puis en 1896 ce dernier est tué et le Cayor annexé [S4]."
+   "narrative": "According to several ancient sources including the Dictionnaire de pédagogie et d'instruction primaire by Ferdinand Buisson in 1887, the first French settlement in Senegal dates back to the Dieppe Mariners in the 14th century, an argument flattering for Norman sailors but not confirmed by subsequent work [S5]. In 1626 Richelieu founded the Norman Company, an association of Dieppe and Rouen merchants responsible for operations in Senegal and the Gambia [S5]. They traversed the lower Casamance and founded Ziguinchor in 1645 [S5]. The Company of Senegal was founded by Colbert in 1673 [S5]. The Black Code regulating the trafficking of slaves in the American colonies was enacted in 1685 [S5]. The excerpts reflect only a colonial point of view."
   },
   {
-   "title": "Temps des comptoirs et de la traite (c. 1450 - c. 1850)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Temps_des_comptoirs_et_de_la_traite_(c._1450_-_c._1850)",
-   "source": 5,
-   "summary": "Grandes découvertes, Commerce triangulaire Selon plusieurs sources anciennes, reprises notamment par le Dictionnaire de pédagogie et d'instruction primaire de Ferdinand Buisson en 1887, les premiers établissements français au Sénégal remonteraient aux navigateurs dieppois du XIVe siècle. Flatteuse pour les marins normands, cette thèse accréditait aussi l'idée d'une antériorité de la présence française dans la région, mais elle n'est pas confirmée par les travaux ultérieurs[réf. nécessaire].",
+   "title": "Modern colonialism",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Modern_colonialism",
+   "source": 6,
+   "summary": "Various European powers – Portugal, the Netherlands, and England – competed for trade in the area from the 15th century onward, until in 1677, France ended up in possession of what had become a minor slave trade departure point—the infamous island of Gorée next to modern Dakar. In 1758 the French settlement was captured by a British expedition as part of the Seven Years' War, but was later returned to France.",
    "events": [
     {
-     "year": 1550,
-     "label": "XVIe s.",
-     "text": "Ils parcourent aussi la basse Casamance à partir du XVIe siècle et fondent Ziguinchor en 1645.",
-     "source": 5,
+     "year": 1450,
+     "label": "15th c.",
+     "text": "Various European powers – Portugal, the Netherlands, and England – competed for trade in the area from the 15th century onward, until in 1677, France ended up in possession of what had become a minor slave trade departure point—the infamous island of Gorée next to modern Dakar.",
+     "source": 6,
      "corroborated": false
     },
     {
-     "year": 1581,
-     "label": "1581",
-     "text": "Compagnie néerlandaise des Indes occidentales, Empire colonial néerlandais Après l’abjuration de La Haye en 1581, les Provinces-Unies s’affranchissent de l’autorité du roi d’Espagne.",
-     "source": 5,
+     "year": 1758,
+     "label": "1758",
+     "text": "In 1758 the French settlement was captured by a British expedition as part of the Seven Years' War, but was later returned to France.",
+     "source": 6,
      "corroborated": false
-    },
-    {
-     "year": 1626,
-     "label": "1626",
-     "text": "En 1626 Richelieu fonde la Compagnie normande, une association de marchands de Dieppe et de Rouen, chargée de l'exploitation du Sénégal et de la Gambie.",
-     "source": 5,
-     "corroborated": true
-    },
-    {
-     "year": 1650,
-     "label": "XVIIe s.",
-     "text": "Empire britannique, Premier empire colonial français, Royaume de Galam Les échanges commerciaux et la traite négrière s’intensifient au XVIIe siècle avec, au Sénégal, l’entrée en scène des Français et des Anglais qui s’affrontent principalement autour de deux enjeux, l’île de Gorée et Saint-Louis.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1673,
-     "label": "1673",
-     "text": "La Compagnie du Sénégal est à son tour fondée par Colbert en 1673.",
-     "source": 5,
-     "corroborated": true
-    },
-    {
-     "year": 1677,
-     "label": "1677",
-     "text": "Grand capitaine de guerre de la marine de Louis XIV, le vice-amiral Jean d’Estrées s’empare de Gorée le 1er novembre 1677.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1685,
-     "label": "1685",
-     "text": "Le Code noir, édicté en 1685, réglemente la traite des esclaves dans les colonies américaines.",
-     "source": 5,
-     "corroborated": true
-    },
-    {
-     "year": 1763,
-     "label": "1763",
-     "text": "Le 10 février 1763 le traité de Paris met fin à la guerre de Sept Ans et réconcilie, après trois ans de négociations, la France, la Grande-Bretagne et l'Espagne.",
-     "source": 5,
-     "corroborated": true
-    },
-    {
-     "year": 1783,
-     "label": "1783",
-     "text": "En 1783 le traité de Versailles restitue le Sénégal à la France.",
-     "source": 5,
-     "corroborated": true
     },
     {
      "year": 1848,
      "label": "1848",
-     "text": "L'esclavage est à nouveau aboli dans les colonies françaises par la Deuxième République le 27 avril 1848.",
-     "source": 5,
-     "corroborated": false
-    }
-   ],
-   "start": 1550,
-   "end": 1848,
-   "photos": [
-    {
-     "title": "Gorée-Maison Anna Colas",
-     "year": 1839,
-     "license": "Public domain",
-     "image": "/media/places/dakar-goree/archive/123d9794b26b.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Gor%C3%A9e-Maison_Anna_Colas.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Nousveaux-Village",
-     "year": 1850,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Nousveaux-Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Nousveaux-Village.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Plan particulier de l'ile St Louis et de ses environs - par J. B. Poirson... - btv1b84916992",
-     "year": 1850,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Plan_particulier_de_l%27ile_St_Louis_et_de_ses_environs_-_par_J._B._Poirson..._-_btv1b84916992.jpg/960px-Plan_particulier_de_l%27ile_St_Louis_et_de_ses_environs_-_par_J._B._Poirson..._-_btv1b84916992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Plan_particulier_de_l%27ile_St_Louis_et_de_ses_environs_-_par_J._B._Poirson..._-_btv1b84916992.jpg",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "Selon une thèse reprise par le Dictionnaire de pédagogie de Ferdinand Buisson en 1887, les premiers établissements français au Sénégal remonteraient aux navigateurs dieppois du XIVe siècle, mais elle n'est pas confirmée par les travaux ultérieurs[S5]. Au XVIe siècle ils parcourent la basse Casamance et fondent Ziguinchor en 1645[S5]. Richelieu fonde la Compagnie normande en 1626 puis Colbert la Compagnie du Sénégal en 1673[S5]. Les échanges et la traite s'intensifient au XVIIe siècle avec l'affrontement franco-anglais autour de Gorée et Saint-Louis[S5]. Jean d'Estrées s'empare de Gorée le 1er novembre 1677[S5]. Le Code noir est édicté en 1685[S5]. Le traité de Versailles restitue le Sénégal à la France en 1783[S5]. L'esclavage est aboli le 27 avril 1848[S5]. Ces extraits ne reflètent qu'un point de vue colonial."
-  },
-  {
-   "title": "Colonisation française moderne (c. 1850 - c. 1960)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Colonisation_française_moderne_(c._1850_-_c._1960)",
-   "source": 6,
-   "summary": "Second empire colonial français, Colonie du Sénégal Commencée au XVIIe siècle la colonisation française perturbe entre autres, la culture du pays. L'arrivée du général Faidherbe (1818-1889) marque un tournant dans son ambition et ses modalités.",
-   "events": [
-    {
-     "year": 1650,
-     "label": "XVIIe s.",
-     "text": "Second empire colonial français, Colonie du Sénégal Commencée au XVIIe siècle la colonisation française perturbe entre autres, la culture du pays.",
+     "text": "In 1848, the French Second Republic extended the rights of full French citizenship to their inhabitants.",
      "source": 6,
      "corroborated": false
     },
     {
      "year": 1850,
      "label": "1850",
-     "text": "En 1850, El Hadj Omar, chef de la confrérie Tidjane, fonde un empire islamique qui s’étend de Tombouctou au Sénégal.",
+     "text": "It was only in the 1850s that the French, under the governor, Louis Faidherbe, began to expand their foothold onto the Senegalese mainland, at the expense of the native kingdoms.",
      "source": 6,
      "corroborated": false
     },
     {
-     "year": 1865,
-     "label": "1865",
-     "text": "En 1865 le Cayor est annexé, ce qui permet de relier Dakar à Saint-Louis par le rail.",
+     "year": 1852,
+     "label": "1852",
+     "text": "On 2 April 1852 the parliamentary seat for Senegal was abolished by Napoleon III.",
      "source": 6,
      "corroborated": false
     },
     {
-     "year": 1884,
-     "label": "1884",
-     "text": "La France obtient le contrôle de la plus grande partie de l’Afrique occidentale à la conférence de Berlin de 1884–1885, mais la Gambie est attribuée à la Grande-Bretagne.",
+     "year": 1871,
+     "label": "1871",
+     "text": "Following the downfall of the French Second Empire, the Four Communes was again allowed a parliamentary seat which was granted by law on 1 February 1871.",
      "source": 6,
      "corroborated": false
     },
     {
-     "year": 1886,
-     "label": "1886",
-     "text": "Lat Dior comprend le risque que représente pour lui l’arrivée du chemin de fer et résiste farouchement, mais il est tué lors de la bataille de Deukhlé le 27 octobre 1886.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 1902,
-     "label": "1902",
-     "text": "En 1902, Dakar remplace Saint-Louis qui devient la capitale de l'Afrique-Occidentale française, l'une des colonies françaises.",
+     "year": 1875,
+     "label": "1875",
+     "text": "On 30 December 1875 this seat was again abolished, but only for a few years as it was reinstated on 8 April 1879, and remained the single parliamentary representation from sub-Saharan Africa anywhere in a European legislature until the fall of the third republic in 1940.",
      "source": 6,
      "corroborated": false
     },
     {
      "year": 1914,
      "label": "1914",
-     "text": "En 1914, ils sont astreints à l'effort de guerre, qui curieusement aura pour effet de lier les Noirs à des Blancs non colons.",
+     "text": "Blaise Diagne, who was the prime advocate behind the change, was in 1914 the first African deputy elected to the French National Assembly.",
      "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 1939,
-     "label": "1939",
-     "text": "Créé initialement en 1939, juste avant la Seconde Guerre mondiale, de fait le franc CFA naît officiellement le 26 décembre 1945, jour où la France ratifie les accords de Bretton Woods et procède à sa première déclaration de parité au Fonds monétaire international (FMI).",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 1942,
-     "label": "1942",
-     "text": "En Casamance, la prêtresse charismatique Aline Sitoé Diatta incarne la résistance contre la domination coloniale et milite pour le refus de contribuer à l'effort de guerre exigé, mais elle est arrêtée et déportée en 1942.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 1945,
-     "label": "1945",
-     "text": "Député en 1945, le magistrat Lamine Guèye (1891-1968) donne son nom à la loi Lamine Guèye du 25 avril 1946, plus tard intégrée à la Constitution de la Quatrième République, « étendant la citoyenneté française aux indigènes des colonies françaises ».",
-     "source": 6,
-     "corroborated": false
-    }
-   ],
-   "start": 1650,
-   "end": 1945,
-   "photos": [
-    {
-     "title": "Gorée-1889",
-     "year": 1889,
-     "license": "Public domain",
-     "image": "/media/places/dakar-goree/archive/7ca6a047785e.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Gor%C3%A9e-1889.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "BML Le Lointain partie 2 45 403076 Dakar en 1850 et 1880",
-     "year": 1889,
-     "license": "Public domain",
-     "image": "/media/places/dakar-goree/archive/14446063eb06.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:BML_Le_Lointain_partie_2_45_403076_Dakar_en_1850_et_1880.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Dakar-1850",
-     "year": 1889,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dakar-1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Dakar-1850.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Vauthier Rene Le Congo Belge 23 La Rade de Goree",
-     "year": 1900,
-     "license": "Public domain",
-     "image": "/media/places/dakar-goree/archive/f0dbfc94c05f.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Vauthier_Rene_Le_Congo_Belge_23_La_Rade_de_Goree.JPG",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Campagne de Gustave Borgnis-Desbordes, commandant supérieur du Haut-Sénégal, 1882-1883 - btv1b77020340 (02 of 34)",
-     "year": 1882,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Campagne_de_Gustave_Borgnis-Desbordes%2C_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal%2C_1882-1883_-_btv1b77020340_%2802_of_34%29.jpg/960px-Campagne_de_Gustave_Borgnis-Desbordes%2C_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal%2C_1882-1883_-_btv1b77020340_%2802_of_34%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Campagne_de_Gustave_Borgnis-Desbordes,_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal,_1882-1883_-_btv1b77020340_(02_of_34).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Campagne de Gustave Borgnis-Desbordes, commandant supérieur du Haut-Sénégal, 1882-1883 - btv1b77020340 (04 of 34)",
-     "year": 1882,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Campagne_de_Gustave_Borgnis-Desbordes%2C_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal%2C_1882-1883_-_btv1b77020340_%2804_of_34%29.jpg/960px-Campagne_de_Gustave_Borgnis-Desbordes%2C_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal%2C_1882-1883_-_btv1b77020340_%2804_of_34%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Campagne_de_Gustave_Borgnis-Desbordes,_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal,_1882-1883_-_btv1b77020340_(04_of_34).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Campagne de Gustave Borgnis-Desbordes, commandant supérieur du Haut-Sénégal, 1882-1883 - btv1b77020340 (07 of 34)",
-     "year": 1882,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Campagne_de_Gustave_Borgnis-Desbordes%2C_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal%2C_1882-1883_-_btv1b77020340_%2807_of_34%29.jpg/960px-Campagne_de_Gustave_Borgnis-Desbordes%2C_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal%2C_1882-1883_-_btv1b77020340_%2807_of_34%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Campagne_de_Gustave_Borgnis-Desbordes,_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal,_1882-1883_-_btv1b77020340_(07_of_34).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Campagne de Gustave Borgnis-Desbordes, commandant supérieur du Haut-Sénégal, 1882-1883 - btv1b77020340 (11 of 34)",
-     "year": 1882,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Campagne_de_Gustave_Borgnis-Desbordes%2C_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal%2C_1882-1883_-_btv1b77020340_%2811_of_34%29.jpg/960px-Campagne_de_Gustave_Borgnis-Desbordes%2C_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal%2C_1882-1883_-_btv1b77020340_%2811_of_34%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Campagne_de_Gustave_Borgnis-Desbordes,_commandant_sup%C3%A9rieur_du_Haut-S%C3%A9n%C3%A9gal,_1882-1883_-_btv1b77020340_(11_of_34).jpg",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "Commencée au XVIIe siècle, la colonisation française perturbe entre autres la culture du pays [S6]. L'arrivée du général Faidherbe (1818-1889) marque un tournant dans son ambition et ses modalités [S6]. En 1865 le Cayor est annexé, ce qui permet de relier Dakar à Saint-Louis par le rail [S6]. Lat Dior comprend le risque que représente l'arrivée du chemin de fer et résiste farouchement, mais il est tué lors de la bataille de Deukhlé le 27 octobre 1886 [S6]. La France obtient le contrôle de la plus grande partie de l'Afrique occidentale à la conférence de Berlin de 1884–1885 [S6]. En Casamance, la prêtresse charismatique Aline Sitoé Diatta incarne la résistance contre la domination coloniale mais elle est arrêtée et déportée en 1942 [S6]. Ces extraits reflètent essentiellement un point de vue colonial français."
-  },
-  {
-   "title": "Vers l'indépendance (1945-1958)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Vers_l'indépendance_(1945-1958)",
-   "source": 7,
-   "summary": "La Seconde Guerre mondiale contribue à une prise de conscience qui ouvre la voie à une autonomie progressive des colonies, puis aux indépendances. L’Empire colonial français cède d’abord la place à l’Union française en 1946 qui confère au Sénégal un statut de territoire d'outre-mer.",
-   "events": [
-    {
-     "year": 1926,
-     "label": "1926",
-     "text": "Porté par son slogan sopi (changement en wolof), l'opposant de longue date Abdoulaye Wade (1926), chef de file du Parti démocratique sénégalais, remporte l'élection présidentielle du 19 mars 2000, avec 58,5 % des suffrages au second tour, devant le président sortant Abdou Diouf.",
-     "source": 7,
-     "corroborated": false
-    },
-    {
-     "year": 1946,
-     "label": "1946",
-     "text": "L’Empire colonial français cède d’abord la place à l’Union française en 1946 qui confère au Sénégal un statut de territoire d'outre-mer.",
-     "source": 7,
-     "corroborated": false
-    },
-    {
-     "year": 1958,
-     "label": "1958",
-     "text": "Lors du référendum constitutionnel du 28 septembre 1958, 97,2 % des Sénégalais optent pour le statut d'État membre dans le cadre de la Communauté et le pays se dote d'une constitution proche du modèle français.",
-     "source": 7,
-     "corroborated": false
-    },
-    {
-     "year": 1959,
-     "label": "1959",
-     "text": "Soucieux de préserver l’unité régionale, la République soudanaise (actuel Mali) et le Sénégal fusionnent en avril 1959 pour former la fédération du Mali, qui devient complètement indépendante le 20 juin 1960 et dont la capitale est Dakar.",
-     "source": 7,
      "corroborated": true
+    },
+    {
+     "year": 1916,
+     "label": "1916",
+     "text": "It was only in 1916 that originaires were granted full voting rights while maintaining legal protections.",
+     "source": 6,
+     "corroborated": false
     },
     {
      "year": 1960,
      "label": "1960",
-     "text": "Cette indépendance est la conséquence des transferts de pouvoirs convenus dans l'accord signé en France le 4 avril 1960.",
-     "source": 7,
-     "corroborated": true
-    },
-    {
-     "year": 1962,
-     "label": "1962",
-     "text": "Dans un discours sur « les politiques de développement et les diverses voies africaines du socialisme » prononcé le 8 décembre 1962 à Dakar, le président du Conseil Mamadou Dia prône le « rejet révolutionnaire des anciennes structures » et une « mutation totale qui substitue à la société coloniale et à l’économie de traite une société libre et une économie de développement ».",
-     "source": 7,
-     "corroborated": false
-    },
-    {
-     "year": 1963,
-     "label": "1963",
-     "text": "Le 7 mars 1963 une nouvelle constitution est adoptée par référendum, instaurant un régime présidentiel qui attribue tous les pouvoirs au chef de l’État et fait la part belle à l’UPS, le parti dominant, voire unique.",
-     "source": 7,
-     "corroborated": false
-    },
-    {
-     "year": 1970,
-     "label": "1970",
-     "text": "La révision constitutionnelle du 26 février 1970 met en place un régime présidentiel plus modéré et crée un poste de Premier ministre qui est confié à Abdou Diouf (1935-).",
-     "source": 7,
-     "corroborated": false
-    },
-    {
-     "year": 1976,
-     "label": "1976",
-     "text": "La révision constitutionnelle de 1976 n'autorise que trois partis politiques, nécessairement rattachés à l’une des trois idéologies suivantes : démocratie libérale, démocratie socialiste, communisme ou marxisme-léninisme et désigne le Premier ministre comme successeur du président en cas de défection de celui-ci.",
-     "source": 7,
-     "corroborated": false
-    },
-    {
-     "year": 2024,
-     "label": "2024",
-     "text": "Bassirou Diomaye Faye, élu président le 2 avril 2024, devient à 44 ans le plus jeune président de l'histoire du Sénégal.",
-     "source": 7,
-     "corroborated": true
-    }
-   ],
-   "start": 1926,
-   "end": 2024,
-   "photos": [
-    {
-     "title": "Bévéziers and Richelieu.webp",
-     "year": 1940,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/B%C3%A9v%C3%A9ziers_and_Richelieu.webp/960px-B%C3%A9v%C3%A9ziers_and_Richelieu.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:B%C3%A9v%C3%A9ziers_and_Richelieu.webp",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Richelieu-2",
-     "year": 1940,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Richelieu-2.jpg/960px-Richelieu-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Richelieu-2.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Arachide du Sénégal (Sénégal) - Cintract - btv1b10122449f (1 of 2)",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Arachide_du_S%C3%A9n%C3%A9gal_%28S%C3%A9n%C3%A9gal%29_-_Cintract_-_btv1b10122449f_%281_of_2%29.jpg/960px-Arachide_du_S%C3%A9n%C3%A9gal_%28S%C3%A9n%C3%A9gal%29_-_Cintract_-_btv1b10122449f_%281_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Arachide_du_S%C3%A9n%C3%A9gal_(S%C3%A9n%C3%A9gal)_-_Cintract_-_btv1b10122449f_(1_of_2).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Arachide du Sénégal (Sénégal) - Cintract - btv1b10122449f (2 of 2)",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Arachide_du_S%C3%A9n%C3%A9gal_%28S%C3%A9n%C3%A9gal%29_-_Cintract_-_btv1b10122449f_%282_of_2%29.jpg/960px-Arachide_du_S%C3%A9n%C3%A9gal_%28S%C3%A9n%C3%A9gal%29_-_Cintract_-_btv1b10122449f_%282_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Arachide_du_S%C3%A9n%C3%A9gal_(S%C3%A9n%C3%A9gal)_-_Cintract_-_btv1b10122449f_(2_of_2).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Clairière à Andropogon pseudapricus, Sénégal - Adam - btv1b10119956h (1 of 3)",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus%2C_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_%281_of_3%29.jpg/960px-Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus%2C_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_%281_of_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus,_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_(1_of_3).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Clairière à Andropogon pseudapricus, Sénégal - Adam - btv1b10119956h (2 of 3)",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus%2C_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_%282_of_3%29.jpg/960px-Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus%2C_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_%282_of_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus,_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_(2_of_3).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Clairière à Andropogon pseudapricus, Sénégal - Adam - btv1b10119956h (3 of 3)",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus%2C_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_%283_of_3%29.jpg/960px-Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus%2C_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_%283_of_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Clairi%C3%A8re_%C3%A0_Andropogon_pseudapricus,_S%C3%A9n%C3%A9gal_-_Adam_-_btv1b10119956h_(3_of_3).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Récolte et stockage du foin au Sénégal - btv1b10119754v (1 of 3)",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/R%C3%A9colte_et_stockage_du_foin_au_S%C3%A9n%C3%A9gal_-_btv1b10119754v_%281_of_3%29.jpg/960px-R%C3%A9colte_et_stockage_du_foin_au_S%C3%A9n%C3%A9gal_-_btv1b10119754v_%281_of_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:R%C3%A9colte_et_stockage_du_foin_au_S%C3%A9n%C3%A9gal_-_btv1b10119754v_(1_of_3).jpg",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "La Seconde Guerre mondiale contribue à une prise de conscience qui ouvre la voie à une autonomie progressive des colonies, puis aux indépendances [S7]. L'Empire colonial français cède d'abord la place à l'Union française en 1946 qui confère au Sénégal un statut de territoire d'outre-mer [S7]. Lors du référendum constitutionnel du 28 septembre 1958, 97,2 % des Sénégalais optent pour le statut d'État membre dans le cadre de la Communauté et le pays se dote d'une constitution proche du modèle français [S7]. Les extraits fournis reflètent uniquement un point de vue institutionnel français centré sur les statuts juridiques de l'Empire."
-  },
-  {
-   "title": "Historiographie",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Historiographie",
-   "source": 8,
-   "summary": "Depuis les indépendances, les historiens locaux cherchent à « décoloniser » leur récit national. Entre 1964 et 1999, sous l’égide de l’Unesco, 230 chercheurs africains ont rédigé huit tomes portant sur l’histoire générale de l’Afrique.",
-   "events": [
-    {
-     "year": 1550,
-     "label": "XVIe s.",
-     "text": "(mémoire de maîtrise) Jean Boulègue, Le Grand Jolof : XIIIe – XVIe siècles, les Anciens royaumes Wolof, t. 1, Karthala, 1987, 207 p.",
-     "source": 8,
-     "corroborated": true
-    },
-    {
-     "year": 1784,
-     "label": "1784",
-     "text": "(Thèse de Lettres) André Charles, marquis de La Jaille, Voyage au Sénégal pendant les années 1784 et 1785, avec des notes jusqu’à l’an X par P.",
-     "source": 8,
-     "corroborated": true
-    },
-    {
-     "year": 1914,
-     "label": "1914",
-     "text": "Charles Uyisenga, La participation de la colonie du Sénégal à l’effort de guerre 1914-1918, Dakar, université de Dakar, 1978, 216 p.",
-     "source": 8,
-     "corroborated": false
-    },
-    {
-     "year": 1944,
-     "label": "1944",
-     "text": "Falilou Diallo, Histoire du Sénégal : de la conférence de Brazzaville à la fondation du bloc démocratique sénégalais : 1944-1948, Paris, université de Paris-I, 1983, 318 p.",
-     "source": 8,
-     "corroborated": false
-    },
-    {
-     "year": 1991,
-     "label": "1991",
-     "text": "Traite négrière, Islam et conquête coloniale, Paris, L'Harmattan, 1991 (rééd.), 544 p.",
-     "source": 8,
-     "corroborated": false
-    },
-    {
-     "year": 1995,
-     "label": "1995",
-     "text": "(thèse) (en) Sheldon Gellar, Senegal: an African nation between Islam and the West, Westview Press, Oxford, Boulder (Colo.), 1995 (1re éd. 1982), 170 p.",
-     "source": 8,
-     "corroborated": false
-    },
-    {
-     "year": 2000,
-     "label": "2000",
-     "text": "Yaya SY, l’esclavage chez les Soninké : du village à Paris, in Journal des Africanistes : L’ombre portée de l’esclavage (Avatars contemporains de l’oppression sociale), pp 43-69, Tome 70, Fasc. 1-2, année 2000.",
-     "source": 8,
-     "corroborated": true
-    },
-    {
-     "year": 2001,
-     "label": "2001",
-     "text": "Chronique de la vie politique et syndicale, de l’Empire français à l’Indépendance, Paris, Karthala, 2001, 286 p.",
-     "source": 8,
-     "corroborated": true
-    },
-    {
-     "year": 2009,
-     "label": "2009",
-     "text": "Yaya SY, « Les légitimations de l’esclavage et de la colonisation des Nègres », L’Harmattan, Paris, 2009.",
-     "source": 8,
-     "corroborated": false
-    },
-    {
-     "year": 2025,
-     "label": "2025",
-     "text": "En 2025, 19 volumes ont déjà été publiés, 20 autres sont en préédition.",
-     "source": 8,
+     "text": "From that time until independence in 1960, the deputies of the Four Communes were always African, and were at the forefront of the decolonisation struggle.",
+     "source": 6,
      "corroborated": false
     }
    ],
-   "start": 1550,
-   "end": 2025,
+   "start": 1450,
+   "end": 1960,
    "photos": [
     {
      "title": "Vauthier Rene Le Congo Belge 23 La Rade de Goree",
@@ -798,79 +503,224 @@
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Depuis les indépendances, les historiens locaux cherchent à « décoloniser » leur récit national [S8]. Entre 1964 et 1999, sous l’égide de l’Unesco, 230 chercheurs africains ont rédigé huit tomes portant sur l’histoire générale de l’Afrique [S8]. La bibliographie citée comprend notamment un mémoire de maîtrise de Jean Boulègue sur Le Grand Jolof : XIIIe–XVIe siècles publié en 1987, ainsi que le Voyage au Sénégal pendant les années 1784 et 1785 du marquis de La Jaille [S8]. Elle recense aussi des travaux sur la participation de la colonie du Sénégal à l’effort de guerre 1914-1918 soutenus en 1978 et sur l’histoire du Sénégal de 1944 à 1948 soutenue en 1983 [S8]. En 2025, 19 volumes ont déjà été publiés et 20 autres sont en préédition [S8]."
+   "narrative": "Various European powers – Portugal, the Netherlands, and England – competed for trade in the area from the 15th century onward, until in 1677 France ended up in possession of the island of Gorée next to modern Dakar, which had become a minor slave trade departure point [S6]. In 1758 the French settlement was captured by a British expedition as part of the Seven Years' War, but was later returned to France [S6]. It was only in the 1850s that the French, under Governor Louis Faidherbe, began to expand their foothold onto the Senegalese mainland at the expense of the native kingdoms [S6]. These excerpts reflect primarily a French colonial point of view [S6]."
+  },
+  {
+   "title": "Independence",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Independence",
+   "source": 7,
+   "summary": "In 1959, Senegal and the French Sudan merged to form the Mali Federation, which became fully independent in 1960. The transfer of power agreement with France was signed on 4 April 1960, commemorated as the Senegalese Independence Day.",
+   "events": [
+    {
+     "year": 1959,
+     "label": "1959",
+     "text": "In 1959, Senegal and the French Sudan merged to form the Mali Federation, which became fully independent in 1960.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 1960,
+     "label": "1960",
+     "text": "The Republic of Senegal was formally proclaimed on 5 September 1960, with Léopold Sédar Senghor as President (head of state)—internationally known poet, politician, and statesman—and Mamadou Dia as Prime Minister (president of the 15-member Council of Ministers).",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 1962,
+     "label": "1962",
+     "text": "In December 1962, their political rivalry led to an attempted coup by Prime Minister Dia.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1965,
+     "label": "1965",
+     "text": "Senghor's party, the Senegalese Progressive Union (now the Socialist Party of Senegal), was the only legally permitted party from 1965 until 1975.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1976,
+     "label": "1976",
+     "text": "In the latter year, Senghor allowed the formation of two opposition parties that began operation in 1976—a Marxist party (the African Independence Party) and a liberal party (the Senegalese Democratic Party).",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1980,
+     "label": "1980",
+     "text": "On 31 December 1980, President Senghor retired from politics, and handed power over to his handpicked successor, Prime Minister Abdou Diouf, 1 January 1981.",
+     "source": 7,
+     "corroborated": true
+    }
+   ],
+   "start": 1959,
+   "end": 1980,
+   "photos": [
+    {
+     "title": "Cargo ship is loaded at the port of Dakar 1956",
+     "year": 1956,
+     "license": "CC BY-SA 3.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Cargo_ship_is_loaded_at_the_port_of_Dakar_1956.png/960px-Cargo_ship_is_loaded_at_the_port_of_Dakar_1956.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cargo_ship_is_loaded_at_the_port_of_Dakar_1956.png",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "In 1959, Senegal and the French Sudan merged to form the Mali Federation, which became fully independent in 1960 [S7]. The transfer of power agreement with France was signed on 4 April 1960, commemorated as the Senegalese Independence Day [S7]. The Republic of Senegal was formally proclaimed on 5 September 1960, with Léopold Sédar Senghor as President and Mamadou Dia as Prime Minister [S7]. In December 1962, their political rivalry led to an attempted coup by Prime Minister Dia [S7]. Senghor's party, the Senegalese Progressive Union, was the only legally permitted party from 1965 until 1975 [S7]. On 31 December 1980, President Senghor retired and handed power to Prime Minister Abdou Diouf on 1 January 1981 [S7]."
+  },
+  {
+   "title": "1980–present",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#1980–present",
+   "source": 8,
+   "summary": "Senegal joined with The Gambia to form the nominal confederation of Sénégambia on 1 February 1982. However, the envisaged integration of the two countries was never carried out and the union was dissolved in 1989.",
+   "events": [
+    {
+     "year": 1981,
+     "label": "1981",
+     "text": "Abdou Diouf was president between 1981 and 2000.",
+     "source": 8,
+     "corroborated": true
+    },
+    {
+     "year": 1982,
+     "label": "1982",
+     "text": "Senegal joined with The Gambia to form the nominal confederation of Sénégambia on 1 February 1982.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1989,
+     "label": "1989",
+     "text": "However, the envisaged integration of the two countries was never carried out and the union was dissolved in 1989.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 2000,
+     "label": "2000",
+     "text": "In the presidential election of 2000, he was defeated in a free and fair election by opposition leader Abdoulaye Wade.",
+     "source": 8,
+     "corroborated": true
+    },
+    {
+     "year": 2001,
+     "label": "2001",
+     "text": "Chronique de la vie politique et syndicale, de l'Empire français à l'Indépendance, Paris: Karthala, 2001, 286 pages Yves-Jean Saint-Martin,  Une source de l'histoire coloniale du Sénégal.",
+     "source": 8,
+     "corroborated": true
+    },
+    {
+     "year": 2004,
+     "label": "2004",
+     "text": "On 30 December 2004, President Abdoulaye Wade announced that he would sign a peace treaty with two separatist factions of the Movement of Democratic Forces of Casamance (MFDC) in the Casamance region.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 2006,
+     "label": "2006",
+     "text": "As of late 2006, it seemed the peace treaty was holding, as both factions and the Senegalese military appeared to honor the treaty.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "text": "\"Landscapes of the Slave Trade in Senegal and The Gambia\", Focus on Geography (2014) 57#1 pp. 14–24.",
+     "source": 8,
+     "corroborated": true
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "text": "In February 2019, president Macky Sall was re-elected and he won a second term.",
+     "source": 8,
+     "corroborated": true
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "text": "In March 2024, Opposition candidate Bassirou Diomaye Faye won the Senegal’s presidential election over the candidate of the ruling coalition, becoming the youngest president in Senegal’s history.",
+     "source": 8,
+     "corroborated": true
+    }
+   ],
+   "start": 1981,
+   "end": 2024,
+   "photos": [],
+   "narrative": "Abdou Diouf was president between 1981 and 2000 [S8]. Senegal joined with The Gambia to form the nominal confederation of Sénégambia on 1 February 1982, however the envisaged integration of the two countries was never carried out and the union was dissolved in 1989 [S8]. In the presidential election of 2000, he was defeated in a free and fair election by opposition leader Abdoulaye Wade [S8]. On 30 December 2004, President Abdoulaye Wade announced that he would sign a peace treaty with two separatist factions of the Movement of Democratic Forces of Casamance (MFDC) in the Casamance region, and as of late 2006 the treaty seemed to be holding [S8]. In February 2019 president Macky Sall was re-elected to a second term, and in March 2024 opposition candidate Bassirou Diomaye Faye won the presidential election, becoming the youngest president in Senegal's history [S8]."
   }
  ],
  "sources": [
   {
    "n": 1,
-   "title": "Histoire du Sénégal › Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal",
-   "lang": "fr",
+   "title": "History of Senegal › Introduction",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 2,
-   "title": "Histoire du Sénégal › Historiographie",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Historiographie",
-   "lang": "fr",
+   "title": "History of Senegal › Prehistory",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Prehistory",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 3,
-   "title": "Histoire du Sénégal › Préhistoire du Sénégal",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Préhistoire_du_Sénégal",
-   "lang": "fr",
+   "title": "History of Senegal › Early historical inhabitants",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Early_historical_inhabitants",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 4,
-   "title": "Histoire du Sénégal › De c. 500 à c. 1900 : États, royaumes et Empires pré-coloniaux",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#De_c._500_à_c._1900_:_États,_royaumes_et_Empires_pré-coloniaux",
-   "lang": "fr",
+   "title": "History of Senegal › Kingdoms and empires",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Kingdoms_and_empires",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 5,
-   "title": "Histoire du Sénégal › Temps des comptoirs et de la traite (c. 1450 - c. 1850)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Temps_des_comptoirs_et_de_la_traite_(c._1450_-_c._1850)",
-   "lang": "fr",
+   "title": "History of Senegal › The era of trading posts and trafficking",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#The_era_of_trading_posts_and_trafficking",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 6,
-   "title": "Histoire du Sénégal › Colonisation française moderne (c. 1850 - c. 1960)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Colonisation_française_moderne_(c._1850_-_c._1960)",
-   "lang": "fr",
+   "title": "History of Senegal › Modern colonialism",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Modern_colonialism",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 7,
-   "title": "Histoire du Sénégal › Vers l'indépendance (1945-1958)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Vers_l'indépendance_(1945-1958)",
-   "lang": "fr",
+   "title": "History of Senegal › Independence",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#Independence",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 8,
-   "title": "Histoire du Sénégal › Historiographie",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal#Historiographie",
-   "lang": "fr",
+   "title": "History of Senegal › 1980–present",
+   "url": "https://en.wikipedia.org/wiki/History_of_Senegal#1980–present",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 9,
-   "title": "History of Senegal",
-   "url": "https://en.wikipedia.org/wiki/History_of_Senegal",
-   "lang": "en",
+   "title": "Histoire du Sénégal",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
@@ -878,27 +728,27 @@
  "gaps": [
   {
    "from": null,
-   "to": 1040,
-   "text": "Avant 1040, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": 850,
+   "text": "Before 850, history is not dated in these sources: oral traditions, archaeology and local sources are still to be brought in."
   },
   {
    "from": null,
    "to": null,
-   "text": "Chapitres peu datés : Historiographie."
+   "text": "Thinly dated chapters: Early historical inhabitants."
   }
  ],
  "stats": {
-  "chapters": 7,
-  "events": 50,
-  "corroborated": 17,
-  "share": 0.34,
+  "chapters": 8,
+  "events": 48,
+  "corroborated": 24,
+  "share": 0.5,
   "span": [
-   "1040",
-   "2025"
+   "850",
+   "2024"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "7461667391"
+ "run": "fb5845c6b2"
 }

@@ -27,8 +27,8 @@ export default function Home() {
   const total = places.reduce((s, p) => s + p.n_archives, 0)
   const countries = new Set(places.map(p => p.country)).size
   const continents = useMemo(() => [...new Set(places.map(p => p.continent))].sort(), [places])
-  const [continent, setContinent] = useState<string>('Tous')
-  const shown = continent === 'Tous' ? places : places.filter(p => p.continent === continent)
+  const [continent, setContinent] = useState<string>('All')
+  const shown = continent === 'All' ? places : places.filter(p => p.continent === continent)
 
   return (
     <div>
@@ -37,24 +37,24 @@ export default function Home() {
       <section className="mx-auto flex min-h-[92vh] max-w-6xl flex-col justify-center px-4 pt-28">
         <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 1, ease: [0.2, 0.8, 0.2, 1] }}>
           <div className="glass mb-6 inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-xs text-white/80">
-            <Sparkles size={13} className="text-gold" /> Un agent IA qui construit la machine à remonter le temps de chaque ville
+            <Sparkles size={13} className="text-gold" /> An AI agent that builds a time machine for every city
           </div>
           <h1 className="text-balance font-serif text-6xl leading-[0.95] md:text-8xl">
-            Retourne chercher<br /><em className="text-gold-soft">ce que le temps a emporté.</em>
+            Go back and fetch<br /><em className="text-gold-soft">what time took away.</em>
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-white/70">
-            Donnez un lieu à Sankofa. L'agent fouille les archives, retrouve d'où les photographes d'époque ont pris leurs vues,
-            apprend le style de la ville, reconstruit le passé, puis se teste lui-même. Chaque détail porte une étiquette :
-            <span className="text-proof"> prouvé</span>, <span className="text-same">inchangé</span> ou <span className="text-guess">imaginé</span>.
+            Give Sankofa a place. The agent searches the archives, finds where period photographers stood to take their shots,
+            learns the city's style, reconstructs the past, then tests itself. Every detail carries a label:
+            <span className="text-proof"> proven</span>, <span className="text-same">unchanged</span> or <span className="text-guess">imagined</span>.
           </p>
           <div className="mt-9 flex flex-wrap items-center gap-3">
             <a href="#villes" className="gold-button inline-flex items-center gap-2 rounded-full px-6 py-3.5 text-sm font-semibold">
-              Choisir une ville <ArrowRight size={16} />
+              Choose a city <ArrowRight size={16} />
             </a>
-            <Link to="/methode" className="glass glass-button rounded-full px-6 py-3.5 text-sm">Comment l'agent travaille</Link>
+            <Link to="/methode" className="glass glass-button rounded-full px-6 py-3.5 text-sm">How the agent works</Link>
           </div>
           <dl className="mt-14 grid max-w-2xl grid-cols-3 gap-3">
-            {[[places.length || '…', 'lieux'], [countries || '…', 'pays'], [total || '…', "documents d'archives"]].map(([v, l]) => (
+            {[[places.length || '…', 'places'], [countries || '…', 'countries'], [total || '…', 'archival documents']].map(([v, l]) => (
               <div key={String(l)} className="glass rounded-3xl px-5 py-4">
                 <dt className="font-serif text-4xl">{v}</dt>
                 <dd className="text-xs text-white/55">{l}</dd>
@@ -67,21 +67,21 @@ export default function Home() {
       <section id="villes" className="mx-auto max-w-6xl scroll-mt-28 px-4">
         <motion.div {...fade} className="mb-8 flex items-end justify-between gap-4">
           <div>
-            <p className="mb-2 font-mono text-xs uppercase tracking-[0.25em] text-gold">{places.length} lieux · {countries} pays · {continents.length} continents</p>
-            <h2 className="font-serif text-5xl">De Porto-Novo au Taj Mahal</h2>
+            <p className="mb-2 font-mono text-xs uppercase tracking-[0.25em] text-gold">{places.length} places · {countries} countries · {continents.length} continents</p>
+            <h2 className="font-serif text-5xl">From Porto-Novo to the Taj Mahal</h2>
           </div>
-          {error && <p className="text-sm text-red-300">Backend injoignable : {error}</p>}
+          {error && <p className="text-sm text-red-300">Backend unreachable: {error}</p>}
         </motion.div>
 
         <div className="mb-6 flex flex-wrap gap-1.5 text-sm">
-          {['Tous', ...continents].map(c => (
+          {['All', ...continents].map(c => (
             <button
               key={c}
               onClick={() => setContinent(c)}
               className={`rounded-full px-4 py-1.5 transition ${continent === c ? 'bg-gold-soft text-ink' : 'glass glass-button text-white/70'}`}
             >
               {c}
-              {c !== 'Tous' && <span className="ml-1.5 text-xs opacity-60">{places.filter(p => p.continent === c).length}</span>}
+              {c !== 'All' && <span className="ml-1.5 text-xs opacity-60">{places.filter(p => p.continent === c).length}</span>}
             </button>
           ))}
         </div>
@@ -95,7 +95,7 @@ export default function Home() {
                   {p.current_cover && <img src={p.current_cover} alt="" loading="lazy" className="absolute inset-0 h-full w-full object-cover opacity-0 transition duration-700 group-hover:opacity-100" />}
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/10 to-transparent" />
                   <div className="glass glass-refract absolute left-3 top-3 rounded-full px-3 py-1 font-mono text-xs">
-                    {p.span ? `${p.span[0]} – ${p.span[1]}` : 's.d.'}
+                    {p.span ? `${p.span[0]} – ${p.span[1]}` : 'n.d.'}
                   </div>
                   <div className="absolute inset-x-4 bottom-3">
                     <p className="text-xs text-white/60">{p.country} · {p.continent}</p>
@@ -133,8 +133,8 @@ export default function Home() {
 
       <section className="mx-auto mt-24 max-w-6xl px-4">
         <motion.div {...fade}>
-          <p className="mb-2 font-mono text-xs uppercase tracking-[0.25em] text-gold">L'agent</p>
-          <h2 className="max-w-3xl font-serif text-5xl">Il fait le travail d'un historien et d'un ingénieur, puis il se contrôle.</h2>
+          <p className="mb-2 font-mono text-xs uppercase tracking-[0.25em] text-gold">The agent</p>
+          <h2 className="max-w-3xl font-serif text-5xl">It does the work of a historian and an engineer, then checks itself.</h2>
         </motion.div>
         <div className="mt-10 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
           {STEPS.map((s, i) => (
@@ -147,8 +147,8 @@ export default function Home() {
             </motion.div>
           ))}
           <motion.div {...fade} className="glass flex flex-col justify-between rounded-3xl bg-gold/10 p-5">
-            <p className="text-sm text-white/75">Modèles : Muse Spark, SAM 3.1, Muse Image, transcription vocale.</p>
-            <Link to="/methode" className="mt-3 inline-flex items-center gap-1 text-sm text-gold">La méthode <ArrowRight size={14} /></Link>
+            <p className="text-sm text-white/75">Models: Muse Spark, SAM 3.1, Muse Image, speech transcription.</p>
+            <Link to="/methode" className="mt-3 inline-flex items-center gap-1 text-sm text-gold">The method <ArrowRight size={14} /></Link>
           </motion.div>
         </div>
       </section>

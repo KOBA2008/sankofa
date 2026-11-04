@@ -27,5 +27,8 @@ BASETEN_API_KEY = os.getenv("BASETEN_API_KEY", "").strip()
 BASETEN_BASE_URL = os.getenv("BASETEN_BASE_URL", "https://inference.baseten.co/v1").strip()
 BASETEN_MODEL = os.getenv("BASETEN_MODEL", "").strip()  # vide : choisi automatiquement parmi les modèles Llama
 
+# Plafond quotidien d'appels payants (Meta + Baseten) pour un site public ; 0 = illimité
+DAILY_PAID_CALL_LIMIT = int(os.getenv("DAILY_PAID_CALL_LIMIT", "0") or 0)
+
 # Wikimedia demande un User-Agent qui identifie l'outil
 USER_AGENT = "SankofaBot/0.1 (heritage research prototype; +https://github.com/) python-httpx"

@@ -1,149 +1,157 @@
 {
  "place": "new-york-flatiron",
- "lang": "fr",
+ "lang": "en",
  "sources": [
   {
    "n": 1,
    "title": "Flatiron Building",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building",
-   "lang": "fr",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 2,
    "title": "Flatiron Building",
-   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
-   "lang": "en",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "events": [
   {
-   "year": 1902,
-   "label": "1902",
-   "text": "Lors de son achèvement en 1902, le Flatiron est l'un des plus hauts gratte-ciel de Manhattan mais il n'a jamais été le plus haut du monde.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Histoire",
+   "year": 1850,
+   "label": "19th c.",
+   "text": "It was one of several hotels built in the neighborhood during the mid-19th century.",
+   "section": "Previous structures",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building#Previous_structures",
+   "corroborated": false
+  },
+  {
+   "year": 1855,
+   "label": "1855",
+   "text": "Germaine) was built by 1855 on the south end of the lot.",
+   "section": "Previous structures",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building#Previous_structures",
+   "corroborated": false
+  },
+  {
+   "year": 1857,
+   "label": "1857",
+   "text": "Amos Eno purchased the entire block in 1857 for $32,000, and he shortly built the Fifth Avenue Hotel on a site diagonally across from it.",
+   "section": "Previous structures",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building#Previous_structures",
+   "corroborated": false
+  },
+  {
+   "year": 1880,
+   "label": "1880",
+   "text": "At some point after 1880, Eno tore down the St.",
+   "section": "Previous structures",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building#Previous_structures",
+   "corroborated": false
+  },
+  {
+   "year": 1901,
+   "label": "1901",
+   "text": "The Flatiron Building was developed as the headquarters of construction firm Fuller Company, which acquired the site from the Newhouse family in May 1901.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
    "corroborated": true
   },
   {
-   "year": 1905,
-   "label": "1905",
-   "text": "Après un agrandissement en 1905, le bâtiment s’élevait à 94 mètres de haut avec 21 étages.",
-   "section": "Description",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Description",
+   "year": 1902,
+   "label": "1902",
+   "text": "Black submitted plans for the annex to the DOB in May 1902.",
+   "section": "Modifications",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building#Modifications",
+   "corroborated": false
+  },
+  {
+   "year": 1925,
+   "label": "1925",
+   "text": "The Fuller Company sold the building in 1925 to an investment syndicate.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
+   "corroborated": false
+  },
+  {
+   "year": 1933,
+   "label": "1933",
+   "text": "The Equitable Life Assurance Society took over the building after a foreclosure auction in 1933 and sold it to another syndicate in 1945.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
    "corroborated": false
   },
   {
    "year": 1950,
-   "label": "XXe s.",
-   "text": "Le Flatiron Building est l’un des premiers gratte-ciel construits avec une ossature métallique, une technique révolutionnaire au début du XXe siècle.",
-   "section": "Une forme innovante et audacieuse",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Une_forme_innovante_et_audacieuse",
-   "corroborated": true
-  },
-  {
-   "year": 1958,
-   "label": "1958",
-   "text": "Dans le film comique L'Adorable Voisine (1958) de Richard Quine, James Stewart et Kim Novak sont filmés au sommet du Flatiron Building dans une scène romantique.",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
-   "corroborated": true
-  },
-  {
-   "year": 1981,
-   "label": "1981",
-   "text": "Pour le film Reds (1981) de Warren Beatty, la base du bâtiment est utilisée pour une scène avec Diane Keaton.",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
-   "corroborated": true
-  },
-  {
-   "year": 1989,
-   "label": "1989",
-   "text": "En 1989, le Flatiron Building est classé site historique national (National Historic Landmark ; NHL) par le National Park Service.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Histoire",
-   "corroborated": true
-  },
-  {
-   "year": 1995,
-   "label": "1995",
-   "text": "Dans Usual Suspects (1995), un plan montre l'immeuble dans toute sa hauteur.",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "label": "20th c.",
+   "text": "Helmsley-Spear managed the building for much of the late 20th century, renovating it several times.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
    "corroborated": false
   },
   {
-   "year": 1996,
-   "label": "1996",
-   "text": "Dans le clip vidéo du morceau de musique électronique Seven Days and One Week (1996) du groupe français BBE, plusieurs séquences montrent une jeune femme marchant dans les rues de Manhattan et se tenant debout devant le bâtiment.",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "year": 1966,
+   "label": "1966",
+   "text": "The building was designated a New York City landmark in 1966, was added to the National Register of Historic Places in 1979, and was designated a National Historic Landmark in 1989.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
    "corroborated": false
   },
   {
-   "year": 1998,
-   "label": "1998",
-   "text": "Dans le film Godzilla (1998), le Flatiron Building est détruit accidentellement par l'armée américaine.",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "year": 1997,
+   "label": "1997",
+   "text": "The Newmark Group started managing the building in 1997.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
+   "corroborated": false
+  },
+  {
+   "year": 1999,
+   "label": "1999",
+   "text": "The Flatiron's stature prompted a trademark dispute in 1999, when Newmark & Company and venture capital firm Flatiron Partners, which was headquartered in a different building, both tried to register an image of the building as a trademark.",
+   "section": "Impact and legacy",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building#Impact_and_legacy",
    "corroborated": true
   },
   {
-   "year": 2013,
-   "label": "2013",
-   "text": "En 2013, le Whitney Museum of American Art installe une réplique grandeur nature en 3D de Nighthawks, le tableau d'Edward Hopper datant de 1942, dans le Flatiron Art Space, sur la proue du bâtiment.",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
-   "corroborated": true
-  },
-  {
-   "year": 2014,
-   "label": "2014",
-   "text": "En 2014, la gamme Lego Architecture produit un modèle du Flatiron Building pour compléter sa série de monuments.",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
-   "corroborated": true
-  },
-  {
-   "year": 2015,
-   "label": "2015",
-   "text": "La série suivante, New York City, introduite en 2015, incluait également le bâtiment.",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
-   "corroborated": true
+   "year": 2010,
+   "label": "2010",
+   "text": "By 2010, Macmillan occupied all of the building's space, except for the ground floor.",
+   "section": "Macmillan expansion and conversion proposals",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building#Macmillan_expansion_and_conversion_proposals",
+   "corroborated": false
   },
   {
    "year": 2019,
    "label": "2019",
-   "text": "Depuis le départ de son dernier locataire en 2019, l'éditeur MacMillan Publishers, le Flatiron Building était vide.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Histoire",
-   "corroborated": true
+   "text": "Ownership was divided among several companies, which started renovating the building again in 2019.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
+   "corroborated": false
+  },
+  {
+   "year": 2022,
+   "label": "2022",
+   "text": "A New York state judge ruled in June 2022 that the four co-owners could buy out the stake of the fifth co-owner, Nathan Royce Silverstein, who owned a 25 percent stake in the building and was in disagreement with the other co-owners.",
+   "section": "2010s and 2020s renovation",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building#2010s_and_2020s_renovation",
+   "corroborated": false
   },
   {
    "year": 2023,
    "label": "2023",
-   "text": "Le 20 mars 2023, l’immeuble est mis aux enchères, ses propriétaires n’ayant pas réussi à s’entendre sur les travaux nécessaires à sa mise aux normes.",
-   "section": "Histoire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Histoire",
-   "corroborated": false
-  },
-  {
-   "year": 2026,
-   "label": "2026",
-   "text": "En 2026, il va présenter des appartements luxueux à louer[pas clair].",
-   "section": "Dans la culture populaire",
-   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
-   "corroborated": false
+   "text": "Jacob Garlick agreed to acquire the Flatiron Building at an auction in early 2023, but failed to pay the required deposit, and three of the four existing ownership groups took over the building.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
+   "corroborated": true
   }
  ],
- "intro": "Il compte 21 étages et mesure 93 mètres de hauteur. Cet immeuble a donné son nom au quartier qui l'entoure, le Flatiron District. Le terme « flatiron » signifie « fer à repasser ».",
+ "intro": "The building sits on a triangular block formed by Fifth Avenue, Broadway, and East 22nd Street—where the building's 87-foot (27 m) back end is located—with East 23rd Street grazing the triangle's northern (uptown) peak. The name \"Flatiron\" derives from its triangular shape, which recalls that of a cast-iron clothes iron. The Flatiron Building was developed as the headquarters of construction firm Fuller Company, which acquired the site from the Newhouse family in May 1901.",
  "stats": {
-  "events": 15,
-  "corroborated": 10
+  "events": 16,
+  "corroborated": 3
  }
 }

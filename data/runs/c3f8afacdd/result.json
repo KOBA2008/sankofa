@@ -1,0 +1,1306 @@
+{
+  "run": "c3f8afacdd",
+  "place": {
+    "id": "rome-colisee",
+    "continent": "Europe",
+    "city": "Rome",
+    "country": "Italy",
+    "name": "The Colosseum",
+    "lat": 41.8902,
+    "lon": 12.4922,
+    "era": 1880,
+    "radius": 350,
+    "context": "The Flavian amphitheatre, opened in 80 AD, could seat 50,000 spectators. A stone quarry in the Middle Ages, then a must-see of the Grand Tour, photographed relentlessly from the 1850s.",
+    "archive_queries": [
+      "Colosseum 1880",
+      "Colosseo 1890",
+      "Colosseum Rome old photograph",
+      "Colosseo fotografia antica",
+      "Colosseum Robert MacPherson",
+      "Colosseum Alinari"
+    ],
+    "current_queries": [
+      "Colosseum Rome 2019",
+      "Colosseo Roma",
+      "Colosseum exterior"
+    ],
+    "europeana_queries": [
+      "Colosseum Rome",
+      "Colosseo"
+    ],
+    "keywords": [
+      "colosseum",
+      "colosseo",
+      "colisée",
+      "coliseum",
+      "flavian",
+      "flavio"
+    ],
+    "exclude": [
+      "las vegas",
+      "replica",
+      "pula",
+      "el jem",
+      "verona",
+      "arles",
+      "nîmes",
+      "nimes",
+      "london",
+      "stamp"
+    ]
+  },
+  "year": 1880,
+  "current": "/media/runs/c3f8afacdd/current.jpg",
+  "reconstruction": "/media/runs/c3f8afacdd/reconstruction.jpg",
+  "size": [
+    1280,
+    600
+  ],
+  "tags": [
+    {
+      "id": "sky",
+      "label": "sky",
+      "status": "documente",
+      "note": "Different today, documented in 1893",
+      "confidence": 0.83,
+      "coverage": 0.87,
+      "sources": [
+        "archive-05"
+      ],
+      "polygon": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          296
+        ],
+        [
+          9,
+          296
+        ],
+        [
+          38,
+          307
+        ],
+        [
+          50,
+          320
+        ],
+        [
+          77,
+          331
+        ],
+        [
+          78,
+          311
+        ],
+        [
+          67,
+          299
+        ],
+        [
+          58,
+          299
+        ],
+        [
+          53,
+          293
+        ],
+        [
+          53,
+          269
+        ],
+        [
+          67,
+          259
+        ],
+        [
+          71,
+          251
+        ],
+        [
+          83,
+          251
+        ],
+        [
+          87,
+          244
+        ],
+        [
+          109,
+          234
+        ],
+        [
+          113,
+          225
+        ],
+        [
+          118,
+          224
+        ],
+        [
+          118,
+          197
+        ],
+        [
+          123,
+          189
+        ],
+        [
+          125,
+          165
+        ],
+        [
+          115,
+          130
+        ],
+        [
+          115,
+          102
+        ],
+        [
+          139,
+          67
+        ],
+        [
+          186,
+          31
+        ],
+        [
+          203,
+          31
+        ],
+        [
+          222,
+          41
+        ],
+        [
+          226,
+          74
+        ],
+        [
+          238,
+          118
+        ],
+        [
+          259,
+          128
+        ],
+        [
+          260,
+          143
+        ],
+        [
+          272,
+          175
+        ],
+        [
+          273,
+          216
+        ],
+        [
+          268,
+          229
+        ],
+        [
+          296,
+          234
+        ],
+        [
+          303,
+          239
+        ],
+        [
+          303,
+          247
+        ],
+        [
+          312,
+          246
+        ],
+        [
+          322,
+          239
+        ],
+        [
+          337,
+          239
+        ],
+        [
+          370,
+          256
+        ],
+        [
+          402,
+          250
+        ],
+        [
+          438,
+          251
+        ],
+        [
+          446,
+          249
+        ],
+        [
+          447,
+          243
+        ],
+        [
+          466,
+          245
+        ],
+        [
+          468,
+          234
+        ],
+        [
+          480,
+          234
+        ],
+        [
+          482,
+          216
+        ],
+        [
+          498,
+          218
+        ],
+        [
+          501,
+          214
+        ],
+        [
+          531,
+          211
+        ],
+        [
+          708,
+          210
+        ],
+        [
+          816,
+          215
+        ],
+        [
+          947,
+          233
+        ],
+        [
+          964,
+          239
+        ],
+        [
+          965,
+          243
+        ],
+        [
+          985,
+          243
+        ],
+        [
+          1021,
+          256
+        ],
+        [
+          1038,
+          254
+        ],
+        [
+          1055,
+          263
+        ],
+        [
+          1077,
+          265
+        ],
+        [
+          1088,
+          270
+        ],
+        [
+          1093,
+          277
+        ],
+        [
+          1093,
+          300
+        ],
+        [
+          1100,
+          308
+        ],
+        [
+          1114,
+          311
+        ],
+        [
+          1130,
+          332
+        ],
+        [
+          1129,
+          364
+        ],
+        [
+          1139,
+          375
+        ],
+        [
+          1151,
+          373
+        ],
+        [
+          1173,
+          355
+        ],
+        [
+          1201,
+          345
+        ],
+        [
+          1204,
+          340
+        ],
+        [
+          1219,
+          334
+        ],
+        [
+          1233,
+          334
+        ],
+        [
+          1235,
+          337
+        ],
+        [
+          1258,
+          331
+        ],
+        [
+          1279,
+          331
+        ],
+        [
+          1279,
+          0
+        ]
+      ],
+      "bbox": [
+        0,
+        0,
+        1279,
+        375
+      ]
+    },
+    {
+      "id": "building-1",
+      "label": "building",
+      "status": "inchange",
+      "note": "Same structure as in 1893",
+      "confidence": 0.87,
+      "coverage": 1.0,
+      "sources": [
+        "archive-05"
+      ],
+      "polygon": [
+        [
+          197,
+          32
+        ],
+        [
+          186,
+          32
+        ],
+        [
+          155,
+          53
+        ],
+        [
+          134,
+          74
+        ],
+        [
+          116,
+          102
+        ],
+        [
+          116,
+          130
+        ],
+        [
+          126,
+          165
+        ],
+        [
+          124,
+          189
+        ],
+        [
+          119,
+          197
+        ],
+        [
+          119,
+          224
+        ],
+        [
+          114,
+          225
+        ],
+        [
+          109,
+          235
+        ],
+        [
+          87,
+          245
+        ],
+        [
+          83,
+          252
+        ],
+        [
+          71,
+          252
+        ],
+        [
+          53,
+          273
+        ],
+        [
+          55,
+          295
+        ],
+        [
+          67,
+          298
+        ],
+        [
+          79,
+          311
+        ],
+        [
+          79,
+          331
+        ],
+        [
+          50,
+          321
+        ],
+        [
+          38,
+          308
+        ],
+        [
+          9,
+          297
+        ],
+        [
+          0,
+          297
+        ],
+        [
+          0,
+          490
+        ],
+        [
+          197,
+          490
+        ]
+      ],
+      "bbox": [
+        0,
+        32,
+        197,
+        490
+      ]
+    },
+    {
+      "id": "building-2",
+      "label": "building",
+      "status": "inchange",
+      "note": "Same structure as in 1893",
+      "confidence": 0.87,
+      "coverage": 1.0,
+      "sources": [
+        "archive-05"
+      ],
+      "polygon": [
+        [
+          198,
+          32
+        ],
+        [
+          198,
+          490
+        ],
+        [
+          642,
+          490
+        ],
+        [
+          642,
+          211
+        ],
+        [
+          531,
+          212
+        ],
+        [
+          501,
+          215
+        ],
+        [
+          498,
+          219
+        ],
+        [
+          482,
+          217
+        ],
+        [
+          481,
+          234
+        ],
+        [
+          468,
+          235
+        ],
+        [
+          466,
+          246
+        ],
+        [
+          447,
+          244
+        ],
+        [
+          446,
+          250
+        ],
+        [
+          430,
+          253
+        ],
+        [
+          402,
+          251
+        ],
+        [
+          370,
+          257
+        ],
+        [
+          337,
+          240
+        ],
+        [
+          322,
+          240
+        ],
+        [
+          312,
+          247
+        ],
+        [
+          303,
+          248
+        ],
+        [
+          302,
+          239
+        ],
+        [
+          296,
+          235
+        ],
+        [
+          267,
+          229
+        ],
+        [
+          272,
+          216
+        ],
+        [
+          271,
+          175
+        ],
+        [
+          259,
+          143
+        ],
+        [
+          258,
+          128
+        ],
+        [
+          241,
+          123
+        ],
+        [
+          237,
+          118
+        ],
+        [
+          225,
+          74
+        ],
+        [
+          221,
+          41
+        ],
+        [
+          210,
+          34
+        ]
+      ],
+      "bbox": [
+        198,
+        32,
+        642,
+        490
+      ]
+    },
+    {
+      "id": "building-3",
+      "label": "building",
+      "status": "inchange",
+      "note": "Same structure as in 1893",
+      "confidence": 0.87,
+      "coverage": 1.0,
+      "sources": [
+        "archive-05"
+      ],
+      "polygon": [
+        [
+          643,
+          211
+        ],
+        [
+          643,
+          490
+        ],
+        [
+          878,
+          490
+        ],
+        [
+          878,
+          226
+        ],
+        [
+          791,
+          214
+        ]
+      ],
+      "bbox": [
+        643,
+        211,
+        878,
+        490
+      ]
+    },
+    {
+      "id": "building-4",
+      "label": "building",
+      "status": "inchange",
+      "note": "Same structure as in 1893",
+      "confidence": 0.87,
+      "coverage": 1.0,
+      "sources": [
+        "archive-05"
+      ],
+      "polygon": [
+        [
+          879,
+          226
+        ],
+        [
+          879,
+          490
+        ],
+        [
+          1061,
+          490
+        ],
+        [
+          1061,
+          265
+        ],
+        [
+          1038,
+          255
+        ],
+        [
+          1021,
+          257
+        ],
+        [
+          985,
+          244
+        ],
+        [
+          965,
+          244
+        ],
+        [
+          964,
+          240
+        ],
+        [
+          947,
+          234
+        ]
+      ],
+      "bbox": [
+        879,
+        226,
+        1061,
+        490
+      ]
+    },
+    {
+      "id": "building-5",
+      "label": "building",
+      "status": "inchange",
+      "note": "Same structure as in 1893",
+      "confidence": 0.72,
+      "coverage": 0.5,
+      "sources": [
+        "archive-05"
+      ],
+      "polygon": [
+        [
+          1062,
+          265
+        ],
+        [
+          1062,
+          490
+        ],
+        [
+          1279,
+          490
+        ],
+        [
+          1279,
+          332
+        ],
+        [
+          1258,
+          332
+        ],
+        [
+          1235,
+          338
+        ],
+        [
+          1233,
+          335
+        ],
+        [
+          1219,
+          335
+        ],
+        [
+          1204,
+          341
+        ],
+        [
+          1201,
+          346
+        ],
+        [
+          1173,
+          356
+        ],
+        [
+          1151,
+          374
+        ],
+        [
+          1139,
+          376
+        ],
+        [
+          1128,
+          364
+        ],
+        [
+          1129,
+          332
+        ],
+        [
+          1114,
+          312
+        ],
+        [
+          1100,
+          309
+        ],
+        [
+          1092,
+          300
+        ],
+        [
+          1089,
+          272
+        ],
+        [
+          1077,
+          266
+        ]
+      ],
+      "bbox": [
+        1062,
+        265,
+        1279,
+        490
+      ]
+    },
+    {
+      "id": "ground",
+      "label": "street",
+      "status": "inchange",
+      "note": "Same structure as in 1893",
+      "confidence": 0.84,
+      "coverage": 0.91,
+      "sources": [
+        "archive-05"
+      ],
+      "polygon": [
+        [
+          0,
+          491
+        ],
+        [
+          0,
+          599
+        ],
+        [
+          1279,
+          599
+        ],
+        [
+          1279,
+          491
+        ]
+      ],
+      "bbox": [
+        0,
+        491,
+        1279,
+        599
+      ]
+    }
+  ],
+  "counts": {
+    "documente": 0,
+    "inchange": 6,
+    "hypothese": 0
+  },
+  "evaluation": {
+    "reliability": 0.82,
+    "evidence_share": 1.0,
+    "holdout": [
+      {
+        "archive": "archive-05",
+        "title": "Colosseum in Rome (titel op object) P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object)",
+        "year": 1893,
+        "ssim": 0.405,
+        "baseline": 0.417,
+        "others": 0
+      }
+    ],
+    "holdout_score": 0.405,
+    "source_richness": 1.0,
+    "n_sources": 28,
+    "gaps": []
+  },
+  "story": {
+    "title": "The Colosseum in 1880",
+    "en": "General context notes the Flavian amphitheatre opened in 80 AD and could seat 50,000 spectators, later serving as a stone quarry in the Middle Ages and a highlight of the Grand Tour. A photograph titled Gezicht op het Colosseum in Rome 3635. ROMA Colosseo was created in Rome and dated ca. 1880 - ca. 1890 [S1]. Its maker is recorded as anonymous and its object type is foto [S1]. Another photograph titled Gezicht in het interieur van het Colosseum, Rome 3636. Roma Interno del Colosseo is also attributed to an anonymous photographer in Rome and dated to 1880 [S2]. A further photograph titled Gezicht op het Colosseum in Rome Esterno del Colosseo was created in Rome by an anonymous photographer and dated 1880 [S3]. By the year 1000 the Latin name \"Colosseum\" had been coined to refer to the amphitheatre from the nearby \"Colossus Solis\" [S9].",
+    "fr": "Le contexte général indique que l'amphithéâtre flavien a ouvert en 80 après J.-C. et pouvait accueillir 50 000 spectateurs, servant plus tard de carrière de pierre au Moyen Âge et de point fort du Grand Tour. Une photographie intitulée Gezicht op het Colosseum in Rome 3635. ROMA Colosseo a été créée à Rome et datée ca. 1880 - ca. 1890 [S1]. Son créateur est enregistré comme anonyme et son type d'objet est foto [S1]. Une autre photographie intitulée Gezicht in het interieur van het Colosseum, Rome 3636. Roma Interno del Colosseo est également attribuée à un photographe anonyme à Rome et datée de 1880 [S2]. Une autre photographie intitulée Gezicht op het Colosseum in Rome Esterno del Colosseo a été créée à Rome par un photographe anonyme et datée de 1880 [S3]. Vers l'an 1000, le nom latin \"Colosseum\" avait été inventé pour désigner l'amphithéâtre d'après le \"Colossus Solis\" voisin [S9]."
+  },
+  "sources": [
+    {
+      "id": "archive-00",
+      "title": "Gezicht op het Colosseum in Rome 3635. ROMA Colosseo (titel op object)",
+      "year": 1880,
+      "date_raw": "ca. 1880 - ca. 1890",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Colosseum_in_Rome_3635._ROMA_Colosseo_(titel_op_object),_RP-F-00-6932.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Gezicht op het Colosseum in Rome3635. ROMA Colosseo (titel op object) Objecttype: foto Objectnummer: RP-F-00-6932 Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: Rome Datering: ca. 1880 - ca. 1890 Fysieke kenmerken: daglichtcollodiumzilverdruk geplakt op karton Materiaal: fotopapier karton Techniek: albuminedruk Afmetingen: foto: h 187 mm × b 250 mm, karton: h 318 mm × b 478 mm Onderwerp Waar: Colosseum Verwerving en rechten Verwerving: onbekend Copyright: Publiek domein",
+      "image": "/media/places/rome-colisee/archive/ca1b4c8e6baf.jpg",
+      "n": 1
+    },
+    {
+      "id": "archive-01",
+      "title": "Gezicht in het interieur van het Colosseum, Rome 3636. Roma Interno del Colosseo (titel op object)",
+      "year": 1880,
+      "date_raw": "ca. 1880 - ca. 1890",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_in_het_interieur_van_het_Colosseum,_Rome_3636._Roma_Interno_del_Colosseo_(titel_op_object),_RP-F-00-6950.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Gezicht in het interieur van het Colosseum, Rome3636. Roma Interno del Colosseo (titel op object) Objecttype: foto Objectnummer: RP-F-00-6950 Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: Rome Datering: ca. 1880 - ca. 1890 Fysieke kenmerken: daglichtcollodiumzilverdruk geplakt op karton Materiaal: fotopapier karton Techniek: albuminedruk Afmetingen: foto: h 188 mm × b 250 mm, karton: h 317 mm × b 445 mm Onderwerp Waar: Colosseum Verwerving en rechten Verwerving: onbekend Copyright: Publiek domein",
+      "image": "/media/places/rome-colisee/archive/f3e15ed496a4.jpg",
+      "n": 2
+    },
+    {
+      "id": "archive-02",
+      "title": "Gezicht op het Colosseum in Rome",
+      "year": 1880,
+      "date_raw": "ca. 1880 - ca. 1900",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Colosseum_in_Rome,_RP-F-2004-283-10.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Gezicht op het Colosseum in Rome Esterno del Colosseo (titel op object) Objecttype: foto Objectnummer: RP-F-2004-283-10 Omschrijving: Onderdeel van Frans kunstenaarsalbum. Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: Rome Datering: ca. 1880 - ca. 1900 Materiaal en Techniek Fysieke kenmerken: albuminedruk Materiaal: papier fotodrager Techniek: albuminedruk Afmetingen: foto: hoogte 201 mm × breedte 271 mm Onderwerp Wat: amphitheatre, grounds, fields and accomodations for sports, games and physical performances (+ out of doors (sports, games, etc.))",
+      "image": "/media/places/rome-colisee/archive/90622fe0f19f.jpg",
+      "n": 3
+    },
+    {
+      "id": "archive-03",
+      "title": "Interieur van het Colosseum te Rome Rome. Het Colosseum van binnen. (titel op object)",
+      "year": 1875,
+      "date_raw": "ca. 1875 - ca. 1900",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Interieur_van_het_Colosseum_te_Rome_Rome._Het_Colosseum_van_binnen._(titel_op_object),_RP-F-00-4182.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Interieur van het Colosseum te Rome. Rome. Het Colosseum van binnen. (titel op object) Objecttype: foto Objectnummer: RP-F-00-4182 Opschriften / Merken: opschrift, recto, handgeschreven: ‘CWN.’ (Staat voor C.W. Nijhoff, directeur van Kunstnijverheidschool Quellinus.), opschrift, recto, handgeschreven: ‘Romeinsche Kunst.’verzamelaarsmerk, verso, gestempeld: ‘KUNSTNIJVERHEIDSCHOOL QUELLINUS AMSTERDAM FRANS HALSSTRAAT 14.’verzamelaarsmerk, verso, gestempeld: ‘INSTITUUT VOOR KUNST-NIJVERHEIDSONDERWIJS GABRIËL METSUSTRAAT No. 16 AMSTERDAM’ Vervaardiging Vervaardiger: fotogra",
+      "image": "/media/places/rome-colisee/archive/8b8c052af9ec.jpg",
+      "n": 4
+    },
+    {
+      "id": "archive-04",
+      "title": "Exterieur van het Colosseum te Rome Coloseum (titel op object)",
+      "year": 1890,
+      "date_raw": "ca. 1890 - ca. 1900",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Exterieur_van_het_Colosseum_te_Rome_Coloseum_(titel_op_object),_RP-F-2001-7-362-15.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Exterieur van het Colosseum te Rome. Coloseum (titel op object) Objecttype: fotomechanische afdruk bladzijde Objectnummer: RP-F-2001-7-362-15 Vervaardiging Vervaardiger: fotograaf: Samuel J. Beckett (vermeld op object), prentmaker: Samuel J. Beckett (mogelijk) Plaats vervaardiging: Rome Datering: ca. 1890 - ca. 1900 Materiaal: papier Techniek: lichtdruk Afmetingen: prent: h 151 mm × b 202 mm Onderwerp Wat: façade (of house or building), theatre (building) Waar: Colosseum Verwerving en rechten Credit line: Aankoop met steun van de Mondriaan Stichting, het Prins Bernhard ",
+      "image": "/media/places/rome-colisee/archive/5f8cef24fe3b.jpg",
+      "n": 5
+    },
+    {
+      "id": "archive-19",
+      "title": "Colosseum and Meta Sudans, Rome, Italy, 1890s",
+      "year": 1880,
+      "date_raw": "between 1880 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1880-00-00T00:00:",
+      "license": "Public domain",
+      "artist": "Detroit Publishing Co., under license from Photoglob Zürich",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_and_Meta_Sudans,_Rome,_Italy,_1890s.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Colosseum and Meta Sudans, Rome, Italy",
+      "image": "/media/places/rome-colisee/archive/5b95504e9926.jpg",
+      "n": 6
+    },
+    {
+      "id": "archive-05",
+      "title": "Colosseum in Rome (titel op object) P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object)",
+      "year": 1893,
+      "date_raw": "ca. 1893 - ca. 1903",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome_(titel_op_object)_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_(A.D._dell_72_all%27_80)._(titel_op_object),_RP-F-2007-358-56.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Colosseum in Rome (titel op object). P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object) Objecttype: foto Objectnummer: RP-F-2007-358-56 Vervaardiging Vervaardiger: fotograaf: Fratelli Alinari (vermeld op object) Plaats vervaardiging: fotograaf: Rome. Nederland Datering: ca. 1893 - ca. 1903 Fysieke kenmerken: albuminedruk op fotopapier op karton in album Materiaal: fotopapier karton Techniek: albuminedruk Afmetingen: beeld: h 197 mm × b 248 mm, blad: h 309 mm × b 507 mm Onderwerp Waar: Colosseum Verwerving en rechten Credit line: Sche",
+      "image": "/media/places/rome-colisee/archive/e8450db14816.jpg",
+      "n": 7
+    },
+    {
+      "id": "archive-06",
+      "title": "Gezicht op het Colosseum in Rome Colosseo - ROMA (titel op object)",
+      "year": 1865,
+      "date_raw": "ca. 1865 - ca. 1890",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Colosseum_in_Rome_Colosseo_-_ROMA_(titel_op_object),_RP-F-F01184-AI.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Gezicht op het Colosseum in Rome. Colosseo - ROMA (titel op object) Objecttype: foto Objectnummer: RP-F-F01184-AI Opschriften / Merken: negatiefnummer, recto: ‘70. A’ Omschrijving: Onderdeel van Reisalbum met foto's van bezienswaardigheden in Italië (deel I). Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: Rome Datering: ca. 1865 - ca. 1890 Fysieke kenmerken: albuminedruk Materiaal: papier fotopapier Techniek: albuminedruk Afmetingen: foto: h 190 mm × b 245 mm Onderwerp Wat: grounds, fields and accomodations for sports, games and physical performanc",
+      "image": "/media/places/rome-colisee/archive/5b0f09823477.jpg",
+      "n": 8
+    },
+    {
+      "id": "wikipedia",
+      "n": 9,
+      "title": "Colosseum",
+      "year": null,
+      "license": "CC BY-SA 4.0",
+      "source": "Wikipedia",
+      "page_url": "https://en.wikipedia.org/wiki/Colosseum",
+      "image": "/favicon.svg",
+      "description": ""
+    }
+  ],
+  "history": {
+    "place": "rome-colisee",
+    "lang": "en",
+    "sources": [
+      {
+        "n": 1,
+        "title": "Colosseum",
+        "url": "https://en.wikipedia.org/wiki/Colosseum",
+        "lang": "en",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikipedia"
+      },
+      {
+        "n": 2,
+        "title": "Colisée",
+        "url": "https://fr.wikipedia.org/wiki/Colisée",
+        "lang": "fr",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikipedia"
+      }
+    ],
+    "events": [
+      {
+        "year": -150,
+        "label": "2nd c. BC",
+        "text": "By the 2nd century BC the area was densely inhabited.",
+        "section": "Construction, inauguration, and Roman renovations",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Construction,_inauguration,_and_Roman_renovations",
+        "corroborated": false
+      },
+      {
+        "year": 138,
+        "label": "138",
+        "text": "The giant bronze sculpture of Nero as a solar deity was moved to its position beside the amphitheatre by the emperor Hadrian (r. 117–138).",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": false
+      },
+      {
+        "year": 180,
+        "label": "180",
+        "text": "An English translation by John Bourchier, 2nd Baron Berners, of Antonio de Guevara's biography of Marcus Aurelius (r. 161–180) in about 1533 referred to Middle English: this Emperour, beynge with the Senate at Collisee ....",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": false
+      },
+      {
+        "year": 217,
+        "label": "217",
+        "text": "In 217, the Colosseum was badly damaged by a major fire (caused by lightning, according to Dio Cassius), which destroyed the wooden upper levels of the amphitheatre's interior.",
+        "section": "Construction, inauguration, and Roman renovations",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Construction,_inauguration,_and_Roman_renovations",
+        "corroborated": true
+      },
+      {
+        "year": 250,
+        "label": "250",
+        "text": "It was not fully repaired until about 240 and underwent further repairs in 250 or 252 and again in 320.",
+        "section": "Construction, inauguration, and Roman renovations",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Construction,_inauguration,_and_Roman_renovations",
+        "corroborated": false
+      },
+      {
+        "year": 1000,
+        "label": "1000",
+        "text": "By the year 1000 the Latin name \"Colosseum\" had been coined to refer to the amphitheatre from the nearby \"Colossus Solis\".",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": true
+      },
+      {
+        "year": 1150,
+        "label": "12th c.",
+        "text": "In the 12th century, the structure was recorded as the amphitheatrum colisei, 'Amphitheatre of the Colossus'.",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": false
+      },
+      {
+        "year": 1250,
+        "label": "13th c.",
+        "text": "In the High Middle Ages, the Flavian amphitheatre is attested as the late 13th-century Old French: colosé, and in Middle French as: colisée by the early 16th century, by which time the word could be applied to any amphitheatre.",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": false
+      },
+      {
+        "year": 1367,
+        "label": "1367",
+        "text": "Similarly, the Italian: colosseo, or coliseo, are attested as referring first to the amphitheatre in Rome, and then to any amphitheatre (as Italian: culiseo in 1367).",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": false
+      },
+      {
+        "year": 1450,
+        "label": "15th c.",
+        "text": "From Middle French: colisée derived the Middle English: colisee, in use by the middle of the 15th century and employed by John Capgrave in his Solace of Pilgrims, in which he remarked: Middle English: collise eke is a meruelous place … þe moost part of it stant at þis day.",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": false
+      },
+      {
+        "year": 1460,
+        "label": "1460",
+        "text": "By 1460, an equivalent existed in Catalan: coliseu; by 1495 had appeared the Spanish: coliseo, and by 1548 the Portuguese: coliseu.",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": false
+      },
+      {
+        "year": 1600,
+        "label": "1600",
+        "text": "The earliest citation for the name Colosseum in Early Modern English is the 1600 translation, by Philemon Holland, of the Urbis Romae topographia of Bartolomeo Marliani, which he used in the preparation of his translation of Livy's Augustan era Ab Urbe Condita Libri.",
+        "section": "Name",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Name",
+        "corroborated": false
+      },
+      {
+        "year": 1942,
+        "label": "1942",
+        "text": "It was built for Mussolini for the Universal Exhibition of 1942 but the exhibition never happened due to the outbreak of World War II.",
+        "section": "In popular culture",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#In_popular_culture",
+        "corroborated": false
+      },
+      {
+        "year": 1948,
+        "label": "1948",
+        "text": "In recent years, the Colosseum has become a symbol of the international campaign against capital punishment, which was abolished in Italy in 1948.",
+        "section": "Modern",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Modern",
+        "corroborated": false
+      },
+      {
+        "year": 2011,
+        "label": "2011",
+        "text": "In 2011, Diego Della Valle, head of the shoe firm Tod's, entered into an agreement with local officials to sponsor a €25 million restoration of the Colosseum.",
+        "section": "Restoration",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Restoration",
+        "corroborated": true
+      },
+      {
+        "year": 2012,
+        "label": "2012",
+        "text": "For example, the Colosseum was illuminated in gold in November 2012 following the abolishment of capital punishment in the American state of Connecticut in April 2012.",
+        "section": "Modern",
+        "url": "https://en.wikipedia.org/wiki/Colosseum#Modern",
+        "corroborated": false
+      }
+    ],
+    "intro": "The Colosseum ( KOL-ə-SEE-əm; Italian: Colosseo [kolosˈsɛːo]) is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is the largest standing amphitheatre in the world. Construction began under the Emperor Vespasian (r. 69–79 AD) in 72 and was completed in AD 80 under his successor and heir, Titus (r. 79–81).",
+    "stats": {
+      "events": 16,
+      "corroborated": 3
+    }
+  },
+  "aligned": [
+    "archive-05"
+  ],
+  "nearest": [
+    {
+      "id": "archive-05",
+      "title": "Colosseum in Rome (titel op object) P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object)",
+      "year": 1893,
+      "date_raw": "ca. 1893 - ca. 1903",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome_(titel_op_object)_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_(A.D._dell_72_all%27_80)._(titel_op_object),_RP-F-2007-358-56.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Colosseum in Rome (titel op object). P.I.N. 5818 Roma Amfiteatro flavio o colosseo (A.D. dell 72 all' 80). (titel op object) Objecttype: foto Objectnummer: RP-F-2007-358-56 Vervaardiging Vervaardiger: fotograaf: Fratelli Alinari (vermeld op object) Plaats vervaardiging: fotograaf: Rome. Nederland Datering: ca. 1893 - ca. 1903 Fysieke kenmerken: albuminedruk op fotopapier op karton in album Materiaal: fotopapier karton Techniek: albuminedruk Afmetingen: beeld: h 197 mm × b 248 mm, blad: h 309 mm × b 507 mm Onderwerp Waar: Colosseum Verwerving en rechten Credit line: Sche",
+      "image": "/media/places/rome-colisee/archive/e8450db14816.jpg",
+      "inliers": 21,
+      "aligned": true
+    },
+    {
+      "id": "archive-24",
+      "title": "Gezicht op de binnenkant van het Colosseum in Rome",
+      "year": 1850,
+      "date_raw": "between 1850 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1850-00-00T00:00:",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_binnenkant_van_het_Colosseum_in_Rome,_RP-F-F20187.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Gezicht op de binnenkant van het Colosseum in Rome Objecttype: kabinetfoto Objectnummer: RP-F-F20187 Opschriften / Merken: annotatie, verso, handgeschreven met potlood: ‘Roma/ Colosseum’ Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: Colosseum Datering: 1850 - 1900 Materiaal: karton fotopapier Techniek: albuminedruk Afmetingen: secundaire drager: h 108 mm × b 167 mm Onderwerp Wat: ruin of a building ~ architecture Waar: Colosseum Verwerving en rechten Verwerving: overdracht van beheer 1994 Copyright: Publiek domein",
+      "image": "/media/places/rome-colisee/archive/963775953953.jpg",
+      "inliers": 37,
+      "aligned": false
+    },
+    {
+      "id": "archive-06",
+      "title": "Gezicht op het Colosseum in Rome Colosseo - ROMA (titel op object)",
+      "year": 1865,
+      "date_raw": "ca. 1865 - ca. 1890",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Colosseum_in_Rome_Colosseo_-_ROMA_(titel_op_object),_RP-F-F01184-AI.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Gezicht op het Colosseum in Rome. Colosseo - ROMA (titel op object) Objecttype: foto Objectnummer: RP-F-F01184-AI Opschriften / Merken: negatiefnummer, recto: ‘70. A’ Omschrijving: Onderdeel van Reisalbum met foto's van bezienswaardigheden in Italië (deel I). Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: Rome Datering: ca. 1865 - ca. 1890 Fysieke kenmerken: albuminedruk Materiaal: papier fotopapier Techniek: albuminedruk Afmetingen: foto: h 190 mm × b 245 mm Onderwerp Wat: grounds, fields and accomodations for sports, games and physical performanc",
+      "image": "/media/places/rome-colisee/archive/5b0f09823477.jpg",
+      "inliers": 31,
+      "aligned": false
+    },
+    {
+      "id": "archive-17",
+      "title": "NIE 1905 The Colosseum",
+      "year": 1905,
+      "date_raw": "1905-01-01",
+      "license": "Public domain",
+      "artist": "Unknown author Unknown author",
+      "page_url": "https://commons.wikimedia.org/wiki/File:NIE_1905_The_Colosseum.png",
+      "source": "Wikimedia Commons",
+      "description": "A picture of the Colosseum in Rome",
+      "image": "/media/places/rome-colisee/archive/f28e49bef6ea.png",
+      "inliers": 15,
+      "aligned": false
+    },
+    {
+      "id": "archive-16",
+      "title": "Colosseum te Rome",
+      "year": 1855,
+      "date_raw": "ca. 1855 - ca. 1870",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_te_Rome,_RP-F-00-2477.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Colosseum te Rome Objecttype: foto Objectnummer: RP-F-00-2477 Opschriften / Merken: blindstempel, recto midden onder: ‘R.MACPHERSON ROME’nummer, in rond blindstempel, potlood: ‘30’ Vervaardiging Vervaardiger: fotograaf: Robert Macpherson Datering: ca. 1855 - ca. 1870 Fysieke kenmerken: albuminedruk Materiaal: papier fotopapier karton Techniek: albuminedruk Afmetingen: foto: h 250 mm × b 378 mm, blad: h 493 mm × b 645 mm Onderwerp Waar: Colosseum Verwerving en rechten Verwerving: overdracht van beheer 1994 Copyright: Publiek domein",
+      "image": "/media/places/rome-colisee/archive/1f0bc167b989.jpg",
+      "inliers": 11,
+      "aligned": false
+    },
+    {
+      "id": "archive-21",
+      "title": "Colosseum te Rome Colisée (Rome) (titel op object)",
+      "year": 1850,
+      "date_raw": "ca. 1850 - ca. 1880",
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Colosseum_te_Rome_Colis%C3%A9e_(Rome)_(titel_op_object),_RP-F-F07192.jpg",
+      "source": "Wikimedia Commons",
+      "description": "Identificatie Titel(s): Colosseum te Rome. Colisée (Rome) (titel op object) Objecttype: stereofoto Objectnummer: RP-F-F07192 Opschriften / Merken: nummer, verso, gedrukt: ‘938.’ Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: Rome Datering: ca. 1850 - ca. 1880 Fysieke kenmerken: albuminedruk Materiaal: karton fotopapier Techniek: albuminedruk Afmetingen: secundaire drager: h 85 mm × b 170 mm Onderwerp Wat: ruin of a building ~ architecture Waar: Colosseum Verwerving en rechten Verwerving: overdracht van beheer 1994 Copyright: Publiek domein",
+      "image": "/media/places/rome-colisee/archive/b37e4a70db29.jpg",
+      "inliers": 11,
+      "aligned": false
+    }
+  ],
+  "engines": {
+    "segmentation": "local",
+    "reconstruction": "local",
+    "story": "meta:muse-spark-open (Baseten)"
+  },
+  "style": {
+    "decade": 1880,
+    "tint": [
+      0.29420000314712524,
+      0.3384999930858612,
+      0.36730000376701355
+    ]
+  }
+}

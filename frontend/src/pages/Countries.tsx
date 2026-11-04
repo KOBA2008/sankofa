@@ -16,11 +16,11 @@ export default function Countries() {
       <Backdrop images={covers} dim={0.75} />
       <main className="mx-auto max-w-6xl px-4 pt-32">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}>
-          <p className="font-mono text-xs uppercase tracking-[0.25em] text-gold">Chroniques</p>
-          <h1 className="mt-2 max-w-4xl text-balance font-serif text-6xl leading-none md:text-7xl">L'histoire d'un pays, racontée seulement par ses sources.</h1>
+          <p className="font-mono text-xs uppercase tracking-[0.25em] text-gold">Chronicles</p>
+          <h1 className="mt-2 max-w-4xl text-balance font-serif text-6xl leading-none md:text-7xl">A country's history, told only by its sources.</h1>
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-white/70">
-            L'agent lit les sources, extrait chaque événement daté mot pour mot, le recoupe avec une source rédigée par
-            d'autres auteurs, signale les siècles que personne n'a documentés, puis illustre chaque époque avec des photos d'archives.
+            The agent reads the sources, extracts every dated event word for word, cross-checks it against a source written by
+            other authors, flags the centuries nobody documented, then illustrates each era with archival photos.
           </p>
         </motion.div>
 
@@ -37,9 +37,9 @@ export default function Countries() {
                   <p className="flex items-center gap-2 font-serif text-3xl leading-none">{c.name} <span className="text-xl">{c.flag}</span></p>
                   <p className="mt-1.5 truncate text-xs text-white/50">{c.old_names.slice(0, 3).join(' · ')}</p>
                   {c.stats ? (
-                    <p className="mt-1 font-mono text-xs text-white/60">{c.stats.events} événements · {Math.round(c.stats.share * 100)} % recoupés</p>
+                    <p className="mt-1 font-mono text-xs text-white/60">{c.stats.events} events · {Math.round(c.stats.share * 100)}% corroborated</p>
                   ) : (
-                    <p className="mt-1 flex items-center gap-1 text-xs text-gold"><BookOpenText size={12} /> à reconstituer</p>
+                    <p className="mt-1 flex items-center gap-1 text-xs text-gold"><BookOpenText size={12} /> not yet reconstructed</p>
                   )}
                 </div>
               </Link>

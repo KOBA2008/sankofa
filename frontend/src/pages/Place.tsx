@@ -10,7 +10,7 @@ import { DocumentaryPlayer } from '../components/DocumentaryPlayer'
 import { PlaceHistory } from '../components/PlaceHistory'
 import { RephotoModal } from '../components/RephotoModal'
 import { ResultPanel } from '../components/ResultPanel'
-import { api, type AgentEvent, type PlaceDetail, type RunResult } from '../lib/api'
+import { API_BASE, api, type AgentEvent, type PlaceDetail, type RunResult } from '../lib/api'
 
 const MIN_YEAR = 1860
 const MAX_YEAR = 1960
@@ -41,9 +41,16 @@ export default function Place() {
 
   // un lien ?run=… rouvre une reconstruction déjà faite
   useEffect(() => {
+    const open = (runId: string) => {
+      if (result?.run === runId) return
+      api.run(runId).then(r => { if (r.result) { setResult(r.result); setYear(r.result.year) } }).catch(() => {})
+    }
     const runId = params.get('run')
-    if (!runId || result?.run === runId) return
-    api.run(runId).then(r => { if (r.result) { setResult(r.result); setYear(r.result.year) } }).catch(() => {})
+    if (runId) return open(runId)
+    // sans lien ?run=…, on ouvre l'exemple précalculé du lieu s'il existe (aucun crédit dépensé)
+    fetch(`${API_BASE}/api/showcase`).then(r => r.json()).then((show: Record<string, string>) => {
+      if (show[id]) open(show[id])
+    }).catch(() => {})
   }, [params]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const photoUrl = useMemo(() => (photo ? URL.createObjectURL(photo) : null), [photo])
@@ -81,7 +88,7 @@ export default function Place() {
     <div>
       <Backdrop images={backdrop} dim={0.78} />
       <main className="mx-auto max-w-6xl px-4 pt-28">
-        <Link to="/" className="mb-6 inline-flex items-center gap-1.5 text-sm text-white/55 hover:text-white"><ArrowLeft size={15} /> Toutes les villes</Link>
+        <Link to="/" className="mb-6 inline-flex items-center gap-1.5 text-sm text-white/55 hover:text-white"><ArrowLeft size={15} /> All places</Link>
 
         {place && (
           <motion.header initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mb-10 grid gap-6 md:grid-cols-[1.4fr_1fr] md:items-end">
@@ -93,13 +100,13 @@ export default function Place() {
               <p className="text-sm leading-relaxed text-white/65">{place.context}</p>
               <div className="mt-4 flex flex-wrap gap-2 text-xs">
                 <button onClick={() => document.getElementById('documentaire')?.scrollIntoView({ behavior: 'smooth', block: 'start' })} className="gold-button inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5 font-semibold">
-                  <Clapperboard size={13} /> Documentaire
+                  <Clapperboard size={13} /> Documentary
                 </button>
                 <a href={`https://www.google.com/maps/search/?api=1&query=${place.lat},${place.lon}`} target="_blank" rel="noreferrer" className="glass glass-button inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5">
                   <Map size={13} /> Google Maps
                 </a>
                 <a href={`https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${place.lat},${place.lon}`} target="_blank" rel="noreferrer" className="glass glass-button inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5">
-                  <View size={13} /> Street View aujourd'hui
+                  <View size={13} /> Street View today
                 </a>
               </div>
             </div>
@@ -113,7 +120,7 @@ export default function Place() {
               <CompareViewer before={result.current} after={result.reconstruction} size={result.size} tags={result.tags} year={result.year} sourceTitles={titles} alternatives={result.nearest} />
             ) : (
               <div className="glass relative aspect-[4/3] overflow-hidden rounded-[28px]">
-                {selectedCurrent && <img src={selectedCurrent} alt="Vue actuelle" className="h-full w-full object-cover" />}
+                {selectedCurrent && <img src={selectedCurrent} alt="Today's view" className="h-full w-full object-cover" />}
                 <AnimatePresence>
                   {running && (
                     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0">
@@ -124,7 +131,7 @@ export default function Place() {
                         transition={{ duration: 2.4, repeat: Infinity, ease: 'easeInOut' }}
                       />
                       <div className="glass absolute bottom-4 left-4 right-4 rounded-2xl px-4 py-3 text-sm text-white/85">
-                        {events[events.length - 1]?.message ?? "L'agent se met au travail…"}
+                        {events[events.length - 1]?.message ?? 'The agent is getting to work…'}
                       </div>
                     </motion.div>
                   )}
@@ -134,17 +141,17 @@ export default function Place() {
 
             {!result && place && (
               <div className="glass rounded-[28px] p-4">
-                <p className="mb-3 text-xs uppercase tracking-widest text-white/45">Vue de départ</p>
+                <p className="mb-3 text-xs uppercase tracking-widest text-white/45">Starting view</p>
                 <div className="scrollbar-thin flex gap-2 overflow-x-auto pb-1">
                   <label className={`flex h-20 w-28 shrink-0 cursor-pointer flex-col items-center justify-center gap-1 rounded-2xl text-xs transition ${photo ? 'bg-gold/15 text-gold ring-1 ring-gold/60' : 'bg-black/25 text-white/60 hover:text-white'}`}>
                     <input type="file" accept="image/*" capture="environment" className="hidden" onChange={e => setPhoto(e.target.files?.[0] ?? null)} />
-                    <Camera size={18} /> Ma photo
+                    <Camera size={18} /> My photo
                   </label>
                   <button onClick={() => setRephotoOpen(true)} className="flex h-20 w-28 shrink-0 flex-col items-center justify-center gap-1 rounded-2xl bg-black/25 text-xs text-white/60 transition hover:text-white">
-                    <ScanLine size={18} /> Retrouver l'angle
+                    <ScanLine size={18} /> Find the angle
                   </button>
                   <button onClick={() => { setPhoto(null); setCurrentId('auto') }} className={`flex h-20 w-28 shrink-0 flex-col items-center justify-center gap-1 rounded-2xl text-xs transition ${!photo && currentId === 'auto' ? 'bg-gold/15 text-gold ring-1 ring-gold/60' : 'bg-black/25 text-white/60 hover:text-white'}`}>
-                    <Wand2 size={18} /> Meilleur angle
+                    <Wand2 size={18} /> Best angle
                   </button>
                   {place.currents.map(c => (
                     <button key={c.id} onClick={() => { setPhoto(null); setCurrentId(c.id) }} className={`relative h-20 w-28 shrink-0 overflow-hidden rounded-2xl transition ${!photo && currentId === c.id ? 'ring-2 ring-gold' : 'opacity-60 hover:opacity-100'}`} title={c.title}>
@@ -160,7 +167,7 @@ export default function Place() {
           <div className="space-y-4">
             <div className="glass glass-strong rounded-[28px] p-5">
               <div className="flex items-baseline justify-between">
-                <p className="text-xs uppercase tracking-widest text-white/45">Époque visée</p>
+                <p className="text-xs uppercase tracking-widest text-white/45">Target year</p>
                 <span className="font-serif text-5xl text-gold-soft">{year}</span>
               </div>
               <input
@@ -168,26 +175,26 @@ export default function Place() {
                 onChange={e => setYear(Number(e.target.value))}
                 className="timeline mt-4"
                 style={{ ['--fill' as string]: `${fill}%` }}
-                aria-label="Année"
+                aria-label="Year"
               />
               <div className="mt-1 flex justify-between font-mono text-[11px] text-white/35"><span>{MIN_YEAR}</span><span>{MAX_YEAR}</span></div>
               <button onClick={launch} disabled={running || !place} className="gold-button mt-5 flex w-full items-center justify-center gap-2 rounded-full px-5 py-3.5 text-sm font-semibold">
-                <Wand2 size={16} /> {running ? "L'agent travaille…" : result ? 'Relancer le voyage' : 'Remonter le temps'}
+                <Wand2 size={16} /> {running ? 'The agent is working…' : result ? 'Travel again' : 'Travel back in time'}
               </button>
               {error && <p className="mt-3 text-sm text-red-300">{error}</p>}
             </div>
 
             {(events.length > 0 || running) && (
               <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} className="glass rounded-[28px] p-4">
-                <p className="mb-2 px-2 text-xs uppercase tracking-widest text-white/45">Journal de l'agent</p>
+                <p className="mb-2 px-2 text-xs uppercase tracking-widest text-white/45">Agent log</p>
                 <AgentTimeline events={events} />
               </motion.div>
             )}
 
             {!events.length && place && (
               <div className="glass rounded-[28px] p-5 text-sm text-white/65">
-                <p className="font-medium text-white">{place.n_archives} documents d'archives</p>
-                <p className="mt-1">Choisissez une vue actuelle (ou prenez votre photo), une année, puis lancez l'agent. Il vous montrera chaque étape.</p>
+                <p className="font-medium text-white">{place.n_archives} archival documents</p>
+                <p className="mt-1">Pick today's view (or take your own photo), choose a year, then launch the agent. It will show you every step.</p>
               </div>
             )}
           </div>
@@ -210,8 +217,8 @@ export default function Place() {
         {place && (
           <section className="mt-16">
             <div className="mb-5 flex items-end justify-between">
-              <h2 className="font-serif text-4xl">Le corpus</h2>
-              <button onClick={() => setContribOpen(true)} className="glass glass-button rounded-full px-4 py-2 text-sm">Contribuer</button>
+              <h2 className="font-serif text-4xl">The corpus</h2>
+              <button onClick={() => setContribOpen(true)} className="glass glass-button rounded-full px-4 py-2 text-sm">Contribute</button>
             </div>
             <div className="columns-2 gap-3 md:columns-4">
               {[...place.contributions, ...place.archives].map(a => (
@@ -220,7 +227,7 @@ export default function Place() {
                   <div className="px-1.5 py-2 text-xs">
                     <p className="line-clamp-2 text-white/80">{a.title}</p>
                     <p className="mt-0.5 flex items-center gap-1 text-white/40">
-                      {a.year ?? 's.d.'} · {a.verified === false ? <span className="text-guess">non vérifié</span> : a.license}
+                      {a.year ?? 'n.d.'} · {a.verified === false ? <span className="text-guess">unverified</span> : a.license}
                       <ExternalLink size={10} className="ml-auto opacity-0 transition group-hover:opacity-100" />
                     </p>
                   </div>

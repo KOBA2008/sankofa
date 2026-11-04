@@ -10,15 +10,15 @@ import { Cited } from '../components/ResultPanel'
 import { api, countriesApi, type AgentEvent, type Chronicle, type Country as CountryT } from '../lib/api'
 
 const STEPS = [
-  { id: 'lecture', label: 'Lecture des sources', icon: BookOpenText },
-  { id: 'extraction', label: 'Extraction des événements datés', icon: FileSearch },
-  { id: 'recoupement', label: 'Recoupement entre sources', icon: GitCompare },
-  { id: 'lacunes', label: 'Repérage des lacunes', icon: AlertTriangle },
-  { id: 'illustration', label: "Photos d'époque", icon: Camera },
-  { id: 'recit', label: 'Récit sourcé', icon: Feather },
+  { id: 'lecture', label: 'Reading the sources', icon: BookOpenText },
+  { id: 'extraction', label: 'Extracting dated events', icon: FileSearch },
+  { id: 'recoupement', label: 'Cross-checking sources', icon: GitCompare },
+  { id: 'lacunes', label: 'Finding gaps', icon: AlertTriangle },
+  { id: 'illustration', label: 'Period photos', icon: Camera },
+  { id: 'recit', label: 'Cited narrative', icon: Feather },
 ]
 
-const fmt = (y: number | null) => (y === null ? '' : y < 0 ? `${-y} av. J.-C.` : String(y))
+const fmt = (y: number | null) => (y === null ? '' : y < 0 ? `${-y} BC` : String(y))
 
 export default function Country() {
   const { id = '' } = useParams()
@@ -54,7 +54,7 @@ export default function Country() {
     if (speaking) { synth.cancel(); setSpeaking(false); announceMedia(false); return }
     const text = chron.chapters.map(c => `${c.title}. ${c.narrative.replace(/\[S\d+\]/g, '')}`).join(' ')
     const u = new SpeechSynthesisUtterance(text)
-    u.lang = 'fr-FR'; u.rate = 0.97; u.onend = () => { setSpeaking(false); announceMedia(false) }
+    u.lang = 'en-US'; u.rate = 0.97; u.onend = () => { setSpeaking(false); announceMedia(false) }
     synth.speak(u); setSpeaking(true); announceMedia(true)
   }
 
@@ -72,32 +72,32 @@ export default function Country() {
     <div>
       <Backdrop images={backdrop} dim={0.8} />
       <main className="mx-auto max-w-6xl px-4 pt-28">
-        <Link to="/pays" className="mb-6 inline-flex items-center gap-1.5 text-sm text-white/55 hover:text-white"><ArrowLeft size={15} /> Tous les pays</Link>
+        <Link to="/pays" className="mb-6 inline-flex items-center gap-1.5 text-sm text-white/55 hover:text-white"><ArrowLeft size={15} /> All countries</Link>
 
         {country && (
           <motion.header initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mb-10">
-            <p className="font-mono text-xs uppercase tracking-[0.25em] text-gold">Chronique · {country.old_names.slice(0, 2).join(' · ')}</p>
+            <p className="font-mono text-xs uppercase tracking-[0.25em] text-gold">Chronicle · {country.old_names.slice(0, 2).join(' · ')}</p>
             <h1 className="mt-2 flex items-center gap-4 font-serif text-6xl leading-none md:text-8xl">{country.name} <span className="text-5xl">{country.flag}</span></h1>
             {chron && (
               <div className="mt-6 flex flex-wrap gap-2 text-sm">
-                {chron.stats.span && <Stat value={`${chron.stats.span[0]} – ${chron.stats.span[1]}`} label="période couverte" />}
-                <Stat value={chron.stats.chapters} label="chapitres" />
-                <Stat value={chron.stats.events} label="événements cités" />
-                <Stat value={`${Math.round(chron.stats.share * 100)} %`} label="recoupés par une 2e source" />
+                {chron.stats.span && <Stat value={`${chron.stats.span[0]} – ${chron.stats.span[1]}`} label="period covered" />}
+                <Stat value={chron.stats.chapters} label="chapters" />
+                <Stat value={chron.stats.events} label="events quoted" />
+                <Stat value={`${Math.round(chron.stats.share * 100)}%`} label="corroborated by a 2nd source" />
               </div>
             )}
             <div className="mt-6 flex flex-wrap gap-2">
               <button onClick={launch} disabled={running} className="gold-button inline-flex items-center gap-2 rounded-full px-6 py-3 text-sm font-semibold">
-                <Wand2 size={16} /> {running ? "L'agent lit les sources…" : chron ? 'Reconstituer à nouveau' : "Reconstituer l'histoire"}
+                <Wand2 size={16} /> {running ? 'The agent is reading the sources…' : chron ? 'Rebuild again' : 'Rebuild the history'}
               </button>
               {chron && (
                 <button onClick={() => document.getElementById('documentaire')?.scrollIntoView({ behavior: 'smooth', block: 'start' })} className="glass glass-button inline-flex items-center gap-2 rounded-full px-5 py-3 text-sm">
-                  <Clapperboard size={15} /> Documentaire
+                  <Clapperboard size={15} /> Documentary
                 </button>
               )}
               {chron && (
                 <button onClick={speak} className="glass glass-button inline-flex items-center gap-2 rounded-full px-5 py-3 text-sm">
-                  {speaking ? <Pause size={15} /> : <Play size={15} />} Écouter la chronique
+                  {speaking ? <Pause size={15} /> : <Play size={15} />} Listen to the chronicle
                 </button>
               )}
             </div>
@@ -107,7 +107,7 @@ export default function Country() {
 
         {(running || events.length > 0) && (
           <div className="glass mb-10 max-w-xl rounded-[28px] p-4">
-            <p className="mb-2 px-2 text-xs uppercase tracking-widest text-white/45">Journal de l'agent</p>
+            <p className="mb-2 px-2 text-xs uppercase tracking-widest text-white/45">Agent log</p>
             <AgentTimeline events={events} steps={STEPS} />
           </div>
         )}
@@ -115,13 +115,13 @@ export default function Country() {
         {chron && (
           <>
             <div id="documentaire" className="mb-14 scroll-mt-24">
-              <DocumentaryPlayer key={chron.run} kind="country" id={id} title={`${chron.country.name}, une histoire racontée par ses sources`} />
+              <DocumentaryPlayer key={chron.run} kind="country" id={id} title={`${chron.country.name}, a history told by its sources`} />
             </div>
 
             <div className="mb-8 flex flex-wrap items-center gap-4 text-xs text-white/55">
-              <span className="flex items-center gap-1.5"><CheckCircle2 size={14} className="text-proof" /> recoupé : une source écrite par d'autres auteurs cite la même date et le même nom</span>
-              <span className="flex items-center gap-1.5"><span className="h-2 w-2 rounded-full bg-guess" /> source unique : à vérifier</span>
-              {chron.engines.narrative === 'local' && <span className="flex items-center gap-1.5"><ScrollText size={14} /> mode local : récit composé d'extraits</span>}
+              <span className="flex items-center gap-1.5"><CheckCircle2 size={14} className="text-proof" /> corroborated: a source written by other authors cites the same date and the same name</span>
+              <span className="flex items-center gap-1.5"><span className="h-2 w-2 rounded-full bg-guess" /> single source: needs checking</span>
+              {chron.engines.narrative === 'local' && <span className="flex items-center gap-1.5"><ScrollText size={14} /> local mode: story built from excerpts</span>}
             </div>
 
             <ol className="relative space-y-6 border-l border-white/10 pl-6 md:pl-10">
@@ -152,11 +152,11 @@ export default function Country() {
                           <li key={`${e.year}-${e.text.slice(0, 20)}`} className="flex gap-3 rounded-2xl bg-black/25 p-3">
                             <span className="h-fit shrink-0 rounded-full bg-white/10 px-2.5 py-1 font-mono text-xs text-gold-soft">{e.label}</span>
                             <div className="min-w-0 flex-1 text-sm">
-                              <p className="italic text-white/80">« {e.text} »</p>
+                              <p className="italic text-white/80">“{e.text}”</p>
                               <div className="mt-1.5 flex flex-wrap items-center gap-3 text-xs">
                                 {e.corroborated
-                                  ? <span className="flex items-center gap-1 text-proof"><CheckCircle2 size={12} /> recoupé</span>
-                                  : <span className="flex items-center gap-1 text-guess"><span className="h-1.5 w-1.5 rounded-full bg-guess" /> source unique</span>}
+                                  ? <span className="flex items-center gap-1 text-proof"><CheckCircle2 size={12} /> corroborated</span>
+                                  : <span className="flex items-center gap-1 text-guess"><span className="h-1.5 w-1.5 rounded-full bg-guess" /> single source</span>}
                                 {sourceUrl(e.source) && (
                                   <a href={sourceUrl(e.source)} target="_blank" rel="noreferrer" className="flex items-center gap-1 text-white/45 hover:text-gold">S{e.source} <ExternalLink size={10} /></a>
                                 )}
@@ -166,7 +166,7 @@ export default function Country() {
                         ))}
                       </ul>
                     )}
-                    <p className="mt-3 text-right font-mono text-[11px] text-white/30">chapitre {i + 1}</p>
+                    <p className="mt-3 text-right font-mono text-[11px] text-white/30">chapter {i + 1}</p>
                   </article>
                 </motion.li>
               ))}
@@ -174,7 +174,7 @@ export default function Country() {
 
             {chron.gaps.length > 0 && (
               <section className="mt-14">
-                <h2 className="mb-4 font-serif text-4xl">Ce que les sources ne disent pas</h2>
+                <h2 className="mb-4 font-serif text-4xl">What the sources don't say</h2>
                 <div className="grid gap-3 md:grid-cols-2">
                   {chron.gaps.map(g => (
                     <div key={g.text} className="flex gap-3 rounded-2xl bg-guess/8 p-4 ring-1 ring-guess/25">
@@ -205,8 +205,8 @@ export default function Country() {
 
         {country && !chron && !running && events.length === 0 && (
           <div className="glass max-w-xl rounded-[28px] p-6 text-sm text-white/70">
-            Cette chronique n'a pas encore été reconstituée. Lancez l'agent : il lit les sources en français et en anglais,
-            puis construit la frise en quelques dizaines de secondes.
+            This chronicle hasn't been rebuilt yet. Launch the agent: it reads the sources in French and English,
+            then builds the timeline in a few dozen seconds.
           </div>
         )}
       </main>

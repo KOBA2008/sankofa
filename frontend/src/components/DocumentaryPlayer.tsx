@@ -4,7 +4,7 @@ import {
   Square, Volume2, VolumeX,
 } from 'lucide-react'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import { api } from '../lib/api'
+import { API_BASE, api } from '../lib/api'
 import { announceMedia } from './AmbientMusic'
 
 export type Scene = {
@@ -35,6 +35,7 @@ export type Storyboard = {
 
 type Size = 'petit' | 'moyen' | 'cinema'
 const WIDTHS: Record<Size, string> = { petit: 'max-w-2xl', moyen: 'max-w-4xl', cinema: 'max-w-none' }
+const SIZE_LABELS: Record<Size, string> = { petit: 'small', moyen: 'medium', cinema: 'cinema' }
 const SIZE_KEY = 'sankofa.player.size'
 
 function readSize(): Size {
@@ -71,7 +72,7 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
     if (seed !== undefined) q.set('seed', String(seed))
     if (run) q.set('run', run)
     setError(null)
-    fetch(`/api/documentary/${kind}/${id}?${q}`)
+    fetch(`${API_BASE}/api/documentary/${kind}/${id}?${q}`)
       .then(async r => { if (!r.ok) throw new Error((await r.json()).detail); return r.json() })
       .then((b: Storyboard) => { setBoard(b); setVideo(null) })
       .catch(e => setError(e.message))
@@ -144,7 +145,7 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
     fd.append('seed', String(board.seed))
     if (run) fd.append('run', run)
     try {
-      const r = await fetch(`/api/documentary/${kind}/${id}/video`, { method: 'POST', body: fd })
+      const r = await fetch(`${API_BASE}/api/documentary/${kind}/${id}/video`, { method: 'POST', body: fd })
       if (!r.ok) throw new Error((await r.json()).detail)
       const { run_id } = await r.json()
       stopExport.current = api.stream(run_id, ev => {
@@ -195,7 +196,7 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
         </div>
 
         {!started && board && (
-          <button onClick={play} className="absolute inset-0 flex items-center justify-center bg-black/30" aria-label="Lire le documentaire">
+          <button onClick={play} className="absolute inset-0 flex items-center justify-center bg-black/30" aria-label="Play the documentary">
             <span className="gold-button flex items-center justify-center rounded-full" style={{ width: 'max(56px, 9cqw)', height: 'max(56px, 9cqw)' }}>
               <Play style={{ width: '38%', height: '38%' }} />
             </span>
@@ -209,11 +210,11 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
           <div className={`absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/85 via-black/40 to-transparent px-3 pb-2 pt-10 transition-opacity duration-300 ${showControls ? 'opacity-100' : 'opacity-0'}`}>
             <Progress board={board} starts={starts} elapsed={elapsed} onSeek={seekTo} />
             <div className="mt-1.5 flex items-center gap-1 text-white">
-              <IconBtn label="Plan précédent" onClick={() => jump(-1)}><SkipBack size={18} /></IconBtn>
-              <IconBtn label={playing ? 'Pause (espace)' : 'Lecture (espace)'} onClick={toggle}>{playing ? <Pause size={20} /> : <Play size={20} />}</IconBtn>
-              <IconBtn label="Plan suivant" onClick={() => jump(1)}><SkipForward size={18} /></IconBtn>
+              <IconBtn label="Previous shot" onClick={() => jump(-1)}><SkipBack size={18} /></IconBtn>
+              <IconBtn label={playing ? 'Pause (space)' : 'Play (space)'} onClick={toggle}>{playing ? <Pause size={20} /> : <Play size={20} />}</IconBtn>
+              <IconBtn label="Next shot" onClick={() => jump(1)}><SkipForward size={18} /></IconBtn>
               <div className="group/vol flex items-center">
-                <IconBtn label={muted ? 'Activer le son (m)' : 'Couper le son (m)'} onClick={() => setMuted(m => !m)}>{muted || volume === 0 ? <VolumeX size={18} /> : <Volume2 size={18} />}</IconBtn>
+                <IconBtn label={muted ? 'Unmute (m)' : 'Mute (m)'} onClick={() => setMuted(m => !m)}>{muted || volume === 0 ? <VolumeX size={18} /> : <Volume2 size={18} />}</IconBtn>
                 <input
                   type="range" min={0} max={1} step={0.05} value={muted ? 0 : volume} aria-label="Volume"
                   onChange={e => { setVolume(Number(e.target.value)); setMuted(false) }}
@@ -225,11 +226,11 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
               {scene && <span className="ml-3 hidden truncate text-xs text-white/60 sm:inline">· {currentChapter(board, index)}</span>}
               <div className="ml-auto flex items-center gap-1">
                 {!fullscreen && (['petit', 'moyen', 'cinema'] as const).map(s => (
-                  <IconBtn key={s} label={`Taille : ${s === 'cinema' ? 'cinéma' : s}`} onClick={() => changeSize(s)} active={size === s}>
+                  <IconBtn key={s} label={`Size: ${SIZE_LABELS[s]}`} onClick={() => changeSize(s)} active={size === s}>
                     {s === 'petit' ? <Square size={13} /> : s === 'moyen' ? <Square size={17} /> : <RectangleHorizontal size={20} />}
                   </IconBtn>
                 ))}
-                <IconBtn label={fullscreen ? 'Quitter le plein écran (f)' : 'Plein écran (f)'} onClick={toggleFullscreen}>{fullscreen ? <Minimize size={18} /> : <Maximize size={18} />}</IconBtn>
+                <IconBtn label={fullscreen ? 'Exit full screen (f)' : 'Full screen (f)'} onClick={toggleFullscreen}>{fullscreen ? <Minimize size={18} /> : <Maximize size={18} />}</IconBtn>
               </div>
             </div>
           </div>
@@ -243,16 +244,16 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
             <div className="min-w-0">
               <h2 className="font-serif text-3xl leading-tight">{title}</h2>
               <p className="mt-1 text-sm text-white/55">
-                Documentaire · {fmt(board.total)} · {board.scenes.length} plans · archives et texte à l'écran
+                Documentary · {fmt(board.total)} · {board.scenes.length} shots · archives and on-screen text
               </p>
             </div>
             <div className="flex flex-wrap items-center gap-2">
-              <button onClick={reshuffle} className="glass glass-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm"><Shuffle size={14} /> Autre musique</button>
+              <button onClick={reshuffle} className="glass glass-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm"><Shuffle size={14} /> Different music</button>
               {video ? (
-                <a href={video} download className="gold-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm font-semibold"><Download size={14} /> Télécharger le MP4</a>
+                <a href={video} download className="gold-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm font-semibold"><Download size={14} /> Download the MP4</a>
               ) : (
                 <button onClick={exportVideo} disabled={exporting !== null} className="gold-button inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-sm font-semibold">
-                  {exporting !== null ? <><Loader2 size={14} className="animate-spin" /> Montage {Math.round(exporting * 100)} %</> : <><Download size={14} /> Exporter en MP4</>}
+                  {exporting !== null ? <><Loader2 size={14} className="animate-spin" /> Rendering {Math.round(exporting * 100)}%</> : <><Download size={14} /> Export as MP4</>}
                 </button>
               )}
             </div>
@@ -265,15 +266,15 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
                   <Music2 size={15} className="mt-0.5 shrink-0 text-gold" />
                   <span>
                     <span className="text-white/90">{board.music.title}</span>
-                    <span className="block text-xs text-white/45">{board.music.artist || 'Interprète non crédité'} · {board.music.license} ·{' '}
-                      <a href={board.music.page_url} target="_blank" rel="noreferrer" className="underline decoration-white/20 hover:text-gold">notice</a>
+                    <span className="block text-xs text-white/45">{board.music.artist || 'Uncredited performer'} · {board.music.license} ·{' '}
+                      <a href={board.music.page_url} target="_blank" rel="noreferrer" className="underline decoration-white/20 hover:text-gold">record</a>
                     </span>
                   </span>
                 </p>
               )}
               <p className="mt-3 text-xs leading-relaxed text-white/45">
-                Raccourcis : espace lecture/pause · ← → plan précédent/suivant · f plein écran · m son.
-                Aucune image n'est inventée : chaque photo porte sa date et sa source au générique.
+                Shortcuts: space play/pause · ← → previous/next shot · f full screen · m sound.
+                No image is made up: every photo is credited with its date and source in the closing credits.
               </p>
             </div>
             <ol className="scrollbar-thin max-h-56 space-y-0.5 overflow-auto pr-1">
@@ -406,7 +407,7 @@ function SceneView({ scene, index, playing }: { scene: Scene; index: number; pla
               <p className="font-serif text-gold-soft" style={{ fontSize: '5.4cqw', lineHeight: 1 }}>{scene.year}</p>
               {scene.badge && (
                 <span
-                  className={`shrink-0 rounded-full ${scene.badge === 'recoupé' ? 'bg-proof/20 text-proof' : scene.badge === 'source unique' ? 'bg-guess/20 text-guess' : 'bg-white/12 text-white/80'}`}
+                  className={`shrink-0 rounded-full ${scene.badge === 'recoupé' || scene.badge === 'corroborated' ? 'bg-proof/20 text-proof' : scene.badge === 'source unique' || scene.badge === 'single source' ? 'bg-guess/20 text-guess' : 'bg-white/12 text-white/80'}`}
                   style={{ fontSize: 'max(10px, 1.2cqw)', padding: '0.35cqw 1cqw' }}
                 >
                   ● {scene.badge}{scene.source ? ` · ${scene.source}` : ''}
@@ -416,7 +417,7 @@ function SceneView({ scene, index, playing }: { scene: Scene; index: number; pla
             {scene.type === 'compare' && scene.title && <p className="font-serif italic" style={{ fontSize: '2.8cqw', marginTop: '0.8cqw' }}>{scene.title}</p>}
             {scene.text && (
               <p className="font-medium text-white/95 [text-shadow:0_1px_12px_rgba(0,0,0,.6)]" style={{ fontSize: 'max(13px, 2.05cqw)', lineHeight: 1.45, marginTop: '1.2cqw' }}>
-                « {scene.text} »
+                “{scene.text}”
               </p>
             )}
           </motion.div>
@@ -433,7 +434,7 @@ function SceneView({ scene, index, playing }: { scene: Scene; index: number; pla
             <ul className="text-white/70" style={{ fontSize: 'max(9px, 1.15cqw)', lineHeight: 1.6, marginTop: '1.2cqw' }}>
               {scene.lines?.map(l => <li key={l} className="truncate">{l}</li>)}
             </ul>
-            <p className="font-mono text-gold" style={{ fontSize: 'max(9px, 1.1cqw)', marginTop: '1.5cqw' }}>SANKOFA · aucune image n'a été inventée</p>
+            <p className="font-mono text-gold" style={{ fontSize: 'max(9px, 1.1cqw)', marginTop: '1.5cqw' }}>SANKOFA · no image was made up</p>
           </motion.div>
         )}
       </div>

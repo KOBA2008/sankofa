@@ -45,7 +45,7 @@ def _duration(text: str) -> float:
 def country_storyboard(country_id: str, seed: int | None = None) -> dict:
     chron = chronicle.cached(country_id)
     if not chron:
-        raise ValueError("Chronique pas encore reconstituée pour ce pays.")
+        raise ValueError("This country's chronicle has not been built yet.")
     country = COUNTRIES[country_id]
     photos = [p for c in chron["chapters"] for p in c["photos"]]
     # réserves d'images pour les chapitres sans photo d'époque : archives et vues actuelles des lieux du pays
@@ -57,7 +57,7 @@ def country_storyboard(country_id: str, seed: int | None = None) -> dict:
         new_pool += [{"image": "/media/places/" + c["path"], "year": c["year"], "title": c["title"],
                       "license": c["license"], "where": PLACES[pid]["city"]} for c in m["currents"][:6]]
     scenes = [{"type": "title", "image": photos[0]["image"] if photos else None, "title": country["name"],
-               "subtitle": "Une histoire racontée seulement par ses sources",
+               "subtitle": "A history told only by its sources",
                "eyebrow": " · ".join(country["old_names"][:2]), "duration": 5.5}]
     for c in chron["chapters"]:
         if not c["events"]:
@@ -75,10 +75,10 @@ def country_storyboard(country_id: str, seed: int | None = None) -> dict:
             j = (i + 1) % len(imgs) if imgs else 0
             scenes.append({"type": "event", "image": imgs[j] if imgs else None, "year": e["label"],
                            "caption": caps[j] if caps else None,
-                           "text": text, "badge": "recoupé" if e["corroborated"] else "source unique",
+                           "text": text, "badge": "corroborated" if e["corroborated"] else "single source",
                            "source": f"S{e['source']}", "duration": _duration(text)})
     if chron["gaps"]:
-        scenes.append({"type": "gap", "image": None, "title": "Ce que les sources ne disent pas",
+        scenes.append({"type": "gap", "image": None, "title": "What the sources leave out",
                        "text": _trim(chron["gaps"][0]["text"], 200), "duration": 6.0})
     credits = [f"S{s['n']} · {s['title']} ({s['license']})" for s in chron["sources"]]
     credits += [f"Photo {p['year']} · {clean_title(p['title'])[:70]} ({p['license']})" for p in photos + old_pool[:4] + new_pool[:4]]
@@ -94,10 +94,10 @@ def place_storyboard(place_id: str, run_id: str | None = None, seed: int | None 
         result = json.loads(path.read_text()) if path.exists() else None
     current = result["current"] if result else ("/media/places/" + m["currents"][0]["path"] if m["currents"] else None)
     scenes = [{"type": "title", "image": current, "title": place["city"], "subtitle": place["name"],
-               "eyebrow": f"{place['country']} · aujourd'hui", "duration": 5.0}]
+               "eyebrow": f"{place['country']} · today", "duration": 5.0}]
     if result:
         scenes.append({"type": "compare", "image": result["current"], "image_b": result["reconstruction"],
-                       "year": f"vers {result['year']}", "title": "La vue d'aujourd'hui se dissout dans le passé",
+                       "year": f"around {result['year']}", "title": "Today's view dissolves into the past",
                        "duration": 6.5})
     archives = sorted(m["archives"][:12], key=lambda a: a["year"])
     from . import history
@@ -107,25 +107,25 @@ def place_storyboard(place_id: str, run_id: str | None = None, seed: int | None 
         events = [events[round(i * (len(events) - 1) / 8)] for i in range(9)]
     if events:
         scenes.append({"type": "chapter", "image": "/media/places/" + archives[0]["path"] if archives else None,
-                       "title": "Son histoire", "year": f"{events[0]['label']} – {events[-1]['label']}",
+                       "title": "Its history", "year": f"{events[0]['label']} – {events[-1]['label']}",
                        "caption": f"Photo {archives[0]['year']}" if archives else None, "duration": 4.0})
         for i, e in enumerate(events):
             a = archives[(i + 1) % len(archives)] if archives else None
             text = _trim(e["text"])
             scenes.append({"type": "event", "image": "/media/places/" + a["path"] if a else None, "year": e["label"],
                            "caption": f"Photo {a['year']}" if a else None, "text": text,
-                           "badge": "recoupé" if e["corroborated"] else "source unique", "source": "Wikipédia",
+                           "badge": "corroborated" if e["corroborated"] else "single source", "source": "Wikipedia",
                            "duration": _duration(text)})
         scenes.append({"type": "chapter", "image": "/media/places/" + archives[-1]["path"] if archives else None,
-                       "title": "Les archives", "year": f"{archives[0]['year']} – {archives[-1]['year']}" if archives else "",
+                       "title": "The archives", "year": f"{archives[0]['year']} – {archives[-1]['year']}" if archives else "",
                        "duration": 3.5})
     for a in archives:
         text = _trim(clean_title(a["title"]), 140)
         scenes.append({"type": "event", "image": "/media/places/" + a["path"], "year": str(a["year"]),
                        "text": text, "badge": a["license"], "source": a.get("source", ""), "duration": 5.0})
-    scenes.append({"type": "gap", "image": None, "title": "Le lieu", "text": _trim(place["context"], 220), "duration": 7.0})
+    scenes.append({"type": "gap", "image": None, "title": "The place", "text": _trim(place["context"], 220), "duration": 7.0})
     credits = [f"{a['year']} · {clean_title(a['title'])[:70]} ({a['license']}, {a.get('source', '')})" for a in archives]
-    credits = [f"{s['title']} · Wikipédia ({s['license']})" for s in hist.get("sources", [])] + credits
+    credits = [f"{s['title']} · Wikipedia ({s['license']})" for s in hist.get("sources", [])] + credits
     return _finish({"kind": "place", "id": place_id, "title": place["city"], "scenes": scenes}, credits, seed)
 
 
@@ -133,7 +133,7 @@ def _finish(board: dict, credits: list[str], seed: int | None) -> dict:
     seed = seed if seed is not None else random.randrange(1_000_000)
     track = music.pick(seed)
     if track:
-        credits.append(f"Musique · {track['title']} · {track['artist'] or 'interprète non crédité'} ({track['license']})")
+        credits.append(f"Music · {track['title']} · {track['artist'] or 'performer not credited'} ({track['license']})")
     board["scenes"].append({"type": "credits", "image": None, "title": "Sources", "lines": credits[:18],
                             "duration": min(14.0, 5.0 + len(credits) * 0.45)})
     board["music"] = track
@@ -233,7 +233,7 @@ def _overlay(scene: dict) -> np.ndarray:
             d.text((x, 510 + i * 80), line, font=f, fill=WHITE)
     elif t in ("event", "compare"):
         f = _font("Inter-Variable.ttf", 30, 500)
-        lines = _wrap(d, f"« {scene['text']} »" if t == "event" else "", f, W - 2 * x)[:5]
+        lines = _wrap(d, f"“{scene['text']}”" if t == "event" else "", f, W - 2 * x)[:5]
         y = H - 80 - len(lines) * 42 - (40 if t == "compare" else 0)
         _shadowed(d, (x, y - 92), scene.get("year", ""), _font("InstrumentSerif-Regular.ttf", 72), GOLD)
         if t == "compare":
@@ -241,7 +241,7 @@ def _overlay(scene: dict) -> np.ndarray:
         for i, line in enumerate(lines):
             _shadowed(d, (x, y + i * 43), line, f, WHITE)
         if scene.get("badge"):
-            color = GREEN if scene["badge"] == "recoupé" else AMBER if scene["badge"] == "source unique" else MUTED
+            color = GREEN if scene["badge"] == "corroborated" else AMBER if scene["badge"] == "single source" else MUTED
             bf = _font("Inter-Variable.ttf", 20, 500)
             label = f"● {scene['badge']}" + (f"   {scene['source']}" if scene.get("source") else "")
             d.text((W - x - d.textlength(label, font=bf), y - 60), label, font=bf, fill=color)
@@ -258,7 +258,7 @@ def _overlay(scene: dict) -> np.ndarray:
         f = _font("Inter-Variable.ttf", 18, 400)
         for i, line in enumerate(scene["lines"][:18]):
             d.text((x, 160 + i * 28), textwrap.shorten(line, 120, placeholder="…"), font=f, fill=MUTED)
-        d.text((x, H - 60), "SANKOFA · aucune image n'a été inventée", font=_font("JetBrainsMono-Variable.ttf", 18), fill=GOLD)
+        d.text((x, H - 60), "SANKOFA · no image was invented", font=_font("JetBrainsMono-Variable.ttf", 18), fill=GOLD)
     return np.array(img)
 
 
@@ -311,21 +311,21 @@ def render_mp4(board: dict, out: Path, log=lambda *_: None) -> Path:
         proc.stdin.close()
     finally:
         if proc.wait() != 0:
-            raise RuntimeError("ffmpeg a échoué")
+            raise RuntimeError("ffmpeg failed")
     return out
 
 
 def make_video(kind: str, key: str, seed: int | None, run_id: str | None):
     def pipeline(run):
-        run.emit("storyboard", "running", "Je découpe l'histoire en plans.")
+        run.emit("storyboard", "running", "I cut the story into shots.")
         board = country_storyboard(key, seed) if kind == "country" else place_storyboard(key, run_id, seed)
         run.emit("storyboard", "done", f"{len(board['scenes'])} plans, {board['total']} s, musique : "
                  f"{board['music']['title'] if board['music'] else 'aucune'}.")
-        run.emit("rendu", "running", "Je monte la vidéo image par image.")
+        run.emit("rendu", "running", "I assemble the video frame by frame.")
         out = VIDEOS_DIR / f"{kind}-{key}-{board['seed']}.mp4"
         total = len(board["scenes"])
         render_mp4(board, out, log=lambda k, s: run.emit("rendu", "log", f"Plan {k + 1}/{total} : {s['type']}",
                                                          progress=round(k / total, 2)))
-        run.emit("rendu", "done", f"Vidéo prête ({out.stat().st_size // 1_000_000} Mo).")
+        run.emit("rendu", "done", f"Video ready ({out.stat().st_size // 1_000_000} MB).")
         return {"video": f"/media/videos/{out.name}", "board": board}
     return pipeline

@@ -1,7 +1,7 @@
 {
  "country": {
   "id": "etats-unis",
-  "name": "États-Unis",
+  "name": "United States",
   "flag": "🇺🇸",
   "fr": "Histoire des États-Unis",
   "en": "History of the United States",
@@ -17,488 +17,411 @@
  "chapters": [
   {
    "title": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_United_States",
    "source": 1,
-   "summary": "Lorsque les premiers colons anglais arrivent à Jamestown (Virginie) en 1607, le continent américain connait une faible densité de population depuis plusieurs millénaires. Le territoire américain est ensuite colonisé à partir du XVIIe siècle par différentes puissances européennes (Espagne, Royaume-Uni, France (Nouvelle-France)).",
+   "summary": "The history of the United States spans tens of thousands of years of Indigenous civilization; their descendants include but may not be limited to 575 federally recognized tribes. The history of the present-day United States began in 1607 with the establishment of Jamestown in modern-day Virginia by settlers who arrived from the Kingdom of England, and the landing of the Mayflower by English pilgrims to Plymouth in 1620.",
    "events": [
     {
-     "year": 1650,
-     "label": "XVIIe s.",
-     "text": "Le territoire américain est ensuite colonisé à partir du XVIIe siècle par différentes puissances européennes (Espagne, Royaume-Uni, France (Nouvelle-France)).",
+     "year": 1760,
+     "label": "1760",
+     "text": "By the 1760s, the Thirteen Colonies, then part of British America and by extension the Kingdom of Great Britain, were established.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1773,
+     "label": "1773",
+     "text": "After the British victory over the Kingdom of France in the French and Indian Wars, Parliament imposed a series of taxes and issued the Intolerable Acts on the colonies in 1773, which were designed to end self-governance.",
      "source": 1,
      "corroborated": false
     },
     {
      "year": 1775,
      "label": "1775",
-     "text": "La bataille de Lexington (19 avril 1775) est le signal de la rupture et du début de la guerre d'indépendance américaine.",
+     "text": "Tensions between the colonies and British authorities subsequently intensified, leading to the Revolutionary War, which commenced with the Battles of Lexington and Concord on April 19, 1775.",
      "source": 1,
      "corroborated": true
     },
     {
      "year": 1776,
      "label": "1776",
-     "text": "Désireux de s'affranchir de la métropole britannique et de gouverner par eux-mêmes, les colons des Treize colonies proclament leur indépendance en 1776.",
+     "text": "The following year, on July 2, 1776, the Second Continental Congress voted for the Lee Resolution which created the new nation, and on July 4 formalized its independence by issuing the United States Declaration of Independence.",
      "source": 1,
      "corroborated": false
     },
     {
      "year": 1783,
      "label": "1783",
-     "text": "En 1783, le traité de Paris met un terme à la guerre et reconnaît l'indépendance des États-Unis d'Amérique.",
+     "text": "On September 3, 1783, in the Treaty of Paris, the British acknowledged the independence and sovereignty of the Thirteen Colonies, leading to the establishment of the United States.",
      "source": 1,
      "corroborated": true
     },
     {
-     "year": 1787,
-     "label": "1787",
-     "text": "Dès 1787, les Pères fondateurs s'étaient posés la question de l'abolition de l'esclavage, mais jugeant l'esclavage comme une forme de propriété, ils n'avaient rien statué.",
+     "year": 1788,
+     "label": "1788",
+     "text": "In the 1788–89 presidential election, Washington was elected the nation's first president.",
      "source": 1,
-     "corroborated": false
-    },
-    {
-     "year": 1833,
-     "label": "1833",
-     "text": "Les esclavagistes sont sur la défensive, le Royaume-Uni en 1833, la France en 1848, abolissent l'esclavage.",
-     "source": 1,
-     "corroborated": false
+     "corroborated": true
     },
     {
      "year": 1860,
      "label": "1860",
-     "text": "Bien qu'ayant traversé une guerre civile au début des années 1860, la jeune république se développe rapidement grâce à l'afflux d'immigrés européens au XIXe siècle.",
+     "text": "Following the election of Abraham Lincoln as the nation's 16th president in the 1860 presidential election, southern states seceded and formed the pro-slavery Confederate States of America.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 1861,
-     "label": "1861",
-     "text": "Ces derniers constituent, en février 1861, un nouvel État indépendant, les États confédérés avec Jefferson Davis comme président et Alex Stephens de Georgie comme vice-président.",
+     "year": 1865,
+     "label": "1865",
+     "text": "However, the Union's victory at the Battle of Gettysburg, the deadliest battle in American military history with over 50,000 casualties, proved a turning point in the war, leading to the Union's victory in 1865, which preserved the nation.",
      "source": 1,
      "corroborated": false
     },
     {
-     "year": 1862,
-     "label": "1862",
-     "text": "Après avoir interdit l'esclavage dans le district de Columbia et dans les Territoires, le président annonce en septembre 1862, l'émancipation des esclaves dans les États rebelles à dater du 1er janvier 1863.",
+     "year": 1952,
+     "label": "1952",
+     "text": "The war led to the US led Allied occupation of Japan until 1952 and the Allied-occupied Germany.",
      "source": 1,
      "corroborated": false
     },
     {
+     "year": 2025,
+     "label": "2025",
+     "text": "Recently, the U.S. withdrew from the war in Afghanistan, intervened in the Russian invasion of Ukraine, and became militarily involved in the Middle Eastern crisis, and both the 2025 and 2026 strikes in Iran during the Twelve-Day War and 2026 Iran War.",
+     "source": 1,
+     "corroborated": false
+    }
+   ],
+   "start": 1760,
+   "end": 2025,
+   "photos": [
+    {
+     "title": "Madison Square post card",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/new-york-flatiron/archive/858fce80b840.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Madison_Square_post_card.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Flat Iron Building, New York, N. Y (NYPL b12647398-66342)",
+     "year": 1898,
+     "license": "Public domain",
+     "image": "/media/places/new-york-flatiron/archive/70b9342dd2bb.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flat_Iron_Building,_New_York,_N._Y_(NYPL_b12647398-66342).tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Flatiron Building Construction",
+     "year": 1901,
+     "license": "Public domain",
+     "image": "/media/places/new-york-flatiron/archive/bb4ae784bb3f.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_Construction.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Flatiron Building under construction, New York City, 1902",
+     "year": 1902,
+     "license": "Public domain",
+     "image": "/media/places/new-york-flatiron/archive/d4a3759526fe.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_under_construction,_New_York_City,_1902.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Flatiron Building (Fuller Building), hoek 23rd Street, Fifth Avenue en Broadway, New York City, RP-F-00-5370-2",
+     "year": 1902,
+     "license": "CC0",
+     "image": "/media/places/new-york-flatiron/archive/561d61f78ce9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_(Fuller_Building),_hoek_23rd_Street,_Fifth_Avenue_en_Broadway,_New_York_City,_RP-F-00-5370-2.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Flatiron Building under construction II, New York City, 1902",
+     "year": 1902,
+     "license": "Public domain",
+     "image": "/media/places/new-york-flatiron/archive/d8c8e4836d38.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_under_construction_II,_New_York_City,_1902.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Flatiron Building NYC c1903",
      "year": 1903,
-     "label": "1903",
-     "text": "En 1903, le Traité Hay-Bunau-Varilla accorde aux États-Unis, en échange de 10 millions de dollars, l'usage perpétuel du canal de Panama et une pleine souveraine sur une zone profonde de huit kilomètres sur chacune de ses rives.",
-     "source": 1,
-     "corroborated": false
-    }
-   ],
-   "start": 1650,
-   "end": 1903,
-   "photos": [
-    {
-     "title": "Flat Iron\" Building, Fifth Avenue and Broadway, New York, N.Y., U.S.A (NYPL b11708059-G91F204 020F)",
-     "year": 1870,
      "license": "Public domain",
-     "image": "/media/places/new-york-flatiron/archive/208ee9a679cc.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Flat_Iron%22_Building,_Fifth_Avenue_and_Broadway,_New_York,_N.Y.,_U.S.A_(NYPL_b11708059-G91F204_020F).jpg",
+     "image": "/media/places/new-york-flatiron/archive/92b89d683d68.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_NYC_c1903.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Flat Iron Building, New York City (NYPL b11708059-G91F204 017B)",
-     "year": 1870,
+     "title": "Stereofotografie, SFA002027574",
+     "year": 1903,
      "license": "Public domain",
-     "image": "/media/places/new-york-flatiron/archive/6452ff463ac3.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Flat_Iron_Building,_New_York_City_(NYPL_b11708059-G91F204_017B).tiff",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Flat Iron Building, New York City (NYPL b11708059-G91F204 017F)",
-     "year": 1870,
-     "license": "Public domain",
-     "image": "/media/places/new-york-flatiron/archive/ea0fbe857685.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Flat_Iron_Building,_New_York_City_(NYPL_b11708059-G91F204_017F).tiff",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "The Flat Iron Building, Fifth Avenue and Broadway, New York, N.Y., U.S.A (NYPL b11708059-G91F204 025F)",
-     "year": 1870,
-     "license": "Public domain",
-     "image": "/media/places/new-york-flatiron/archive/159ed1549f4e.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:The_Flat_Iron_Building,_Fifth_Avenue_and_Broadway,_New_York,_N.Y.,_U.S.A_(NYPL_b11708059-G91F204_025F).tiff",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "'Flat Iron' Building, Fifth Avenue and Broadway, New York, from Robert N. Dennis collection of stereoscopic views",
-     "year": 1870,
-     "license": "Public domain",
-     "image": "/media/places/new-york-flatiron/archive/5e5486032aba.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:%27Flat_Iron%27_Building,_Fifth_Avenue_and_Broadway,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Flat Iron Building, New York City, from Robert N. Dennis collection of stereoscopic views",
-     "year": 1870,
-     "license": "Public domain",
-     "image": "/media/places/new-york-flatiron/archive/c5f27866ed86.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Flat_Iron_Building,_New_York_City,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "The 'Flat Iron' Building, Fifth Avenue and Broadway, New York, from Robert N. Dennis collection of stereoscopic views",
-     "year": 1870,
-     "license": "Public domain",
-     "image": "/media/places/new-york-flatiron/archive/6f7d976855dc.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:The_%27Flat_Iron%27_Building,_Fifth_Avenue_and_Broadway,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "From Flatiron Bldg. N.E. past Madison Sq. Garden to Queensboro Bridge, N.Y, from Robert N. Dennis collection of stereoscopic views",
-     "year": 1862,
-     "license": "Public domain",
-     "image": "/media/places/new-york-flatiron/archive/1201fd63c493.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:From_Flatiron_Bldg._N.E._past_Madison_Sq._Garden_to_Queensboro_Bridge,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+     "image": "/media/places/new-york-flatiron/archive/4de1566962f2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Stereofotografie,_SFA002027574.jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Lorsque les premiers colons anglais arrivent à Jamestown en 1607, le continent américain connaît une faible densité de population depuis plusieurs millénaires [S1]. Il est ensuite colonisé à partir du XVIIe siècle par l'Espagne, le Royaume-Uni et la France (Nouvelle-France) [S1]. La bataille de Lexington le 19 avril 1775 déclenche la guerre d'indépendance [S1], les Treize colonies proclament leur indépendance en 1776 [S1] et le traité de Paris de 1783 la reconnaît [S1]. Dès 1787 les Pères fondateurs débattent de l'abolition sans statuer, jugeant l'esclavage comme une forme de propriété [S1]. Ces extraits ne reflètent qu'un point de vue centré sur les colons et les puissances européennes."
+   "narrative": "The history of the United States spans tens of thousands of years of Indigenous civilization, whose descendants include but may not be limited to 575 federally recognized tribes [S1]. The history of the present-day United States began in 1607 with the establishment of Jamestown in modern-day Virginia by settlers who arrived from the Kingdom of England [S1]. By the 1760s, the Thirteen Colonies were established as part of British America [S1]. After the British victory in the French and Indian Wars, Parliament imposed taxes and issued the Intolerable Acts in 1773, and tensions led to the Revolutionary War commencing with the Battles of Lexington and Concord on April 19, 1775 [S1]. The Second Continental Congress voted for the Lee Resolution on July 2, 1776 and formalized independence with the Declaration of Independence on July 4, which was acknowledged in the Treaty of Paris on September 3, 1783 [S1]. The excerpts reflect a primarily U.S.-centered point of view [S1]."
   },
   {
-   "title": "De 1918 à 1945",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1918_à_1945",
+   "title": "Indigenous period",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_United_States#Indigenous_period",
    "source": 2,
-   "summary": "Les États-Unis sortent très largement renforcés de la Première Guerre mondiale. L'Europe détruite et ruinée, ils renforcent leur domination économique, et deviennent même un centre de la culture mondiale dans les années 1920.",
+   "summary": "It is not definitively known how or when Native Americans first settled the Americas. The prevailing theory proposes that people from Eurasia followed game across Beringia, a land bridge that connected Siberia to present-day Alaska during the Ice Age, and then spread southward, perhaps as early as 30,000 years ago.",
    "events": [
     {
-     "year": 1920,
-     "label": "1920",
-     "text": "L'Europe détruite et ruinée, ils renforcent leur domination économique, et deviennent même un centre de la culture mondiale dans les années 1920.",
+     "year": 1624,
+     "label": "1624",
+     "text": "In 1624, after years of disease and Indian attacks, including the Powhatan attack of 1622, King James I revoked the Virginia Company's charter and made Virginia a royal colony.",
      "source": 2,
      "corroborated": false
     },
     {
-     "year": 1929,
-     "label": "1929",
-     "text": "Cependant, la crise de 1929 remet en cause le modèle américain, et les réponses du New Deal restent insuffisantes, les États-Unis ne retrouvant la prospérité que, et ce paradoxalement, grâce au déclenchement de la Seconde Guerre mondiale, au cours de laquelle ils triomphent de l'Axe.",
+     "year": 1637,
+     "label": "1637",
+     "text": "Native American attacks continued, with the most significant occurring in the 1637 Pequot War and the 1675 King Philip's War.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1655,
+     "label": "1655",
+     "text": "It was incorporated into New Netherland in 1655 after a Dutch invasion from the neighboring New Netherland colony during the Second Northern War.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1664,
+     "label": "1664",
+     "text": "The colony was taken over by Britain as New York in 1664 and its capital was renamed New York City.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1732,
+     "label": "1732",
+     "text": "The Georgia Colony was established by James Oglethorpe in 1732 as a border to Spanish Florida and a reform colony for former prisoners and the poor.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1754,
+     "label": "1754",
+     "text": "The French and Indian War (1754–1763), part of the larger Seven Years' War, was a watershed event in the political development of the colonies.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1763,
+     "label": "1763",
+     "text": "The war effort also resulted in greater political integration of the colonies, as reflected in the Albany Congress and symbolized by Benjamin Franklin's call for the colonies to \"Join, or Die.\" King George III issued the Royal Proclamation of 1763, to organize the new North American empire and protect the Native Americans from colonial expansion west of the Appalachian Mountains.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1765,
+     "label": "1765",
+     "text": "The British Parliament passed the Stamp Act of 1765, imposing a tax on the colonies without going through the colonial legislatures.",
      "source": 2,
      "corroborated": true
     },
     {
-     "year": 1945,
-     "label": "1945",
-     "text": "Leur victoire fait d'eux en 1945 l'un des deux Supergrands, avec l'Union soviétique.",
+     "year": 1778,
+     "label": "1778",
+     "text": "Europeans under the British explorer James Cook arrived in the Hawaiian Islands in 1778, and within five years of contact, European military technology would help Kamehameha I conquer most of the island group, and eventually unify the islands for the first time, establishing the Hawaiian Kingdom.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1782,
+     "label": "1782",
+     "text": "King George III formally ordered the end of hostilities on December 5, 1782, recognizing American independence.",
      "source": 2,
      "corroborated": false
     }
    ],
-   "start": 1920,
-   "end": 1945,
-   "photos": [
-    {
-     "title": "The New York Idea (1920) - 2",
-     "year": 1921,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/The_New_York_Idea_%281920%29_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:The_New_York_Idea_(1920)_-_2.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "The New York Idea (1920) - 3",
-     "year": 1921,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_New_York_Idea_%281920%29_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:The_New_York_Idea_(1920)_-_3.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "15,000 At Statue Honor Joan Of Arc in the New York Times on 16 May 1920",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/15%2C000_At_Statue_Honor_Joan_Of_Arc_in_the_New_York_Times_on_16_May_1920.png/960px-15%2C000_At_Statue_Honor_Joan_Of_Arc_in_the_New_York_Times_on_16_May_1920.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:15,000_At_Statue_Honor_Joan_Of_Arc_in_the_New_York_Times_on_16_May_1920.png",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Caricature of Wang Lianying by Thomas Machamer, New York Tribune, 1920-10-03, p5",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Caricature_of_Wang_Lianying_by_Thomas_Machamer%2C_New_York_Tribune%2C_1920-10-03%2C_p5.jpg/960px-Caricature_of_Wang_Lianying_by_Thomas_Machamer%2C_New_York_Tribune%2C_1920-10-03%2C_p5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Caricature_of_Wang_Lianying_by_Thomas_Machamer,_New_York_Tribune,_1920-10-03,_p5.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Curb brokers in Wall Street, New York City, 1920",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Curb_brokers_in_Wall_Street%2C_New_York_City%2C_1920.jpg/960px-Curb_brokers_in_Wall_Street%2C_New_York_City%2C_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Curb_brokers_in_Wall_Street,_New_York_City,_1920.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Dr. John A. Freudenberg, M.D. (1882-1979) in the New-York Tribune of New York City, New York on 14 January 1920",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dr._John_A._Freudenberg%2C_M.D._%281882-1979%29_in_the_New-York_Tribune_of_New_York_City%2C_New_York_on_14_January_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Dr._John_A._Freudenberg,_M.D._(1882-1979)_in_the_New-York_Tribune_of_New_York_City,_New_York_on_14_January_1920.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Finds Saloon Men Are More Cautious on June 15, 1920 in the New York Times",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Finds_Saloon_Men_Are_More_Cautious_on_June_15%2C_1920_in_the_New_York_Times.png/960px-Finds_Saloon_Men_Are_More_Cautious_on_June_15%2C_1920_in_the_New_York_Times.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Finds_Saloon_Men_Are_More_Cautious_on_June_15,_1920_in_the_New_York_Times.png",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Joan of Arc celebration in the New York Herald of New York City, New York on 16 May 1920",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Joan_of_Arc_celebration_in_the_New_York_Herald_of_New_York_City%2C_New_York_on_16_May_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Joan_of_Arc_celebration_in_the_New_York_Herald_of_New_York_City,_New_York_on_16_May_1920.jpg",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "Les États-Unis sortent très largement renforcés de la Première Guerre mondiale [S2]. L'Europe étant détruite et ruinée, ils renforcent leur domination économique et deviennent un centre de la culture mondiale dans les années 1920 [S2]. Cependant, la crise de 1929 remet en cause le modèle américain [S2]. Les réponses du New Deal restent insuffisantes et les États-Unis ne retrouvent la prospérité que grâce au déclenchement de la Seconde Guerre mondiale, au cours de laquelle ils triomphent de l'Axe [S2]. Leur victoire fait d'eux en 1945 l'un des deux Supergrands avec l'Union soviétique [S2]. Ces extraits présentent un récit centré sur les États-Unis [S2]."
+   "start": 1624,
+   "end": 1782,
+   "photos": [],
+   "narrative": "It is not definitively known how or when Native Americans first settled the Americas [S2]. The prevailing theory proposes that people from Eurasia followed game across Beringia, a land bridge that connected Siberia to present-day Alaska during the Ice Age, and then spread southward, perhaps as early as 30,000 years ago [S2]. The excerpts provided reflect a colonial point of view, describing events such as King James I revoking the Virginia Company's charter in 1624 after years of disease and Indian attacks including the Powhatan attack of 1622 [S2]. They also note Native American attacks in the 1637 Pequot War and the 1675 King Philip's War [S2]."
   },
   {
-   "title": "De 1945 à 1964",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1945_à_1964",
+   "title": "Early republic (1793–1830)",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_United_States#Early_republic_(1793–1830)",
    "source": 3,
-   "summary": "Les États-Unis sont un des grands pays victorieux de la Seconde Guerre mondiale, avec l'URSS. Très vite, les relations entre les deux grands vont se dégrader, les deux pays n'ayant rien à voir au niveau idéologique.",
+   "summary": "The national capital moved from New York to Philadelphia in 1790 and finally, in 1800, to Washington, D.C. The major accomplishment of the Washington Administration was the creation of a strong national government that was recognized by all Americans.",
    "events": [
     {
-     "year": 1947,
-     "label": "1947",
-     "text": "En 1947, dans le cadre de la doctrine Truman, les États-Unis lancent le plan Marshall, pour contrer l'expansion du communisme en Europe.",
+     "year": 1800,
+     "label": "1800",
+     "text": "Slave rebellions by Gabriel Prosser (1800), Denmark Vesey (1822) and Nat Turner (1831), caused fear in the white South, where stricter oversight of slaves was imposed, and the rights of free Black people were reduced.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1812,
+     "label": "1812",
+     "text": "Though the war had ended inconclusively and the U.S. had achieved few of war aims laid out in 1812, Jackson's victory at New Orleans led pro-war Americans to call it a \"second war of independence\"; the War of 1812 contributed to an emerging American identity that cemented national pride over state pride.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1815,
+     "label": "1815",
+     "text": "In upstate New York, a major British invasion of New York State was repelled at the Battle of Plattsburgh, and Jackson decisively defeated another invasion at the Battle of New Orleans in early 1815.",
      "source": 3,
      "corroborated": true
     },
     {
-     "year": 1949,
-     "label": "1949",
-     "text": "Le 20 janvier 1949, le président Harry Truman prononce son discours sur l'état de l'Union.",
+     "year": 1845,
+     "label": "1845",
+     "text": "After a bitter debate in Congress, the Republic of Texas was annexed in 1845, leading to the Mexican–American War.",
      "source": 3,
      "corroborated": false
     },
     {
-     "year": 1954,
-     "label": "1954",
-     "text": "Guerre de Corée Débarquement de la baie des Cochons Crise des fusées à Cuba Assassinat de Kennedy Mouvement des droits civiques aux États-Unis depuis 1954 Histoire des États-Unis de 1964 à 1980",
+     "year": 1848,
+     "label": "1848",
+     "text": "The central issue after 1848 was the expansion of slavery, with the anti-slavery elements in the North pitted against the pro-slavery elements in the South.",
      "source": 3,
      "corroborated": false
     },
     {
-     "year": 1964,
-     "label": "1964",
-     "text": "En 1964, les États-Unis font la guerre du Viêt Nam.",
+     "year": 1854,
+     "label": "1854",
+     "text": "The Missouri Compromise was repealed in 1854 with the Kansas–Nebraska Act; promoted by Stephen Douglas in the name of \"popular sovereignty\" and democracy, this act of Congress permitted voters to decide on the legality of slavery in each territory, and repealed the Missouri Compromise of 1820, which explicitly banned slavery in this territory.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1863,
+     "label": "1863",
+     "text": "In perhaps the turning point of the war, Lee's army was badly beaten by the Army of the Potomac, and in July 1863, the Union's victory at the Battle of Gettysburg in Pennsylvania, the deadliest battle in American military history with over 50,000 casualties, proved a turning point in the war.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1914,
+     "label": "1914",
+     "text": "As World War I raged in Europe from 1914, President Woodrow Wilson declared neutrality, but warned Germany that resumption of unrestricted submarine warfare against American ships would mean war.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1994,
+     "label": "1994",
+     "text": "Conservative Republicans heavily won the 1994 midterm elections in a \"Republican Revolution\", which was built around the Contract with America policy agenda.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "text": "In November 2024, Trump was elected president to a nonconsecutive second term, becoming the second U.S. president to serve two nonconsecutive terms, after Grover Cleveland in 1892.",
      "source": 3,
      "corroborated": false
     }
    ],
-   "start": 1947,
-   "end": 1964,
+   "start": 1800,
+   "end": 2024,
    "photos": [
     {
-     "title": "New York Yanks Media Guide, 1950",
-     "year": 1950,
+     "title": "Madison Square post card",
+     "year": 1900,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/New_York_Yanks_Media_Guide%2C_1950.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:New_York_Yanks_Media_Guide,_1950.png",
+     "image": "/media/places/new-york-flatiron/archive/858fce80b840.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Madison_Square_post_card.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "1950 - Hotel Washington - 13 May MC - Allentown PA",
-     "year": 1950,
+     "title": "Flat Iron Building, New York, N. Y (NYPL b12647398-66342)",
+     "year": 1898,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1950_-_Hotel_Washington_-_13_May_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1950_-_Hotel_Washington_-_13_May_MC_-_Allentown_PA.jpg",
+     "image": "/media/places/new-york-flatiron/archive/70b9342dd2bb.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flat_Iron_Building,_New_York,_N._Y_(NYPL_b12647398-66342).tiff",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Boating on Lake Washington, 1950 (43741664441)",
-     "year": 1950,
-     "license": "CC BY 2.0",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Boating_on_Lake_Washington%2C_1950_%2843741664441%29.jpg/960px-Boating_on_Lake_Washington%2C_1950_%2843741664441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Boating_on_Lake_Washington,_1950_(43741664441).jpg",
+     "title": "Flatiron Building Construction",
+     "year": 1901,
+     "license": "Public domain",
+     "image": "/media/places/new-york-flatiron/archive/bb4ae784bb3f.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_Construction.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "George Wilhelm Bean (1875-1950) funeral notice in the Evening Star of Washington, DC on Monday, November 20, 1950",
-     "year": 1950,
+     "title": "Flatiron Building under construction, New York City, 1902",
+     "year": 1902,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/George_Wilhelm_Bean_%281875-1950%29_funeral_notice_in_the_Evening_Star_of_Washington%2C_DC_on_Monday%2C_November_20%2C_1950.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:George_Wilhelm_Bean_(1875-1950)_funeral_notice_in_the_Evening_Star_of_Washington,_DC_on_Monday,_November_20,_1950.png",
+     "image": "/media/places/new-york-flatiron/archive/d4a3759526fe.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_under_construction,_New_York_City,_1902.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Judge Pickrell Mansion, Colfax, Washington, 1950 - DPLA - ceaa6af4cc4531a5f4589eb47e1c6352",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Judge_Pickrell_Mansion%2C_Colfax%2C_Washington%2C_1950_-_DPLA_-_ceaa6af4cc4531a5f4589eb47e1c6352.jpg/960px-Judge_Pickrell_Mansion%2C_Colfax%2C_Washington%2C_1950_-_DPLA_-_ceaa6af4cc4531a5f4589eb47e1c6352.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Judge_Pickrell_Mansion,_Colfax,_Washington,_1950_-_DPLA_-_ceaa6af4cc4531a5f4589eb47e1c6352.jpg",
+     "title": "Flatiron Building (Fuller Building), hoek 23rd Street, Fifth Avenue en Broadway, New York City, RP-F-00-5370-2",
+     "year": 1902,
+     "license": "CC0",
+     "image": "/media/places/new-york-flatiron/archive/561d61f78ce9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_(Fuller_Building),_hoek_23rd_Street,_Fifth_Avenue_en_Broadway,_New_York_City,_RP-F-00-5370-2.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Mary Ann Hunter (1924-1950) Lindauer in the Washington Missourian of Washington, Missouri on March 16, 1950",
-     "year": 1950,
+     "title": "Flatiron Building under construction II, New York City, 1902",
+     "year": 1902,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mary_Ann_Hunter_%281924-1950%29_Lindauer_in_the_Washington_Missourian_of_Washington%2C_Missouri_on_March_16%2C_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Mary_Ann_Hunter_(1924-1950)_Lindauer_in_the_Washington_Missourian_of_Washington,_Missouri_on_March_16,_1950.jpg",
+     "image": "/media/places/new-york-flatiron/archive/d8c8e4836d38.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_under_construction_II,_New_York_City,_1902.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Seal of Washington County, Maryland (1950–1988)",
-     "year": 1950,
+     "title": "Flatiron Building NYC c1903",
+     "year": 1903,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Seal_of_Washington_County%2C_Maryland_%281950%E2%80%931988%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Seal_of_Washington_County,_Maryland_(1950%E2%80%931988).png",
+     "image": "/media/places/new-york-flatiron/archive/92b89d683d68.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_NYC_c1903.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Washington Park results of 2-Sep-1950",
-     "year": 1950,
+     "title": "Stereofotografie, SFA002027574",
+     "year": 1903,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Washington_Park_results_of_2-Sep-1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Washington_Park_results_of_2-Sep-1950.jpg",
+     "image": "/media/places/new-york-flatiron/archive/4de1566962f2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Stereofotografie,_SFA002027574.jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Les États-Unis sont l'un des pays victorieux de la Seconde Guerre mondiale avec l'URSS, mais leurs relations se dégradent vite en raison de divergences idéologiques [S3]. En 1947, dans le cadre de la doctrine Truman, les États-Unis lancent le plan Marshall pour contrer l'expansion du communisme en Europe [S3]. Le 20 janvier 1949, le président Harry Truman prononce son discours sur l'état de l'Union [S3]. Les extraits associent à 1954 les intitulés Guerre de Corée, débarquement de la baie des Cochons, crise des fusées à Cuba, assassinat de Kennedy, mouvement des droits civiques aux États-Unis depuis 1954 et Histoire des États-Unis de 1964 à 1980 [S3]. En 1964, les États-Unis font la guerre du Viêt Nam [S3]. Ces extraits reflètent uniquement un point de vue centré sur les États-Unis [S3]."
-  },
-  {
-   "title": "De 1964 à 1980",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1964_à_1980",
-   "source": 4,
-   "summary": "Cette période de guerre froide est également marquée par l'abolition de la ségrégation raciale, l'assassinat de plusieurs grandes personnes s'étant battues pour les droits civiques (Robert Kennedy, Martin Luther King…). En 1969, avec le programme Apollo, le premier homme marche sur la Lune, et il s'agit d'un Américain, Neil Armstrong.",
-   "events": [
-    {
-     "year": 1964,
-     "label": "1964",
-     "text": "Henry Kissinger Guerre du Viêt Nam Montée du féminisme Civil Rights Act de 1964 posant les bases de l'intégration raciale Montée de la contreculture hippie Apollo 11 se pose sur la Lune Scandale du Watergate",
-     "source": 4,
-     "corroborated": true
-    },
-    {
-     "year": 1969,
-     "label": "1969",
-     "text": "En 1969, avec le programme Apollo, le premier homme marche sur la Lune, et il s'agit d'un Américain, Neil Armstrong.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1970,
-     "label": "1970",
-     "text": "Dans les années 1970, le scandale du Watergate éclate, remettant en cause le gouvernement américain.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1975,
-     "label": "1975",
-     "text": "En 1975, le pays perd la guerre du Viêt Nam, qui leur aura été couteuse.",
-     "source": 4,
-     "corroborated": false
-    }
-   ],
-   "start": 1964,
-   "end": 1975,
-   "photos": [],
-   "narrative": "De 1964 à 1980, la guerre froide marque les États-Unis [S4]. Cette période est marquée par l'abolition de la ségrégation raciale et l'assassinat de plusieurs grandes personnes s'étant battues pour les droits civiques comme Robert Kennedy et Martin Luther King [S4]. Le Civil Rights Act de 1964 pose les bases de l'intégration raciale, tandis que se développent la montée du féminisme et la montée de la contreculture hippie [S4]. En 1969, avec le programme Apollo, Apollo 11 se pose sur la Lune et Neil Armstrong devient le premier homme à y marcher [S4]. Le pays s'engage dans la guerre du Viêt Nam qu'il perd en 1975, puis le scandale du Watergate éclate dans les années 1970 [S4]. Les extraits proposés reflètent un point de vue centré sur les États-Unis [S4]."
-  },
-  {
-   "title": "Depuis 1980",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#Depuis_1980",
-   "source": 5,
-   "summary": "Cette période est marquée par la chute de l'URSS en 1991. Les États-Unis se retrouvent comme seule hyperpuissance, dominant le monde, la culture américaine s'élargit à travers le monde, y compris dans les ex-pays communistes.",
-   "events": [
-    {
-     "year": 1990,
-     "label": "1990",
-     "text": "En 1990, les États-Unis se lancent dans la guerre du Golfe, pour libérer le Koweït.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1991,
-     "label": "1991",
-     "text": "Cette période est marquée par la chute de l'URSS en 1991.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 2001,
-     "label": "2001",
-     "text": "Le 11 septembre 2001, les États-Unis sont attaqués pour la première fois depuis la Seconde Guerre mondiale sur leur territoire.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 2007,
-     "label": "2007",
-     "text": "En 2007, une crise financière touche le pays puis l'Europe.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 2009,
-     "label": "2009",
-     "text": "L'arrivée au pouvoir d'un afro-américain (Barack Obama) en 2009 est également une première.",
-     "source": 5,
-     "corroborated": true
-    }
-   ],
-   "start": 1990,
-   "end": 2009,
-   "photos": [],
-   "narrative": "Depuis 1980, la période est marquée par la chute de l'URSS en 1991 [S5]. Les États-Unis se retrouvent comme seule hyperpuissance, dominant le monde, et la culture américaine s'élargit à travers le monde, y compris dans les ex-pays communistes [S5]. En 1990, les États-Unis se lancent dans la guerre du Golfe pour libérer le Koweït [S5]. Le 11 septembre 2001, les États-Unis sont attaqués pour la première fois depuis la Seconde Guerre mondiale sur leur territoire [S5]. En 2007, une crise financière touche le pays puis l'Europe [S5]. L'arrivée au pouvoir d'un afro-américain, Barack Obama, en 2009 est également une première [S5]. Il est à noter que les extraits fournis reflètent uniquement un point de vue centré sur les États-Unis."
+   "narrative": "The national capital moved from New York to Philadelphia in 1790 and finally to Washington, D.C., in 1800 [S3]. The major accomplishment of the Washington Administration was the creation of a strong national government that was recognized by all Americans [S3]. In 1800 slave rebellions by Gabriel Prosser, Denmark Vesey in 1822 and Nat Turner in 1831 caused fear in the white South where stricter oversight of slaves was imposed and the rights of free Black people were reduced [S3]. Though the War of 1812 ended inconclusively the U.S. had achieved few of its war aims, Jackson's victory at New Orleans led pro-war Americans to call it a second war of independence that cemented national pride over state pride [S3]. The provided excerpts reflect a single U.S.-centered point of view [S3]."
   }
  ],
  "sources": [
   {
    "n": 1,
-   "title": "Histoire des États-Unis › Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
-   "lang": "fr",
+   "title": "History of the United States › Introduction",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_United_States",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 2,
-   "title": "Histoire des États-Unis › De 1918 à 1945",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1918_à_1945",
-   "lang": "fr",
+   "title": "History of the United States › Indigenous period",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_United_States#Indigenous_period",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 3,
-   "title": "Histoire des États-Unis › De 1945 à 1964",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1945_à_1964",
-   "lang": "fr",
+   "title": "History of the United States › Early republic (1793–1830)",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_United_States#Early_republic_(1793–1830)",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 4,
-   "title": "Histoire des États-Unis › De 1964 à 1980",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#De_1964_à_1980",
+   "title": "Histoire des États-Unis",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
    "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 5,
-   "title": "Histoire des États-Unis › Depuis 1980",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis#Depuis_1980",
-   "lang": "fr",
-   "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
-  },
-  {
-   "n": 6,
-   "title": "History of the United States",
-   "url": "https://en.wikipedia.org/wiki/History_of_the_United_States",
-   "lang": "en",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
@@ -506,22 +429,22 @@
  "gaps": [
   {
    "from": null,
-   "to": 1650,
-   "text": "Avant 1650, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": 1624,
+   "text": "Before 1624, history is not dated in these sources: oral traditions, archaeology and local sources are still to be brought in."
   }
  ],
  "stats": {
-  "chapters": 5,
-  "events": 26,
-  "corroborated": 6,
+  "chapters": 3,
+  "events": 30,
+  "corroborated": 7,
   "share": 0.23,
   "span": [
-   "1650",
-   "2009"
+   "1624",
+   "2025"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "85fb53765b"
+ "run": "f6a5da279f"
 }

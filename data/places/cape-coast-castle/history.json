@@ -13,6 +13,14 @@
  ],
  "events": [
   {
+   "year": 200,
+   "label": "200",
+   "text": "Maclean was charged with putting an end to slave trading and did so along 300 km (200 mi) of the West African coast.",
+   "section": "Notable governors",
+   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Notable_governors",
+   "corroborated": false
+  },
+  {
    "year": 1555,
    "label": "1555",
    "text": "It was originally a Portuguese \"feitoria\" or trading post, established in 1555, which was named Cabo Corso, meaning \"Short Cape.\" In 1653, a timber fort was constructed by the Swedish Africa Company.",
@@ -37,33 +45,9 @@
    "corroborated": false
   },
   {
-   "year": 1655,
-   "label": "1655",
-   "text": "Caerloff returned to Europe in 1655, leaving Johann Philipp von Krusenstjerna in charge of Carolusborg.",
-   "section": "Building history",
-   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Building_history",
-   "corroborated": false
-  },
-  {
-   "year": 1657,
-   "label": "1657",
-   "text": "In Amsterdam, he convinced merchants to give a financial injection to the Danish West India Company, for which he set sail to the Gold Coast in 1657, with the goal in mind to capture for Denmark the Swedish lodges and forts he had established himself.",
-   "section": "Building history",
-   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Building_history",
-   "corroborated": false
-  },
-  {
    "year": 1659,
    "label": "1659",
    "text": "The Dutch were able to convince Smit in 1659 of the rumor that Denmark had been conquered by Sweden, upon which Smit rejoined the Dutch West India Company, handing over all Danish possessions to the Dutch.",
-   "section": "Building history",
-   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Building_history",
-   "corroborated": false
-  },
-  {
-   "year": 1661,
-   "label": "1661",
-   "text": "The Danes had in the meantime established another fort, Fort Frederiksborg (1661), just a few hundred meters east from Carolusborg.",
    "section": "Building history",
    "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Building_history",
    "corroborated": false
@@ -77,40 +61,24 @@
    "corroborated": false
   },
   {
+   "year": 1664,
+   "label": "1664",
+   "text": "Although situated perfectly to launch an attack on Carolusborg, the English capture of Carolusborg (1664) during the prelude to the Second Anglo-Dutch War, prevented the Danes from challenging them; the English had reinforced the fort, which they named Cape Coast Castle, to such an extent that even Dutch Admiral Michiel de Ruyter deemed it impossible to conquer.",
+   "section": "Building history",
+   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Building_history",
+   "corroborated": false
+  },
+  {
    "year": 1682,
    "label": "1682",
-   "text": "However, the dungeon is estimated to have been built by 1682.",
+   "text": "At Cape Coast Castle, in January 1682, nine chests of corn were allocated daily for feeding the eight \"chain slaves,\" in addition to one-fifth a bushel of grain.",
    "section": "Living conditions",
    "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Living_conditions",
-   "corroborated": false
-  },
-  {
-   "year": 1683,
-   "label": "1683",
-   "text": "In June 1683, Cape Coast Castle had six chests of corn and an inability to acquire corn in the local market lead to its prisoners starving.",
-   "section": "Living conditions",
-   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Living_conditions",
-   "corroborated": false
-  },
-  {
-   "year": 1689,
-   "label": "1689",
-   "text": "In 1689, the pirate Duncan Mackintosh was hanged at the Castle with a few of his crew, though he would not be the last pirate hanged at the fort.",
-   "section": "Building history",
-   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Building_history",
-   "corroborated": false
-  },
-  {
-   "year": 1722,
-   "label": "1722",
-   "text": "In 1722, the fort was the site where 54 men of the crew of the pirate Bartholomew Roberts were condemned to death, of whom 52 were hanged and two reprieved.",
-   "section": "Building history",
-   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Building_history",
    "corroborated": false
   },
   {
    "year": 1750,
-   "label": "18e s.",
+   "label": "18th c.",
    "text": "The keeping of the slaves thus underground is a good security to the garrison against any insurrection.\" In the first decade of the 18th century, Cape Coast Castle was determined to be overcrowded.",
    "section": "Living conditions",
    "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Living_conditions",
@@ -130,6 +98,38 @@
    "text": "In 1777, the African Company of Merchants at Cape Coast Castle experienced stagnation by attempting to lower the price of slaves.",
    "section": "Introduction",
    "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle",
+   "corroborated": false
+  },
+  {
+   "year": 1824,
+   "label": "1824",
+   "text": "In 1824, British Governor Sir Charles MacCarthy, was defeated by the Ashanti army, committed suicide, and his skull was taken back to the Ashanti capital Kumasi where it was reportedly used as a drinking cup.",
+   "section": "Notable governors",
+   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Notable_governors",
+   "corroborated": false
+  },
+  {
+   "year": 1830,
+   "label": "1830",
+   "text": "George Maclean was President of the Committee of Merchants at Cape Coast Castle from 1830 until 1844, a period when a President rather than a Governor ruled the British in the Gold Coast.",
+   "section": "Notable governors",
+   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Notable_governors",
+   "corroborated": false
+  },
+  {
+   "year": 1831,
+   "label": "1831",
+   "text": "He also made peace with the Ashanti (Treaty of 1831), instituted a judicial system still in use in many African democracies, and encouraged successful and fair trading.",
+   "section": "Notable governors",
+   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Notable_governors",
+   "corroborated": false
+  },
+  {
+   "year": 1846,
+   "label": "1846",
+   "text": "From 1846–1850, Governor William Winniett was also active in ending the slave trade.",
+   "section": "Notable governors",
+   "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle#Notable_governors",
    "corroborated": false
   },
   {

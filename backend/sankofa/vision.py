@@ -112,15 +112,15 @@ def segment_scene(img: np.ndarray) -> list[Segment]:
 
     segments = []
     if sky.sum() > 0.02 * h * w:
-        segments.append(Segment("sky", "ciel", sky, _bbox(sky)))
+        segments.append(Segment("sky", "sky", sky, _bbox(sky)))
     for i in range(len(cuts) - 1):
         m = np.zeros((h, w), bool)
         m[:, cuts[i]:cuts[i + 1]] = True
         m &= built
         if m.sum() > 0.02 * h * w:
-            segments.append(Segment(f"building-{i + 1}", "bâti", m, _bbox(m)))
+            segments.append(Segment(f"building-{i + 1}", "building", m, _bbox(m)))
     if ground.sum() > 0.02 * h * w:
-        segments.append(Segment("ground", "rue / sol", ground, _bbox(ground)))
+        segments.append(Segment("ground", "street", ground, _bbox(ground)))
     return segments
 
 

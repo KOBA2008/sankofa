@@ -17,7 +17,7 @@ export function RephotoModal({ open, archives, onClose, onCapture }: { open: boo
     let s: MediaStream | null = null
     navigator.mediaDevices?.getUserMedia({ video: { facingMode: 'environment', width: { ideal: 1920 } }, audio: false })
       .then(st => { s = st; setStream(st); if (video.current) video.current.srcObject = st })
-      .catch(() => setError("Caméra inaccessible. Autorisez-la, ou utilisez « Ma photo » avec une image déjà prise."))
+      .catch(() => setError("Camera unavailable. Allow access, or use “My photo” with a picture you already took."))
     return () => { s?.getTracks().forEach(t => t.stop()); setStream(null) }
   }, [open, archives])
 
@@ -41,11 +41,11 @@ export function RephotoModal({ open, archives, onClose, onCapture }: { open: boo
           <div className="relative flex-1 overflow-hidden">
             <video ref={video} autoPlay playsInline muted className="absolute inset-0 h-full w-full object-cover" />
             {ref && <img src={ref.image} alt="" className="pointer-events-none absolute inset-0 h-full w-full object-cover mix-blend-screen" style={{ opacity, filter: 'grayscale(1) contrast(1.2)' }} />}
-            {!stream && !error && <p className="absolute inset-0 flex items-center justify-center text-white/60">Ouverture de la caméra…</p>}
+            {!stream && !error && <p className="absolute inset-0 flex items-center justify-center text-white/60">Opening the camera…</p>}
             {error && <p className="absolute inset-x-6 top-1/2 text-center text-white/75">{error}</p>}
             <div className="glass glass-strong absolute left-4 right-4 top-4 flex items-center gap-3 rounded-full py-2 pl-5 pr-2 text-sm md:left-1/2 md:right-auto md:w-[520px] md:-translate-x-1/2">
-              <span className="text-white/80">Alignez les bâtiments avec l'archive, puis déclenchez.</span>
-              <button onClick={onClose} className="glass glass-button ml-auto flex h-9 w-9 shrink-0 items-center justify-center rounded-full" aria-label="Fermer"><X size={16} /></button>
+              <span className="text-white/80">Line up the buildings with the archive, then take the shot.</span>
+              <button onClick={onClose} className="glass glass-button ml-auto flex h-9 w-9 shrink-0 items-center justify-center rounded-full" aria-label="Close"><X size={16} /></button>
             </div>
           </div>
           <div className="glass glass-strong space-y-3 rounded-t-[28px] p-4">
@@ -57,9 +57,9 @@ export function RephotoModal({ open, archives, onClose, onCapture }: { open: boo
               ))}
             </div>
             <div className="flex items-center gap-4">
-              <span className="text-xs text-white/50">Transparence</span>
+              <span className="text-xs text-white/50">Opacity</span>
               <input type="range" min={0} max={0.9} step={0.05} value={opacity} onChange={e => setOpacity(Number(e.target.value))} className="timeline flex-1" style={{ ['--fill' as string]: `${(opacity / 0.9) * 100}%` }} />
-              <button onClick={capture} disabled={!stream} className="gold-button flex h-14 w-14 items-center justify-center rounded-full" aria-label="Prendre la photo"><Aperture size={22} /></button>
+              <button onClick={capture} disabled={!stream} className="gold-button flex h-14 w-14 items-center justify-center rounded-full" aria-label="Take the photo"><Aperture size={22} /></button>
             </div>
           </div>
         </motion.div>

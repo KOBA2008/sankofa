@@ -26,13 +26,13 @@ from .places import BY_ID
 # SAM 3.1 traite un concept par requête : deux concepts suffisent, le ciel est détecté localement
 CONCEPTS = ["building", "road"]
 STEPS = [
-    ("enquete", "Enquête dans les archives"),
-    ("annotation", "Annotation de la vue actuelle"),
-    ("alignement", "Re-photographie : alignement des archives"),
-    ("style", "Apprentissage du style de la ville"),
-    ("reconstruction", "Reconstruction du passé"),
-    ("evaluation", "Auto-évaluation sur archives cachées"),
-    ("recit", "Récit sourcé du lieu"),
+    ("enquete", "Archive investigation"),
+    ("annotation", "Annotating today's view"),
+    ("alignement", "Re-photography: aligning the archives"),
+    ("style", "Learning the city's style"),
+    ("reconstruction", "Reconstructing the past"),
+    ("evaluation", "Self-evaluation on hidden archives"),
+    ("recit", "Cited story of the place"),
 ]
 
 
@@ -81,7 +81,7 @@ def start_run(place_id: str, year: int | None = None, current: Path | None = Non
     place = BY_ID[place_id]
     manifest = load_manifest(place_id) or {"currents": []}
     if current is None and not manifest["currents"]:
-        raise ValueError("Aucune vue actuelle disponible : envoyez une photo.")
+        raise ValueError("No current view available: please upload a photo.")
     run = Run(uuid.uuid4().hex[:10], place_id, int(year or place["era"]), Path(current) if current else None)
     run.dir.mkdir(parents=True, exist_ok=True)
     RUNS[run.id] = run
@@ -108,11 +108,11 @@ def _execute(run: Run, pipeline=None):
         run.result = (pipeline or _pipeline)(run)
         run.status = "done"
         (run.dir / "result.json").write_text(json.dumps(run.result, ensure_ascii=False, indent=2))
-        run.emit("done", "done", "Terminé.", result=run.result)
+        run.emit("done", "done", "Done.", result=run.result)
     except Exception as exc:
         run.status = "error"
         traceback.print_exc()
-        run.emit("error", "error", f"L'agent s'est arrêté : {exc}")
+        run.emit("error", "error", f"The agent stopped: {exc}")
 
 
 def _pipeline(run: Run) -> dict:
@@ -120,34 +120,34 @@ def _pipeline(run: Run) -> dict:
     engine_text = meta.text_engine
 
     # ------------------------------------------------------------------ 1. enquête
-    run.emit("enquete", "running", f"Je cherche {place['name']} ({place['city']}) autour de {run.year}.")
+    run.emit("enquete", "running", f"Looking for {place['name']} ({place['city']}) around {run.year}.")
     manifest = load_manifest(run.place_id)
     if not manifest or not manifest["archives"]:
         manifest = build_corpus(place, log=lambda m: run.emit("enquete", "log", m))
     archives = [a for a in manifest["archives"] if abs(a["year"] - run.year) <= 45] or manifest["archives"]
     archives.sort(key=lambda a: (abs(a["year"] - run.year) / 10) - a["score"])
     contributions = manifest.get("contributions", [])
-    run.emit("enquete", "log", f"{len(manifest['archives'])} documents d'archives retenus, "
-             f"{len(archives)} proches de {run.year}, {len(contributions)} contributions de la communauté.",
+    run.emit("enquete", "log", f"{len(manifest['archives'])} archive documents kept, "
+             f"{len(archives)} close to {run.year}, {len(contributions)} community contributions.",
              sources=[_source_card(a) for a in archives[:12]])
 
     verdicts = {}
     if meta.text_live:
         for a in archives[:8]:
             v = meta.chat_json(
-                "Tu es archiviste. Réponds en JSON {\"relevant\": bool, \"depicts\": str, \"era_ok\": bool}.",
-                f"Cette image montre-t-elle {place['name']} à {place['city']} vers {run.year} ? "
-                f"Titre d'archive : {a['title']}. Description : {a['description'][:300]}",
+                "You are an archivist. Answer in JSON {\"relevant\": bool, \"depicts\": str, \"era_ok\": bool}.",
+                f"Does this image show {place['name']} in {place['city']} around {run.year}? "
+                f"Archive title: {a['title']}. Description: {a['description'][:300]}",
                 [PLACES_DIR / a["path"]])
             if v:
                 verdicts[a["id"]] = v
         if verdicts:
             archives = [a for a in archives if verdicts.get(a["id"], {}).get("relevant", True)]
-    run.emit("enquete", "done", f"Corpus validé : {len(archives)} documents.",
+    run.emit("enquete", "done", f"Corpus validated: {len(archives)} documents.",
              engine=meta.text_engine if verdicts else "local")
 
     if run.current is None:
-        run.emit("enquete", "log", "Je cherche, parmi les vues actuelles, celle qui retrouve le mieux l'angle des archives.")
+        run.emit("enquete", "log", "Among today's views, I look for the one that best matches the angle of the archives.")
         best, best_score = manifest["currents"][0], 0
         refs = [(PLACES_DIR / a["path"], vision.load_archive(PLACES_DIR / a["path"])) for a in archives]
         for c in manifest["currents"]:
@@ -160,10 +160,10 @@ def _pipeline(run: Run) -> dict:
             detail = re.compile(r"detail|plaque|placa|año|sign|night|nuit|interior|intérieur|neon|close", re.I)
             best = next((c for c in manifest["currents"] if not detail.search(c["title"])), best)
         run.current = PLACES_DIR / best["path"]
-        run.emit("enquete", "log", f"Vue retenue : « {best['title'][:70]} ».")
+        run.emit("enquete", "log", f"Selected view: “{best['title'][:70]}”.")
 
     # ------------------------------------------------------------------ 2. annotation
-    run.emit("annotation", "running", "Je découpe la vue actuelle en éléments (bâtiments, rue, ciel).")
+    run.emit("annotation", "running", "I segment today's view into elements (buildings, street, sky).")
     current = vision.load(run.current)
     cur_path = run.dir / "current.jpg"
     cv2.imwrite(str(cur_path), current, [cv2.IMWRITE_JPEG_QUALITY, 92])
@@ -172,12 +172,12 @@ def _pipeline(run: Run) -> dict:
         segments, seg_engine = vision.masks_from_api(current.shape, api_segs), "meta:sam-3.1"
     else:
         segments, seg_engine = vision.segment_scene(current), "local"
-    run.emit("annotation", "done", f"{len(segments)} éléments isolés.", engine=seg_engine,
+    run.emit("annotation", "done", f"{len(segments)} elements segmented.", engine=seg_engine,
              segments=[{"id": s.id, "label": s.label, "polygon": s.polygon()} for s in segments],
              size=[current.shape[1], current.shape[0]])
 
     # ------------------------------------------------------------------ 3. alignement
-    run.emit("alignement", "running", "Je cherche d'où chaque photographe d'époque a pris sa vue.")
+    run.emit("alignement", "running", "I look for where each period photographer stood.")
     aligned, nearest = [], []
     for a in archives:
         img = vision.load_archive(PLACES_DIR / a["path"])
@@ -186,24 +186,24 @@ def _pipeline(run: Run) -> dict:
         if al.ok:
             warped, valid = vision.warp(img, al.homography, current.shape)
             aligned.append({"doc": a, "img": img, "warped": warped, "valid": valid, "al": al})
-        run.emit("alignement", "log", f"« {clean_title(a['title'])[:60]} » ({a['year']}) : "
-                 + (f"superposable, {al.inliers} points communs" if al.ok else "point de vue différent"),
+        run.emit("alignement", "log", f"“{clean_title(a['title'])[:60]}” ({a['year']}): "
+                 + (f"aligned, {al.inliers} matching points" if al.ok else "different viewpoint"),
                  archive=a["id"], ok=al.ok, inliers=al.inliers)
     aligned.sort(key=lambda x: x["al"].inliers, reverse=True)
-    run.emit("alignement", "done", f"{len(aligned)} archive(s) superposable(s) à la vue actuelle.")
+    run.emit("alignement", "done", f"{len(aligned)} archive(s) aligned with today's view.")
 
     # ------------------------------------------------------------------ 4. style
-    run.emit("style", "running", "J'apprends le rendu photographique de la ville à cette époque.")
+    run.emit("style", "running", "I learn the photographic look of the city at that time.")
     style_imgs = [vision.load_archive(PLACES_DIR / a["path"], 640) for a in archives[:12]]
     profile = vision.style_profile(style_imgs)
     decade = run.year // 10 * 10
     style_path = PLACES_DIR / run.place_id / f"style_{decade}.json"
     style_path.write_text(json.dumps(profile))
-    run.emit("style", "done", f"Profil de style {place['city']} {decade}s appris sur {len(style_imgs)} archives.",
+    run.emit("style", "done", f"Style profile {place['city']} {decade}s learned from {len(style_imgs)} archives.",
              tint=profile["tint"], contrast=round(profile["contrast"], 2), grain=round(profile["grain"], 1))
 
     # ------------------------------------------------------------------ 5. reconstruction
-    run.emit("reconstruction", "running", "Je reconstruis la scène : les archives d'abord, l'imagination ensuite.")
+    run.emit("reconstruction", "running", "I rebuild the scene: archives first, imagination last.")
     recon = vision.age(current, profile)
     coverage = np.zeros(current.shape[:2], bool)
     for x in aligned[:3]:
@@ -220,11 +220,11 @@ def _pipeline(run: Run) -> dict:
             best = next(x for x in aligned if x["doc"]["id"] in sources)
             sim = vision.structure_similarity(current, best["warped"], s.mask & best["valid"])
             status = "inchange" if sim > 0.32 else "documente"
-            note = ("Même structure qu'en " if status == "inchange" else "Différent aujourd'hui, attesté en ") \
+            note = ("Same structure as in " if status == "inchange" else "Different today, documented in ") \
                 + str(best["doc"]["year"])
             conf = round(min(0.95, 0.5 + cov * 0.3 + best["al"].ratio * 0.2), 2)
         else:
-            status, note, conf = "hypothese", "Aucune archive ne montre cette zone sous cet angle.", round(0.25 + cov * 0.3, 2)
+            status, note, conf = "hypothese", "No archive shows this area from this angle.", round(0.25 + cov * 0.3, 2)
             if s.label in ("bâti", "building", "building facade", "roof", "monument"):
                 hypothesis_mask |= s.mask.astype(np.uint8)
         tags.append({"id": s.id, "label": s.label, "status": status, "note": note, "confidence": conf,
@@ -259,8 +259,8 @@ def _pipeline(run: Run) -> dict:
     counts = {k: sum(t["status"] == k for t in tags if t["label"] not in ("ciel", "sky"))
               for k in ("documente", "inchange", "hypothese")}
     run.emit("reconstruction", "done",
-             f"{counts['documente']} zone(s) documentée(s), {counts['inchange']} inchangée(s), "
-             f"{counts['hypothese']} hypothèse(s).", engine=recon_engine,
+             f"{counts['documente']} documented area(s), {counts['inchange']} unchanged, "
+             f"{counts['hypothese']} hypothesis area(s).", engine=recon_engine,
              reconstruction=_rel(recon_path), tags=tags)
 
     # ------------------------------------------------------------------ 6. évaluation
@@ -278,8 +278,8 @@ def _pipeline(run: Run) -> dict:
         baseline = vision.fair_similarity(current, x["warped"], region)
         holdouts.append({"archive": x["doc"]["id"], "title": clean_title(x["doc"]["title"]), "year": x["doc"]["year"],
                          "ssim": round(score, 3), "baseline": round(baseline, 3), "others": len(others)})
-        run.emit("evaluation", "log", f"Archive cachée {x['doc']['year']} : similarité {score:.2f} "
-                 f"(vue actuelle brute : {baseline:.2f}, {len(others)} autre(s) archive(s) disponible(s)).")
+        run.emit("evaluation", "log", f"Hidden archive {x['doc']['year']}: similarity {score:.2f} "
+                 f"(raw current view: {baseline:.2f}, {len(others)} other archive(s) available).")
 
     built = [t for t in tags if t["label"] not in ("ciel", "sky", "rue / sol", "street", "road")]
     built_area = sum(_poly_area(t["polygon"]) for t in built) or 1
@@ -300,20 +300,20 @@ def _pipeline(run: Run) -> dict:
         "n_sources": len(archives),
         "gaps": gaps[:4],
     }
-    msg = f"Fiabilité estimée : {round(reliability * 100)} %."
+    msg = f"Estimated reliability: {round(reliability * 100)}%."
     if not holdouts:
-        msg += " Aucune archive n'est prise sous le même angle : test à l'aveugle impossible, score plafonné."
+        msg += " No archive is taken from the same angle: blind test impossible, score capped."
     run.emit("evaluation", "done", msg, **evaluation)
 
     # ------------------------------------------------------------------ 7. récit
-    run.emit("recit", "running", "J'écris l'histoire du lieu, chaque phrase reliée à sa source.")
+    run.emit("recit", "running", "I write the story of the place, every sentence linked to its source.")
     numbered = archives[:8]
     from . import history
     hist = history.get(run.place_id)
     story = _narrate_live(place, run.year, numbered, counts, hist) if meta.text_live else None
     story_engine = engine_text if story else "local"
     story = story or _narrate_local(place, run.year, numbered, counts, evaluation)
-    run.emit("recit", "done", "Récit prêt.", engine=story_engine)
+    run.emit("recit", "done", "Story ready.", engine=story_engine)
 
     return {
         "run": run.id, "place": place, "year": run.year,
@@ -322,7 +322,7 @@ def _pipeline(run: Run) -> dict:
         "tags": tags, "counts": counts, "evaluation": evaluation, "story": story,
         "sources": [_source_card(a, i + 1) for i, a in enumerate(numbered)] + ([{
             "id": "wikipedia", "n": len(numbered) + 1, "title": hist["sources"][0]["title"], "year": None,
-            "license": "CC BY-SA 4.0", "source": "Wikipédia", "page_url": hist["sources"][0]["url"],
+            "license": "CC BY-SA 4.0", "source": "Wikipedia", "page_url": hist["sources"][0]["url"],
             "image": "/favicon.svg", "description": ""}] if hist and hist.get("events") else []),
         "history": hist,
         "aligned": [x["doc"]["id"] for x in aligned],
@@ -353,18 +353,18 @@ def _poly_area(poly) -> float:
 def _gap_question(tag: dict, width: int, place: dict) -> dict:
     x0, _, x1, _ = tag["bbox"]
     cx = (x0 + x1) / 2 / width
-    side = "à gauche" if cx < 0.36 else "à droite" if cx > 0.64 else "au centre"
+    side = "left" if cx < 0.36 else "right" if cx > 0.64 else "centre"
     return {"tag": tag["id"], "side": side,
-            "question": f"Avez-vous une photo ancienne ou un souvenir de la partie {side} de "
-                        f"{place['name'].lower()} ? Je n'ai aucune preuve pour cette zone."}
+            "question": f"Do you have an old photo or a memory of the {side} part of "
+                        f"{place['name']}? I have no evidence for this area."}
 
 
 def _reconstruction_prompt(place: dict, year: int, archives: list[dict]) -> str:
     refs = "; ".join(f"{a['title']} ({a['year']})" for a in archives[:5])
     plan = meta.chat(
-        "Tu es historien de l'architecture. Décris en 80 mots maximum, en anglais, à quoi ressemblaient "
-        "les bâtiments et la rue, uniquement d'après les sources fournies. Pas d'invention spectaculaire.",
-        f"Lieu : {place['name']}, {place['city']}, vers {year}. Contexte : {place['context']} Sources : {refs}",
+        "You are an architectural historian. In 80 words at most, describe what the buildings and the street "
+        "looked like, based only on the sources provided. No spectacular invention.",
+        f"Place: {place['name']}, {place['city']}, around {year}. Context: {place['context']} Sources: {refs}",
         [PLACES_DIR / a["path"] for a in archives[:3]], max_tokens=200)
     return (f"Historical photograph of {place['name']}, {place['city']}, around {year}. "
             f"{plan or ''} Keep the exact street geometry and perspective. Period-accurate, sepia albumen print.")
@@ -375,18 +375,18 @@ def _narrate_live(place: dict, year: int, sources: list[dict], counts: dict, his
                         for i, a in enumerate(sources))
     if hist and hist.get("events"):
         n = len(sources) + 1  # la frise Wikipédia devient une source numérotée de plus
-        listing += f"\n[S{n}] Article « {hist['sources'][0]['title']} », événements datés :\n" + "\n".join(
+        listing += f"\n[S{n}] Article “{hist['sources'][0]['title']}”, dated events:\n" + "\n".join(
             f"  ({e['label']}) {e['text']}" for e in hist["events"])
     return meta.chat_json(
-        "Tu es historien. Écris un récit court (120 à 170 mots) sur un lieu à une date donnée. "
-        "Chaque phrase factuelle cite sa source [S1], [S2]… N'invente AUCUN détail absent des sources : "
-        "ni heure, ni météo, ni émotion, ni pensée des personnes, ni ambiance sonore. Une information qui ne "
-        "vient pas des sources est annoncée comme « contexte général ». Ne commente pas ce que les sources "
-        "ne disent pas, et écris un texte fluide plutôt qu'une liste de constats. Réponds en JSON "
-        "{\"title\": str, \"fr\": str, \"en\": str}.",
-        f"Lieu : {place['name']}, {place['city']} ({place['country']}). Année : {year}.\n"
-        f"Contexte connu : {place['context']}\nSources :\n{listing}\n"
-        f"Reconstruction : {counts['documente']} zones documentées, {counts['hypothese']} hypothèses.")
+        "You are a historian. Write a short story (120 to 170 words) about a place at a given date. "
+        "Every factual sentence cites its source [S1], [S2]… Do NOT invent any detail missing from the sources: "
+        "no time of day, weather, emotion, thoughts or soundscape. Information that does not come from the "
+        "sources is introduced as “general context”. Do not comment on what the sources do not say, and write "
+        "flowing prose rather than a list of findings. Answer in JSON "
+        "{\"title\": str, \"en\": str, \"fr\": str} (en: English text, fr: the same text in French).",
+        f"Place: {place['name']}, {place['city']} ({place['country']}). Year: {year}.\n"
+        f"Known context: {place['context']}\nSources:\n{listing}\n"
+        f"Reconstruction: {counts['documente']} documented areas, {counts['hypothese']} hypothesis areas.")
 
 
 def _narrate_local(place: dict, year: int, sources: list[dict], counts: dict, ev: dict) -> dict:
@@ -394,11 +394,10 @@ def _narrate_local(place: dict, year: int, sources: list[dict], counts: dict, ev
     cited = sources[:3]
     fr_refs = " ".join(f"« {clean_title(a['title'])} » ({a['year']}) [S{i + 1}]." for i, a in enumerate(cited))
     en_refs = " ".join(f"“{clean_title(a['title'])}” ({a['year']}) [S{i + 1}]." for i, a in enumerate(cited))
-    fr = (f"{place['name']}, {place['city']}, vers {year}. Pour situer le lieu : {place['context']} "
-          f"Les archives retrouvées couvrent les années {years[0]} à {years[-1]} : {fr_refs} "
-          f"Sur cette vue, {counts['documente'] + counts['inchange']} zone(s) s'appuient sur des preuves "
-          f"et {counts['hypothese']} reste(nt) des hypothèses de l'IA, signalées en jaune.")
-    en = (f"{place['name']}, {place['city']}, around {year}. Archives found span {years[0]} to {years[-1]}: "
+    fr = (f"{place['name']}, {place['city']}, vers {year}. Les archives retrouvées couvrent les années "
+          f"{years[0]} à {years[-1]} : {fr_refs} Sur cette vue, {counts['documente'] + counts['inchange']} "
+          f"zone(s) s'appuient sur des preuves et {counts['hypothese']} reste(nt) des hypothèses de l'IA.")
+    en = (f"{place['name']}, {place['city']}, around {year}. {place['context']} Archives found span {years[0]} to {years[-1]}: "
           f"{en_refs} In this view, {counts['documente'] + counts['inchange']} area(s) rest on evidence and "
           f"{counts['hypothese']} remain AI hypotheses, marked in yellow.")
     return {"title": f"{place['city']}, {year}", "fr": fr, "en": en}
@@ -412,12 +411,12 @@ def add_contribution(place_id: str, kind: str, file: Path, year: int | None, not
     shutil.copy(file, dest)
     manifest = load_manifest(place_id) or {"place": place_id, "archives": [], "currents": []}
     entry = {"id": f"community-{dest.stem}", "kind": kind, "year": year, "note": note[:1000],
-             "path": str(dest.relative_to(PLACES_DIR)), "verified": False, "source": "Communauté SANKOFA",
-             "title": note[:80] or "Contribution de la communauté", "license": "CC BY 4.0 (contributeur)",
+             "path": str(dest.relative_to(PLACES_DIR)), "verified": False, "source": "SANKOFA community",
+             "title": note[:80] or "Community contribution", "license": "CC BY 4.0 (contributor)",
              "score": 1.0, "description": note, "page_url": "", "artist": "Contributeur"}
     if kind == "audio":
         text = meta.transcribe(dest)
-        entry["transcript"] = text or "(transcription disponible quand la Meta Model API est branchée)"
+        entry["transcript"] = text or "(transcription available once the Meta Model API is connected)"
     manifest.setdefault("contributions", []).append(entry)
     if kind == "photo" and year and year <= 1960:
         manifest["archives"].append(entry)

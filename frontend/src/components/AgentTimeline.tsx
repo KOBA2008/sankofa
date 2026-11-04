@@ -3,13 +3,13 @@ import { Archive, Brain, Check, Crop, Feather, Loader2, Palette, ScanSearch, Shi
 import type { AgentEvent } from '../lib/api'
 
 export const STEPS = [
-  { id: 'enquete', label: 'Enquête dans les archives', icon: Archive },
-  { id: 'annotation', label: 'Annotation de la vue actuelle', icon: Crop },
-  { id: 'alignement', label: 'Re-photographie', icon: ScanSearch },
-  { id: 'style', label: 'Style de la ville', icon: Palette },
+  { id: 'enquete', label: 'Archive investigation', icon: Archive },
+  { id: 'annotation', label: "Annotating today's view", icon: Crop },
+  { id: 'alignement', label: 'Re-photography', icon: ScanSearch },
+  { id: 'style', label: 'City style', icon: Palette },
   { id: 'reconstruction', label: 'Reconstruction', icon: Brain },
-  { id: 'evaluation', label: 'Auto-évaluation', icon: ShieldCheck },
-  { id: 'recit', label: 'Récit sourcé', icon: Feather },
+  { id: 'evaluation', label: 'Self-evaluation', icon: ShieldCheck },
+  { id: 'recit', label: 'Cited narrative', icon: Feather },
 ]
 
 function engineLabel(e: string) {
@@ -57,7 +57,7 @@ export function AgentTimeline({ events, steps = STEPS }: { events: AgentEvent[];
               {last && <p className="mt-0.5 text-xs leading-relaxed text-white/60">{last.message}</p>}
               {logs.length > 0 && (
                 <details className="mt-1 text-xs text-white/45">
-                  <summary className="cursor-pointer select-none hover:text-white/70">{logs.length} détail(s)</summary>
+                  <summary className="cursor-pointer select-none hover:text-white/70">{logs.length} {logs.length > 1 ? 'details' : 'detail'}</summary>
                   <ul className="scrollbar-thin mt-1 max-h-32 space-y-0.5 overflow-auto font-mono text-xs">
                     {logs.map((l, i) => <li key={i}>› {l.message}</li>)}
                   </ul>

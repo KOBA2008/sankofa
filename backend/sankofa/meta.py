@@ -28,6 +28,23 @@ class MetaClient:
                         if config.BASETEN_API_KEY and OpenAI else None)
         self.baseten_model = config.BASETEN_MODEL or None
         self.last_error: str | None = None
+        self._day, self._calls = None, 0
+
+    def _allow(self) -> bool:
+        """Plafond quotidien d'appels payants : au-delà, l'agent repasse en mode local et le dit."""
+        import datetime
+        today = datetime.date.today()
+        if self._day != today:
+            self._day, self._calls = today, 0
+        if config.DAILY_PAID_CALL_LIMIT and self._calls >= config.DAILY_PAID_CALL_LIMIT:
+            self.last_error = "daily AI budget reached: local mode until tomorrow"
+            return False
+        self._calls += 1
+        return True
+
+    @property
+    def budget(self) -> dict:
+        return {"limit": config.DAILY_PAID_CALL_LIMIT, "used_today": self._calls}
 
     @property
     def text_live(self) -> bool:
@@ -73,7 +90,7 @@ class MetaClient:
     def chat(self, system: str, user: str, images: list[Path] = (), json_mode: bool = False,
              max_tokens: int = 1200, bulk: bool = False) -> str | None:
         """bulk=True : génération en série (chroniques) envoyée de préférence à Baseten pour ménager les crédits Meta."""
-        if not self.text_live:
+        if not self.text_live or not self._allow():
             return None
         content = [{"type": "text", "text": user}]
         for p in images:
@@ -114,7 +131,7 @@ class MetaClient:
 
         Renvoie [{id, label, polygon:[[x,y],...]}] dans les coordonnées de l'image d'origine.
         """
-        if not self.live:
+        if not self.live or not self._allow():
             return None
         import cv2
         import numpy as np
@@ -176,7 +193,7 @@ class MetaClient:
     def reconstruct(self, image: Path, mask: Path, prompt: str, out: Path) -> Path | None:
         """Retouche par Muse Image. L'API n'accepte pas de masque : SANKOFA ne garde ensuite
         que les zones sans preuve (le masque est appliqué localement par l'agent)."""
-        if not self.live:
+        if not self.live or not self._allow():
             return None
         import httpx
         try:

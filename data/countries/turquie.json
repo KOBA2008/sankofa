@@ -1,7 +1,7 @@
 {
  "country": {
   "id": "turquie",
-  "name": "Turquie",
+  "name": "Turkey",
   "flag": "🇹🇷",
   "fr": "Histoire de la Turquie",
   "en": "History of Turkey",
@@ -17,167 +17,404 @@
  "chapters": [
   {
    "title": "Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey",
    "source": 1,
-   "summary": "On parle d'histoire de la Turquie pour désigner celle de la république de Turquie issue de la Guerre d'indépendance menée jusqu'en 1922 par Mustafa Kemal Atatürk contre l'occupation de l'Empire ottoman par les Alliés de la Première Guerre mondiale. Cet article ne traite que de cette période, et non des événements antérieurs.",
+   "summary": "The history of Turkey, understood as the history of the area now forming the territory of the Republic of Turkey, includes the history of both Anatolia (the Asian part of Turkey) and Eastern Thrace (the European part of Turkey). These two previously politically distinct regions came under control of the Roman Empire in the second century BC, eventually becoming the core of the Roman Byzantine Empire.",
    "events": [
     {
-     "year": 1250,
-     "label": "XIIIe s.",
-     "text": "Pendant le Moyen Âge, des peuples turcs venus d'Asie centrale se sont installés en Anatolie et dans les Balkans, entre la fin du XIIIe siècle et le début du XXe siècle, et ont créé l'Empire ottoman.",
+     "year": 1920,
+     "label": "1920",
+     "text": "From the time when parts of what is now Turkey were conquered by the Seljuq dynasty, the history of Turkey spans the medieval history of the Seljuk Empire, the medieval to modern history of the Ottoman Empire, and the history of the Republic of Turkey since the 1920s.",
      "source": 1,
+     "corroborated": true
+    }
+   ],
+   "start": 1920,
+   "end": 1920,
+   "photos": [
+    {
+     "title": "10e groupe automitrailleuses 14 juillet 1920 Constantinople défilé",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/10e_groupe_automitrailleuses_14_juillet_1920_Constantinople_d%C3%A9fil%C3%A9.jpg/960px-10e_groupe_automitrailleuses_14_juillet_1920_Constantinople_d%C3%A9fil%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:10e_groupe_automitrailleuses_14_juillet_1920_Constantinople_d%C3%A9fil%C3%A9.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "303e CieAS-501e RégcharsCombatMakri-Keui juillet 1920",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/303e_CieAS-501e_R%C3%A9gcharsCombatMakri-Keui_juillet_1920.jpg/960px-303e_CieAS-501e_R%C3%A9gcharsCombatMakri-Keui_juillet_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:303e_CieAS-501e_R%C3%A9gcharsCombatMakri-Keui_juillet_1920.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Camp britannique à Constantinople - btv1b530374610",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Camp_britannique_%C3%A0_Constantinople_-_btv1b530374610.jpg/960px-Camp_britannique_%C3%A0_Constantinople_-_btv1b530374610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Camp_britannique_%C3%A0_Constantinople_-_btv1b530374610.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Troupes anglaises à Constantinople - btv1b530374828",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Troupes_anglaises_%C3%A0_Constantinople_-_btv1b530374828.jpg/960px-Troupes_anglaises_%C3%A0_Constantinople_-_btv1b530374828.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Troupes_anglaises_%C3%A0_Constantinople_-_btv1b530374828.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Istanbul, Treppenstraße 1920-45",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Istanbul%2C_Treppenstra%C3%9Fe_1920-45.jpg/960px-Istanbul%2C_Treppenstra%C3%9Fe_1920-45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Istanbul,_Treppenstra%C3%9Fe_1920-45.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Razgled na Istanbul 1920-50",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Razgled_na_Istanbul_1920-50.jpg/960px-Razgled_na_Istanbul_1920-50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Razgled_na_Istanbul_1920-50.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Ottoman coin (40 para) @1918",
+     "year": 1918,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Ottoman_coin_%2840_para%29_%401918.jpg/960px-Ottoman_coin_%2840_para%29_%401918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Ottoman_coin_(40_para)_@1918.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Sultan Mehmed VI of the Ottoman Empire",
+     "year": 1918,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg/960px-Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "The history of Turkey is understood as the history of the area now forming the territory of the Republic of Turkey [S1]. This includes the history of both Anatolia (the Asian part of Turkey) and Eastern Thrace (the European part of Turkey) [S1]. These two previously politically distinct regions came under control of the Roman Empire in the second century BC, eventually becoming the core of the Roman Byzantine Empire [S1]. From the time when parts of what is now Turkey were conquered by the Seljuq dynasty, the history spans the medieval history of the Seljuk Empire, the medieval to modern history of the Ottoman Empire, and the history of the Republic of Turkey since the 1920s [S1]. The available excerpts reflect only a single source's perspective [S1]."
+  },
+  {
+   "title": "Prehistory and ancient history",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Prehistory_and_ancient_history",
+   "source": 2,
+   "summary": "Present-day Turkey has been inhabited by modern humans since the late Paleolithic period and contains some of the world's oldest Neolithic sites. Göbekli Tepe is close to 12,000 years old.",
+   "events": [
+    {
+     "year": -9000,
+     "label": "9000 BC",
+     "text": "The Urfa Man statue is dated c. 9000 BC, to the period of the Pre-Pottery Neolithic, and is defined as \"the oldest known naturalistic life-sized sculpture of a human\".",
+     "source": 2,
      "corroborated": false
     },
     {
-     "year": 1750,
-     "label": "XVIIIe s.",
-     "text": "Mais l'empire s'affaiblit à partir du début du XVIIIe siècle et se disloque au lendemain de la Première Guerre mondiale, donnant naissance à la Turquie moderne.",
-     "source": 1,
+     "year": -4500,
+     "label": "4500 BC",
+     "text": "Troy's earliest layers go back to around 4500 BC.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -2000,
+     "label": "2000 BC",
+     "text": "Anatolia's historical records start with clay tablets from approximately around 2000 BC that were found in modern-day Kültepe.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -750,
+     "label": "750 BC",
+     "text": "Around 750 BC, Phrygia had been established, with its two centers in Gordium and modern-day Kayseri.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -657,
+     "label": "657 BC",
+     "text": "Numerous important cities were founded by these colonists, such as Miletus, Ephesus, Smyrna and Byzantium, the latter founded by Greek colonists from Megara in 657 BC.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -550,
+     "label": "6th c. BC",
+     "text": "All of Thrace, and the native Thracian peoples were conquered by Darius the Great in the late 6th century BC, and were re-subjugated into the empire in 492 BC following Mardonius' campaign during the First Persian invasion of Greece.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -330,
+     "label": "330 BC",
+     "text": "Achaemenid Persian rule in Anatolia ended with the conquests of Alexander the Great, defeating Darius III between 334 and 330 BC.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -188,
+     "label": "188 BC",
+     "text": "The resulting  Treaty of Apamea in (188 BC) saw the Seleucids retreat from Anatolia.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 350,
+     "label": "4th c.",
+     "text": "In the early 4th century, Constantine the Great established a new administrative centre at Constantinople, and by the end of the 4th century the Roman empire split into two parts, the Eastern part with Constantinople as its capital, referred to by historians as the Byzantine Empire from the original name, Byzantium.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1700,
+     "label": "1700",
+     "text": "It co-existed in Anatolia with Palaians and Luwians, approximately between 1700 and 1200 BC.",
+     "source": 2,
+     "corroborated": false
+    }
+   ],
+   "start": -9000,
+   "end": 1700,
+   "photos": [],
+   "narrative": "Present-day Turkey has been inhabited by modern humans since the late Paleolithic period and contains some of the world's oldest Neolithic sites, with Göbekli Tepe close to 12,000 years old [S2]. The Urfa Man statue is dated c. 9000 BC and is defined as the oldest known naturalistic life-sized sculpture of a human [S2]. Troy's earliest layers go back to around 4500 BC [S2]. Anatolia's historical records start with clay tablets from approximately around 2000 BC found in modern-day Kültepe [S2]. Phrygia had been established around 750 BC with centers in Gordium and modern-day Kayseri [S2]. Byzantium was founded by Greek colonists from Megara in 657 BC [S2]."
+  },
+  {
+   "title": "Byzantine Period",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Byzantine_Period",
+   "source": 3,
+   "summary": "The Persian Achaemenid Empire fell to Alexander the Great in 334 BC, which led to increasing cultural homogeneity and Hellenization in the area. Following Alexander's death in 323 BC, Anatolia was subsequently divided into a number of small Hellenistic kingdoms, all of which became part of the Roman Republic by the mid-1st century BC.",
+   "events": [
+    {
+     "year": -334,
+     "label": "334 BC",
+     "text": "The Persian Achaemenid Empire fell to Alexander the Great in 334 BC, which led to increasing cultural homogeneity and Hellenization in the area.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": -323,
+     "label": "323 BC",
+     "text": "Following Alexander's death in 323 BC, Anatolia was subsequently divided into a number of small Hellenistic kingdoms, all of which became part of the Roman Republic by the mid-1st century BC.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 324,
+     "label": "324",
+     "text": "In 324, Constantine I chose Byzantium to be the new capital of the Roman Empire, renaming it New Rome.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 395,
+     "label": "395",
+     "text": "Following the death of Theodosius I in 395 and the permanent division of the Roman Empire between his two sons, the city, which would popularly come to be known as Constantinople became the capital of the Eastern Roman Empire.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 565,
+     "label": "565",
+     "text": "During the reign of Justinian I (r. 527–565), the empire reached its greatest extent after the fall of the west, re-conquering much of the historically Roman western Mediterranean coast, including Africa, Italy and Rome, which it held for two more centuries.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 628,
+     "label": "628",
+     "text": "The Byzantine–Sasanian War of 602–628 exhausted the empire's resources, and during the early Muslim conquests of the 7th century, it lost its richest provinces, Egypt and Syria, to the Rashidun Caliphate.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 650,
+     "label": "7th c.",
+     "text": "Between the 3rd and 7th century AD, the Byzantines and the neighboring Sassanids frequently clashed over possession of Anatolia, which significantly exhausted both empires, thus laying the way open for the eventual Muslim conquests from both empires' respective south.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 698,
+     "label": "698",
+     "text": "It then lost Africa to the Umayyads in 698, before the empire was rescued by the Isaurian dynasty.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1453,
+     "label": "1453",
+     "text": "The fall of Constantinople to the Ottoman Empire in 1453 marked the end of the Byzantine Empire.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1461,
+     "label": "1461",
+     "text": "The Empire of Trebizond was conquered eight years later when its eponymous capital surrendered to Ottoman forces after it was besieged in 1461.",
+     "source": 3,
+     "corroborated": false
+    }
+   ],
+   "start": -334,
+   "end": 1461,
+   "photos": [],
+   "narrative": "The Persian Achaemenid Empire fell to Alexander the Great in 334 BC, which led to increasing cultural homogeneity and Hellenization in the area [S3]. Following Alexander's death in 323 BC, Anatolia was divided into small Hellenistic kingdoms that became part of the Roman Republic by the mid-1st century BC [S3]. In 324, Constantine I chose Byzantium to be the new capital of the Roman Empire, renaming it New Rome, and following the death of Theodosius I in 395 it became the capital of the Eastern Roman Empire [S3]. The Byzantine–Sasanian War of 602–628 exhausted the empire's resources and it lost Egypt and Syria to the Rashidun Caliphate and later Africa to the Umayyads in 698 [S3]. The fall of Constantinople to the Ottoman Empire in 1453 marked the end of the Byzantine Empire [S3]. The excerpts reflect a Roman/Byzantine-centered point of view [S3]."
+  },
+  {
+   "title": "Early history of the Turks",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Early_history_of_the_Turks",
+   "source": 4,
+   "summary": "Historians generally agree that the first Turkic people lived in a region extending from Central Asia to Siberia. Historically they were established after the 6th century BC.",
+   "events": [
+    {
+     "year": -550,
+     "label": "6th c. BC",
+     "text": "Historically they were established after the 6th century BC.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": -200,
+     "label": "200 BC",
+     "text": "The earliest separate Turkic peoples appeared on the peripheries of the late Xiongnu confederation about 200 BC (contemporaneous with the Chinese Han Dynasty).",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 450,
+     "label": "5th c.",
+     "text": "The Hun hordes of Attila, who invaded and conquered much of Europe in the 5th century AD, may have been Turkic and descendants of the Xiongnu.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 550,
+     "label": "6th c.",
+     "text": "In the 6th century, 400 years after the collapse of northern Xiongnu power in Inner Asia, leadership of the Turkic peoples was taken over by the Göktürks.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 552,
+     "label": "552",
+     "text": "From 552 to 745, Göktürk leadership united the nomadic Turkic tribes into the Göktürk Empire.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 630,
+     "label": "630",
+     "text": "The Tang Empire conquered the Eastern Turkic Khaganate in 630 and the Western Turkic Khaganate in 657 in a series of military campaigns.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 681,
+     "label": "681",
+     "text": "However, in 681 the khanate was revived.",
+     "source": 4,
+     "corroborated": false
+    }
+   ],
+   "start": -550,
+   "end": 681,
+   "photos": [],
+   "narrative": "Historians generally agree that the first Turkic people lived in a region extending from Central Asia to Siberia [S4]. Historically they were established after the 6th century BC [S4]. The earliest separate Turkic peoples appeared on the peripheries of the late Xiongnu confederation about 200 BC, contemporaneous with the Chinese Han Dynasty [S4]. In the 6th century, 400 years after the collapse of northern Xiongnu power in Inner Asia, leadership of the Turkic peoples was taken over by the Göktürks [S4]. From 552 to 745, Göktürk leadership united the nomadic Turkic tribes into the Göktürk Empire [S4]. The Tang Empire conquered the Eastern Turkic Khaganate in 630 and the Western Turkic Khaganate in 657 in a series of military campaigns, however in 681 the khanate was revived [S4]."
+  },
+  {
+   "title": "Seljuk Empire",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Seljuk_Empire",
+   "source": 5,
+   "summary": "The Seljuq Turkmens created a medieval empire that controlled a vast area stretching from the Hindu Kush to eastern Anatolia and from Central Asia to the Persian Gulf. From their homelands near the Aral Sea, the Seljuqs advanced first into Khorasan and then into mainland Persia before eventually conquering eastern Anatolia.",
+   "events": [
+    {
+     "year": 1016,
+     "label": "1016",
+     "text": "The Seljuq/Seljuk empire was founded by Tughril Beg (1016–1063) in 1037.",
+     "source": 5,
+     "corroborated": false
+    }
+   ],
+   "start": 1016,
+   "end": 1016,
+   "photos": [],
+   "narrative": "The provided excerpts describe that the Seljuq Turkmens created a medieval empire that controlled a vast area stretching from the Hindu Kush to eastern Anatolia and from Central Asia to the Persian Gulf [S5]. The excerpts also describe that from their homelands near the Aral Sea, the Seljuqs advanced first into Khorasan and then into mainland Persia before eventually conquering eastern Anatolia [S5]. According to the excerpts, the Seljuq empire was founded by Tughril Beg in 1037 [S5]. The excerpts note that Tughril Beg lived from 1016 to 1063 [S5]. The excerpts reflect only the information provided in the single source [S5]."
+  },
+  {
+   "title": "Ottoman Empire",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Ottoman_Empire",
+   "source": 6,
+   "summary": "The Ottoman beylik's first capital was located in Bursa in 1326. Edirne which was conquered in 1361 was the next capital city.",
+   "events": [
+    {
+     "year": 1326,
+     "label": "1326",
+     "text": "The Ottoman beylik's first capital was located in Bursa in 1326.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1361,
+     "label": "1361",
+     "text": "Edirne which was conquered in 1361 was the next capital city.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1453,
+     "label": "1453",
+     "text": "After largely expanding to Europe and Anatolia, in 1453, the Ottomans nearly completed the conquest of the Byzantine Empire by capturing its capital, Constantinople during the reign of Mehmed II.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1488,
+     "label": "1488",
+     "text": "In the Indian Ocean, the Ottoman navy frequently confronted Portuguese fleets in order to defend its traditional monopoly over the maritime trade routes between East Asia and Western Europe; these routes faced new competition with the Portuguese discovery of the Cape of Good Hope in 1488.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1699,
+     "label": "1699",
+     "text": "The Treaty of Karlowitz in 1699 marked the beginning of Ottoman territorial retreat; some territories were lost by the treaty: Austria received all of Hungary and Transylvania except the Banat; Venice obtained most of Dalmatia along with the Morea (the Peloponnesus peninsula in southern Greece); Poland recovered Podolia.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1912,
+     "label": "1912",
+     "text": "Throughout the 19th and early 20th centuries, the Ottoman Empire continued losing its territories, including Greece, Algeria, Tunisia, Libya and the Balkans in the 1912–1913 Balkan Wars.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1914,
+     "label": "1914",
+     "text": "The Ottoman Empire entered World War I (1914–1918) on the side of the Central Powers and was ultimately defeated.",
+     "source": 6,
      "corroborated": false
     },
     {
      "year": 1918,
      "label": "1918",
-     "text": "La Turquie a été occupée par les puissances alliées victorieuses de la Première Guerre mondiale pendant une durée de 5 ans (1918-1923) pour Constantinople et entre 3-4 ans pour les autres villes.",
-     "source": 1,
+     "text": "On October 30, 1918, the Armistice of Mudros was signed, followed by the imposition of Treaty of Sèvres on August 10, 1920, by Allied Powers, which was never ratified.",
+     "source": 6,
      "corroborated": false
     },
     {
-     "year": 1922,
-     "label": "1922",
-     "text": "On parle d'histoire de la Turquie pour désigner celle de la république de Turquie issue de la Guerre d'indépendance menée jusqu'en 1922 par Mustafa Kemal Atatürk contre l'occupation de l'Empire ottoman par les Alliés de la Première Guerre mondiale.",
-     "source": 1,
-     "corroborated": true
-    },
-    {
-     "year": 1923,
-     "label": "1923",
-     "text": "Les dernières troupes étrangères quittent la dernière ville le 6 octobre 1923 et l'armée turque en prend possession le même jour.",
-     "source": 1,
+     "year": 1950,
+     "label": "20th c.",
+     "text": "Anatolia remained multi-ethnic until the early 20th century.",
+     "source": 6,
      "corroborated": false
     }
    ],
-   "start": 1250,
-   "end": 1923,
-   "photos": [
-    {
-     "title": "Ayas1",
-     "year": 1880,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/ca715fa73ed7.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ayas1.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Hagia Sophia Bell",
-     "year": 1880,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/8f561905c089.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Bell.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Deel van het interieur van de Hagia Sophia te Istanbul, RP-F-00-4069",
-     "year": 1875,
-     "license": "CC0",
-     "image": "/media/places/istanbul-sainte-sophie/archive/a250525e25d9.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Deel_van_het_interieur_van_de_Hagia_Sophia_te_Istanbul,_RP-F-00-4069.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Exterieur van de Hagia Sophia te Istanbul, RP-F-00-4065",
-     "year": 1875,
-     "license": "CC0",
-     "image": "/media/places/istanbul-sainte-sophie/archive/3a8c25e023bd.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Exterieur_van_de_Hagia_Sophia_te_Istanbul,_RP-F-00-4065.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Ste. Sophie, RP-F-F16090",
-     "year": 1888,
-     "license": "CC0",
-     "image": "/media/places/istanbul-sainte-sophie/archive/2d1b0338f55b.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ste._Sophie,_RP-F-F16090.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Interieur van de Hagia Sophia",
-     "year": 1888,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/9889af1916ed.jpg",
-     "page_url": "https://www.europeana.eu/item/90402/RP_P_1904_4453?utm_source=api&utm_medium=api&utm_campaign=api2demo",
-     "source": "Europeana · Rijksmuseum"
-    },
-    {
-     "title": "Gezicht op de Hagia Sophia",
-     "year": 1888,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/3e0f4502f756.jpg",
-     "page_url": "https://www.europeana.eu/item/90402/RP_P_1953_579?utm_source=api&utm_medium=api&utm_campaign=api2demo",
-     "source": "Europeana · Rijksmuseum"
-    },
-    {
-     "title": "Avondgebed in de Hagia Sophia, Istanboel Inneres der Sta Sophia (Abendgebet) (titel op object) Constantinopel (serietitel op object), RP-F-F13209",
-     "year": 1873,
-     "license": "CC0",
-     "image": "/media/places/istanbul-sainte-sophie/archive/73fca6e35ced.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Avondgebed_in_de_Hagia_Sophia,_Istanboel_Inneres_der_Sta_Sophia_(Abendgebet)_(titel_op_object)_Constantinopel_(serietitel_op_object),_RP-F-F13209.jpg",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "L'histoire de la Turquie désigne celle de la république issue de la Guerre d'indépendance menée jusqu'en 1922 par Mustafa Kemal Atatürk contre l'occupation de l'Empire ottoman par les Alliés [S1]. Cet Empire a été créé entre la fin du XIIIe siècle et le début du XXe siècle par des peuples turcs venus d'Asie centrale installés en Anatolie et dans les Balkans [S1]. Affaibli dès le début du XVIIIe siècle, il s'est disloqué au lendemain de la Première Guerre mondiale, donnant naissance à la Turquie moderne [S1]. Celle-ci a été occupée par les puissances alliées pendant cinq ans à Constantinople de 1918 à 1923 et trois à quatre ans pour les autres villes [S1]. Les dernières troupes étrangères quittent la ville le 6 octobre 1923 et l'armée turque en prend possession le même jour [S1]."
-  },
-  {
-   "title": "Démembrement et résurgence (1918-1923)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#Démembrement_et_résurgence_(1918-1923)",
-   "source": 2,
-   "summary": "Le reste de l'Empire est divisé en « zones d'influence » italiennes, françaises et anglaises, et les Turcs craignent de se voir bientôt réduits à l'état de colonie. En juin 1919, le mouvement nationaliste, mené par Mustafa Kemal Atatürk, définit dans la déclaration d'Amasya les raisons pour lesquelles le gouvernement impérial ottoman, considéré comme illégitime, doit être remplacé afin de défendre les intérêts nationaux turcs.",
-   "events": [
-    {
-     "year": 1878,
-     "label": "1878",
-     "text": "Par ce traité, l'URSS, conformément à son principe revendiqué de condamner toutes les formes d’annexion et de donner l’indépendance aux peuples qui la revendiquent, rend à la Turquie un territoire au nord-est du pays, pris à l'Empire ottoman en 1878 et peuplé de tribus arméniennes et kurdes, qui correspond aux districts de Kars et d'Ardahan.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1919,
-     "label": "1919",
-     "text": "Le mouvement nationaliste engage la guerre gréco-turque (1919-1922) pour récupérer les côtes ouest de l'Anatolie.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1920,
-     "label": "1920",
-     "text": "Il conteste les frontières de l'Empire, définies par le gouvernement impérial lors du traité de paix de Sèvres du 10 août 1920, et tente de récupérer une partie des territoires cédés.",
-     "source": 2,
-     "corroborated": true
-    },
-    {
-     "year": 1921,
-     "label": "1921",
-     "text": "En 1921, la Turquie signe le traité de Kars avec la Russie soviétique.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1922,
-     "label": "1922",
-     "text": "Finalement, le sultanat est aboli le 1er novembre 1922.",
-     "source": 2,
-     "corroborated": false
-    },
-    {
-     "year": 1923,
-     "label": "1923",
-     "text": "Le 29 octobre 1923, la république de Turquie est proclamée, ce qui constituait l'élément central du kémalisme : Mustafa Kemal est aussitôt élu président.",
-     "source": 2,
-     "corroborated": false
-    }
-   ],
-   "start": 1878,
-   "end": 1923,
+   "start": 1326,
+   "end": 1950,
    "photos": [
     {
      "title": "Ayasofya Mosque Istanbul 1890",
@@ -244,626 +481,246 @@
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Après 1918, l'Empire est divisé en zones d'influence italiennes, françaises et anglaises et les Turcs craignent d'être réduits à l'état de colonie [S2]. En juin 1919, le mouvement nationaliste mené par Mustafa Kemal Atatürk définit dans la déclaration d'Amasya que le gouvernement impérial ottoman, considéré comme illégitime, doit être remplacé pour défendre les intérêts nationaux turcs [S2]. Il engage la guerre gréco-turque (1919-1922) pour récupérer les côtes ouest de l'Anatolie et conteste les frontières définies par le traité de Sèvres du 10 août 1920 [S2]. En 1921 la Turquie signe le traité de Kars avec la Russie soviétique et récupère les districts de Kars et d'Ardahan pris en 1878 [S2]. Le sultanat est aboli le 1er novembre 1922 et la république est proclamée le 29 octobre 1923, Mustafa Kemal étant élu président [S2]."
+   "narrative": "The Ottoman beylik's first capital was located in Bursa in 1326 [S6]. Edirne which was conquered in 1361 was the next capital city [S6]. After largely expanding to Europe and Anatolia, in 1453, the Ottomans nearly completed the conquest of the Byzantine Empire by capturing its capital, Constantinople during the reign of Mehmed II [S6]. The Treaty of Karlowitz in 1699 marked the beginning of Ottoman territorial retreat [S6]. Throughout the 19th and early 20th centuries, the Ottoman Empire continued losing its territories, including Greece, Algeria, Tunisia, Libya and the Balkans in the 1912–1913 Balkan Wars [S6]. The Ottoman Empire entered World War I (1914–1918) on the side of the Central Powers and was ultimately defeated [S6]."
   },
   {
-   "title": "La révolution kémaliste (1923-1938)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#La_révolution_kémaliste_(1923-1938)",
-   "source": 3,
-   "summary": "Mustafa Kemal avait appartenu au mouvement des Jeunes-Turcs. Il était partisan d'un nationalisme restrictif (modèle de la Petite Turquie) et anticlérical.",
+   "title": "Republic of Turkey",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Republic_of_Turkey",
+   "source": 7,
+   "summary": "The occupation of some parts of the country by the Allies in the aftermath of World War I prompted the establishment of the Turkish National Movement. The Turkish Provisional Government in Ankara, which had declared itself the legitimate government of the country on 23 April 1920, started to formalize the legal transition from the old Ottoman into the new Republican political system.",
    "events": [
     {
-     "year": 1839,
-     "label": "1839",
-     "text": "Poursuivant la laïcisation du droit entamée dès 1839 par les tanzimat (réformes) de l'Empire ottoman, le régime kémaliste adopte, en 1926, un code civil inspiré du code suisse, un code pénal inspiré du code italien, et un code commercial inspiré du code allemand.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1908,
-     "label": "1908",
-     "text": "Dès la révolution de 1908, les femmes émergent sur la scène politique.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1920,
-     "label": "1920",
-     "text": "Un Parti communiste est fondé en 1920 mais ses dirigeants sont presque aussitôt liquidés et ses militants persécutés.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1921,
-     "label": "1921",
-     "text": "Ils se trouvaient dans un état de tension voire d'insurrection incessante de 1921 à 1926.",
-     "source": 3,
+     "year": 1922,
+     "label": "1922",
+     "text": "On 1 November 1922, the Turkish Parliament in Ankara formally abolished the sultanate, thus ending 623 years of monarchical Ottoman rule.",
+     "source": 7,
      "corroborated": false
     },
     {
      "year": 1923,
      "label": "1923",
-     "text": "Le traité de Lausanne en 1923 inclut également un échange démographique : un million et demi de Grecs de Turquie sont échangés contre 385 000 musulmans de Grèce (turcophones et bulgarophones), en dépit de la volonté desdites populations.",
-     "source": 3,
+     "text": "The Treaty of Lausanne of 24 July 1923, which superseded the Treaty of Sèvres, led to the international recognition of the sovereignty of the new Turkish state as the successor state of the Ottoman Empire.",
+     "source": 7,
      "corroborated": true
     },
     {
      "year": 1924,
      "label": "1924",
-     "text": "Le califat est abandonné le 3 mars 1924.",
-     "source": 3,
+     "text": "The abolition of the caliphate followed on 3 March 1924.",
+     "source": 7,
      "corroborated": false
     },
     {
      "year": 1925,
      "label": "1925",
-     "text": "Un traité d’amitié avec les Soviétiques est signé en 1925.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1928,
-     "label": "1928",
-     "text": "En 1928, l'islam cesse d'être la religion d'État, puis, en 1937, la laïcité est inscrite dans la Constitution.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1937,
-     "label": "1937",
-     "text": "Le 8 juillet 1937, la Turquie, l’Irak, l’Iran et l’Afghanistan signent le traité de Sa'dabad qui prévoit entre autres une coordination de la lutte contre la « subversion » kurde.",
-     "source": 3,
-     "corroborated": false
-    },
-    {
-     "year": 1945,
-     "label": "1945",
-     "text": "Pourtant, leurs relations se dégradent après la Seconde guerre mondiale : la Russie reproche au gouvernement turc d’être demeuré neutre jusqu’en 1945 et surtout d’avoir interdit aux navires alliés le passage des détroits au nom de sa neutralité.",
-     "source": 3,
-     "corroborated": false
-    }
-   ],
-   "start": 1839,
-   "end": 1945,
-   "photos": [
-    {
-     "title": "Ayasofya Mosque Istanbul 1890",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/e3af3fead126.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ayasofya_Mosque_Istanbul_1890.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Ayasofya Mosque and Ahmed III fountain Istanbul",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/400788697420.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ayasofya_Mosque_and_Ahmed_III_fountain_Istanbul.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Mosque of St. Sophia, Constantinople, Turkey LCCN2003653107",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/bc2318416921.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Mosque_of_St._Sophia,_Constantinople,_Turkey_LCCN2003653107.tif",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Mosque of St. Sophia and Ahmed III fountain, Constantinople, Turkey LCCN2003653119",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/6569ae2c1993.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Mosque_of_St._Sophia_and_Ahmed_III_fountain,_Constantinople,_Turkey_LCCN2003653119.tif",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Ayasofya Giris",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/f646a480217e.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ayasofya_Giris.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Hagia Sophia, Constantinople, Turkey, ca. 1897",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/72e7b3a91e0f.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia,_Constantinople,_Turkey,_ca._1897.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Hagia Sophia mosque and Ahmed III fountain, Constantinople, Turkey, ca. 1896",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/f3f9db29514f.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_mosque_and_Ahmed_III_fountain,_Constantinople,_Turkey,_ca._1896.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Ste. Sophie, RP-F-F16090",
-     "year": 1888,
-     "license": "CC0",
-     "image": "/media/places/istanbul-sainte-sophie/archive/2d1b0338f55b.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ste._Sophie,_RP-F-F16090.jpg",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "Mustafa Kemal, issu du mouvement des Jeunes-Turcs, défendait un nationalisme restrictif de la Petite Turquie et l'anticléricalisme [S3]. Poursuivant la laïcisation amorcée par les tanzimat de 1839, son régime adopte en 1926 des codes civil suisse, pénal italien et commercial allemand [S3]. Le califat est aboli le 3 mars 1924, l'islam cesse d'être religion d'État en 1928 et la laïcité entre dans la Constitution en 1937 [S3]. Sur le plan intérieur, les tensions restent vives de 1921 à 1926, un Parti communiste fondé en 1920 est réprimé et les femmes s'affirment dès 1908 [S3]. Le traité de Lausanne de 1923 impose un échange d'un million et demi de Grecs contre 385 000 musulmans malgré leur volonté [S3]."
-  },
-  {
-   "title": "Visées soviétiques, adhésion à l'OTAN et enjeux géostratégiques (1939-2003)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#Visées_soviétiques,_adhésion_à_l'OTAN_et_enjeux_géostratégiques_(1939-2003)",
-   "source": 4,
-   "summary": "Restée sur la leçon de la Première Guerre mondiale, la Turquie choisit la neutralité lors du deuxième grand conflit du XXe siècle. Avec l'accord de la France, puissance mandataire de la Syrie, la Turquie a récupéré le 23 juin 1939 le sandjak d'Alexandrette, peuplé majoritairement de Turcs.",
-   "events": [
-    {
-     "year": 1936,
-     "label": "1936",
-     "text": "En 1936 la convention de Montreux confiait à la Turquie la responsabilité des détroits de la mer Noire (Bosphore et Dardanelles), convoités par Staline : les Russes ont toujours voulu un accès à la mer Méditerranée pour leur flotte de la mer Noire.",
-     "source": 4,
-     "corroborated": false
+     "text": "Atatürk's reforms caused discontent in some Kurdish and Zaza tribes leading to the Sheikh Said rebellion in 1925 and the Dersim rebellion in 1937.",
+     "source": 7,
+     "corroborated": true
     },
     {
      "year": 1939,
      "label": "1939",
-     "text": "Avec l'accord de la France, puissance mandataire de la Syrie, la Turquie a récupéré le 23 juin 1939 le sandjak d'Alexandrette, peuplé majoritairement de Turcs.",
-     "source": 4,
+     "text": "Turkey was neutral in World War II (1939–45) but signed a treaty with Britain in October 1939 that said Britain would defend Turkey if Germany attacked it.",
+     "source": 7,
      "corroborated": false
     },
     {
-     "year": 1941,
-     "label": "1941",
-     "text": "La Turquie signe un traité de non agression avec l'Allemagne en 1941.",
-     "source": 4,
+     "year": 1943,
+     "label": "1943",
+     "text": "The Turkish leaders conferred with Roosevelt and Churchill at the Cairo Conference in November, 1943, and promised to enter the war.",
+     "source": 7,
      "corroborated": false
     },
-    {
-     "year": 1942,
-     "label": "1942",
-     "text": "En 1942, le gouvernement turc met en place le Varlık Vergisi, impôt sur la fortune uniquement pour les non-musulmans, qui signifie pour beaucoup d'entre eux, juifs ou non, la liquidation de leur(s) entreprise(s) et de leurs biens personnels.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1944,
-     "label": "1944",
-     "text": "Le 2 août 1944 la Turquie rompt ses relations diplomatiques avec Allemagne, puis lui déclare la guerre le 22 février 1945, condition posée pour participer à la conférence de San Francisco marquant la naissance de l'ONU.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1947,
-     "label": "1947",
-     "text": "En effet, la Turquie signe des accords de coopération militaire et économique avec les États-Unis en 1947-1948, bénéficie du plan Marshall, entre au Conseil de l'Europe en 1950 et dans l'OTAN en 1952.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 1950,
-     "label": "XXe s.",
-     "text": "Restée sur la leçon de la Première Guerre mondiale, la Turquie choisit la neutralité lors du deuxième grand conflit du XXe siècle.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 2003,
-     "label": "2003",
-     "text": "La Turquie abrite toujours des bases américaines, et a maintenu avec les États-Unis une alliance étroite, au moins jusqu'au début de 2003 et de la guerre en Irak, lorsque la Turquie fut le seul pays candidat à l'UE qui se déclara contre une intervention anglo-américaine.",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 2010,
-     "label": "2010",
-     "text": "La Turquie a reconnu Israël et a même conclu des accords militaires avec ce pays (mais dénoncés en 2010).",
-     "source": 4,
-     "corroborated": false
-    },
-    {
-     "year": 2020,
-     "label": "2020",
-     "text": "En littérature de fiction : Metin Arditi, Rachel et les siens (2020).",
-     "source": 4,
-     "corroborated": false
-    }
-   ],
-   "start": 1936,
-   "end": 2020,
-   "photos": [
-    {
-     "title": "1950 04 10 Yeni Istanbul",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/1950_04_10_Yeni_Istanbul.jpg/960px-1950_04_10_Yeni_Istanbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1950_04_10_Yeni_Istanbul.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "1950 04 16 Yeni Istanbul",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1950_04_16_Yeni_Istanbul.jpg/960px-1950_04_16_Yeni_Istanbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1950_04_16_Yeni_Istanbul.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "1950 04 17 Yeni Istanbul",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1950_04_17_Yeni_Istanbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1950_04_17_Yeni_Istanbul.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "1950 05 01 Yeni Istanbul",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/1950_05_01_Yeni_Istanbul.jpg/960px-1950_05_01_Yeni_Istanbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1950_05_01_Yeni_Istanbul.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "1950 07 19 Yeni Istanbul Bedia Muvahhit 2",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/1950_07_19_Yeni_Istanbul_Bedia_Muvahhit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1950_07_19_Yeni_Istanbul_Bedia_Muvahhit_2.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "1950 07 19 Yeni Istanbul Bedia Muvahhit 4",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/1950_07_19_Yeni_Istanbul_Bedia_Muvahhit_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1950_07_19_Yeni_Istanbul_Bedia_Muvahhit_4.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "US 6th Fleet warships at Istanbul in March 1950",
-     "year": 1950,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/US_6th_Fleet_warships_at_Istanbul_in_March_1950.jpg/960px-US_6th_Fleet_warships_at_Istanbul_in_March_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:US_6th_Fleet_warships_at_Istanbul_in_March_1950.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Fishermen in Istanbul (1)",
-     "year": 1953,
-     "license": "CC BY-SA 4.0",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Fishermen_in_Istanbul_%281%29.tif/lossy-page1-960px-Fishermen_in_Istanbul_%281%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Fishermen_in_Istanbul_(1).tif",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "Restée sur la leçon de la Première Guerre mondiale, la Turquie choisit la neutralité lors du deuxième grand conflit du XXe siècle [S4]. En 1936 la convention de Montreux lui confie la responsabilité des détroits de la mer Noire, Bosphore et Dardanelles, convoités par Staline [S4]. Avec l'accord de la France, puissance mandataire de la Syrie, elle récupère le 23 juin 1939 le sandjak d'Alexandrette, peuplé majoritairement de Turcs [S4]. Elle signe un traité de non-agression avec l'Allemagne en 1941, rompt ses relations diplomatiques le 2 août 1944 puis lui déclare la guerre le 22 février 1945, condition pour participer à la conférence de San Francisco marquant la naissance de l'ONU [S4]. Elle signe des accords avec les États-Unis en 1947-1948, bénéficie du plan Marshall, entre au Conseil de l'Europe en 1950 et dans l'OTAN en 1952 [S4]."
-  },
-  {
-   "title": "Le Post-kemalisme : gouvernements militaires, question kurde et place de l'islam",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#Le_Post-kemalisme_:_gouvernements_militaires,_question_kurde_et_place_de_l'islam",
-   "source": 5,
-   "summary": "En décembre 1945, la création de nouveaux partis politiques est autorisée. Ce même mois, est fondé le Parti démocrate, mouvement conservateur modéré.",
-   "events": [
     {
      "year": 1960,
      "label": "1960",
-     "text": "Le 27 mai 1960, un coup d'État renverse le gouvernement au nom de l'armée, installe un gouvernement provisoire et porte à sa tête le général Gürsel.",
-     "source": 5,
+     "text": "The Turkish democracy was interrupted by military coups d'état in 1960, 1971 and 1980.",
+     "source": 7,
      "corroborated": false
     },
     {
-     "year": 1961,
-     "label": "1961",
-     "text": "Les militaires restent au pouvoir un an et font approuver une Constitution garantissant les libertés démocratiques (liberté d'expression, de réunion, d'association, droit de grève). İsmet İnönü redevient Premier ministre de novembre 1961 à février 1965.",
-     "source": 5,
+     "year": 1974,
+     "label": "1974",
+     "text": "Following a decade of intercommunal violence on the island of Cyprus and the Greek military coup of July 1974, overthrowing President Makarios and installing Nikos Sampson as a dictator, Turkey invaded the Republic of Cyprus in 1974.",
+     "source": 7,
      "corroborated": false
     },
     {
-     "year": 1971,
-     "label": "1971",
-     "text": "Un nouveau coup d'État a lieu en 1971 ; les militaires, constatant que leur action n'a en rien amélioré la situation, retournent dans leurs casernes l'année suivante.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1975,
-     "label": "1975",
-     "text": "Enfin, La guerre civile au Liban commencée en 1975 provoque l'arrivée de nombreux réfugiés libanais en Turquie.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1978,
-     "label": "1978",
-     "text": "La guerre froide s'intensifie, l'extrême gauche et l'extrême droite se radicalisent, des groupes révolutionnaires se forment, notamment le Devrimci Sol, en 1978.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1980,
-     "label": "1980",
-     "text": "L’accord d’association Turquie-CEE est gelé à la suite du coup d’État militaire du général Kenan Evren de 1980.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1983,
-     "label": "1983",
-     "text": "Un parti islamique, le Refah Partisi (Parti du bien-être, aussi traduit en français par Parti de la prospérité), fondé en 1983, constitue une coalition qui obtient la majorité en 1996.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1984,
-     "label": "1984",
-     "text": "Celui-ci est mis en place par Turgut Özal, Premier ministre en 1984, président en 1989, qui tente de concilier la nature démocratique du régime, les principes fondateurs de la République et l'islam.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 1991,
-     "label": "1991",
-     "text": "À partir de 1991, la Constitution est réformée pour satisfaire aux critères démocratiques exigés par la candidature à la CEE, puis à l'UE.",
-     "source": 5,
-     "corroborated": false
-    },
-    {
-     "year": 2000,
-     "label": "2000",
-     "text": "En 2000, le Parti des travailleurs du Kurdistan proclame un cessez-le-feu à la suite de l'arrestation de son chef, Abdullah Öcalan.",
-     "source": 5,
-     "corroborated": false
-    }
-   ],
-   "start": 1960,
-   "end": 2000,
-   "photos": [
-    {
-     "title": "Stropdas, van zwarte ottoman zijde, zelfbinder, objectnr 71699",
-     "year": 1965,
-     "license": "CC BY-SA 3.0",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Stropdas%2C_van_zwarte_ottoman_zijde%2C_zelfbinder%2C_objectnr_71699.JPG/960px-Stropdas%2C_van_zwarte_ottoman_zijde%2C_zelfbinder%2C_objectnr_71699.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Stropdas,_van_zwarte_ottoman_zijde,_zelfbinder,_objectnr_71699.JPG",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Zwart satijn met moiré ottoman jasje, objectnr 69014",
-     "year": 1965,
-     "license": "CC BY-SA 3.0",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Zwart_satijn_met_moir%C3%A9_ottoman_jasje%2C_objectnr_69014.JPG/960px-Zwart_satijn_met_moir%C3%A9_ottoman_jasje%2C_objectnr_69014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Zwart_satijn_met_moir%C3%A9_ottoman_jasje,_objectnr_69014.JPG",
-     "source": "Wikimedia Commons"
-    }
-   ],
-   "narrative": "En décembre 1945, la création de nouveaux partis politiques est autorisée et le Parti démocrate, mouvement conservateur modéré, est fondé le même mois [S5]. Le 27 mai 1960, un coup d'État renverse le gouvernement au nom de l'armée et porte le général Gürsel à la tête d'un gouvernement provisoire [S5]. Les militaires restent un an au pouvoir et font approuver une Constitution garantissant les libertés démocratiques, puis İsmet İnönü redevient Premier ministre de novembre 1961 à février 1965 [S5]. Un nouveau coup d'État a lieu en 1971 avant que les militaires ne retournent dans leurs casernes l'année suivante [S5]. Le coup d'État du général Kenan Evren de 1980 gèle l'accord d'association Turquie-CEE [S5]. Le Refah Partisi, parti islamique fondé en 1983, obtient la majorité en coalition en 1996 [S5]. En 2000, le Parti des travailleurs du Kurdistan proclame un cessez-le-feu à la suite de l'arrestation de son chef Abdullah Öcalan [S5]."
-  },
-  {
-   "title": "La Turquie, démocratie conservatrice musulmane (2002-)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#La_Turquie,_démocratie_conservatrice_musulmane_(2002-)",
-   "source": 6,
-   "summary": "En novembre 2002, le parti AKP remporte nettement les élections législatives. C'est un parti considéré comme « islamiste modéré », il revendique « une démocratie musulmane comme d'autres se disent de démocratie chrétienne ».",
-   "events": [
-    {
-     "year": 395,
-     "label": "395",
-     "text": "Histoire de l'Anatolie, Préhistoire de l'Anatolie Préhistoire de l'Europe du Sud-Est (pour la Thrace principalement) Histoire du Moyen-Orient Chronologie des Balkans, Histoire des Balkans (rubriques), Anciens pays des Balkans Empire byzantin (395-1453) 16 grands empires turcs Empire ottoman (1299-1922)",
-     "source": 6,
+     "year": 2017,
+     "label": "2017",
+     "text": "In April 2017, the constitutional amendments, which significantly increased the powers of Turkish President Recep Tayyip Erdoğan, were narrowly accepted in the constitutional referendum.",
+     "source": 7,
      "corroborated": true
     },
     {
-     "year": 1919,
-     "label": "1919",
-     "text": "Réformes kémalistes Traité de Versailles (1919) Histoire du partage des eaux du bassin Tigre-Euphrate depuis 1916 Liste de coups d'État en Turquie Histoire de la Turquie pendant la Seconde Guerre mondiale, Pacte d'amitié turco-allemand (1941-1945), Varlık Vergisi (1942) Coup d'État de 1980 en Turquie Région intermédiaire Mémorandum militaire turc de 1997",
-     "source": 6,
+     "year": 2018,
+     "label": "2018",
+     "text": "In June 2018, President Erdoğan  was re-elected for a new five-year term in the first round of the presidential election.",
+     "source": 7,
      "corroborated": false
-    },
-    {
-     "year": 1999,
-     "label": "1999",
-     "text": "De même, les juges militaires sont retirés des Tribunaux de sécurité de l'État (DGM) en 1999, puis les DGM sont supprimés en 2004.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 2002,
-     "label": "2002",
-     "text": "En novembre 2002, le parti AKP remporte nettement les élections législatives.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 2003,
-     "label": "2003",
-     "text": "Ces années sont marquées par la personnalité de Recep Tayyip Erdoğan, nommé Premier ministre en 2003, puis président de la république de Turquie, élu au suffrage universel direct en 2014.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 2009,
-     "label": "2009",
-     "text": "Restant un grand allié des États-Unis, la Turquie s'est ouverte de plus en plus vers le monde musulman sunnite sous l'égide de son ministre des Affaires étrangères (2009-2014), puis Premier ministre Ahmet Davutoğlu qui entend poser la Turquie contemporaine en héritière de l'Empire ottoman.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 2011,
-     "label": "2011",
-     "text": "Confrontée depuis 2011 à la guerre civile syrienne, la Turquie s'efforce de provoquer la chute du régime de Bachar el-Assad soutenant l'opposition syrienne à l'étranger et laissant passer sur son territoire combattants, « y compris les plus radicaux », et armes en direction de la Syrie.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 2013,
-     "label": "2013",
-     "text": "De l'Empire à nos jours, Paris, Éditions Tallandier, 2013.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 2015,
-     "label": "2015",
-     "text": "Elle est néanmoins rattrapée par le conflit avec l'attentat de Suruç en juillet 2015 qui fait plus de 30 morts relançant les critiques reprochant au régime d'Ankara sa politique « complaisante » vis-à-vis des organisations radicales en guerre contre Bachar el-Assad.",
-     "source": 6,
-     "corroborated": false
-    },
-    {
-     "year": 2016,
-     "label": "2016",
-     "text": "Le 15 juillet 2016, une tentative de coup d'État militaire menace le pouvoir d'Erdoğan.",
-     "source": 6,
-     "corroborated": true
     }
    ],
-   "start": 395,
-   "end": 2016,
+   "start": 1922,
+   "end": 2018,
    "photos": [
     {
-     "title": "Ayasofya Mosque Istanbul 1890",
-     "year": 1890,
+     "title": "Beşiktaş JK squad (1940-1941)",
+     "year": 1941,
      "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/e3af3fead126.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ayasofya_Mosque_Istanbul_1890.jpg",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Be%C5%9Fikta%C5%9F_JK_squad_%281940-1941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Be%C5%9Fikta%C5%9F_JK_squad_(1940-1941).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Ayasofya Mosque and Ahmed III fountain Istanbul",
-     "year": 1890,
+     "title": "Feyzi Uman (Beşiktaş JK squad 1940-1941) (cropped)",
+     "year": 1941,
      "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/400788697420.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ayasofya_Mosque_and_Ahmed_III_fountain_Istanbul.jpg",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Feyzi_Uman_%28Be%C5%9Fikta%C5%9F_JK_squad_1940-1941%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Feyzi_Uman_(Be%C5%9Fikta%C5%9F_JK_squad_1940-1941)_(cropped).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Mosque of St. Sophia, Constantinople, Turkey LCCN2003653107",
-     "year": 1890,
+     "title": "Rıfat Atakanı, Beşiktaş JK squad (1940-1941) (cropped)",
+     "year": 1941,
      "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/bc2318416921.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Mosque_of_St._Sophia,_Constantinople,_Turkey_LCCN2003653107.tif",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/R%C4%B1fat_Atakan%C4%B1%2C_Be%C5%9Fikta%C5%9F_JK_squad_%281940-1941%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:R%C4%B1fat_Atakan%C4%B1,_Be%C5%9Fikta%C5%9F_JK_squad_(1940-1941)_(cropped).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Mosque of St. Sophia and Ahmed III fountain, Constantinople, Turkey LCCN2003653119",
-     "year": 1890,
+     "title": "Yavuz Üreten (Beşiktaş JK squad 1940-1941) (cropped)",
+     "year": 1941,
      "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/6569ae2c1993.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Mosque_of_St._Sophia_and_Ahmed_III_fountain,_Constantinople,_Turkey_LCCN2003653119.tif",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Yavuz_%C3%9Creten_%28Be%C5%9Fikta%C5%9F_JK_squad_1940-1941%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Yavuz_%C3%9Creten_(Be%C5%9Fikta%C5%9F_JK_squad_1940-1941)_(cropped).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Ayasofya Giris",
-     "year": 1890,
+     "title": "75 Istanbul - Eminönü kazası - Yenicami-Balikpazari - J. Pervitiç - btv1b10100682d",
+     "year": 1940,
      "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/f646a480217e.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ayasofya_Giris.jpg",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/75_Istanbul_-_Emin%C3%B6n%C3%BC_kazas%C4%B1_-_Yenicami-Balikpazari_-_J._Perviti%C3%A7_-_btv1b10100682d.jpg/960px-75_Istanbul_-_Emin%C3%B6n%C3%BC_kazas%C4%B1_-_Yenicami-Balikpazari_-_J._Perviti%C3%A7_-_btv1b10100682d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:75_Istanbul_-_Emin%C3%B6n%C3%BC_kazas%C4%B1_-_Yenicami-Balikpazari_-_J._Perviti%C3%A7_-_btv1b10100682d.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Hagia Sophia, Constantinople, Turkey, ca. 1897",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/72e7b3a91e0f.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia,_Constantinople,_Turkey,_ca._1897.jpg",
+     "title": "Fonds Achille Dassonville (1890-1967) - Turquie - Istanbul - Vue de la salle de prière de la mosquée Ayasofya (MédiHAL 4161210)",
+     "year": 1935,
+     "license": "Licence Ouverte",
+     "image": "/media/places/istanbul-sainte-sophie/archive/468fbd730648.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Fonds_Achille_Dassonville_(1890-1967)_-_Turquie_-_Istanbul_-_Vue_de_la_salle_de_pri%C3%A8re_de_la_mosqu%C3%A9e_Ayasofya_(M%C3%A9diHAL_4161210).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Hagia Sophia mosque and Ahmed III fountain, Constantinople, Turkey, ca. 1896",
-     "year": 1890,
-     "license": "Public domain",
-     "image": "/media/places/istanbul-sainte-sophie/archive/f3f9db29514f.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_mosque_and_Ahmed_III_fountain,_Constantinople,_Turkey,_ca._1896.jpg",
+     "title": "Fonds Achille Dassonville (1890-1967) - Turquie - Istanbul - Vue sur Istanbul depuis la mer de Marmara (MédiHAL 5136478)",
+     "year": 1935,
+     "license": "Licence Ouverte",
+     "image": "/media/places/istanbul-sainte-sophie/archive/665d8d40507d.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Fonds_Achille_Dassonville_(1890-1967)_-_Turquie_-_Istanbul_-_Vue_sur_Istanbul_depuis_la_mer_de_Marmara_(M%C3%A9diHAL_5136478).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Ste. Sophie, RP-F-F16090",
-     "year": 1888,
-     "license": "CC0",
-     "image": "/media/places/istanbul-sainte-sophie/archive/2d1b0338f55b.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Ste._Sophie,_RP-F-F16090.jpg",
+     "title": "Germanus V of Constantinople",
+     "year": 1934,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Germanus_V_of_Constantinople.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Germanus_V_of_Constantinople.jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "En novembre 2002, le parti AKP remporte nettement les élections législatives, parti considéré comme « islamiste modéré » qui revendique « une démocratie musulmane comme d'autres se disent de démocratie chrétienne » [S6]. Ces années sont marquées par la personnalité de Recep Tayyip Erdoğan, nommé Premier ministre en 2003, puis président de la République élu au suffrage universel direct en 2014 [S6]. Restant un grand allié des États-Unis, la Turquie s'est ouverte vers le monde musulman sunnite sous son ministre des Affaires étrangères puis Premier ministre Ahmet Davutoğlu [S6]. Confrontée depuis 2011 à la guerre civile syrienne, elle soutient l'opposition syrienne et laisse passer combattants et armes sur son territoire [S6]. L'attentat de Suruç en juillet 2015 fait plus de 30 morts [S6]. Le 15 juillet 2016, une tentative de coup d'État militaire menace le pouvoir d'Erdoğan [S6]. Les extraits fournis reflètent essentiellement le point de vue centré sur le pouvoir de l'AKP [S6]."
+   "narrative": "The occupation of some parts of the country by the Allies after World War I prompted the establishment of the Turkish National Movement [S7]. The Turkish Provisional Government in Ankara declared itself the legitimate government on 23 April 1920 and started to formalize the legal transition from the old Ottoman into the new Republican political system [S7]. The parliament in Ankara abolished the sultanate on 1 November 1922, ending 623 years of monarchical Ottoman rule [S7]. The Treaty of Lausanne of 24 July 1923 superseded the Treaty of Sèvres and led to international recognition of the sovereignty of the new Turkish state as the successor state of the Ottoman Empire [S7]. The abolition of the caliphate followed on 3 March 1924 [S7]."
   }
  ],
  "sources": [
   {
    "n": 1,
-   "title": "Histoire de la Turquie › Introduction",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie",
-   "lang": "fr",
+   "title": "History of Turkey › Introduction",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 2,
-   "title": "Histoire de la Turquie › Démembrement et résurgence (1918-1923)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#Démembrement_et_résurgence_(1918-1923)",
-   "lang": "fr",
+   "title": "History of Turkey › Prehistory and ancient history",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Prehistory_and_ancient_history",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 3,
-   "title": "Histoire de la Turquie › La révolution kémaliste (1923-1938)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#La_révolution_kémaliste_(1923-1938)",
-   "lang": "fr",
+   "title": "History of Turkey › Byzantine Period",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Byzantine_Period",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 4,
-   "title": "Histoire de la Turquie › Visées soviétiques, adhésion à l'OTAN et enjeux géostratégiques (1939-2003)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#Visées_soviétiques,_adhésion_à_l'OTAN_et_enjeux_géostratégiques_(1939-2003)",
-   "lang": "fr",
+   "title": "History of Turkey › Early history of the Turks",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Early_history_of_the_Turks",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 5,
-   "title": "Histoire de la Turquie › Le Post-kemalisme : gouvernements militaires, question kurde et place de l'islam",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#Le_Post-kemalisme_:_gouvernements_militaires,_question_kurde_et_place_de_l'islam",
-   "lang": "fr",
+   "title": "History of Turkey › Seljuk Empire",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Seljuk_Empire",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 6,
-   "title": "Histoire de la Turquie › La Turquie, démocratie conservatrice musulmane (2002-)",
-   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie#La_Turquie,_démocratie_conservatrice_musulmane_(2002-)",
-   "lang": "fr",
+   "title": "History of Turkey › Ottoman Empire",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Ottoman_Empire",
+   "lang": "en",
    "license": "CC BY-SA 4.0",
-   "source": "Wikipédia"
+   "source": "Wikipedia"
   },
   {
    "n": 7,
-   "title": "History of Turkey",
-   "url": "https://en.wikipedia.org/wiki/History_of_Turkey",
+   "title": "History of Turkey › Republic of Turkey",
+   "url": "https://en.wikipedia.org/wiki/History_of_Turkey#Republic_of_Turkey",
    "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 8,
+   "title": "Histoire de la Turquie",
+   "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Turquie",
+   "lang": "fr",
    "license": "CC BY-SA 4.0",
    "source": "Wikipedia"
   }
  ],
  "gaps": [
   {
+   "from": 1016,
+   "to": 1326,
+   "text": "Between 1016 and 1326, the sources consulted give no precise date."
+  },
+  {
    "from": null,
-   "to": 395,
-   "text": "Avant 395, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": null,
+   "text": "Thinly dated chapters: Seljuk Empire."
   }
  ],
  "stats": {
-  "chapters": 6,
-  "events": 51,
+  "chapters": 7,
+  "events": 48,
   "corroborated": 5,
   "share": 0.1,
   "span": [
-   "395",
-   "2020"
+   "9000 BC",
+   "2018"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "9338da6a5e"
+ "run": "0b23580b98"
 }
