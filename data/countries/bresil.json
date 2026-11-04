@@ -62,6 +62,14 @@
    "end": 1985,
    "photos": [
     {
+     "title": "LargoPelourinhoLx(Ch.-Flaviens)",
+     "year": 1905,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/bfc7f8cde713.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:LargoPelourinhoLx(Ch.-Flaviens).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "Código Penal do Brasil de 1890",
      "year": 1890,
      "license": "Public domain",
@@ -75,6 +83,14 @@
      "license": "Public domain",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png/960px-Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Praça ou Largo do Municipio-Pelourinho",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/03c5e0da43a3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_ou_Largo_do_Municipio-Pelourinho.jpg",
      "source": "Wikimedia Commons"
     },
     {
@@ -92,9 +108,25 @@
      "image": "/media/places/salvador-pelourinho/archive/1de08cec0600.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Bahia_1875.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Salvador Brasil 1875",
+     "year": 1875,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/fa089689e6d6.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Brasil_1875.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Largo do Pelourinho, 1931",
+     "year": 1931,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/238778a25a93.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Largo_do_Pelourinho,_1931.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Le Brésil, le plus grand pays d'Amérique du Sud, possède une histoire riche et complexe qui commence bien avant l'arrivée des Européens [S1]. Avant la colonisation, le territoire était peuplé par divers groupes autochtones vivant de la chasse, de la pêche et de l'agriculture [S1]. En 1500, l'explorateur portugais Pedro Álvares Cabral accosta sur les côtes brésiliennes, marquant le début de la colonisation par le Portugal [S1]. En 1822, le Brésil déclara son indépendance du Portugal sous l'initiative de Pierre Ier, fils du roi Jean VI, devenu premier empereur [S1]. Ce dernier fut aboli en 1888, un an avant que le Brésil ne devienne une république en 1889 [S1]. Le pays connut ensuite l'oligarchie des caféiers, des dictatures militaires et une transition démocratique avec la fin de la dictature militaire en 1985 [S1]. Les extraits reflètent un point de vue centré sur la colonisation portugaise et l'histoire politique officielle."
+   "narrative": "Le Brésil, plus grand pays d'Amérique du Sud, possède une histoire riche et complexe commençant bien avant l'arrivée des Européens, quand son territoire était peuplé par divers groupes autochtones vivant de chasse, pêche et agriculture [S1]. En 1500, Pedro Álvares Cabral accosta sur les côtes brésiliennes, marquant le début de la colonisation par le Portugal [S1]. En 1822, le Brésil déclara son indépendance sous Pierre Ier, fils de Jean VI, devenu premier empereur [S1]. L'esclavage fut aboli en 1888, un an avant que le pays ne devienne république en 1889 [S1]. Il traversa ensuite oligarchie des caféiers, dictatures militaires et réformes sociales jusqu'à la fin de la dictature militaire en 1985 [S1]. Ces extraits reflètent un point de vue colonial centré sur la chronologie portugaise [S1]."
   },
   {
    "title": "Préhistoire",
@@ -113,7 +145,7 @@
    "start": 1500,
    "end": 1500,
    "photos": [],
-   "narrative": "Le territoire du Brésil, avant l'arrivée des Portugais en 1500, abritait une multitude de peuples autochtones et possédait une riche histoire précolombienne encore en partie méconnue [S2]. L'étude de la préhistoire brésilienne nous plonge dans des périodes bien antérieures à la colonisation européenne [S2]. On y découvre alors des civilisations complexes, des modes de vie variés et une interaction intense avec l'environnement [S2]. Ainsi, cette histoire précolombienne témoigne de la présence d'une multitude de peuples autochtones aux modes de vie variés avant 1500 [S2]. Les extraits fournis se concentrent sur cette riche période précolombienne encore en partie méconnue [S2]."
+   "narrative": "Avant l'arrivée des Portugais en 1500, le territoire du Brésil abritait une multitude de peuples autochtones et possédait une riche histoire précolombienne encore en partie méconnue [S2]. L'étude de la préhistoire brésilienne plonge dans des périodes bien antérieures à la colonisation européenne [S2]. Elle y révèle des civilisations complexes, des modes de vie variés et une interaction intense avec l'environnement [S2]. Le récit s'articule autour de l'arrivée des Portugais en 1500 comme repère chronologique [S2], ce qui reflète un point de vue centré sur la colonisation européenne. Les extraits fournis proviennent d'une seule source et se concentrent sur la période antérieure à 1500 sans détailler d'événements spécifiques au-delà de ce cadre général [S2]."
   },
   {
    "title": "Période coloniale (1500-1815)",
@@ -122,11 +154,39 @@
    "summary": "La période coloniale du Brésil s'étend de l'arrivée des explorateurs portugais en 1500 jusqu'à la naissance du Royaume-Uni de Portugal, du Brésil et des Algarves à la suite du transfert de la cour portugaise à Rio de Janeiro pendant les invasions napoléoniennes du Portugal. Ce long chapitre de l'histoire brésilienne est marqué par l'exploitation des ressources naturelles, l'introduction de l'esclavage et la construction d'une société multiculturelle.",
    "events": [
     {
+     "year": 1450,
+     "label": "XVe s.",
+     "text": "La fin du XVe siècle est marquée par la rivalité entre le royaume de Castille et le royaume du Portugal.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1479,
+     "label": "1479",
+     "text": "Les deux royaumes signent en 1479 le traité d'Alcaçovas qui met fin au contentieux qui les opposait, notamment sur les terres à explorer.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
      "year": 1500,
      "label": "1500",
      "text": "La période coloniale du Brésil s'étend de l'arrivée des explorateurs portugais en 1500 jusqu'à la naissance du Royaume-Uni de Portugal, du Brésil et des Algarves à la suite du transfert de la cour portugaise à Rio de Janeiro pendant les invasions napoléoniennes du Portugal.",
      "source": 3,
      "corroborated": true
+    },
+    {
+     "year": 1535,
+     "label": "1535",
+     "text": "À partir de 1535, le roi décide que les condamnés de droit commun seront déportés au Brésil.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1549,
+     "label": "1549",
+     "text": "Salvador est fondée en 1549 et devient la première capitale du Brésil.",
+     "source": 3,
+     "corroborated": false
     },
     {
      "year": 1550,
@@ -164,43 +224,75 @@
      "corroborated": false
     }
    ],
-   "start": 1500,
+   "start": 1450,
    "end": 1888,
    "photos": [
     {
-     "title": "Panorama do Rio de Janeiro (século XIX) 2 AN",
-     "year": 1861,
+     "title": "Victor Frond (gravado por Sébastien Auguste Sisson) - Família Imperial do Brasil, 1860",
+     "year": 1860,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_2_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_2_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_2_AN.tiff",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Victor_Frond_%28gravado_por_S%C3%A9bastien_Auguste_Sisson%29_-_Fam%C3%ADlia_Imperial_do_Brasil%2C_1860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Victor_Frond_(gravado_por_S%C3%A9bastien_Auguste_Sisson)_-_Fam%C3%ADlia_Imperial_do_Brasil,_1860.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Panorama do Rio de Janeiro (século XIX) 3 AN",
-     "year": 1861,
+     "title": "Salvador Bahia 1875",
+     "year": 1875,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_3_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_3_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_3_AN.tiff",
+     "image": "/media/places/salvador-pelourinho/archive/1de08cec0600.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Bahia_1875.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Panorama do Rio de Janeiro (século XIX) 4 – Arcos da Lapa – Aqueduto AN",
-     "year": 1861,
+     "title": "Salvador Brasil 1875",
+     "year": 1875,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif",
+     "image": "/media/places/salvador-pelourinho/archive/fa089689e6d6.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Brasil_1875.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Panorama do Rio de Janeiro (século XIX) AN",
-     "year": 1861,
+     "title": "Ferdinand Krumholz - Retrato de D. Pedro II, Imperador do Brasil",
+     "year": 1851,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_AN.tiff",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ferdinand_Krumholz_-_Retrato_de_D._Pedro_II%2C_Imperador_do_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Ferdinand_Krumholz_-_Retrato_de_D._Pedro_II,_Imperador_do_Brasil.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Angra lebreton",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Angra_lebreton.jpg/960px-Angra_lebreton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Angra_lebreton.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Praça ou Largo do Municipio-Pelourinho",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/03c5e0da43a3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_ou_Largo_do_Municipio-Pelourinho.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Basílica da Penha, c. 1880 - Recife",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bas%C3%ADlica_da_Penha%2C_c._1880_-_Recife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_da_Penha,_c._1880_-_Recife.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Casa de Detenção, Recife (c. 1880)",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Casa_de_Deten%C3%A7%C3%A3o%2C_Recife_%28c._1880%29.jpg/960px-Casa_de_Deten%C3%A7%C3%A3o%2C_Recife_%28c._1880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Casa_de_Deten%C3%A7%C3%A3o,_Recife_(c._1880).jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "La période coloniale du Brésil s'étend de l'arrivée des explorateurs portugais en 1500 jusqu'à la naissance du Royaume-Uni de Portugal, du Brésil et des Algarves à la suite du transfert de la cour portugaise à Rio de Janeiro pendant les invasions napoléoniennes du Portugal [S3]. Ce long chapitre est marqué par l'exploitation des ressources naturelles, l'introduction de l'esclavage et la construction d'une société multiculturelle [S3]. En 1550, le service militaire est rendu obligatoire et des jeunes femmes choisies par la reine sont envoyées pour épouser les colons et fonder des familles [S3]. En 1808, fuyant l'invasion napoléonienne, la famille royale se réfugie au Brésil et fait de Rio la capitale de l'empire portugais [S3]. Les extraits fournis ne reflètent qu'un point de vue colonial centré sur l'administration portugaise [S3]."
+   "narrative": "La période coloniale du Brésil s'étend de l'arrivée des explorateurs portugais en 1500 jusqu'à la naissance du Royaume-Uni de Portugal, du Brésil et des Algarves après le transfert de la cour à Rio pendant les invasions napoléoniennes [S3]. Elle est marquée par l'exploitation des ressources naturelles, l'introduction de l'esclavage et la construction d'une société multiculturelle [S3]. Après la rivalité entre Castille et Portugal et le traité d'Alcaçovas de 1479 [S3], les condamnés de droit commun sont déportés au Brésil à partir de 1535 [S3]. Salvador est fondée en 1549 et devient la première capitale [S3]. En 1550 le service militaire devient obligatoire et des jeunes femmes choisies par la reine viennent épouser les colons [S3]. L'occupation hollandaise trouve son origine dans la mort de Sébastien Ier en 1580 et l'Union ibérique [S3]. En 1808 la famille royale fuyant l'invasion napoléonienne arrive au Brésil le 7 mars et fait de Rio la capitale de l'empire [S3]. L'esclavage n'est aboli qu'en 1888 par la loi d'Or [S3]. Ces extraits reflètent uniquement un point de vue colonial [S3]."
   },
   {
    "title": "L'éphémère union (1815-1822)",
@@ -208,6 +300,13 @@
    "source": 4,
    "summary": "Entre 1815 et 1822, le Brésil connaît une période clé de son histoire, marquée par sa transition de colonie portugaise à nation indépendante. En 1815, le régent et futur roi Jean VI décide de transformer le Brésil, alors une colonie portugaise, en un royaume à part entière au sein du Royaume-Uni de Portugal, du Brésil et des Algarves avec l'assentiment des Alliés lors du Congrès de Vienne.",
    "events": [
+    {
+     "year": 1807,
+     "label": "1807",
+     "text": "À l'époque, la cour portugaise réside à Rio de Janeiro après avoir fui les troupes napoléoniennes en 1807.",
+     "source": 4,
+     "corroborated": true
+    },
     {
      "year": 1815,
      "label": "1815",
@@ -251,10 +350,10 @@
      "corroborated": true
     }
    ],
-   "start": 1815,
+   "start": 1807,
    "end": 1822,
    "photos": [],
-   "narrative": "Entre 1815 et 1822, le Brésil connaît une période clé de transition de colonie portugaise à nation indépendante [S4]. En 1815, le régent et futur roi Jean VI le transforme en royaume au sein du Royaume-Uni de Portugal, du Brésil et des Algarves avec l'assentiment des Alliés lors du Congrès de Vienne [S4]. En 1817 la Révolution pernamboucaine est écrasée par l'armée, ce qui suscite du mécontentement, et une amnistie royale n'est proclamée que le 6 février 1818 [S4]. En 1820 une révolution libérale éclate au Portugal exigeant le retour du roi et une constitution sur la base de celle espagnole de 1812 [S4]. Le roi retourne à Lisbonne en 1821 laissant son fils Pierre comme prince régent [S4]. Le 7 septembre 1822, sur les rives de l'Ipiranga près de São Paulo, Dom Pedro proclame l'indépendance par le cri d'Ipiranga, rupture définitive avec le Portugal [S4]. Les extraits fournis ne reflètent qu'un point de vue institutionnel centré sur la Couronne [S4]."
+   "narrative": "Entre 1815 et 1822, le Brésil passe de colonie portugaise à nation indépendante [S4]. La cour portugaise réside à Rio depuis 1807 après avoir fui les troupes napoléoniennes [S4]. En 1815, le régent Jean VI en fait un royaume au sein du Royaume-Uni de Portugal, du Brésil et des Algarves avec l'assentiment des Alliés à Vienne [S4]. La Révolution pernamboucaine de 1817 est écrasée par l'armée, suscitant du mécontentement, avant l'amnistie du 6 février 1818 [S4]. En 1820 une révolution libérale au Portugal exige le retour du roi et une constitution inspirée de celle d'Espagne de 1812 [S4]. Jean VI rentre à Lisbonne en 1821 laissant Pierre comme prince régent [S4]. Le 7 septembre 1822 Dom Pedro proclame l'indépendance sur les rives de l'Ipiranga près de São Paulo [S4]. Ces extraits n'offrent qu'un point de vue colonial [S4]."
   },
   {
    "title": "La monarchie constitutionnelle (1822-1889)",
@@ -262,6 +361,20 @@
    "source": 5,
    "summary": "L'empire du Brésil est une période marquante de l'histoire brésilienne qui s'étend de 1822 à 1889. Il a vu la naissance et la consolidation d'une monarchie constitutionnelle, dirigée d'abord par Pierre Ier, puis par son fils Pierre II, et a marqué la transition du Brésil d'une colonie portugaise à une nation indépendante.",
    "events": [
+    {
+     "year": 1822,
+     "label": "1822",
+     "text": "L'empire du Brésil est une période marquante de l'histoire brésilienne qui s'étend de 1822 à 1889.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1823,
+     "label": "1823",
+     "text": "En 1823, Pierre Ier convoque une assemblée constituante pour élaborer une constitution.",
+     "source": 5,
+     "corroborated": false
+    },
     {
      "year": 1824,
      "label": "1824",
@@ -273,6 +386,20 @@
      "year": 1825,
      "label": "1825",
      "text": "Sur le plan international, le Brésil se retrouve également en guerre contre l'Argentine dans la guerre de Cisplatine (1825-1828), à propos de la possession de la province de Cisplatine (l'actuel Uruguay).",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1828,
+     "label": "1828",
+     "text": "Le Brésil subit une défaite et la province devient un État indépendant en 1828, ce qui affaiblit l'autorité de l'empereur.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1834,
+     "label": "1834",
+     "text": "L'une des rares réussites de la régence est la limitation des pouvoirs de l'empereur par un Acte additionnel à la constitution en 1834.",
      "source": 5,
      "corroborated": false
     },
@@ -305,43 +432,75 @@
      "corroborated": false
     }
    ],
-   "start": 1824,
+   "start": 1822,
    "end": 1891,
    "photos": [
     {
-     "title": "Botafogo (Rio de Janeiro), Aleksei Vysheslavtsev, page 549 (1867)",
-     "year": 1867,
+     "title": "Panorama do Rio de Janeiro (014GLAS093)",
+     "year": 1861,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Botafogo_%28Rio_de_Janeiro%29%2C_Aleksei_Vysheslavtsev%2C_page_549_%281867%29.jpg/960px-Botafogo_%28Rio_de_Janeiro%29%2C_Aleksei_Vysheslavtsev%2C_page_549_%281867%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Botafogo_(Rio_de_Janeiro),_Aleksei_Vysheslavtsev,_page_549_(1867).jpg",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Panorama_do_Rio_de_Janeiro_%28014GLAS093%29.jpg/960px-Panorama_do_Rio_de_Janeiro_%28014GLAS093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(014GLAS093).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Panorama do Rio de Janeiro (século XIX) 2 AN",
-     "year": 1861,
+     "title": "Victor Frond (gravado por Sébastien Auguste Sisson) - Família Imperial do Brasil, 1860",
+     "year": 1860,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_2_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_2_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_2_AN.tiff",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Victor_Frond_%28gravado_por_S%C3%A9bastien_Auguste_Sisson%29_-_Fam%C3%ADlia_Imperial_do_Brasil%2C_1860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Victor_Frond_(gravado_por_S%C3%A9bastien_Auguste_Sisson)_-_Fam%C3%ADlia_Imperial_do_Brasil,_1860.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Panorama do Rio de Janeiro (século XIX) 3 AN",
-     "year": 1861,
+     "title": "Salvador Bahia 1875",
+     "year": 1875,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_3_AN.tiff/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_3_AN.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_3_AN.tiff",
+     "image": "/media/places/salvador-pelourinho/archive/1de08cec0600.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Bahia_1875.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Panorama do Rio de Janeiro (século XIX) 4 – Arcos da Lapa – Aqueduto AN",
-     "year": 1861,
+     "title": "Salvador Brasil 1875",
+     "year": 1875,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif/lossy-page1-960px-Panorama_do_Rio_de_Janeiro_%28s%C3%A9culo_XIX%29_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Panorama_do_Rio_de_Janeiro_(s%C3%A9culo_XIX)_4_%E2%80%93_Arcos_da_Lapa_%E2%80%93_Aqueduto_AN.tif",
+     "image": "/media/places/salvador-pelourinho/archive/fa089689e6d6.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Brasil_1875.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Fundação da cidade do Rio de Janeiro, Antonio Firmino de Monteiro, 1855-1888",
+     "year": 1855,
+     "license": "CC0",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Funda%C3%A7%C3%A3o_da_cidade_do_Rio_de_Janeiro%2C_Antonio_Firmino_de_Monteiro%2C_1855-1888.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Funda%C3%A7%C3%A3o_da_cidade_do_Rio_de_Janeiro,_Antonio_Firmino_de_Monteiro,_1855-1888.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Ferdinand Krumholz - Retrato de D. Pedro II, Imperador do Brasil",
+     "year": 1851,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ferdinand_Krumholz_-_Retrato_de_D._Pedro_II%2C_Imperador_do_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Ferdinand_Krumholz_-_Retrato_de_D._Pedro_II,_Imperador_do_Brasil.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Praça ou Largo do Municipio-Pelourinho",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/03c5e0da43a3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_ou_Largo_do_Municipio-Pelourinho.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Angra lebreton",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Angra_lebreton.jpg/960px-Angra_lebreton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Angra_lebreton.jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'empire du Brésil de 1822 à 1889 voit la naissance et la consolidation d'une monarchie constitutionnelle dirigée par Pierre Ier puis par son fils Pierre II, marquant la transition d'une colonie portugaise à une nation indépendante [S5]. En 1824 Pierre Ier impose une constitution autoritaire accordant au souverain un « pouvoir modérateur » pour intervenir dans les autres branches du gouvernement [S5]. Le Brésil est en guerre contre l'Argentine lors de la guerre de Cisplatine de 1825 à 1828 pour la possession de la Cisplatine, l'actuel Uruguay [S5]. La loi Eusébio de Queirós de 1850 interdit la traite des esclaves sans abolir l'esclavage [S5]. Le 13 mai 1888 la princesse Isabelle, fille de Pierre II, signe la Loi d'or qui libère 700 000 esclaves [S5]. La monarchie s'achève avec la proclamation de la République en 1889, la constitution restant en vigueur jusqu'en 1891 [S5]. Les extraits fournis ne reflètent qu'un point de vue institutionnel centré sur la monarchie [S5]."
+   "narrative": "L'empire du Brésil de 1822 à 1889 voit la naissance et la consolidation d'une monarchie constitutionnelle dirigée par Pierre Ier puis Pierre II, marquant la transition d'une colonie à une nation indépendante [S5]. En 1823 Pierre Ier convoque une assemblée constituante puis impose en 1824 une constitution avec un « pouvoir modérateur » [S5]. La guerre de Cisplatine contre l'Argentine (1825-1828) aboutit à l'indépendance de la province en 1828 [S5]. L'Acte additionnel de 1834 limite les pouvoirs de l'empereur [S5]. La loi Eusébio de Queirós de 1850 interdit la traite sans abolir l'esclavage [S5]. La Loi d'or du 13 mai 1888 signée par la princesse Isabelle libère 700 000 esclaves [S5]. La République est proclamée en 1889, la constitution restant en vigueur jusqu'en 1891 [S5]. Ces extraits reflètent un point de vue centré sur le pouvoir impérial [S5]."
   },
   {
    "title": "La Première République (1889-1930)",
@@ -371,6 +530,13 @@
      "corroborated": false
     },
     {
+     "year": 1896,
+     "label": "1896",
+     "text": "Des révoltes paysannes éclatent, comme la guerre de Canudos (1896-1897) dans l'État de Bahia, où des milliers de paysans se soulèvent contre l'autorité fédérale, dirigés par le chef religieux Antônio Conselheiro.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
      "year": 1898,
      "label": "1898",
      "text": "En 1898, le futur président Manuel de Campos Sales doit se rendre en urgence à Londres pour négocier un échelonnement du remboursement de la dette.",
@@ -378,9 +544,30 @@
      "corroborated": false
     },
     {
+     "year": 1903,
+     "label": "1903",
+     "text": "En 1903, le pays s'agrandit lors de la guerre de l'Acre contre la Bolivie, qui perd à nouveau du territoire contre un pays voisin.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
      "year": 1906,
      "label": "1906",
      "text": "En 1906, un accord est trouvé entre les gouverneurs de São Paulo, du Minas Gerais et de Rio de Janeiro pour protéger les producteurs de café : l'accord de Taubaté.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1912,
+     "label": "1912",
+     "text": "D'autres mouvements sociaux, comme la guerre du Contestado (1912-1916) dans le sud du pays et les grèves ouvrières dans les grandes villes, témoignent du mécontentement croissant des classes populaires.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1917,
+     "label": "1917",
+     "text": "Au sortir de la Première Guerre mondiale, dans laquelle le pays s'engage en octobre 1917, la contestation s'amplifie.",
      "source": 6,
      "corroborated": false
     },
@@ -395,6 +582,14 @@
    "start": 1888,
    "end": 1930,
    "photos": [
+    {
+     "title": "LargoPelourinhoLx(Ch.-Flaviens)",
+     "year": 1905,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/bfc7f8cde713.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:LargoPelourinhoLx(Ch.-Flaviens).jpg",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "Plaza de mayo adornada presidente de brasil 1900",
      "year": 1900,
@@ -426,9 +621,33 @@
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Selo_Brasil_400_anos_1500_1900_200_reis.jpg/960px-Selo_Brasil_400_anos_1500_1900_200_reis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:Selo_Brasil_400_anos_1500_1900_200_reis.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Selo Brasil 400 anos 1500 1900 500 reis",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Selo_Brasil_400_anos_1500_1900_500_reis.jpg/960px-Selo_Brasil_400_anos_1500_1900_500_reis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Selo_Brasil_400_anos_1500_1900_500_reis.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Selo Brasil 400 anos 1500 1900 700 reis",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Selo_Brasil_400_anos_1500_1900_700_reis.jpg/960px-Selo_Brasil_400_anos_1500_1900_700_reis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Selo_Brasil_400_anos_1500_1900_700_reis.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil Portugal, Ano 1, 1899-1900, N.º 1 a N.º 24, capa",
+     "year": 1899,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brasil_Portugal%2C_Ano_1%2C_1899-1900%2C_N.%C2%BA_1_a_N.%C2%BA_24%2C_capa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_Portugal,_Ano_1,_1899-1900,_N.%C2%BA_1_a_N.%C2%BA_24,_capa.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "La Première République ou « Vieille République » (República Velha) s'étend de la chute de l'Empire brésilien en 1889 à la Révolution de 1930 [S6]. Cette période de transitions politiques et sociales importantes est favorisée par le mécontentement des élites terriennes face à l'abolition de l'esclavage en 1888 [S6]. En 1891, la marine qui avait soutenu le gouvernement lors de la tentative de fermeture du Congrès décide de bombarder la capitale pour obliger Peixoto à céder dans la lutte contre les fédéralistes [S6]. En 1898, le futur président Manuel de Campos Sales doit se rendre en urgence à Londres pour négocier un échelonnement du remboursement de la dette [S6]. En 1906, l'accord de Taubaté entre les gouverneurs de São Paulo, du Minas Gerais et de Rio de Janeiro protège les producteurs de café [S6]."
+   "narrative": "L'histoire du Brésil de 1889 à 1930 correspond à la Première République ou « Vieille République », qui commence avec la chute de l'Empire brésilien en 1889 et s'achève avec la Révolution de 1930 [S6]. La chute de l'Empire est favorisée par le mécontentement des élites terriennes face à l'abolition de l'esclavage en 1888 [S6]. Cette période est marquée par des transitions politiques et sociales importantes, avec des révoltes comme la guerre de Canudos (1896-1897) en Bahia menée par Antônio Conselheiro [S6] et la guerre du Contestado (1912-1916) [S6]. Elle s'achève avec la Révolution de 1930 [S6]."
   },
   {
    "title": "Le gouvernement provisoire et la Deuxième République (1930-1937)",
@@ -477,10 +696,24 @@
      "text": "En novembre 1937, il organisa un coup d’État qui suspendit la Constitution de 1934 et mit fin au régime démocratique.",
      "source": 7,
      "corroborated": false
+    },
+    {
+     "year": 1942,
+     "label": "1942",
+     "text": "Elle mourra gazée en 1942 à Bernburg, l'un des centres de mise à mort du programme Aktion T4.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1944,
+     "label": "1944",
+     "text": "La politique concernant le café va durer jusqu'en 1944.",
+     "source": 7,
+     "corroborated": false
     }
    ],
    "start": 1930,
-   "end": 1937,
+   "end": 1944,
    "photos": [
     {
      "title": "Largo do Pelourinho, 1931",
@@ -513,9 +746,41 @@
      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Brasil_-_Mundial_-_1930-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_-_Mundial_-_1930-2.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil - Mundial - 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brasil_-_Mundial_-_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_-_Mundial_-_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil v Yugoslavia, Los Sports, 1930-07-25 (385)",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Brasil_v_Yugoslavia%2C_Los_Sports%2C_1930-07-25_%28385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_v_Yugoslavia,_Los_Sports,_1930-07-25_(385).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "CONSTITUIÇÃO POLITICA DOS ESTADOS UNIDOS DO BRASIL 1891 Imprensa nacional 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/CONSTITUI%C3%87%C3%83O_POLITICA_DOS_ESTADOS_UNIDOS_DO_BRASIL_1891_Imprensa_nacional_1930.jpg/960px-CONSTITUI%C3%87%C3%83O_POLITICA_DOS_ESTADOS_UNIDOS_DO_BRASIL_1891_Imprensa_nacional_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:CONSTITUI%C3%87%C3%83O_POLITICA_DOS_ESTADOS_UNIDOS_DO_BRASIL_1891_Imprensa_nacional_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Delegación de Brasil en el Mundial de 1930, Los Sports, 1930-07-18 (384)",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Delegaci%C3%B3n_de_Brasil_en_el_Mundial_de_1930%2C_Los_Sports%2C_1930-07-18_%28384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Delegaci%C3%B3n_de_Brasil_en_el_Mundial_de_1930,_Los_Sports,_1930-07-18_(384).jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L’histoire du Brésil de 1930 à 1937 est marquée par une période de changements politiques et sociaux profonds, centrés autour de la montée au pouvoir de Getúlio Vargas et la mise en place de l'Estado Novo [S7]. À son arrivée au pouvoir, Vargas gouverna le Brésil sous un régime provisoire, sans constitution ni cadre légal défini [S7]. Face aux pressions politiques et sociales croissantes, Vargas convoqua une Assemblée constituante en 1933 [S7]. La Constitution de 1934 introduisit des éléments de démocratie représentative tout en renforçant les pouvoirs de l'exécutif, et les citoyens, y compris les femmes, obtinrent le droit de vote obligatoire et secret [S7]. En novembre 1937, il organisa un coup d’État qui suspendit la Constitution de 1934 et mit fin au régime démocratique [S7]."
+   "narrative": "L'histoire du Brésil de 1930 à 1937 est marquée par des changements politiques et sociaux profonds centrés autour de la montée au pouvoir de Getúlio Vargas et la mise en place de l'Estado Novo [S7]. À son arrivée, Vargas gouverna sous un régime provisoire sans constitution ni cadre légal défini [S7]. Face aux pressions politiques et sociales croissantes, il convoqua une Assemblée constituante en 1933 [S7]. La Constitution de 1934 introduisit des éléments de démocratie représentative tout en renforçant les pouvoirs de l'exécutif avec le vote obligatoire et secret y compris pour les femmes [S7]. En 1935 une tentative de coup d'État communiste soutenue par l'ANL et dirigée par le Parti communiste échoua [S7]. En novembre 1937 il organisa un coup d'État qui suspendit la Constitution de 1934 et mit fin au régime démocratique [S7]."
   },
   {
    "title": "L'Estado Novo (1937-1945)",
@@ -600,9 +865,41 @@
      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Brasil_-_Mundial_-_1930-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_-_Mundial_-_1930-2.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil - Mundial - 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brasil_-_Mundial_-_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_-_Mundial_-_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil v Yugoslavia, Los Sports, 1930-07-25 (385)",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Brasil_v_Yugoslavia%2C_Los_Sports%2C_1930-07-25_%28385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_v_Yugoslavia,_Los_Sports,_1930-07-25_(385).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "CONSTITUIÇÃO POLITICA DOS ESTADOS UNIDOS DO BRASIL 1891 Imprensa nacional 1930",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/CONSTITUI%C3%87%C3%83O_POLITICA_DOS_ESTADOS_UNIDOS_DO_BRASIL_1891_Imprensa_nacional_1930.jpg/960px-CONSTITUI%C3%87%C3%83O_POLITICA_DOS_ESTADOS_UNIDOS_DO_BRASIL_1891_Imprensa_nacional_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:CONSTITUI%C3%87%C3%83O_POLITICA_DOS_ESTADOS_UNIDOS_DO_BRASIL_1891_Imprensa_nacional_1930.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Delegación de Brasil en el Mundial de 1930, Los Sports, 1930-07-18 (384)",
+     "year": 1930,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Delegaci%C3%B3n_de_Brasil_en_el_Mundial_de_1930%2C_Los_Sports%2C_1930-07-18_%28384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Delegaci%C3%B3n_de_Brasil_en_el_Mundial_de_1930,_Los_Sports,_1930-07-18_(384).jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'Estado Novo (1937-1945) est une période marquante dirigée par Getúlio Vargas, qui instaure un régime autoritaire inspiré du fascisme européen, consolidant l'État par centralisation du pouvoir, contrôle strict des institutions et politique de développement nationaliste [S8]. Entre 1930 et 1937, Vargas gouverne sous des régimes plus ou moins démocratiques face à des menaces de communistes et d'intégralistes influencés par le fascisme [S8]. En 1937, la découverte supposée du faux complot communiste du « Plan Cohen » justifie un coup d'État [S8]. Neutre en 1939, le Brésil entre en guerre aux côtés des Alliés en 1942 et modifie son orientation internationale [S8]. Ayant promis une élection pour 1943, Vargas change d'avis après l'entrée en guerre [S8]. Sous pression militaire et populaire, il démissionne en 1945, mettant fin à l'Estado Novo [S8]."
+   "narrative": "L'Estado Novo (1937-1945) est une période marquante de l'histoire politique du Brésil, dirigée par Getúlio Vargas, qui a instauré un régime autoritaire inspiré du fascisme européen [S8]. Ce régime a consolidé l'État autour d'une centralisation du pouvoir, d'un contrôle strict des institutions et d'une politique de développement nationaliste [S8]. Entre 1930 et 1937, Vargas gouverne sous des régimes plus ou moins démocratiques tout en faisant face à des menaces de communistes et d'intégralistes influencés par les idéologies fascistes [S8]. Le tournant se produit en 1937 avec la découverte supposée du « Plan Cohen », un faux complot communiste utilisé pour justifier un coup d'État [S8]. En 1939 le Brésil déclare sa neutralité au déclenchement de la Seconde Guerre mondiale, puis entre dans le conflit aux côtés des Alliés en 1942, modifiant son orientation internationale [S8]. Il avait promis une élection pour 1943 et a changé d'avis une fois le pays entré en guerre [S8]. L'Estado Novo prend fin en 1945 quand Vargas démissionne sous pression militaire et populaire [S8]. Les extraits fournis reposent sur une seule source [S8]."
   },
   {
    "title": "La Quatrième République (1946-1964)",
@@ -618,9 +915,30 @@
      "corroborated": false
     },
     {
+     "year": 1945,
+     "label": "1945",
+     "text": "Pourtant, les résultats sont visibles : entre 1945 et 1955, la croissance économique est de 5,7 % en moyenne.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1946,
+     "label": "1946",
+     "text": "L’histoire du Brésil entre 1946 et 1964 est marquée par une période complexe, durant laquelle le pays traverse des changements politiques importants, des tensions sociales et une évolution économique rapide.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
      "year": 1951,
      "label": "1951",
      "text": "Getúlio Vargas, figure centrale de la politique brésilienne, revient au pouvoir en 1951, cette fois par le biais d'une élection démocratique.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1953,
+     "label": "1953",
+     "text": "Il encourage le développement industriel et crée la compagnie pétrolière nationale, Petrobras, en 1953, un symbole de l'intervention de l'État dans l'économie.",
      "source": 9,
      "corroborated": false
     },
@@ -635,6 +953,13 @@
      "year": 1955,
      "label": "1955",
      "text": "Après une courte période de transition, Juscelino Kubitschek est élu président en 1955.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1960,
+     "label": "1960",
+     "text": "Il lance un programme de développement industriel, infrastructurel et urbain, avec pour point culminant la construction de Brasília, la nouvelle capitale inaugurée en 1960.",
      "source": 9,
      "corroborated": false
     },
@@ -657,39 +982,71 @@
    "end": 1964,
    "photos": [
     {
-     "title": "Avisos Funebres-Jornal do Brasil-Janeiro de 1940",
-     "year": 1940,
+     "title": "Brasil, Estadio, 1950-07-22 (375)",
+     "year": 1950,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Avisos_Funebres-Jornal_do_Brasil-Janeiro_de_1940.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Avisos_Funebres-Jornal_do_Brasil-Janeiro_de_1940.png",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Brasil%2C_Estadio%2C_1950-07-22_%28375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil,_Estadio,_1950-07-22_(375).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Beatriz Costa no Brasil (1940's)",
-     "year": 1940,
+     "title": "Brasil v España, Estadio, 1950-08-05 (377)",
+     "year": 1950,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Beatriz_Costa_no_Brasil_%281940%27s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Beatriz_Costa_no_Brasil_(1940%27s).jpg",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Brasil_v_Espa%C3%B1a%2C_Estadio%2C_1950-08-05_%28377%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_v_Espa%C3%B1a,_Estadio,_1950-08-05_(377).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Biscoitos Aymore (Jornal do Brasil - 1940)",
-     "year": 1940,
+     "title": "Brasil v Suiza, Estadio, 1950-07-08 (373) 01",
+     "year": 1950,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Biscoitos_Aymore_%28Jornal_do_Brasil_-_1940%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Biscoitos_Aymore_(Jornal_do_Brasil_-_1940).png",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Brasil_v_Suiza%2C_Estadio%2C_1950-07-08_%28373%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_v_Suiza,_Estadio,_1950-07-08_(373)_01.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Geisel e Vargas - 1940",
-     "year": 1940,
+     "title": "Brasil v Suiza, Estadio, 1950-07-08 (373) 02",
+     "year": 1950,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Geisel_e_Vargas_-_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Geisel_e_Vargas_-_1940.jpg",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Brasil_v_Suiza%2C_Estadio%2C_1950-07-08_%28373%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_v_Suiza,_Estadio,_1950-07-08_(373)_02.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil v Uruguay, Estadio, 1950-07-29 (376)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Brasil_v_Uruguay%2C_Estadio%2C_1950-07-29_%28376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_v_Uruguay,_Estadio,_1950-07-29_(376).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Estado de São Paulo (Brasil) 1950, Acervo do Museu Paulista da USP",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Estado_de_S%C3%A3o_Paulo_%28Brasil%29_1950%2C_Acervo_do_Museu_Paulista_da_USP.jpg/960px-Estado_de_S%C3%A3o_Paulo_%28Brasil%29_1950%2C_Acervo_do_Museu_Paulista_da_USP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Estado_de_S%C3%A3o_Paulo_(Brasil)_1950,_Acervo_do_Museu_Paulista_da_USP.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Consolidated Commodore -PP-PAJ -Panair do Brasil (década de 1930)",
+     "year": 1945,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Consolidated_Commodore_-PP-PAJ_-Panair_do_Brasil_%28d%C3%A9cada_de_1930%29.jpg/960px-Consolidated_Commodore_-PP-PAJ_-Panair_do_Brasil_%28d%C3%A9cada_de_1930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Consolidated_Commodore_-PP-PAJ_-Panair_do_Brasil_(d%C3%A9cada_de_1930).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Brasil v Uruguay en 1950, Estadio, 1952-03-22 (462)",
+     "year": 1952,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Brasil_v_Uruguay_en_1950%2C_Estadio%2C_1952-03-22_%28462%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Brasil_v_Uruguay_en_1950,_Estadio,_1952-03-22_(462).jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'histoire du Brésil entre 1946 et 1964 est marquée par une période complexe avec des changements politiques importants, des tensions sociales et une évolution économique rapide [S9]. Après la chute de l'Estado Novo (1937-1945) de Getúlio Vargas, une nouvelle Constitution est adoptée en 1946, ouvrant la voie à une période de démocratie représentative [S9]. Getúlio Vargas revient au pouvoir en 1951 par une élection démocratique [S9]. En 1954, après un scandale politique et la menace d'un coup d'État, il se suicide, évitant au pays de basculer dans la dictature [S9]. Juscelino Kubitschek est élu président en 1955 [S9]. En 1961, Jânio Quadros est élu puis démissionne après sept mois [S9]. En avril 1964, les forces armées, soutenues par des secteurs conservateurs et les États-Unis dans le contexte de la guerre froide, organisent un coup d'État [S9]."
+   "narrative": "L'histoire du Brésil entre 1946 et 1964 est marquée par une période complexe avec changements politiques, tensions sociales et évolution économique rapide [S9]. Après la chute de l'Estado Novo (1937-1945) de Getúlio Vargas, une nouvelle Constitution est adoptée en 1946 ouvrant la voie à une démocratie représentative [S9]. Getúlio Vargas revient au pouvoir en 1951 par élection démocratique et crée Petrobras en 1953 [S9]. En 1954, après scandale politique et menace de coup d'État, Vargas se suicide, évitant au pays de basculer dans la dictature [S9]. Juscelino Kubitschek élu en 1955 lance la construction de Brasília inaugurée en 1960 [S9]. En avril 1964, les forces armées soutenues par des secteurs conservateurs et les États-Unis organisent un coup d'État [S9]."
   },
   {
    "title": "La dictature militaire (1964-1985)",
@@ -703,6 +1060,34 @@
      "text": "Le coup d'État militaire du 31 mars 1964 a renversé le président João Goulart, considéré par les militaires et une partie de la population comme étant trop proche des idées socialistes et communistes.",
      "source": 10,
      "corroborated": true
+    },
+    {
+     "year": 1965,
+     "label": "1965",
+     "text": "Mais dès l'automne 1965, voyant que des partisans de Goulart ou de Kubitschek ont remporté certains scrutins, la dictature ne tarde pas à réagir.",
+     "source": 10,
+     "corroborated": true
+    },
+    {
+     "year": 1967,
+     "label": "1967",
+     "text": "En mars 1967, Castelo Branco quitte le pouvoir et meurt quatre mois plus tard dans un accident d'avion.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1968,
+     "label": "1968",
+     "text": "Une série d'institutions et de mesures autoritaires ont été mises en place : L'Acte institutionnel no 5 (AI-5), promulgué en 1968, a donné au gouvernement des pouvoirs pratiquement illimités, suspendant le Congrès national et augmentant la répression politique.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
+     "year": 1969,
+     "label": "1969",
+     "text": "La dictature militaire va plus loin, lorsqu'elle rétablit la peine de mort en temps de paix en septembre 1969.",
+     "source": 10,
+     "corroborated": false
     },
     {
      "year": 1970,
@@ -743,7 +1128,7 @@
    "start": 1964,
    "end": 1985,
    "photos": [],
-   "narrative": "La dictature militaire au Brésil dure de 1964 à 1985 dans le contexte de la guerre froide marqué par les tensions entre les États-Unis et l'Union soviétique et la peur du communisme [S10]. Le coup d'État du 31 mars 1964 renverse le président João Goulart, considéré par les militaires et une partie de la population comme trop proche des idées socialistes et communistes [S10]. La fin des années 1970 voit une montée des mouvements pour la démocratie [S10]. À partir de 1974, le président Ernesto Geisel lance la « libéralisation » du régime qualifiée de « détente » (distensão) [S10]. Il reste le président qui a le plus utilisé l'Acte institutionnel no 5 jusqu'à son abrogation en 1978 [S10]. En 1984, le mouvement Diretas Já mobilise des millions de Brésiliens réclamant des élections présidentielles directes [S10]. En 1985, le civil Tancredo Neves est élu par un collège électoral, marquant la fin de la dictature [S10]."
+   "narrative": "La dictature militaire au Brésil a duré de 1964 à 1985 dans un contexte de guerre froide marqué par les tensions entre États-Unis et Union soviétique et la peur du communisme [S10]. Le coup d'État du 31 mars 1964 a renversé João Goulart jugé trop proche du socialisme et du communisme [S10]. L'AI-5 de 1968 a donné au gouvernement des pouvoirs illimités, suspendu le Congrès et accru la répression [S10]. La peine de mort en temps de paix est rétablie en septembre 1969 [S10]. À partir de 1974 Ernesto Geisel lance la « détente » tout en restant celui qui a le plus utilisé l'AI-5 jusqu'à son abrogation en 1978 [S10]. En 1984 le mouvement Diretas Já mobilise des millions pour des élections directes, avant l'élection en 1985 de Tancredo Neves par un collège électoral marquant la fin de la dictature [S10]."
   },
   {
    "title": "Le retour à la démocratie : un équilibre fragile (depuis 1985)",
@@ -752,11 +1137,25 @@
    "summary": "L'histoire du Brésil depuis 1985 est marquée par des transformations politiques, économiques et sociales majeures. Ce tournant commence avec la transition vers la démocratie, après plus de 20 ans de dictature militaire.",
    "events": [
     {
+     "year": 1750,
+     "label": "XVIIIe s.",
+     "text": "Charlotte de Castelnau-L'Estoile, Un catholicisme colonial : Le mariage des Indiens et des esclaves au Brésil, XVIe – XVIIIe siècle, Paris, Presses universitaires de France, 2019, 551 p.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
      "year": 1985,
      "label": "1985",
      "text": "La mort soudaine de Tancredo Neves, élu président lors des élections indirectes de 1985, conduit à l'investiture de son vice-président, José Sarney, qui fut pourtant un serviteur de l'État pendant la dictature.",
      "source": 11,
      "corroborated": true
+    },
+    {
+     "year": 1986,
+     "label": "1986",
+     "text": "En 1986, le président Sarnay annonce le Plan Cruzado (pt), un vaste programme de mesures pour lutter contre l'inflation.",
+     "source": 11,
+     "corroborated": false
     },
     {
      "year": 1988,
@@ -792,12 +1191,91 @@
      "text": "En 2002, Luiz Inácio Lula da Silva, issu du Parti des travailleurs (PT), est élu président.",
      "source": 11,
      "corroborated": true
+    },
+    {
+     "year": 2018,
+     "label": "2018",
+     "text": "En 2018, Jair Bolsonaro, ancien capitaine de l'armée et figure de la droite populiste, est élu président, capitalisant sur la frustration populaire face à la corruption et à la violence.",
+     "source": 11,
+     "corroborated": true
+    },
+    {
+     "year": 2022,
+     "label": "2022",
+     "text": "En 2022, Lula est réélu président dans une élection très disputée face à Bolsonaro, marquant son retour à la présidence après une décennie d'absence et après avoir été emprisonné dans le cadre de l'enquête sur l'opération Lava Jato, avant que ses condamnations soient annulées par le Tribunal suprême fédéral.",
+     "source": 11,
+     "corroborated": true
     }
    ],
-   "start": 1985,
-   "end": 2002,
-   "photos": [],
-   "narrative": "L'histoire du Brésil depuis 1985 est marquée par des transformations politiques, économiques et sociales majeures amorcées par la transition vers la démocratie après plus de 20 ans de dictature militaire [S11]. En 1985, la mort soudaine de Tancredo Neves élu lors d'élections indirectes conduit à l'investiture de son vice-président José Sarney pourtant serviteur de l'État pendant la dictature [S11]. Sous sa présidence la Constitution de 1988 est adoptée comme étape essentielle de la consolidation démocratique [S11]. Soutenu par 75 % du Congrès malgré des négociations constantes, Cardoso fait adopter seize amendements dont celui permettant sa réélection en 1998, avant l'élection en 2002 de Luiz Inácio Lula da Silva issu du Parti des travailleurs [S11]."
+   "start": 1750,
+   "end": 2022,
+   "photos": [
+    {
+     "title": "LargoPelourinhoLx(Ch.-Flaviens)",
+     "year": 1905,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/bfc7f8cde713.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:LargoPelourinhoLx(Ch.-Flaviens).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Código Penal do Brasil de 1890",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/C%C3%B3digo_Penal_do_Brasil_de_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:C%C3%B3digo_Penal_do_Brasil_de_1890.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Documento da queima dos arquivos da escravidão no Brasil em 1890",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png/960px-Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Documento_da_queima_dos_arquivos_da_escravid%C3%A3o_no_Brasil_em_1890.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Praça ou Largo do Municipio-Pelourinho",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/03c5e0da43a3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_ou_Largo_do_Municipio-Pelourinho.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Pelourinho 1920",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/ecfde1436d40.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Pelourinho_1920.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Salvador Bahia 1875",
+     "year": 1875,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/1de08cec0600.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Bahia_1875.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Salvador Brasil 1875",
+     "year": 1875,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/fa089689e6d6.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Salvador_Brasil_1875.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Largo do Pelourinho, 1931",
+     "year": 1931,
+     "license": "Public domain",
+     "image": "/media/places/salvador-pelourinho/archive/238778a25a93.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Largo_do_Pelourinho,_1931.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'histoire du Brésil depuis 1985 est marquée par des transformations politiques, économiques et sociales majeures après plus de 20 ans de dictature militaire [S11]. La mort soudaine de Tancredo Neves, élu lors des élections indirectes de 1985, conduit à l'investiture de son vice-président José Sarney, pourtant serviteur de l'État pendant la dictature [S11]. En 1986, le président Sarnay annonce le Plan Cruzado pour lutter contre l'inflation [S11]. Sous sa présidence, la Constitution de 1988 est adoptée comme étape essentielle de la consolidation démocratique [S11]. Elle garantit des droits sociaux et civils, mais il faut attendre 1993 pour que la nature du régime soit clairement définie [S11]. L'un des extraits fournis porte sur le catholicisme colonial des XVIe-XVIIIe siècles et reflète un point de vue distinct, centré sur la période coloniale, non mobilisé ici [S11]."
   }
  ],
  "sources": [
@@ -901,8 +1379,13 @@
  "gaps": [
   {
    "from": null,
-   "to": 1500,
-   "text": "Avant 1500, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": 1450,
+   "text": "Avant 1450, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+  },
+  {
+   "from": 1500,
+   "to": 1750,
+   "text": "Entre 1500 et 1750, les sources consultées ne donnent aucune date précise."
   },
   {
    "from": null,
@@ -912,16 +1395,16 @@
  ],
  "stats": {
   "chapters": 11,
-  "events": 60,
-  "corroborated": 17,
-  "share": 0.28,
+  "events": 87,
+  "corroborated": 21,
+  "share": 0.24,
   "span": [
-   "1500",
-   "2002"
+   "1450",
+   "2022"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "121376286b"
+ "run": "29b16ba3d0"
 }

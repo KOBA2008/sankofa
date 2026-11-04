@@ -21,6 +21,13 @@
    "summary": "L'histoire de France commence avec les premières occupations humaines du territoire correspondant au pays actuel. Aux groupes présents depuis le Paléolithique et le Néolithique sont venues s'ajouter, à l'âge du bronze et à l'âge du fer, des vagues successives de Celtes, de Romains dès le IIe siècle av.",
    "events": [
     {
+     "year": 466,
+     "label": "466",
+     "text": "Clovis (466-511), roi des Francs saliens, scelle par son baptême à Reims l'alliance de la royauté franque avec l'Église catholique.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
      "year": 751,
      "label": "751",
      "text": "Il unit les tribus franques salienne et ripuaire et conquiert un ensemble de territoires en Gaule et en Germanie qui sont agrandis par ses descendants mérovingiens, puis par la dynastie des Carolingiens fondée en 751.",
@@ -42,9 +49,23 @@
      "corroborated": false
     },
     {
+     "year": 1150,
+     "label": "XIIe s.",
+     "text": "On ne peut ainsi parler de royaume de France, au sens juridique, qu'à partir du XIIe siècle si l'on se limite au point de vue royal.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
      "year": 1190,
      "label": "1190",
      "text": "Le nom de France n'est employé de façon officielle qu'à partir de 1190 environ, quand la chancellerie du roi Philippe Auguste commence à employer le terme de rex Franciæ (roi de France) à la place de rex Francorum (roi des Francs) pour désigner le souverain.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1205,
+     "label": "1205",
+     "text": "Dès juin 1205, le territoire est désigné dans les chartes sous le nom de regnum Franciæ, c'est-à-dire royaume de France en latin.",
      "source": 1,
      "corroborated": false
     },
@@ -61,12 +82,84 @@
      "text": "Le XVIIIe siècle est le siècle de la philosophie des Lumières, marqué par la promotion de la raison par les philosophes français dans les cours et capitales européennes et qui s'achève par la Révolution française.",
      "source": 1,
      "corroborated": true
+    },
+    {
+     "year": 1850,
+     "label": "XIXe s.",
+     "text": "L'adoption d'un cadre administratif uniforme (département), le développement rapide du chemin de fer et l'instauration par Jules Ferry de l'instruction obligatoire et de l'école gratuite homogénéisent l'espace national, qui connaît dans la seconde moitié du XIXe siècle la révolution industrielle.",
+     "source": 1,
+     "corroborated": false
     }
    ],
-   "start": 751,
-   "end": 1750,
-   "photos": [],
-   "narrative": "L'histoire de France commence avec les occupations humaines du territoire actuel, avec des groupes présents depuis le Paléolithique et le Néolithique puis l'arrivée de Celtes et de Romains dès le IIe siècle av. [S1]. La dynastie carolingienne fondée en 751 unit les tribus franques salienne et ripuaire et conquiert des territoires en Gaule et Germanie agrandis par les Mérovingiens puis les Carolingiens [S1]. En 843 le traité de Verdun partage l'Empire entre ses petits-fils en Francie occidentale et orientale [S1]. Paris devient capitale avec l'avènement capétien en 987 et centre universitaire [S1]. Le nom France s'officialise vers 1190 avec rex Franciæ [S1]. L'unification progresse de l'achat du Dauphiné en 1349 à l'annexion de l'Alsace entre 1648 et 1697 [S1]. Le XVIIIe siècle des Lumières promeut la raison et s'achève par la Révolution [S1]."
+   "start": 466,
+   "end": 1850,
+   "photos": [
+    {
+     "title": "Paris, Notre Dame, RP-F-F24968",
+     "year": 1850,
+     "license": "CC0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/0434dfc4eda2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Paris,_Notre_Dame,_RP-F-F24968.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Notre Dame, Paris, 1850s",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/d1e9110013e3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame,_Paris,_1850s.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Chambre de Commerce de Paris. Enquête sur l'industrie. Paris divisé par quartiers et arrondissements, 1850 - BHVP",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements%2C_1850_-_BHVP.jpg/960px-Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements%2C_1850_-_BHVP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Chambre_de_Commerce_de_Paris._Enqu%C3%AAte_sur_l%27industrie._Paris_divis%C3%A9_par_quartiers_et_arrondissements,_1850_-_BHVP.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Illustration of the Jung Bahadur Rana's visit in Paris in 1850",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png/960px-Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Illustration_of_the_Jung_Bahadur_Rana%27s_visit_in_Paris_in_1850.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "France, 1850 (NYPL b14896507-1637382)",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/France%2C_1850_%28NYPL_b14896507-1637382%29.tiff/lossy-page1-960px-France%2C_1850_%28NYPL_b14896507-1637382%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:France,_1850_(NYPL_b14896507-1637382).tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "France, 1850 (NYPL b14896507-1637409)",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/France%2C_1850_%28NYPL_b14896507-1637409%29.tiff/lossy-page1-960px-France%2C_1850_%28NYPL_b14896507-1637409%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:France,_1850_(NYPL_b14896507-1637409).tiff",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "France 1850 15c green used",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/France_1850_15c_green_used.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:France_1850_15c_green_used.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "France 1850 25c blue used",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/France_1850_25c_blue_used.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:France_1850_25c_blue_used.jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'histoire de France commence avec les premières occupations humaines du territoire correspondant au pays actuel, enrichies à l'âge du bronze et du fer par des vagues celtes et romaines dès le IIe siècle av. [S1] Clovis (466-511), roi des Francs saliens, scelle par son baptême à Reims l'alliance avec l'Église catholique et unit les tribus salienne et ripuaire, territoires agrandis par les Mérovingiens puis les Carolingiens fondés en 751. [S1] L'Empire carolingien est partagé en 843 par le traité de Verdun entre Francie occidentale et Francie orientale. [S1] Paris devient capitale avec l'avènement en 987, le nom de France s'impose vers 1190 avec rex Franciæ sous Philippe Auguste et regnum Franciæ dès juin 1205, mais le royaume au sens juridique n'existe que du point de vue royal à partir du XIIe siècle. [S1]"
   },
   {
    "title": "Le Moyen Âge et la formation de la France",
@@ -75,6 +168,13 @@
    "summary": "L'histoire de la France au Moyen Âge de 476 à 1453 se caractérise par plusieurs périodes et événements marquants durant dix siècles de Clovis à Charles VIII : l'affirmation du christianisme, la désintégration de l'Empire romain, la longue genèse du royaume de France, la grande peste, la guerre de Cent Ans, etc. La société est marquée par l'essor des campagnes et de la population française, le développement du commerce (foires et marchés) et la renaissance urbaine, l'apparition des universités et la formation de la ",
    "events": [
     {
+     "year": 466,
+     "label": "466",
+     "text": "Au milieu de ces enchevêtrements de peuples, les Francs saliens installés dans le Nord de la Gaule et les Francs ripuaires sur les rives du Rhin et de la Moselle, font la conquête d'une grande partie de la Gaule sous l'autorité de leur roi Clovis Ier (466-511).",
+     "source": 2,
+     "corroborated": false
+    },
+    {
      "year": 476,
      "label": "476",
      "text": "L'histoire de la France au Moyen Âge de 476 à 1453 se caractérise par plusieurs périodes et événements marquants durant dix siècles de Clovis à Charles VIII : l'affirmation du christianisme, la désintégration de l'Empire romain, la longue genèse du royaume de France, la grande peste, la guerre de Cent Ans, etc.",
@@ -82,11 +182,32 @@
      "corroborated": false
     },
     {
+     "year": 650,
+     "label": "VIIe s.",
+     "text": "La carte du pays évolue au gré des guerres, des crises et des héritages : le royaume de Clovis est vite divisé entre Neustrie, Austrasie et Aquitaine, qui deviennent avec la Bourgogne conquise par les fils de Clovis dans les années 530, les divisions politiques majeures de la « Gaule » au VIe et au VIIe siècle.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 751,
+     "label": "751",
+     "text": "Son fils Pépin le Bref fait enfermer dans un couvent le dernier roi mérovingien, Childéric III, puis se fait élire roi par les guerriers francs en 751.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
      "year": 1360,
      "label": "1360",
      "text": "Le dauphin Charles est contraint de signer le traité de Brétigny en 1360 qui concède aux Anglais un bon tiers du royaume de France, prévoit le paiement d'une énorme rançon de 3 millions d'écus d'or pour la libération de Jean II le Bon, soit l'équivalent des recettes du roi pendant deux ans.",
      "source": 2,
      "corroborated": false
+    },
+    {
+     "year": 1635,
+     "label": "1635",
+     "text": "Dès 1635, Louis XIII et le cardinal de Richelieu s'engagent dans la guerre de Trente Ans auprès des princes allemands protestants pour réduire la puissance de la dynastie des Habsbourg, d'Espagne, la première puissance européenne à cette époque et de ceux d'Autriche qui sont à la tête du Saint-Empire romain germanique.",
+     "source": 2,
+     "corroborated": true
     },
     {
      "year": 1688,
@@ -117,10 +238,10 @@
      "corroborated": true
     }
    ],
-   "start": 476,
+   "start": 466,
    "end": 1759,
    "photos": [],
-   "narrative": "L'histoire de la France au Moyen Âge s'étend de 476 à 1453 et couvre dix siècles de Clovis à Charles VIII [S2]. Cette période est marquée par l'affirmation du christianisme, la désintégration de l'Empire romain et la longue genèse du royaume de France, ainsi que par la grande peste et la guerre de Cent Ans [S2]. En 1360, le dauphin Charles signe le traité de Brétigny qui concède aux Anglais un tiers du royaume et prévoit une rançon de 3 millions d'écus d'or pour libérer Jean II le Bon [S2]. Les extraits fournis reflètent principalement un point de vue centré sur la formation politique et territoriale du royaume de France [S2]."
+   "narrative": "L'histoire de la France au Moyen Âge s'étend de 476 à 1453, de Clovis à Charles VIII, et se caractérise par l'affirmation du christianisme, la désintégration de l'Empire romain et la genèse du royaume de France [S2]. Au milieu d'enchevêtrements de peuples, les Francs saliens du Nord de la Gaule et les Francs ripuaires du Rhin et de la Moselle conquièrent une grande partie de la Gaule sous Clovis Ier (466-511) [S2]. Son royaume est ensuite divisé entre Neustrie, Austrasie, Aquitaine et Bourgogne conquise dans les années 530, divisions majeures des VIe et VIIe siècles [S2]. En 751, Pépin le Bref fait enfermer Childéric III et se fait élire roi par les guerriers francs [S2]. En 1360, le dauphin Charles signe le traité de Brétigny concédant un tiers du royaume aux Anglais [S2]. Ces extraits reflètent uniquement un point de vue centré sur la formation du royaume de France."
   },
   {
    "title": "La période révolutionnaire",
@@ -136,9 +257,37 @@
      "corroborated": true
     },
     {
+     "year": 1790,
+     "label": "1790",
+     "text": "L'affaire des princes possessionnés d'Alsace et de l'annexion d'Avignon et du Comtat Venaissin en 1790 permet aux révolutionnaires de poser un nouveau principe du droit international, le droit des peuples à disposer d'eux-mêmes.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1791,
+     "label": "1791",
+     "text": "À partir de 1791, une importante révolte d'esclaves débute à Saint-Domingue, la plus riche colonie française, peuplée en 1789 de 25 000 Blancs, 28 000 Libres de couleur et presque 500 000 esclaves.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
      "year": 1792,
      "label": "1792",
      "text": "Les défaites des premiers combats et l'invasion du territoire national ont pour conséquence la chute de la monarchie le 10 août 1792 et la proclamation de la République le 22 septembre 1792.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1793,
+     "label": "1793",
+     "text": "À partir de mars 1793, l'Ouest de la France est la proie d'une insurrection catholique et royaliste, appelée guerre de Vendée.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1802,
+     "label": "1802",
+     "text": "L'esclavage est progressivement rétabli par Bonaparte en 1802, sauf à Saint-Domingue qui accède à l'indépendance en 1804 sous le nom d'Haïti.",
      "source": 3,
      "corroborated": false
     },
@@ -175,6 +324,38 @@
    "end": 1866,
    "photos": [
     {
+     "title": "Charles Nègre, The Angel of the Resurrection on the Roof of Notre-Dame, Paris, 1853",
+     "year": 1853,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/acebafe01d35.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Charles_N%C3%A8gre,_The_Angel_of_the_Resurrection_on_the_Roof_of_Notre-Dame,_Paris,_1853.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Édouard Baldus, Facade of Notre-Dame de Paris, between 1851 and 1870",
+     "year": 1851,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/afdad06fe765.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Baldus,_Facade_of_Notre-Dame_de_Paris,_between_1851_and_1870.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Paris, Notre Dame, RP-F-F24968",
+     "year": 1850,
+     "license": "CC0",
+     "image": "/media/places/paris-parvis-notre-dame/archive/0434dfc4eda2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Paris,_Notre_Dame,_RP-F-F24968.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Notre Dame, Paris, 1850s",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/d1e9110013e3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame,_Paris,_1850s.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "Chambre de Commerce de Paris. Enquête sur l'industrie. Paris divisé par quartiers et arrondissements, 1850 - BHVP",
      "year": 1850,
      "license": "Public domain",
@@ -191,23 +372,23 @@
      "source": "Wikimedia Commons"
     },
     {
+     "title": "Portail de Notre-Dame, 1855",
+     "year": 1855,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/77dd9dbd892c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Portail_de_Notre-Dame,_1855.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "Facade de la Cathédrale Notre Dame de Paris Archives nationales CP-332AP-26-E",
      "year": 1856,
      "license": "CC BY-SA 4.0",
      "image": "/media/places/paris-parvis-notre-dame/archive/b445006ab8c7.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Facade_de_la_Cath%C3%A9drale_Notre_Dame_de_Paris_Archives_nationales_CP-332AP-26-E.jpg",
      "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Eglise Notre-Dame. PH13442",
-     "year": 1860,
-     "license": "CC0",
-     "image": "/media/places/paris-parvis-notre-dame/archive/0cc5d165e8a2.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Eglise_Notre-Dame._PH13442.jpg",
-     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "La période révolutionnaire commence vers 1787 [S3]. À cette époque la monarchie absolue est incapable de conduire les réformes indispensables à la modernisation de la France face à la contestation des groupes privilégiés [S3]. Avec le retour forcé du roi à Paris les 5 et 6 octobre 1789, la Révolution semble avoir atteint ses buts : faire naître une monarchie parlementaire en rabaissant le prestige du roi et en restreignant ses pouvoirs [S3]. Les défaites des premiers combats et l'invasion du territoire national ont pour conséquence la chute de la monarchie le 10 août 1792 et la proclamation de la République le 22 septembre 1792 [S3]. La période révolutionnaire se termine en 1814-1815, quand l'empereur Napoléon Ier est envoyé en exil d'abord à l'île d'Elbe et ensuite dans l'île de Sainte-Hélène [S3]."
+   "narrative": "La période révolutionnaire commence vers 1787, lorsque la monarchie absolue se montre incapable de conduire les réformes, notamment fiscales, nécessaires à la modernisation de la France face à la contestation des privilégiés [S3]. Le retour forcé du roi à Paris les 5 et 6 octobre 1789 semble marquer l'avènement d'une monarchie parlementaire au prestige et aux pouvoirs réduits [S3]. À partir de 1791, une importante révolte d'esclaves éclate à Saint-Domingue, alors peuplée de 25 000 Blancs, 28 000 Libres de couleur et presque 500 000 esclaves [S3]. Les défaites militaires et l'invasion entraînent la chute de la monarchie le 10 août 1792 puis la proclamation de la République le 22 septembre 1792 [S3]. La période s'achève en 1814-1815 avec l'exil de Napoléon Ier à Elbe puis à Sainte-Hélène [S3]."
   },
   {
    "title": "D'une guerre à l'autre (1914 - 1945)",
@@ -221,6 +402,27 @@
      "text": "Le 9 janvier 1912, le président de la République, Armand Fallières, chef constitutionnel des armées, avait déclaré : « Nous sommes résolus à marcher droit à l'ennemi sans arrière-pensée, l'offensive convient au tempérament de nos soldats et doit nous assurer la victoire, à condition de consacrer à la lutte toutes nos forces actives sans exception ».",
      "source": 4,
      "corroborated": false
+    },
+    {
+     "year": 1914,
+     "label": "1914",
+     "text": "Les affrontements lors de la bataille des Frontières (août 1914) échouent et l'armée française doit se replier.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1919,
+     "label": "1919",
+     "text": "Bien plus, traumatisée par la Première Guerre mondiale, elle n'ose pas s'opposer à la politique extérieure agressive de l'Allemagne nazie dont le chef d'État, Adolf Hitler, veut revenir sur le traité de Versailles de 1919 et réunir à son Reich les peuples germaniques limitrophes, en vertu des idées pangermanistes.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1938,
+     "label": "1938",
+     "text": "L'état d'esprit pacifiste français atteint un sommet en septembre 1938 avec la signature des accords de Munich permettant à Hitler de prendre possession du territoire des Sudètes sans combattre (au mépris de ces accords, Hitler progressera plus loin en Tchécoslovaquie quelques mois plus tard, en mars 1939).",
+     "source": 4,
+     "corroborated": true
     },
     {
      "year": 1940,
@@ -256,10 +458,17 @@
      "text": "En 1981, François Mitterrand est élu président de la République, battant le chef de l'État sortant Valéry Giscard d'Estaing et ramenant la gauche au pouvoir pour la première fois depuis la Quatrième République.",
      "source": 4,
      "corroborated": false
+    },
+    {
+     "year": 2017,
+     "label": "2017",
+     "text": "En mai 2017, Emmanuel Macron, le plus jeune président de la République et le plus jeune dirigeant français depuis Napoléon Bonaparte, succède à François Hollande.",
+     "source": 4,
+     "corroborated": true
     }
    ],
    "start": 1912,
-   "end": 1981,
+   "end": 2017,
    "photos": [
     {
      "title": "9-11-33, obsèques du Prof. Roux (vue générale du parvis de Notre-Dame de Paris) - btv1b53286418t",
@@ -270,31 +479,63 @@
      "source": "Wikimedia Commons"
     },
     {
-     "title": "1930-Jean Maréchal-Paris-Roubaix",
-     "year": 1930,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1930-Jean_Mar%C3%A9chal-Paris-Roubaix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1930-Jean_Mar%C3%A9chal-Paris-Roubaix.jpg",
+     "title": "Bundesarchiv Bild 101I-129-0480-05A, Paris, Notre Dame, deutsche Soldaten beim Einkauf",
+     "year": 1940,
+     "license": "CC BY-SA 3.0 de",
+     "image": "/media/places/paris-parvis-notre-dame/archive/be094e13049b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-129-0480-05A,_Paris,_Notre_Dame,_deutsche_Soldaten_beim_Einkauf.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "1930 Paris-Nice Chenard-Walcker Y8 Chauvierre",
-     "year": 1930,
+     "title": "Notre Dame, Paris, ca. 1920–39",
+     "year": 1920,
      "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/1930_Paris-Nice_Chenard-Walcker_Y8_Chauvierre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:1930_Paris-Nice_Chenard-Walcker_Y8_Chauvierre.jpg",
+     "image": "/media/places/paris-parvis-notre-dame/archive/04b1b62403ef.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame,_Paris,_ca._1920%E2%80%9339.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Char de la Reine des Corses - Mi-Carême à Paris 1930",
-     "year": 1930,
+     "title": "Notre-Dame (de Paris, vue du parvis) - btv1b531142591",
+     "year": 1912,
      "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg/960px-Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Char_de_la_Reine_des_Corses_-_Mi-Car%C3%AAme_%C3%A0_Paris_1930.jpg",
+     "image": "/media/places/paris-parvis-notre-dame/archive/ca34ca71880d.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_(de_Paris,_vue_du_parvis)_-_btv1b531142591.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Notre-Dame (vue de la foule sur le parvis, drapeaux sur la façade) - btv1b69178692",
+     "year": 1912,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/1f1f6dfdcc21.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_(vue_de_la_foule_sur_le_parvis,_drapeaux_sur_la_fa%C3%A7ade)_-_btv1b69178692.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "21-6-11, obsèques du docteur Guinard - btv1b6915786m",
+     "year": 1911,
+     "license": "Public domain",
+     "image": "/media/places/paris-parvis-notre-dame/archive/999882759886.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:21-6-11,_obs%C3%A8ques_du_docteur_Guinard_-_btv1b6915786m.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "A Brouhot car in Paris, 1910",
+     "year": 1910,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/A_Brouhot_car_in_Paris%2C_1910.jpg/960px-A_Brouhot_car_in_Paris%2C_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:A_Brouhot_car_in_Paris,_1910.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Coanda aircraft at 1910 Paris salon",
+     "year": 1910,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coanda_aircraft_at_1910_Paris_salon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Coanda_aircraft_at_1910_Paris_salon.jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Au début du XXe siècle, l'antagonisme franco-allemand s'alimente de la question de l'Alsace-Lorraine, des revendications coloniales tardives de l'Allemagne et de sa weltpolitik agressive, avec des incidents diplomatiques comme le coup de Tanger et la crise d'Agadir au sujet du Maroc [S4]. En 1912, le président Armand Fallières affirme la volonté de marcher à l'offensive avec toutes les forces actives [S4]. Les extraits fournis ne couvrent que très partiellement la période 1914-1945 et reflètent essentiellement un point de vue français centré sur la rivalité avec l'Allemagne [S4]. Ils mentionnent également qu'en 1940 l'occupation de l'Indochine par les Japonais encourage le mouvement de décolonisation qui aboutit à la proclamation de l'indépendance du Viêt Nam par Hô Chi Minh le 2 septembre 1945 [S4]."
+   "narrative": "L'antagonisme franco-allemand au début du XXe siècle puise sa force dans l'Alsace-Lorraine, les revendications coloniales tardives de l'Allemagne et sa weltpolitik agressive, illustrée par le coup de Tanger et la crise d'Agadir au Maroc [S4]. Le 9 janvier 1912, le président Armand Fallières déclare que l'offensive convient au tempérament des soldats français [S4]. En août 1914, la bataille des Frontières échoue et l'armée française se replie [S4]. Traumatisée, la France n'ose s'opposer à Hitler qui veut revenir sur le traité de Versailles de 1919 [S4]. En septembre 1938, les accords de Munich lui cèdent les Sudètes [S4]. Dès 1940, l'occupation japonaise de l'Indochine française encourage la décolonisation jusqu'à l'indépendance du Viêt Nam le 2 septembre 1945 [S4]. Ces extraits reflètent uniquement un point de vue français [S4]."
   },
   {
    "title": "Historiographie",
@@ -305,7 +546,7 @@
    "start": null,
    "end": null,
    "photos": [],
-   "narrative": "Les extraits fournis, limités à une seule source, reflètent un point de vue unique sur l'historiographie française [S5]. Jusqu'à la Révolution française, celle-ci est présentée comme partielle et partiale [S5]. Elle consisterait essentiellement en chroniques commandées par les rois [S5]. Ces rois s'inventeraient des ancêtres troyens [S5]. De ce fait, l'historiographie monarchique se nourrirait de nombreux mythes [S5]. La rubrique Événements fournie ne contient aucune information complémentaire permettant de nuancer ou d'élargir cette description. Il convient de souligner que cette caractérisation provient exclusivement du résumé fourni et qu'aucune autre perspective n'est disponible dans les extraits."
+   "narrative": "Selon l'extrait fourni, jusqu'à la Révolution française, l'histoire de France est partielle et partiale [S5]. Selon ce même extrait, cette histoire consiste essentiellement en chroniques commandées par les rois [S5]. Toujours selon l'extrait, ces rois s'inventent des ancêtres troyens [S5]. L'extrait indique également que l'historiographie monarchique se nourrit ainsi de nombreux mythes [S5]. Le résumé fourni ne donne aucune autre information sur des événements précis de cette historiographie avant la Révolution française [S5]. Ce résumé reflète un point de vue critique limité à la description de cette historiographie monarchique partielle et partiale [S5]. Aucun autre fait, date ou acteur supplémentaire n'est mentionné dans les extraits disponibles [S5]."
   }
  ],
  "sources": [
@@ -361,8 +602,8 @@
  "gaps": [
   {
    "from": null,
-   "to": 476,
-   "text": "Avant 476, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": 466,
+   "text": "Avant 466, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
   },
   {
    "from": null,
@@ -372,16 +613,16 @@
  ],
  "stats": {
   "chapters": 5,
-  "events": 24,
-  "corroborated": 5,
-  "share": 0.21,
+  "events": 40,
+  "corroborated": 10,
+  "share": 0.25,
   "span": [
-   "476",
-   "1981"
+   "466",
+   "2017"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "92d79f7ed3"
+ "run": "bcd3d2d2e6"
 }

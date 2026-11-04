@@ -1,0 +1,109 @@
+{
+ "place": "porto-novo-marche",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Porto-Novo",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Porto-Novo",
+   "url": "https://en.wikipedia.org/wiki/Porto-Novo",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 1650,
+   "label": "XVIIe s.",
+   "text": "Il est probable que la première branche dynastique qui fonde Porto-Novo à la fin du XVIIe siècle laisse place à la dynastie royale d'Allada pour gouverner Porto-Novo après la chute d'Allada en 1724.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 1724,
+   "label": "1724",
+   "text": "Après la prise d'Allada par le royaume d'Abomey en 1724, un nouveau royaume se reconstitue autour de Porto-Novo sous le nom de « Hogbonu » ou « Xogbonu » (xɔgbonu en ayizo-gbe).",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 1730,
+   "label": "1730",
+   "text": "Nommée « Xɔ̀gbónù » par les Adjas, et « Àjàṣẹ́ » par les Yorubas, en 1730, le Portugais Eucaristo de Campos nomme la ville Porto-Novo (« Nouvelle-Porto » ou « Nouveau port » en français) à cause de sa ressemblance avec la ville de Porto, nom gardé par les explorateurs puis les colonisateurs européens.",
+   "section": "Toponymie",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Toponymie",
+   "corroborated": true
+  },
+  {
+   "year": 1750,
+   "label": "1750",
+   "text": "Une autre explication est avancée : Porto Novo désigne le ''nouveau port'' de traite d'esclaves fondé en 1750 par les marchands qui voulaient échapper aux taxes imposées à Ouidah par le roi d'Abomey.",
+   "section": "Toponymie",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Toponymie",
+   "corroborated": false
+  },
+  {
+   "year": 1850,
+   "label": "XIXe s.",
+   "text": "Cependant ces informations restes floues car elles reposent essentiellement sur les différentes traditions orales récoltées qu'à partir de la fin du XIXe siècle.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 1863,
+   "label": "1863",
+   "text": "En 1863, le roi Sodji signe un traité de protectorat avec les Français.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 1882,
+   "label": "1882",
+   "text": "Un second protectorat plus contraignant est conclu le 4 avril 1882 par le roi Toffa 1er, marque la présence de l’installation de l’administration coloniale française.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 1894,
+   "label": "1894",
+   "text": "Le 22 juin 1894, les Français créent la colonie du Dahomey, Porto-Novo en devient la capitale, marquant ainsi la fin de l'indépendance de la cité.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 2007,
+   "label": "2007",
+   "text": "En 2007, dans le cadre du développement des attractions touristiques de la ville, deux nouveaux bâtiments monumentaux liés au vaudou ont été construits, financés par la Chambre de commerce du Bénin (CCB) et conçus par un cabinet d'architectes.",
+   "section": "Temples de Avessan et du Zangbeto",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Temples_de_Avessan_et_du_Zangbeto",
+   "corroborated": true
+  },
+  {
+   "year": 2017,
+   "label": "2017",
+   "text": "Le festival international de Porto-Novo a été créé en 2017.",
+   "section": "Culture",
+   "url": "https://fr.wikipedia.org/wiki/Porto-Novo#Culture",
+   "corroborated": false
+  }
+ ],
+ "intro": "Porto-Novo est la capitale du Bénin, située dans le sud du pays, près de la côte Atlantique.",
+ "stats": {
+  "events": 10,
+  "corroborated": 2
+ }
+}

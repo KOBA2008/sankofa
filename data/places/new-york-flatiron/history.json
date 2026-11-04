@@ -1,0 +1,149 @@
+{
+ "place": "new-york-flatiron",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Flatiron Building",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Flatiron Building",
+   "url": "https://en.wikipedia.org/wiki/Flatiron_Building",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 1902,
+   "label": "1902",
+   "text": "Lors de son achèvement en 1902, le Flatiron est l'un des plus hauts gratte-ciel de Manhattan mais il n'a jamais été le plus haut du monde.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Histoire",
+   "corroborated": true
+  },
+  {
+   "year": 1905,
+   "label": "1905",
+   "text": "Après un agrandissement en 1905, le bâtiment s’élevait à 94 mètres de haut avec 21 étages.",
+   "section": "Description",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Description",
+   "corroborated": false
+  },
+  {
+   "year": 1950,
+   "label": "XXe s.",
+   "text": "Le Flatiron Building est l’un des premiers gratte-ciel construits avec une ossature métallique, une technique révolutionnaire au début du XXe siècle.",
+   "section": "Une forme innovante et audacieuse",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Une_forme_innovante_et_audacieuse",
+   "corroborated": true
+  },
+  {
+   "year": 1958,
+   "label": "1958",
+   "text": "Dans le film comique L'Adorable Voisine (1958) de Richard Quine, James Stewart et Kim Novak sont filmés au sommet du Flatiron Building dans une scène romantique.",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": true
+  },
+  {
+   "year": 1981,
+   "label": "1981",
+   "text": "Pour le film Reds (1981) de Warren Beatty, la base du bâtiment est utilisée pour une scène avec Diane Keaton.",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": true
+  },
+  {
+   "year": 1989,
+   "label": "1989",
+   "text": "En 1989, le Flatiron Building est classé site historique national (National Historic Landmark ; NHL) par le National Park Service.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Histoire",
+   "corroborated": true
+  },
+  {
+   "year": 1995,
+   "label": "1995",
+   "text": "Dans Usual Suspects (1995), un plan montre l'immeuble dans toute sa hauteur.",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": false
+  },
+  {
+   "year": 1996,
+   "label": "1996",
+   "text": "Dans le clip vidéo du morceau de musique électronique Seven Days and One Week (1996) du groupe français BBE, plusieurs séquences montrent une jeune femme marchant dans les rues de Manhattan et se tenant debout devant le bâtiment.",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": false
+  },
+  {
+   "year": 1998,
+   "label": "1998",
+   "text": "Dans le film Godzilla (1998), le Flatiron Building est détruit accidentellement par l'armée américaine.",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": true
+  },
+  {
+   "year": 2013,
+   "label": "2013",
+   "text": "En 2013, le Whitney Museum of American Art installe une réplique grandeur nature en 3D de Nighthawks, le tableau d'Edward Hopper datant de 1942, dans le Flatiron Art Space, sur la proue du bâtiment.",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": true
+  },
+  {
+   "year": 2014,
+   "label": "2014",
+   "text": "En 2014, la gamme Lego Architecture produit un modèle du Flatiron Building pour compléter sa série de monuments.",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": true
+  },
+  {
+   "year": 2015,
+   "label": "2015",
+   "text": "La série suivante, New York City, introduite en 2015, incluait également le bâtiment.",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": true
+  },
+  {
+   "year": 2019,
+   "label": "2019",
+   "text": "Depuis le départ de son dernier locataire en 2019, l'éditeur MacMillan Publishers, le Flatiron Building était vide.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Histoire",
+   "corroborated": true
+  },
+  {
+   "year": 2023,
+   "label": "2023",
+   "text": "Le 20 mars 2023, l’immeuble est mis aux enchères, ses propriétaires n’ayant pas réussi à s’entendre sur les travaux nécessaires à sa mise aux normes.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 2026,
+   "label": "2026",
+   "text": "En 2026, il va présenter des appartements luxueux à louer[pas clair].",
+   "section": "Dans la culture populaire",
+   "url": "https://fr.wikipedia.org/wiki/Flatiron_Building#Dans_la_culture_populaire",
+   "corroborated": false
+  }
+ ],
+ "intro": "Il compte 21 étages et mesure 93 mètres de hauteur. Cet immeuble a donné son nom au quartier qui l'entoure, le Flatiron District. Le terme « flatiron » signifie « fer à repasser ».",
+ "stats": {
+  "events": 15,
+  "corroborated": 10
+ }
+}

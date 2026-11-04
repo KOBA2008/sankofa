@@ -1,0 +1,157 @@
+{
+ "place": "istanbul-sainte-sophie",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Sainte-Sophie (Constantinople)",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Hagia Sophia",
+   "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 325,
+   "label": "325",
+   "text": "Sur le site de Sainte-Sophie de Constantinople se trouvait une église commandée par l'empereur Constantin en 325.",
+   "section": "Premières basiliques",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
+   "corroborated": false
+  },
+  {
+   "year": 350,
+   "label": "IVe s.",
+   "text": "À l'origine basilique chrétienne, elle est construite au IVe siècle, puis reconstruite bien plus grande au VIe siècle sous l'empereur byzantin Justinien, où elle acquiert sa forme actuelle.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
+   "corroborated": false
+  },
+  {
+   "year": 360,
+   "label": "360",
+   "text": "C'est l'empereur Constance II qui consacra ce premier édifice, le 15 février 360.",
+   "section": "Premières basiliques",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
+   "corroborated": false
+  },
+  {
+   "year": 415,
+   "label": "415",
+   "text": "Il fut reconstruit en 415 par l'empereur Théodose II.",
+   "section": "Premières basiliques",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
+   "corroborated": false
+  },
+  {
+   "year": 450,
+   "label": "Ve s.",
+   "text": "Au début du Ve siècle, l'empereur Flavius Arcadius ratifia la déposition et l'exil de l'archevêque de Constantinople saint Jean Chrysostome, à la suite d'un bras de fer avec le patriarche Théophile d'Alexandrie que Jean avait été chargé de juger.",
+   "section": "Premières basiliques",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
+   "corroborated": true
+  },
+  {
+   "year": 532,
+   "label": "532",
+   "text": "Après les émeutes de Nika en 532, l'empereur Justinien entreprend de refonder l'édifice dont il pose lui-même la première pierre.",
+   "section": "Premières basiliques",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Premières_basiliques",
+   "corroborated": false
+  },
+  {
+   "year": 537,
+   "label": "537",
+   "text": "L'empereur put inaugurer la nouvelle église le 27 décembre 537, avec le patriarche Mennas, avec faste et solennité.",
+   "section": "Église de Justinien",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "corroborated": false
+  },
+  {
+   "year": 565,
+   "label": "565",
+   "text": "Les décors intérieurs, particulièrement les mosaïques, ne furent achevés que sous le règne de l'empereur Justin II (565-578).",
+   "section": "Église de Justinien",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "corroborated": false
+  },
+  {
+   "year": 726,
+   "label": "726",
+   "text": "En 726, l'empereur Léon l'Isaurien émit un certain nombre d'édits contre la vénération des images.",
+   "section": "Église de Justinien",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "corroborated": false
+  },
+  {
+   "year": 829,
+   "label": "829",
+   "text": "Après un bref répit sous l'impératrice Irène, le mouvement reprit de l'ampleur : l'empereur Théophile (829-842), dernier partisan de l'iconoclasme byzantin, interdit les images sculptées.",
+   "section": "Église de Justinien",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "corroborated": false
+  },
+  {
+   "year": 913,
+   "label": "913",
+   "text": "Dans son livre De caerimoniis aulae Byzantinae (Livre des Cérémonies), l'empereur Constantin VII Porphyrogénète (913-919) donne tous les détails sur les cérémonies célébrées à Sainte-Sophie, tant par l'empereur que par le patriarche.",
+   "section": "Église de Justinien",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Église_de_Justinien",
+   "corroborated": false
+  },
+  {
+   "year": 1204,
+   "label": "1204",
+   "text": "Baudouin VI de Hainaut fut couronné empereur le 16 mai 1204 à Sainte-Sophie, observant au plus près les rites byzantins en usage.",
+   "section": "Occupation latine (1204-1261)",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Occupation_latine_(1204-1261)",
+   "corroborated": false
+  },
+  {
+   "year": 1453,
+   "label": "1453",
+   "text": "Après la prise de Constantinople par les armées ottomanes en 1453, elle est convertie en mosquée sous le sultan Mehmet II, statut qu'elle conserve jusqu'à la fin de l'Empire ottoman.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
+   "corroborated": true
+  },
+  {
+   "year": 1550,
+   "label": "XVIe s.",
+   "text": "Au XVIe siècle, le sultan Soliman le Magnifique (1520-1566) rapporta deux chandeliers colossaux de sa conquête de la Hongrie.",
+   "section": "Mosquée de l'époque ottomane",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Mosquée_de_l'époque_ottomane",
+   "corroborated": false
+  },
+  {
+   "year": 1934,
+   "label": "1934",
+   "text": "En 1934, elle perd son statut de lieu de culte pour devenir un musée, sur décision de Mustafa Kemal Atatürk, devenant l'un des musées les plus visités de la république de Turquie.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)",
+   "corroborated": true
+  },
+  {
+   "year": 2022,
+   "label": "2022",
+   "text": "Le comité du Patrimoine mondial de l'Unesco a demandé à la Turquie de présenter d'ici le 1er février 2022 un rapport sur l'état de conservation de la basilique, exprimant « sa profonde préoccupation » sur les conséquences de sa transformation en mosquée.",
+   "section": "Patrimoine mondial de l'humanité",
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Sophie_(Constantinople)#Patrimoine_mondial_de_l'humanité",
+   "corroborated": true
+  }
+ ],
+ "intro": "« sagesse de Dieu », « sagesse divine », nom repris en turc sous la forme Ayasofya) est une ancienne basilique byzantine devenue mosquée, située à Istanbul, dans l'ancienne Constantinople, sur le côté ouest du Bosphore. À l'origine basilique chrétienne, elle est construite au IVe siècle, puis reconstruite bien plus grande au VIe siècle sous l'empereur byzantin Justinien, où elle acquiert sa forme actuelle. Souvent surnommée « la Grande Église », elle est le plus important monument de l'architecture byzantine et demeure l'une des plus prestigieuses églises de la chrétienté jusqu'au XVe siècle.",
+ "stats": {
+  "events": 16,
+  "corroborated": 4
+ }
+}

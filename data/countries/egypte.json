@@ -58,17 +58,110 @@
      "corroborated": false
     },
     {
+     "year": 935,
+     "label": "935",
+     "text": "Le nouvel État mène des campagnes militaires victorieuses contre l'Empire byzantin, s'emparant de Chypre pour une courte période, tandis que les Ikhchidides (935-969) exerce une autorité locale tout en restant fidèle au califat abbasside.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
      "year": 969,
      "label": "969",
      "text": "Le Caire est fondé en 969 et devient la nouvelle capitale égyptienne, puis le siège du califat fatimide en 972.",
      "source": 1,
      "corroborated": false
+    },
+    {
+     "year": 1171,
+     "label": "1171",
+     "text": "Le sultanat d'Égypte (1171-1250), fondé par les Ayyoubides, connait un essor scientifique et culturel remarquable et mène des campagnes militaires victorieuses contre les Croisés.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1517,
+     "label": "1517",
+     "text": "L'Égypte rejoint l'Empire ottoman en 1517.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 2011,
+     "label": "2011",
+     "text": "Après des régimes autoritaires, elle connaît une démocratisation difficile avec la révolution de 2011.",
+     "source": 1,
+     "corroborated": false
     }
    ],
    "start": -3150,
-   "end": 969,
-   "photos": [],
-   "narrative": "L'histoire de l'Égypte se déploie de la Préhistoire à nos jours, ce qui en fait l'une des plus anciennes civilisations continues au monde [S1]. L'Égypte préhistorique est définie comme la période allant de la fin du Néolithique à la fin de la période de Naqada III [S1]. Vers 3150 av. J.-C., le roi Narmer unifie l'Égypte, établit la Ire dynastie et fait de Memphis sa capitale [S1]. L'Ancien Empire, de 2686 à 2181 av. J.-C. environ, constitue le premier âge d'or couvrant les IIIe, IVe, Ve et VIe dynasties [S1]. Le Moyen Empire, de 2000 à 1700 av. J.-C. environ, voit Thèbes devenir capitale vers 2055 av. J.-C. après la fragmentation de la Première Période intermédiaire [S1]. Le Nouvel Empire, de 1570 à 1069 av. J.-C. environ, commence après l'expulsion des Hyksôs [S1]."
+   "end": 2011,
+   "photos": [
+    {
+     "title": "The Ascent of the Great Pyramid by Boston Public Library",
+     "year": 1892,
+     "license": "Public domain",
+     "image": "/media/places/giza-pyramides/archive/1c1a0c545d56.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Ascent_of_the_Great_Pyramid_by_Boston_Public_Library.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "COLLECTIE TROPENMUSEUM Grotendeels onder zand bedolven sfinx voor de pyramide van Cheops TMnr 60039424",
+     "year": 1890,
+     "license": "CC BY-SA 3.0",
+     "image": "/media/places/giza-pyramides/archive/d9baeeeeb498.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Grotendeels_onder_zand_bedolven_sfinx_voor_de_pyramide_van_Cheops_TMnr_60039424.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Sphinx and Pyramids (1890) - TIMEA",
+     "year": 1890,
+     "license": "CC BY-SA 2.5",
+     "image": "/media/places/giza-pyramides/archive/758db01e12d1.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Sphinx_and_Pyramids_(1890)_-_TIMEA.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Giza, Pyramids, Pictures, 1883-1885, photo 24 of 27 - Archivio fotografico Museo Egizio, Turin - Museo di antropologia UniTo MAFM 0242",
+     "year": 1883,
+     "license": "CC0",
+     "image": "/media/places/giza-pyramides/archive/5c7900f2884a.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Giza,_Pyramids,_Pictures,_1883-1885,_photo_24_of_27_-_Archivio_fotografico_Museo_Egizio,_Turin_-_Museo_di_antropologia_UniTo_MAFM_0242.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Giza, Pyramids, Pictures, 1883-1885, photo 3 of 27 - Archivio fotografico Museo Egizio, Turin INV01 005",
+     "year": 1883,
+     "license": "CC0",
+     "image": "/media/places/giza-pyramides/archive/a204c029a151.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Giza,_Pyramids,_Pictures,_1883-1885,_photo_3_of_27_-_Archivio_fotografico_Museo_Egizio,_Turin_INV01_005.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "228 Caire Plateaux des Pyramides L. Fiorillo Phot",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/giza-pyramides/archive/7b3801302ef0.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:228_Caire_Plateaux_des_Pyramides_L._Fiorillo_Phot.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cairo. Road to the Pyramids. (30894293712)",
+     "year": 1880,
+     "license": "No restrictions",
+     "image": "/media/places/giza-pyramides/archive/b05c5ebd54cb.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cairo._Road_to_the_Pyramids._(30894293712).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cheopspyramiden (8764194865)",
+     "year": 1880,
+     "license": "CC BY 2.0",
+     "image": "/media/places/giza-pyramides/archive/bc09f8a47828.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cheopspyramiden_(8764194865).jpg",
+     "source": "Wikimedia Commons"
+    }
+   ],
+   "narrative": "L'histoire de l'Égypte s'étend de la Préhistoire à nos jours, ce qui en fait l'une des plus anciennes civilisations continues au monde [S1]. La Préhistoire est définie de la fin du Néolithique à la fin de Naqada III [S1]. L'Égypte est unifiée par le roi Narmer vers 3150 av. J.-C., établissant la Ire dynastie avec Memphis pour capitale [S1]. L'Ancien Empire (env. 2686-2181 av. J.-C.) est le premier âge d'or couvrant les IIIe à VIe dynasties [S1]. Le Moyen Empire (env. 2000-1700 av. J.-C.) est une ère de réunification après la Première Période intermédiaire, Thèbes devenant capitale vers 2055 av. J.-C. [S1]. Le Nouvel Empire (env. 1570-1069 av. J.-C.) commence après l'expulsion des Hyksôs [S1]."
   },
   {
    "title": "Chronologie de l'Égypte",
@@ -79,7 +172,7 @@
    "start": null,
    "end": null,
    "photos": [],
-   "narrative": "Selon les extraits fournis, écrire l'histoire ancienne de l'Égypte demeure relativement difficile en raison d'une documentation fragmentaire et lacunaire [S2]. Les dates de changement d'ère mentionnées dans la chronologie ne peuvent être qu'approximatives, car les avis divergent sur ce sujet [S2]. Aucun événement précis n'a été fourni dans les extraits disponibles, ce qui empêche de reconstituer une chronologie détaillée ou de décrire des faits historiques concrets [S2]. Dans ces conditions, il n'est pas possible d'ajouter des informations supplémentaires sans sortir du cadre imposé par les sources [S2]. Les extraits fournis se limitent à cet avertissement méthodologique et ne présentent pas de point de vue particulier identifiable, qu'il soit colonial ou autre [S2]."
+   "narrative": "La chronologie de l'Égypte présentée s'inscrit dans le cadre de l'histoire ancienne, dont l'écriture reste relativement difficile en raison d'une documentation fragmentaire et lacunaire [S2]. Cette nature incomplète des sources rend l'établissement d'une chronologie précise complexe [S2]. En particulier, les dates de changement d'ère fournies dans ce chapitre ne peuvent être considérées que comme approximatives [S2]. Cette approximation s'explique par le fait que les avis divergent sur ce sujet [S2]. Il convient donc d'aborder les événements listés avec prudence, en gardant à l'esprit ces limites documentaires [S2]. Les extraits fournis ne permettent pas d'établir de datation exacte et reflètent les incertitudes inhérentes à l'état actuel de la documentation [S2]."
   },
   {
    "title": "Égypte préhistorique",
@@ -105,7 +198,7 @@
    "start": -5000,
    "end": -4400,
    "photos": [],
-   "narrative": "Selon les extraits mêmes fournis, la préhistoire de l'Égypte est celle des civilisations nigéro-nilo-sahariennes dont témoigne l'art rupestre du Sahara [S3]. Il est indiqué que la période de 9000 à 6000 av. J.-C. a laissé très peu de preuves archéologiques [S3]. Cette période appelée « prédynastique » s'étend environ de 5000 à 3000 avant notre ère [S3]. Enfin, la sédentarisation intervient vers 4400 avant notre ère avec la culture dite de Badari, qui est caractérisée par un artisanat riche et varié, par la pratique de l'agriculture et par des séries de nécropoles élaborées [S3]."
+   "narrative": "La préhistoire de l'Égypte est celle des civilisations nigéro-nilo-sahariennes dont témoigne l'art rupestre du Sahara [S3]. La période de 9000 à 6000 av. J.-C. a laissé très peu de preuves archéologiques [S3]. Cette période appelée « prédynastique » s'étend environ de 5000 à 3000 avant notre ère [S3]. La sédentarisation intervient vers 4400 avant notre ère, avec la culture dite de Badari caractérisée par un artisanat riche et varié, la pratique de l'agriculture et des séries de nécropoles élaborées [S3]. L'ensemble de ces éléments provient uniquement des extraits fournis sans autre point de vue disponible dans ces extraits [S3]."
   },
   {
    "title": "Égypte antique (3800-30 AEC)",
@@ -113,6 +206,13 @@
    "source": 4,
    "summary": "Le découpage traditionnel de l’histoire égyptienne antique (Égypte dynastique) comprend plusieurs périodes de prospérité (Ancien Empire, Moyen Empire, Nouvel Empire) séparées de périodes de crises, de changements dynastiques et d'invasions, appelées « Périodes intermédiaires ». Les apports scientifiques et notamment archéologiques récents tendent à atténuer ce découpage qui conserve néanmoins une certaine pertinence.",
    "events": [
+    {
+     "year": -3800,
+     "label": "3800 av. J.-C.",
+     "text": "Vers 3800 avant notre ère se développent deux cultures égyptiennes : l'une au nord, plus marquée par l'agriculture, représentée notamment par Maadi, l'autre au sud, dite de Nagada, avec un artisanat plus développé mais aussi une place plus grande de la chasse.",
+     "source": 4,
+     "corroborated": false
+    },
     {
      "year": -2650,
      "label": "2650 av. J.-C.",
@@ -154,12 +254,33 @@
      "text": "Cette première domination perse sur l'Égypte, aussi connue comme la XXVIIe dynastie, prend fin en 402 avant notre ère.",
      "source": 4,
      "corroborated": false
+    },
+    {
+     "year": -380,
+     "label": "380 av. J.-C.",
+     "text": "De 380 à 343 avant notre ère, la XXXe dynastie est la dernière maison royale autochtone à régner sur l'Égypte.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": -343,
+     "label": "343 av. J.-C.",
+     "text": "Une brève restauration de la domination perse, parfois connue sous le nom de XXXIe dynastie, commence en 343 av. J.-C., mais peu de temps après, en 332 av. J.-C., le souverain perse Mazaces livre l'Égypte à Alexandre le Grand sans combattre.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": -332,
+     "label": "332 av. J.-C.",
+     "text": "Alexandre le Grand, après avoir vaincu les Perses, s'empare de l'Égypte en 332 avant notre ère, fonde la ville d'Alexandrie et inaugure la courte période macédonienne qui se termine dès 305 avant notre ère.",
+     "source": 4,
+     "corroborated": false
     }
    ],
-   "start": -2650,
-   "end": -402,
+   "start": -3800,
+   "end": -332,
    "photos": [],
-   "narrative": "L'histoire égyptienne antique est découpée en périodes de prospérité séparées par des crises, invasions et changements dynastiques appelés Périodes intermédiaires [S4]. Les apports récents tendent à atténuer ce découpage qui conserve néanmoins une pertinence [S4]. L'Ancien Empire (2650 à 2152 avant notre ère) administre la Haute et Basse-Égypte en nomes [S4]. Le Moyen Empire (2065 à 1785) voit une réaffirmation du pouvoir royal appuyé sur une classe moyenne instruite et une armée permanente comprenant des Nubiens soumis [S4]. Les dynasties thébaines reconquièrent Koush puis la Basse-Égypte et le delta, fondant le Nouvel Empire (1580 à 1085) [S4]. En 653, Psammétique Ier chasse les Assyriens avec des mercenaires grecs formant la première armée navale [S4]. En 525, Cambyse II conquiert l'Égypte et capture Psammétique III à Péluse [S4]. La première domination perse (XXVIIe dynastie) s'achève en 402 [S4]."
+   "narrative": "L'histoire égyptienne antique est traditionnellement découpée en périodes de prospérité (Ancien, Moyen et Nouvel Empire) séparées de crises dites intermédiaires, découpage nuancé par l'archéologie récente mais restant pertinent [S4]. Vers 3800 avant notre ère se développent deux cultures : Maadi au nord marquée par l'agriculture et Nagada au sud à l'artisanat développé et à la chasse importante [S4]. L'Ancien Empire (2650 à 2152) administre le royaume en nomes [S4]. Le Moyen Empire (2065 à 1785) réaffirme le pouvoir royal appuyé sur une classe moyenne et une armée permanente de Nubiens soumis [S4]. Le Nouvel Empire (1580 à 1085) naît de la reconquête thébaine du royaume de Koush et de la Basse-Égypte [S4]. En 653 Psammétique Ier chasse les Assyriens avec des mercenaires grecs formant la première armée navale [S4]."
   },
   {
    "title": "Égypte romaine et byzantine (30 AEC-639)",
@@ -185,7 +306,7 @@
    "start": 250,
    "end": 650,
    "photos": [],
-   "narrative": "Le chapitre porte sur l'Égypte romaine et byzantine entre 30 AEC et 639 [S5]. L'Égypte passe sous domination romaine en 30 avant notre ère et conserve un statut particulier durant tout l'Empire romain [S5]. Le pays bénéficie de la Pax Romana jusqu'au IIIe siècle [S5]. Par la suite, l'Égypte byzantine connaît une longue période de paix, du Ve au début du VIIe siècle, qui lui permet de connaître une grande opulence [S5]. Les extraits fournis reflètent uniquement un point de vue centré sur la domination romaine et byzantine et sur la paix impériale, sans présenter d'autre perspective sur cette période [S5]."
+   "narrative": "Selon les extraits fournis, l'Égypte passe sous domination romaine en 30 avant notre ère [S5]. Durant tout l'Empire romain, elle conserve un statut particulier [S5]. Au cours des premiers siècles de cette domination, le pays bénéficie de la Pax Romana jusqu'au IIIe siècle [S5]. Par la suite, à l'époque byzantine, l'Égypte connaît une longue période de paix qui s'étend du Ve au début du VIIe siècle [S5]. Cette période de paix permet alors à l'Égypte byzantine de connaître une grande opulence [S5]. Ces éléments constituent l'ensemble des informations disponibles dans les extraits fournis pour ce chapitre [S5]."
   },
   {
    "title": "Période islamique de l'Égypte (639-868)",
@@ -204,6 +325,13 @@
      "year": 641,
      "label": "641",
      "text": "Dans le Sud, les Arabes attaquent, en 641 puis en 652, les royaumes chrétiens de Nobatie et de Makurie, mais échouent à prendre la ville de Dongola.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 645,
+     "label": "645",
+     "text": "Même si les troupes byzantines parviennent à reprendre Alexandrie, celle-ci est réoccupée en 645.",
      "source": 6,
      "corroborated": false
     },
@@ -234,12 +362,33 @@
      "text": "Le transfert de la capitale de Damas à Bagdad en 762 éloigne l'Égypte du pouvoir central, ce qui contribue à l'affaiblissement de l'autorité des califes sur ce territoire.",
      "source": 6,
      "corroborated": false
+    },
+    {
+     "year": 831,
+     "label": "831",
+     "text": "En 831, une révolte copte éclate en Haute-Égypte.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 854,
+     "label": "854",
+     "text": "De même, en 854, des affrontements ont lieu entre l'Égypte et les nomades Bedjas.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 950,
+     "label": "Xe s.",
+     "text": "La conversion à l'islam de la population reste limitée dans les premiers siècles de l'occupation arabe, mais se développe fortement vers le Xe siècle.",
+     "source": 6,
+     "corroborated": false
     }
    ],
    "start": 639,
-   "end": 762,
+   "end": 950,
    "photos": [],
-   "narrative": "Après l'unification de l'Arabie musulmane par Mahomet puis Abou Bakr As-Siddiq, le calife Omar ibn al-Khattâb lance la conquête vers l'Ouest [S6]. Bénéficiant des divisions entre Égyptiens monophysites et orthodoxes, le général Amr ibn al-As pénètre en Égypte en 639, prend Péluse et Memphis puis obtient la reddition d'Alexandrie en 641 [S6]. Au sud, les Arabes attaquent en 641 puis en 652 les royaumes chrétiens de Nobatie et de Makurie mais échouent devant Dongola [S6]. En 661 la dynastie omeyyade prend le pouvoir et installe sa capitale à Damas [S6]. La Makurie absorbe la Nobatie sous Mercure de Dongola entre 697 et 710 [S6]. En 750 les Abbassides remplacent les Omeyyades après la bataille du Grand Zab [S6]. Le transfert de la capitale à Bagdad en 762 éloigne l'Égypte du pouvoir central et affaiblit l'autorité califale [S6]."
+   "narrative": "Le deuxième calife Omar ibn al-Khattâb lance la conquête hors d'Arabie unifiée par Mahomet et Abou Bakr As-Siddiq [S6]. Bénéficiant des divisions entre Égyptiens monophysites et orthodoxes, Amr ibn al-As s'empare de Péluse et Memphis en 639 et obtient la reddition d'Alexandrie en 641, réoccupée en 645 après une reprise byzantine [S6]. Les attaques de 641 et 652 contre la Nobatie et la Makurie échouent à Dongola, et la Makurie absorbe la Nobatie sous Mercure de Dongola entre 697 et 710 [S6]. Les Omeyyades prennent le pouvoir en 661 à Damas, remplacés par les Abbassides en 750 après le Grand Zab qui transfèrent la capitale à Bagdad en 762, ce qui affaiblit l'autorité sur l'Égypte marquée par la révolte copte de 831 [S6]."
   },
   {
    "title": "L'Égypte médiévale (868–1517)",
@@ -262,9 +411,37 @@
      "corroborated": false
     },
     {
+     "year": 935,
+     "label": "935",
+     "text": "Les Ikhchidides (935-969) régnèrent sur l'Égypte et établirent un État semi-autonome, administrant une partie du Levant au nom du califat abbasside.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 969,
+     "label": "969",
+     "text": "Ils finissent par s'emparer du pouvoir, conquérant la Syrie et fondant la dynastie ikhtchisside, qui régna sur l'Égypte jusqu'en 969.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
      "year": 973,
      "label": "973",
      "text": "En 973, le calife Al-Muʿizz li-Dīn Allāh fonde, à proximité de Fostat, la ville du Caire qui absorbera ultérieurement Fostat et dont il fait la capitale de l'empire.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1169,
+     "label": "1169",
+     "text": "La période fatimide est interrompue par le chef kurde sunnite Saladin qui prend le pouvoir en Égypte en 1169 avec l'accord du calife de Bagdad.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 1174,
+     "label": "1174",
+     "text": "En 1174, les Ayyoubides établirent le sultanat d'Égypte, gouverné depuis Damas.",
      "source": 7,
      "corroborated": false
     },
@@ -293,7 +470,7 @@
    "start": 868,
    "end": 1517,
    "photos": [],
-   "narrative": "En 868, l'Égypte accède à l'indépendance et les Toulounides dirigés par Ahmad ibn Touloun y fondent la dynastie toulounide qui étend son territoire jusqu'au Levant [S7]. Après l'assassinat de Touloun en 896 à Damas, la dynastie peine à résister aux Abbassides qui la reprennent en 905 [S7]. En 973, le calife Al-Muʿizz li-Dīn Allāh fonde près de Fostat la ville du Caire dont il fait la capitale de l'empire et qui absorbera ultérieurement Fostat [S7]. L'impact économique positif sur l'armée aida l'Égypte à la bataille d'Aïn Djalout en 1260, considérée comme un tournant infligeant la première défaite de l'Empire mongol et stoppant son avancée en Afrique, en Arabie et en Europe [S7]. Le Sultanat mamelouk perdura jusqu'en 1517 où l'Égypte devint partie de l'Empire ottoman sous le nom d'Eyalet d'Égypte [S7]."
+   "narrative": "En 868, l'Égypte accède à l'indépendance et les Toulounides, dirigés par Ahmad ibn Touloun, y fondent la dynastie toulounide et étendent leur territoire jusqu'au Levant [S7]. Après l'assassinat de Touloun en 896 à Damas, la dynastie peine à résister aux Abbassides qui la reprennent en 905 [S7]. Les Ikhchidides (935-969) régnèrent ensuite sur l'Égypte et établirent un État semi-autonome administrant une partie du Levant au nom du califat abbasside [S7]. En 973, le calife Al-Muʿizz li-Dīn Allāh fonde à proximité de Fostat la ville du Caire dont il fait la capitale [S7]. La période fatimide est interrompue par le chef kurde sunnite Saladin qui prend le pouvoir en 1169 avec l'accord du calife de Bagdad [S7]."
   },
   {
    "title": "Égypte ottomane (1517-1805)",
@@ -333,7 +510,7 @@
    "start": 1517,
    "end": 1801,
    "photos": [],
-   "narrative": "L'Égypte devient une province ottomane après la bataille de Ridaniya le 22 janvier 1517 où les troupes de l'empereur ottoman Sélim Ier l'emportent sur les Mamelouks et mettent fin à leur domination [S8]. Elle le reste pendant plusieurs siècles, de 1517 à 1798 [S8]. En 1769, Ali Bey al-Kabir s'impose comme maître de l'Égypte, cesse de payer le tribut dû au sultan et soumet les janissaires [S8]. Après la prise d'Alexandrie, les troupes françaises remportent la bataille des Pyramides le 21 juillet 1798, mais la flotte britannique remporte le 1er août 1798 la bataille navale d'Aboukir, ce qui empêche les Français d'exploiter pleinement leur victoire [S8]. Devant les attaques ottomanes de Méhémet Ali et celles de l'armée britannique, la France doit renoncer à sa conquête en 1801 et l'Égypte est brièvement occupée par la Grande-Bretagne jusqu'en 1805, date à laquelle Méhémet Ali installe son pouvoir [S8]."
+   "narrative": "L'Égypte devient pendant siècles une province ottomane quand les troupes de Sélim Ier l'emportent sur les Mamelouks à la bataille de Ridaniya le 22 janvier 1517 et mettent fin à leur domination, dans la période 1517 à 1798 [S8]. En 1769, Ali Bey al-Kabir s'impose comme maître de l'Égypte, cesse de payer le tribut dû au sultan et soumet les janissaires [S8]. Les troupes françaises remportent la bataille des Pyramides le 21 juillet 1798, mais la flotte britannique remporte le 1er août 1798 la bataille navale d'Aboukir, ce qui empêche les Français d'exploiter pleinement leur victoire [S8]. Devant les attaques de Méhémet Ali et de l'armée britannique, la France renonce à sa conquête en 1801 et l'Égypte est occupée par la Grande-Bretagne jusqu'en 1805, date à laquelle Méhémet Ali installe son pouvoir [S8]."
   },
   {
    "title": "Égypte monarchique (1805-1953)",
@@ -341,6 +518,13 @@
    "source": 9,
    "summary": "Dynastie de Méhémet Ali (1805 à 1953) L'époque moderne est considérée comme une période de transformation pour l'Égypte. Elle marque la transition du contrôle ottoman à un État semi-autonome, puis au Khédivat d'Égypte, caractérisé par la modernisation, les guerres, les grands projets et le développement économique.",
    "events": [
+    {
+     "year": 1784,
+     "label": "1784",
+     "text": "Lord Palmerston (1784-1865) admet avec un certain cynisme : « La soumission de Mohammed Ali à l'Angleterre [...] pourrait paraître injuste et partiale, mais nous sommes partiaux ; et les intérêts supérieurs de l'Europe requièrent que nous le soyons » — .",
+     "source": 9,
+     "corroborated": false
+    },
     {
      "year": 1805,
      "label": "1805",
@@ -363,9 +547,30 @@
      "corroborated": false
     },
     {
+     "year": 1830,
+     "label": "1830",
+     "text": "En 1830, l'Égypte occupe le cinquième rang mondial pour les broches à filer le coton par tête d’habitant.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1832,
+     "label": "1832",
+     "text": "Il s'empare ensuite de la Syrie, d'une partie de l'Arabie (nord et côte de la mer Rouge) en 1832, d'une grande partie du Soudan dont Khartoum en 1835.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
      "year": 1841,
      "label": "1841",
      "text": "Mais criblés de dettes, ils tombent sous la dépendance des institutions financières européennes et, après la révolte nationaliste du colonel Ahmed Urabi (1841-1911), l'Égypte est conquise par l'Empire britannique après une courte guerre en 1882 tout en restant nominalement ottomane.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1848,
+     "label": "1848",
+     "text": "Méhémet Ali, qui règne jusqu'en 1848, apparaît comme un grand réformateur du pays dont il modernise les structures et notamment l'armée, sur un modèle européen de conscription.",
      "source": 9,
      "corroborated": false
     },
@@ -384,9 +589,17 @@
      "corroborated": false
     }
    ],
-   "start": 1805,
+   "start": 1784,
    "end": 1881,
    "photos": [
+    {
+     "title": "Entrée de la grande pyramide de Chéops - Bonfils. LCCN2004666759",
+     "year": 1867,
+     "license": "Public domain",
+     "image": "/media/places/giza-pyramides/archive/d7db7c30ad57.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_de_la_grande_pyramide_de_Ch%C3%A9ops_-_Bonfils._LCCN2004666759.jpg",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "Giza, Pyramids, Pictures, 1870-1880, photo 1 of 27 - Archivio fotografico Museo Egizio, Turin INV01 003",
      "year": 1870,
@@ -404,23 +617,47 @@
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Sphinx Pyramids Fennec Drawing 1870",
-     "year": 1871,
-     "license": "Public domain",
-     "image": "/media/places/giza-pyramides/archive/9dfdd5cbe3d3.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Sphinx_Pyramids_Fennec_Drawing_1870.jpg",
+     "title": "Giza, Pyramids, Pictures, 1870, photo 17 of 27 - Archivio fotografico Museo Egizio, Turin Album1 001",
+     "year": 1870,
+     "license": "CC0",
+     "image": "/media/places/giza-pyramides/archive/bbcee54ec108.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Giza,_Pyramids,_Pictures,_1870,_photo_17_of_27_-_Archivio_fotografico_Museo_Egizio,_Turin_Album1_001.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "228 Caire Plateaux des Pyramides L. Fiorillo Phot",
-     "year": 1880,
+     "title": "Giza, Pyramids, Pictures, 1870-1888, photo 16 of 27 - Archivio fotografico Museo Egizio, Turin INV36 001",
+     "year": 1870,
+     "license": "CC0",
+     "image": "/media/places/giza-pyramides/archive/f795f43400e3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Giza,_Pyramids,_Pictures,_1870-1888,_photo_16_of_27_-_Archivio_fotografico_Museo_Egizio,_Turin_INV36_001.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Great Sphinx of Giza in 3-4 profile - DPLA - cc5fbee4d04ddb9a809761682b84d709",
+     "year": 1870,
      "license": "Public domain",
-     "image": "/media/places/giza-pyramides/archive/7b3801302ef0.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:228_Caire_Plateaux_des_Pyramides_L._Fiorillo_Phot.jpg",
+     "image": "/media/places/giza-pyramides/archive/31cc7993d426.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza_in_3-4_profile_-_DPLA_-_cc5fbee4d04ddb9a809761682b84d709.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "L'Égypte. Vues photographiques - btv1b10525736z (41 of 73)",
+     "year": 1870,
+     "license": "Public domain",
+     "image": "/media/places/giza-pyramides/archive/174b248951d4.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:L%27%C3%89gypte._Vues_photographiques_-_btv1b10525736z_(41_of_73).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "L'Égypte. Vues photographiques - btv1b10525736z (42 of 73)",
+     "year": 1870,
+     "license": "Public domain",
+     "image": "/media/places/giza-pyramides/archive/3b7864d789bc.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:L%27%C3%89gypte._Vues_photographiques_-_btv1b10525736z_(42_of_73).jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "La dynastie de Méhémet Ali (1805-1953) ouvre une période de transformation marquée par le passage du contrôle ottoman à un État semi-autonome puis au Khédivat d'Égypte [S9]. Entre 1821 et 1823 elle s'empare du territoire esclavagiste du Dongola et d'une partie du Soudan, puis intervient en 1823 contre l'insurrection grecque à la demande du sultan ottoman [S9]. La semi-indépendance de ses successeurs est reconnue en 1867 avec le titre de khédive, avec une politique de modernisation marquée par la construction du canal de Suez en 1869 [S9]. Criblés de dettes, ils tombent sous dépendance des institutions financières européennes et après la révolte du colonel Ahmed Urabi l'Égypte est conquise en 1882 par l'Empire britannique tout en restant nominalement ottomane [S9]. Ces extraits reflètent un point de vue centré sur la modernisation et la domination européenne [S9]."
+   "narrative": "La dynastie de Méhémet Ali, qui s'étend de 1805 à 1953, est présentée comme une période de transformation marquant la transition du contrôle ottoman à un État semi-autonome puis au Khédivat d'Égypte [S9]. Méhémet Ali, qui règne jusqu'en 1848, y apparaît comme un grand réformateur ayant modernisé les structures et l'armée sur un modèle européen de conscription [S9]. Son expansion inclut le Dongola et une partie du Soudan entre 1821 et 1823, puis la Syrie et une partie de l'Arabie en 1832 [S9]. Les extraits reflètent surtout un point de vue européen, illustré par le cynisme de Lord Palmerston sur les intérêts supérieurs de l'Europe [S9]."
   },
   {
    "title": "Période moderne (1953-présent)",
@@ -443,6 +680,13 @@
      "corroborated": false
     },
     {
+     "year": 1977,
+     "label": "1977",
+     "text": "Pour la restructurer, le FMI demande la suppression de toutes les subventions aux produits de base ce qui provoque des émeutes en janvier 1977.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
      "year": 1981,
      "label": "1981",
      "text": "Après l'assassinat de Sadate (1981), Hosni Moubarak est président de la République jusqu'au 11 février 2011, date de sa démission contrainte à la suite de la révolution égyptienne de 2011.",
@@ -450,9 +694,23 @@
      "corroborated": false
     },
     {
+     "year": 1992,
+     "label": "1992",
+     "text": "En 1992, il fait annuler les dispositions régissant la location des terres.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
      "year": 2012,
      "label": "2012",
      "text": "En juin 2012, Mohamed Morsi remporte l'élection présidentielle et devient ainsi le premier président du pays élu au suffrage universel dans une élection libre.",
+     "source": 10,
+     "corroborated": true
+    },
+    {
+     "year": 2013,
+     "label": "2013",
+     "text": "Après des rassemblements massifs dans tout le pays, l'armée, dirigée par le général Abdel Fattah al-Sissi, lance un dernier ultimatum le 1er juillet 2013.",
      "source": 10,
      "corroborated": true
     },
@@ -469,10 +727,17 @@
      "text": "Il est réélu pour un deuxième mandat en 2018.",
      "source": 10,
      "corroborated": false
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "text": "Par une révision constitutionnelle validée par un référendum en avril 2019, il se donne la possibilité de rester au pouvoir jusqu'en 2030.",
+     "source": 10,
+     "corroborated": false
     }
    ],
    "start": 1952,
-   "end": 2018,
+   "end": 2019,
    "photos": [
     {
      "title": "Egyptian Seller 1950's",
@@ -505,9 +770,41 @@
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Egyptian_Museum_in_the_1950%27s.tif/lossy-page1-960px-The_Egyptian_Museum_in_the_1950%27s.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:The_Egyptian_Museum_in_the_1950%27s.tif",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cairo 1950's",
+     "year": 1955,
+     "license": "CC BY-SA 4.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Cairo_1950%27s.tif/lossy-page1-960px-Cairo_1950%27s.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cairo_1950%27s.tif",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cairo Citadel, 1950's",
+     "year": 1955,
+     "license": "CC BY-SA 4.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cairo_Citadel%2C_1950%27s.tif/lossy-page1-960px-Cairo_Citadel%2C_1950%27s.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cairo_Citadel,_1950%27s.tif",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cairo Life 1950's",
+     "year": 1955,
+     "license": "CC BY-SA 4.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Cairo_Life_1950%27s.tif/lossy-page1-960px-Cairo_Life_1950%27s.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cairo_Life_1950%27s.tif",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cairo Panorama 1950's",
+     "year": 1955,
+     "license": "CC BY-SA 4.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Cairo_Panorama_1950%27s.tif/lossy-page1-960px-Cairo_Panorama_1950%27s.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cairo_Panorama_1950%27s.tif",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'histoire de l'Égypte depuis 1952 est marquée par la crise du canal de Suez d'octobre-novembre 1956, la guerre des Six Jours d'octobre 1967, la guerre du Kippour d'octobre 1973 et la révolution de 2011 [S10]. Le second Président de la République, Gamal Abdel Nasser, entreprend de moderniser les infrastructures et de doter l'Égypte d'une industrie [S10]. En 1975, on compte plus de cinq-cents millionnaires mais plus de 40 % de la population vit sous le seuil de pauvreté et des bidonvilles se développent autour de la capitale [S10]. Après l'assassinat de Sadate en 1981, Hosni Moubarak est président jusqu'à sa démission contrainte le 11 février 2011 [S10]. En juin 2012, Mohamed Morsi remporte l'élection présidentielle et devient le premier président élu au suffrage universel dans une élection libre [S10]. En mai 2014, Abdel Fattah al-Sissi, déjà considéré comme dirigeant de fait, remporte l'élection présidentielle puis est réélu en 2018 [S10]."
+   "narrative": "Histoire de l'Égypte depuis 1952 Crise du canal de Suez (octobre-novembre 1956) Guerre des Six Jours (octobre 1967) Guerre du Kippour (octobre 1973) Révolution égyptienne de 2011, Printemps arabe L'histoire du pays est particulièrement marquée par le second Président de la République, Gamal Abdel Nasser. Le gouvernement de Nasser entreprend de moderniser les infrastructures et de doter l’Égypte d'une industrie. [S10]"
   }
  ],
  "sources": [
@@ -603,18 +900,8 @@
  "gaps": [
   {
    "from": -4400,
-   "to": -3150,
-   "text": "Entre -4400 et -3150, les sources consultées ne donnent aucune date précise."
-  },
-  {
-   "from": -402,
-   "to": 250,
-   "text": "Entre -402 et 250, les sources consultées ne donnent aucune date précise."
-  },
-  {
-   "from": 762,
-   "to": 868,
-   "text": "Entre 762 et 868, les sources consultées ne donnent aucune date précise."
+   "to": -3800,
+   "text": "Entre -4400 et -3800, les sources consultées ne donnent aucune date précise."
   },
   {
    "from": null,
@@ -624,16 +911,16 @@
  ],
  "stats": {
   "chapters": 10,
-  "events": 44,
-  "corroborated": 5,
-  "share": 0.11,
+  "events": 68,
+  "corroborated": 7,
+  "share": 0.1,
   "span": [
    "5000 av. J.-C.",
-   "2018"
+   "2019"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "0c40b258c2"
+ "run": "d3875cb0c1"
 }

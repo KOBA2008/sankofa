@@ -26,7 +26,7 @@
    "start": null,
    "end": null,
    "photos": [],
-   "narrative": "Cette introduction délimite le cadre de l'étude consacrée à l'histoire du territoire du Bénin [S1]. Elle précise que la période considérée commence au XVIe siècle [S1]. Elle indique que l'espace étudié correspond à la zone géographique incluse en 1960 dans l'entité alors nommée république du Dahomey [S1]. Elle précise que cette entité est ensuite devenue la république populaire du Bénin [S1]. Ce cadrage associe donc une borne chronologique et une définition territoriale précise [S1]. Les extraits fournis se limitent à cette présentation générale et ne détaillent aucun événement particulier [S1]. Ils ne reflètent ainsi qu'un cadre introductif et non un récit complet ou pluraliste [S1]."
+   "narrative": "Selon la source fournie, le chapitre d'introduction présenté porte sur l'histoire du territoire du Bénin depuis le XVIe siècle [S1]. La zone géographique concernée correspond à celle qui a été incluse en 1960 dans ce qui a été appelé à l'époque la république du Dahomey [S1]. Cette entité est ensuite devenue la république populaire du Bénin [S1]. Aucun événement n'est détaillé dans les extraits fournis pour cette introduction, la section correspondante étant vide [S1]. Par conséquent, ce paragraphe se limite à restituer le cadre chronologique et géographique tel que défini par la source unique [S1]."
   },
   {
    "title": "Premiers habitants",
@@ -45,7 +45,7 @@
    "start": 1250,
    "end": 1250,
    "photos": [],
-   "narrative": "Dans la chaîne de l'Atacora, au nord-ouest du Bénin, des prospections et des fouilles systématiques ont identifié des grottes, des abris sous roche et des sites de plein air [S2]. Ces sites présentent des industries lithiques couvrant l'âge de la pierre ancien, l'âge de la pierre moyen et l'âge de la pierre récent [S2]. Ils ont livré divers artefacts, dont de grands éclats et des nucléus associés aux technologies de l'âge de la pierre moyen, ainsi que des microlithes, des meules, des haches polies et de la céramique [S2]. Par ailleurs, les traditions orales font remonter de nombreuses entités politiques gbe à des dispersions dynastiques issues de la ville de Tado [S2]. Cette ville est présentée comme fondée par des migrants venus d'Oyo ou de Ketu au XIIIe siècle [S2]."
+   "narrative": "Dans la chaîne de l'Atacora, au nord-ouest du Bénin, des prospections et des fouilles systématiques ont identifié des grottes, des abris sous roche et des sites de plein air présentant des industries lithiques couvrant l'âge de la pierre ancien, moyen et récent [S2]. Ces sites ont livré divers artefacts, dont de grands éclats et des nucléus associés à des technologies de l'âge de la pierre moyen, ainsi que des microlithes, des meules, des haches polies et de la céramique, l'extrait s'interrompant après « indiquant d » [S2]. Par ailleurs, les traditions orales font remonter de nombreuses entités politiques gbe à des dispersions dynastiques issues de la ville de Tado, que l'on pense fondée par des migrants venus d'Oyo ou de Ketu au XIIIe siècle [S2]."
   },
   {
    "title": "Les royaumes africains (~1500-~1850)",
@@ -57,6 +57,13 @@
      "year": 1550,
      "label": "XVIe s.",
      "text": "Ses descendants fondent un royaume à Allada au XVIe siècle : royaume d'Ardra.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1645,
+     "label": "1645",
+     "text": "Entre 1645 et 1685, il devient un État puissant.",
      "source": 3,
      "corroborated": false
     },
@@ -94,10 +101,17 @@
      "text": "Le traité de Ouidah (1890), signé en octobre 1890, place Porto-Novo et Cotonou sous tutelle française.",
      "source": 3,
      "corroborated": false
+    },
+    {
+     "year": 1894,
+     "label": "1894",
+     "text": "Ainsi il se rend en 1894 au général Alfred Amédée Dodds, et est déporté aux Antilles.",
+     "source": 3,
+     "corroborated": false
     }
    ],
    "start": 1550,
-   "end": 1890,
+   "end": 1894,
    "photos": [
     {
      "title": "Gbeto women elephant hunters (1860)",
@@ -106,9 +120,65 @@
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Gbeto_women_elephant_hunters_%281860%29.png/960px-Gbeto_women_elephant_hunters_%281860%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:Gbeto_women_elephant_hunters_(1860).png",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gates of Dahomey",
+     "year": 1851,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Gates_of_Dahomey.jpg/960px-Gates_of_Dahomey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gates_of_Dahomey.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Bracelet ma-wu-alo-Musée du Quai Branly",
+     "year": 1850,
+     "license": "CC BY-SA 4.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bracelet_ma-wu-alo-Mus%C3%A9e_du_Quai_Branly.jpg/960px-Bracelet_ma-wu-alo-Mus%C3%A9e_du_Quai_Branly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Bracelet_ma-wu-alo-Mus%C3%A9e_du_Quai_Branly.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tunique de parade kansawu et bracelets ma-wu-alo-Musée du quai Branly",
+     "year": 1850,
+     "license": "CC BY-SA 4.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Tunique_de_parade_kansawu_et_bracelets_ma-wu-alo-Mus%C3%A9e_du_quai_Branly.jpg/960px-Tunique_de_parade_kansawu_et_bracelets_ma-wu-alo-Mus%C3%A9e_du_quai_Branly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tunique_de_parade_kansawu_et_bracelets_ma-wu-alo-Mus%C3%A9e_du_quai_Branly.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Dahomey. 16, Poste d'Aguégué - (mission) Foà ; (photogr.) Foà ; (photogr. reprod. par) Molteni (pour la conférence donnée par) Foà - btv1b532314262",
+     "year": 1887,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Dahomey._16%2C_Poste_d%27Agu%C3%A9gu%C3%A9_-_%28mission%29_Fo%C3%A0_%3B_%28photogr.%29_Fo%C3%A0_%3B_%28photogr._reprod._par%29_Molteni_%28pour_la_conf%C3%A9rence_donn%C3%A9e_par%29_Fo%C3%A0_-_btv1b532314262.jpg/960px-Dahomey._16%2C_Poste_d%27Agu%C3%A9gu%C3%A9_-_%28mission%29_Fo%C3%A0_%3B_%28photogr.%29_Fo%C3%A0_%3B_%28photogr._reprod._par%29_Molteni_%28pour_la_conf%C3%A9rence_donn%C3%A9e_par%29_Fo%C3%A0_-_btv1b532314262.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._16,_Poste_d%27Agu%C3%A9gu%C3%A9_-_(mission)_Fo%C3%A0_;_(photogr.)_Fo%C3%A0_;_(photogr._reprod._par)_Molteni_(pour_la_conf%C3%A9rence_donn%C3%A9e_par)_Fo%C3%A0_-_btv1b532314262.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Dahomey. 30, Vue de la barre - (mission) Foà ; (photogr.) Foà ; (photogr. reprod. par) Molteni (pour la conférence donnée par) Foà - btv1b53231427h",
+     "year": 1887,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Dahomey._30%2C_Vue_de_la_barre_-_%28mission%29_Fo%C3%A0_%3B_%28photogr.%29_Fo%C3%A0_%3B_%28photogr._reprod._par%29_Molteni_%28pour_la_conf%C3%A9rence_donn%C3%A9e_par%29_Fo%C3%A0_-_btv1b53231427h.jpg/960px-Dahomey._30%2C_Vue_de_la_barre_-_%28mission%29_Fo%C3%A0_%3B_%28photogr.%29_Fo%C3%A0_%3B_%28photogr._reprod._par%29_Molteni_%28pour_la_conf%C3%A9rence_donn%C3%A9e_par%29_Fo%C3%A0_-_btv1b53231427h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._30,_Vue_de_la_barre_-_(mission)_Fo%C3%A0_;_(photogr.)_Fo%C3%A0_;_(photogr._reprod._par)_Molteni_(pour_la_conf%C3%A9rence_donn%C3%A9e_par)_Fo%C3%A0_-_btv1b53231427h.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Amazonen in Köln",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Amazonen_in_K%C3%B6ln.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Amazonen_in_K%C3%B6ln.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Amazones-Dahomey",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Amazones-Dahomey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Amazones-Dahomey.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Les royaumes d’Allada, de Porto-Novo et de Dã Homè sont fondés par les Fons du sud [S3]. Selon la légende, la fille du roi de Tado fut fécondée par un léopard en puisant de l’eau [S3]. Ses descendants fondent au XVIe siècle à Allada le royaume d’Ardra [S3]. Ghézo, régnant de 1818 à 1858, consolide le royaume en attaquant les Yorubas pour des esclaves [S3]. Glélé, régnant de 1858 à 1889, irrite les Français par son attitude belliqueuse mais les autorise en 1863 à s’installer à Cotonou [S3]. Béhanzin, régnant de 1890 à 1894, lutte contre les Français pour les douanes, et le traité de Ouidah d’octobre 1890 place Porto-Novo et Cotonou sous tutelle française [S3]. Ces extraits reflètent un point de vue centré sur les Français [S3]."
+   "narrative": "Selon la légende, les royaumes d’Allada, de Porto-Novo et de Dã Homè sont fondés par les Fons, la fille du roi de Tado ayant été fécondée par un léopard [S3]. Ses descendants fondent le royaume d’Ardra à Allada au XVIe siècle, puissant entre 1645 et 1685 [S3]. Le roi Ghézo (1818-1858) consolide le royaume en attaquant les Yorubas au Nigeria pour se procurer des esclaves [S3]. Son successeur Glélé (1858-1889) irrite les Français par son attitude belliqueuse et autorise en 1863 leur installation à Cotonou [S3]. Le traité de Ouidah de 1890 place Porto-Novo et Cotonou sous tutelle française [S3]. Le roi Gbê han zin (Béhanzin, 1890-1894) lutte pour la souveraineté et les droits de douane, se rend en 1894 au général Dodds et est déporté aux Antilles [S3]. Ces extraits reflètent le point de vue français [S3]."
   },
   {
    "title": "La colonie du Dahomey (1894-1958)",
@@ -124,9 +194,30 @@
      "corroborated": false
     },
     {
+     "year": 1945,
+     "label": "1945",
+     "text": "Par trois décrets publiés en août et en septembre 1945, le gouvernement provisoire fixe à trente-trois le nombre de députés pour l’outre-mer sur un total de cinq cent quatre-vingt-six à l'Assemblée constituante.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
      "year": 1946,
      "label": "1946",
      "text": "La Constituante adopte le 11 avril 1946, la loi n° 46-645, dite loi Houphouët-Boigny, portant sur l’abolition du travail forcé ou obligatoire dans les colonies françaises, étend le code pénal métropolitain aux colonies le 30 avril et accorde le 7 mai la citoyenneté française « à tous les ressortissants des territoires d’outre-mer sans qu’il soit porté atteinte au statut personnel » (Loi Lamine Guèye).",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1947,
+     "label": "1947",
+     "text": "Une série d’élections, tout au long de l’année 1947, permet la désignation par le Conseil général des représentants du Dahomey au Conseil de la République, au Grand conseil de l’AOF et à l’Assemblée de l’Union française.",
+     "source": 4,
+     "corroborated": true
+    },
+    {
+     "year": 1948,
+     "label": "1948",
+     "text": "Première épisode électoral durant cette période, l’élection en novembre 1948 par le Conseil général de deux nouveaux conseillers de la République, Albert Marescaux du Rassemblement du peuple français (RPF) pour le premier collège et Louis Ignacio-Pinto (UPD) pour le second collège.",
      "source": 4,
      "corroborated": false
     },
@@ -148,6 +239,13 @@
      "year": 1955,
      "label": "1955",
      "text": "Émile Derlin Zinsou parvient cependant à se faire élire conseiller de la République en juin 1955 en se présentant sans étiquette au premier collège et, en bénéficiant des voix des indépendants et du RPF.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1958,
+     "label": "1958",
+     "text": "Il bénéficie d’une très large majorité avec le Parti progressiste dahoméen (PPD), fondé en mars 1958, et rassemblant le PRD, le RDD et d’anciens membres de l’UDD qui se sont opposés à l’affiliation au RDA.",
      "source": 4,
      "corroborated": false
     },
@@ -193,9 +291,41 @@
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%282_of_4%29.jpg/960px-Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%282_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._(Culture_de_l%27amarante)_-_Grubben,_G._-_btv1b101239307_(2_of_4).jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Dahomey. (Culture de l'amarante) - Grubben, G. - btv1b101239307 (3 of 4)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%283_of_4%29.jpg/960px-Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%283_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._(Culture_de_l%27amarante)_-_Grubben,_G._-_btv1b101239307_(3_of_4).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Dahomey. (Culture de l'amarante) - Grubben, G. - btv1b101239307 (4 of 4)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%284_of_4%29.jpg/960px-Dahomey._%28Culture_de_l%27amarante%29_-_Grubben%2C_G._-_btv1b101239307_%284_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._(Culture_de_l%27amarante)_-_Grubben,_G._-_btv1b101239307_(4_of_4).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Dahomey. Culture d'amarante - Grubben, G. - btv1b101239324 (1 of 4)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dahomey._Culture_d%27amarante_-_Grubben%2C_G._-_btv1b101239324_%281_of_4%29.jpg/960px-Dahomey._Culture_d%27amarante_-_Grubben%2C_G._-_btv1b101239324_%281_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._Culture_d%27amarante_-_Grubben,_G._-_btv1b101239324_(1_of_4).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Dahomey. Culture d'amarante - Grubben, G. - btv1b101239324 (2 of 4)",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Dahomey._Culture_d%27amarante_-_Grubben%2C_G._-_btv1b101239324_%282_of_4%29.jpg/960px-Dahomey._Culture_d%27amarante_-_Grubben%2C_G._-_btv1b101239324_%282_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Dahomey._Culture_d%27amarante_-_Grubben,_G._-_btv1b101239324_(2_of_4).jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Au début du XXe siècle, les trois royaumes cessent d'être autonomes et sont confondus dans un ensemble divisé en cercles gérés par des administrateurs et en cantons gérés par des chefs africains [S4]. Pendant la Première Guerre mondiale, des troubles éclatent dans le nord après l'envoi de troupes autochtones sur le front européen [S4]. Le 8 février 1944 se termine à Brazzaville une conférence réunissant dix-huit gouverneurs et gouverneurs généraux [S4]. En 1946, la loi Houphouët-Boigny abolit le travail forcé, puis la citoyenneté française est accordée aux ressortissants des territoires d'outre-mer [S4]. Hubert Maga est élu premier président du Dahomey le 26 juillet 1960 et proclame l'indépendance le 1er août en présence de Louis Jacquinot [S4]. Ces extraits reflètent uniquement un point de vue institutionnel colonial français [S4]."
+   "narrative": "Au début du XXe siècle, les trois royaumes cessent d'être autonomes et sont confondus dans un ensemble divisé en cercles gérés par des administrateurs et cantons gérés par des chefs africains [S4]. Pendant la Première Guerre mondiale, des troubles éclatent dans le nord après l'envoi de troupes autochtones sur le front européen [S4]. Le 8 février 1944 se termine à Brazzaville une conférence réunissant dix-huit gouverneurs et gouverneurs généraux [S4]. En 1945 le gouvernement provisoire fixe à trente-trois le nombre de députés pour l'outre-mer [S4], puis en 1946 trois lois abolissent le travail forcé, étendent le code pénal métropolitain et accordent la citoyenneté aux ressortissants des territoires d'outre-mer [S4]. Les extraits reflètent uniquement un point de vue administratif colonial français."
   },
   {
    "title": "Le Dahomey indépendant (1960-1972)",
@@ -225,6 +355,13 @@
      "corroborated": false
     },
     {
+     "year": 1965,
+     "label": "1965",
+     "text": "Une nouvelle crise, entre son premier ministre Justin Ahomadegbé et Sourou Migan Apithy, bien que tous deux membres du même parti, conduit les militaires à reprendre le pouvoir, sans un coup de fusil, le 22 décembre 1965.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
      "year": 1968,
      "label": "1968",
      "text": "La nouvelle Constitution, approuvée le 31 mars 1968, établit un régime de type présidentiel.",
@@ -249,7 +386,7 @@
    "start": 1960,
    "end": 1970,
    "photos": [],
-   "narrative": "Le Dahomey accède à l’indépendance le 1er août 1960 [S5]. Hubert Maga, chef de gouvernement, devient le premier président et affirme la volonté de garder des liens vivaces avec l'ancienne puissance coloniale [S5]. Pour éviter les effets néfastes du tripartisme dahoméen, le Parti dahoméen de l'unité est formé, mais des troubles sociaux et politiques entraînent le 28 octobre 1963 un coup d’État du colonel Christophe Soglo [S5]. Le pays revient à la gestion civile en janvier 1964 [S5]. La Constitution approuvée le 31 mars 1968 établit un régime présidentiel [S5]. Émile Derlin Zinsou devient président, puis est renversé le 10 décembre 1969 et remplacé par un directoire militaire présidé par Paul Emile de Souza [S5]. Un Conseil présidentiel des trois partis traditionnels est instauré le 7 mai 1970 pour permettre leur cohabitation [S5]."
+   "narrative": "Le Dahomey accède à l’indépendance le 1er août 1960 et Hubert Maga devient président [S5]. Il affirme vouloir garder des liens avec l'ancienne puissance coloniale [S5]. Un parti unique contre le tripartisme est formé, mais des troubles mènent au coup d’État du colonel Christophe Soglo le 28 octobre 1963 [S5]. Le pays revient à la gestion civile en janvier 1964 [S5]. Une crise entre Justin Ahomadegbé et Sourou Migan Apithy conduit les militaires à reprendre le pouvoir sans coup de fusil le 22 décembre 1965 [S5]. La Constitution du 31 mars 1968 établit un régime présidentiel [S5]. Émile Derlin Zinsou est renversé le 10 décembre 1969 par un directoire de Paul Emile de Souza [S5]. Un Conseil présidentiel est instauré le 7 mai 1970 [S5]. Ces extraits proviennent d'une source unique et n'offrent qu'un point de vue [S5]."
   },
   {
    "title": "La république populaire du Bénin (1972-1990)",
@@ -296,7 +433,7 @@
    "start": 1972,
    "end": 1980,
    "photos": [],
-   "narrative": "Le 26 octobre 1972, le commandant Mathieu Kérékou prend le pouvoir et établit un gouvernement militaire révolutionnaire [S6]. En 1974, sous l'influence de jeunes révolutionnaires – les « Ligueurs » – le gouvernement engagea un programme de nature socialiste [S6]. Il comprenait la nationalisation des secteurs stratégiques de l'économie, la réforme du système éducatif, la mise en place de coopératives agricoles et de nouvelles structures d'administration locale, et le lancement d'une campagne d'éradication des « forces féodales » dont le tribalisme [S6]. Le 30 novembre 1975, le pays devient la république populaire du Bénin, adhère au marxisme-léninisme et le Parti de la révolution populaire du Bénin (PRPB) est créé [S6]. Une nouvelle constitution est adoptée le 9 septembre 1977 et restera en vigueur jusqu’en 1990 [S6]. Dans les années 1980, la situation économique du Bénin est de plus en plus critique [S6]."
+   "narrative": "Le 26 octobre 1972, le commandant Mathieu Kérékou prend le pouvoir et établit un gouvernement militaire révolutionnaire [S6]. En 1974, sous l'influence des « Ligueurs », le gouvernement engage un programme socialiste comprenant la nationalisation des secteurs stratégiques, la réforme éducative, des coopératives agricoles et une campagne contre les « forces féodales » dont le tribalisme [S6]. Le 30 novembre 1975, le pays devient la république populaire du Bénin, adhère au marxisme-léninisme et le PRPB est créé [S6]. Une nouvelle constitution est adoptée le 9 septembre 1977 et reste en vigueur jusqu'en 1990 [S6]. Dans les années 1980, la situation économique devient de plus en plus critique [S6]."
   },
   {
    "title": "La république du Bénin (depuis 1990)",
@@ -333,6 +470,20 @@
      "corroborated": true
     },
     {
+     "year": 2016,
+     "label": "2016",
+     "text": "Il est battu à l'élection présidentielle du 20 mars 2016 par son ex-bras financier et allié, l'homme d'affaires Patrice Talon (1958-).",
+     "source": 7,
+     "corroborated": false
+    },
+    {
+     "year": 2018,
+     "label": "2018",
+     "text": "En 2018 et 2019, des mouvements sociaux sont constatés mais ne remettent pas en cause la stabilité de la république du Bénin.",
+     "source": 7,
+     "corroborated": false
+    },
+    {
      "year": 2019,
      "label": "2019",
      "text": "En décembre 2019, l’annonce, par le président ivoirien Alassane Ouattara et le président français Emmanuel Macron, de la fin du franc CFA pour les huit pays de la CEDEAO, au profit de l'Eco est diversement qualifiée.",
@@ -345,12 +496,26 @@
      "text": "Le 11 avril 2021, Patrice Talon est réélu président de la République.",
      "source": 7,
      "corroborated": true
+    },
+    {
+     "year": 2025,
+     "label": "2025",
+     "text": "En avril 2025, Le gouvernement du Bénin, adopte une loi, actant la reconnaissance de 16 royaumes, 80 chefs supérieurs et 10 chefs traditionnels à travers une nouvelle loi, adoptée en mars 2025.",
+     "source": 7,
+     "corroborated": true
+    },
+    {
+     "year": 2026,
+     "label": "2026",
+     "text": "Depuis le 24 mai 2026, Romuald Wadagni est le nouveau Président de la République.",
+     "source": 7,
+     "corroborated": false
     }
    ],
    "start": 1990,
-   "end": 2021,
+   "end": 2026,
    "photos": [],
-   "narrative": "En février 1990, une Conférence nationale abroge la Constitution et met en place de nouvelles institutions transitoires [S7]. Elle crée un poste de Premier ministre, abandonne la référence « populaire » pour la république du Bénin et limite à 70 ans l’âge des candidats afin d’empêcher les candidatures des anciens présidents Zinsou, Maga et Ahomadegbé [S7]. En mars 1991, Nicéphore Soglo remplace Mathieu Kérékou à la présidence [S7]. Ce dernier est élu en mars 1996 puis réélu en mars 2001 [S7]. Thomas Boni Yayi, ancien directeur de la Banque ouest-africaine de développement, est élu en mars 2006 puis en mars 2011 [S7]. En décembre 2019, la fin annoncée du franc CFA pour huit pays de la CEDEAO au profit de l’Eco est diversement qualifiée [S7]. Patrice Talon est réélu le 11 avril 2021 [S7]."
+   "narrative": "En février 1990 une Conférence nationale abroge la Constitution, crée un poste de Premier ministre, abandonne la référence « populaire » pour la république du Bénin et limite à 70 ans l'âge des candidats pour empêcher Zinsou, Maga et Ahomadegbé [S7]. Nicéphore Soglo remplace Mathieu Kérékou en mars 1991, puis Kérékou est élu en 1996 et réélu en 2001 [S7]. Thomas Boni Yayi élu en 2006 et 2011 est battu en mars 2016 par Patrice Talon réélu en avril 2021 [S7]. Les mouvements sociaux de 2018-2019 ne remettent pas en cause la stabilité et l'annonce de décembre 2019 sur la fin du franc CFA est diversement qualifiée [S7]. Une loi d'avril 2025 reconnaît 16 royaumes et depuis le 24 mai 2026 Romuald Wadagni est Président [S7]."
   }
  ],
  "sources": [
@@ -438,16 +603,16 @@
  ],
  "stats": {
   "chapters": 7,
-  "events": 30,
-  "corroborated": 5,
+  "events": 41,
+  "corroborated": 7,
   "share": 0.17,
   "span": [
    "1250",
-   "2021"
+   "2026"
   ]
  },
  "engines": {
-  "narrative": "meta:muse-spark-1.3"
+  "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "041d24ad18"
+ "run": "7754273342"
 }

@@ -1,0 +1,101 @@
+{
+ "place": "marrakech-jemaa-el-fna",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Place Jemaa el-Fna",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Jemaa el-Fnaa",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 1150,
+   "label": "XIIe s.",
+   "text": "Au XIIe siècle, la place Jemaa el-Fna était un lieu de justice où les peines étaient publiquement appliquées.",
+   "section": "Avant le XXIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "corroborated": false
+  },
+  {
+   "year": 1550,
+   "label": "XVIe s.",
+   "text": "Dès la seconde moitié du XVIe siècle, les activités et fonctions de la place ont évolué.",
+   "section": "Avant le XXIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "corroborated": false
+  },
+  {
+   "year": 1650,
+   "label": "XVIIe s.",
+   "text": "Pendant des siècles, la place Jemaa el-Fna s'est animée et s'est inscrite dans la culture du Maroc puisqu'elle est qualifiée de lieu de spectacle au XVIIe siècle.",
+   "section": "Avant le XXIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "corroborated": false
+  },
+  {
+   "year": 1921,
+   "label": "1921",
+   "text": "En effet, sous le protectorat français, le maréchal Lyautey, résident général, a signé l'arrêté viziriel du 26 juillet 1921 ordonnant une enquête en vue du classement de la place, qui eut lieu par le dahir du 20 juillet 1922.",
+   "section": "Avant le XXIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "corroborated": false
+  },
+  {
+   "year": 1950,
+   "label": "XXe s.",
+   "text": "Dès le XXe siècle, de nombreux bâtiments sont construits et la place commence à prendre l'aspect de celle d'aujourd'hui qui a donné à la place son nom actuel La rhétorique coloniale a joué un rôle dans l'introduction de la place dans le patrimoine.",
+   "section": "Avant le XXIe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Avant_le_XXIe_siècle",
+   "corroborated": false
+  },
+  {
+   "year": 1981,
+   "label": "1981",
+   "text": "Elias Canetti, prix Nobel de littérature 1981, décrit des halqa vues en 1954 dans le chapitre \"la voix des conteurs\" de son récit \"Voix de Marrakech\".",
+   "section": "Les activités",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Les_activités",
+   "corroborated": false
+  },
+  {
+   "year": 1985,
+   "label": "1985",
+   "text": "En 1985, la place Jemaa el-Fna est inscrite sur la liste du patrimoine mondial de l'Unesco dans le cadre de l'inscription de la médina de Marrakech.",
+   "section": "Inscription",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Inscription",
+   "corroborated": false
+  },
+  {
+   "year": 2008,
+   "label": "2008",
+   "text": "« L'espace culturel de la place Jemaa el-Fna » est inscrit patrimoine culturel immatériel depuis 2008 (proclamation en 2001) et au patrimoine mondial depuis 1985 par l'Unesco.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna",
+   "corroborated": false
+  },
+  {
+   "year": 2011,
+   "label": "2011",
+   "text": "Le 28 avril 2011, un attentat est perpétré dans le restaurant Argana donnant sur la place.",
+   "section": "Attentat du 28 avril 2011",
+   "url": "https://fr.wikipedia.org/wiki/Place_Jemaa_el-Fna#Attentat_du_28_avril_2011",
+   "corroborated": false
+  }
+ ],
+ "intro": "La place Jamaa Alfna (en amazighe : ⴰⴱⴰⵔⴰⵣ ⵏ ⵊⴰⵎⵄ ⵍⴼⵏⴰ, en arabe : ساحة جامع الفنا, « place de la mosquée des trépassés ») est une célèbre place publique au sud-ouest de la médina de Marrakech au Maroc. Ce haut-lieu traditionnel, populaire et animé, notamment la nuit, attire plus d'un million de visiteurs chaque année. Jemaa el-Fna incarne la diversité de l’identité marocaine en raison de la présence de représentants des différentes cultures qui constituent le Maroc : Arabes, Berbères, Gnaouas.",
+ "stats": {
+  "events": 9,
+  "corroborated": 0
+ }
+}

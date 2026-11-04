@@ -1,0 +1,157 @@
+{
+ "place": "dakar-goree",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Île de Gorée",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Gorée",
+   "url": "https://en.wikipedia.org/wiki/Gorée",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 1444,
+   "label": "1444",
+   "text": "Le navigateur portugais Dinis Dias atteint l'île de Gorée en 1444, qu'il baptise « Palma ».",
+   "section": "Possession hollandaise",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Possession_hollandaise",
+   "corroborated": true
+  },
+  {
+   "year": 1450,
+   "label": "XVe s.",
+   "text": "Les rois du Cayor se heurtèrent néanmoins à une forte résistance des Lébous et des Sérères habitant la petite côte du Sénégal, lesquels furent décrits dès le début du XVe siècle par le navigateur Alvise Cadamosto comme des peuples refusant de vendre des esclaves.",
+   "section": "Fort de traite",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Fort_de_traite",
+   "corroborated": false
+  },
+  {
+   "year": 1588,
+   "label": "1588",
+   "text": "Les Hollandais s'emparent de Gorée en 1588 et la baptisent Goede Reede, « la bonne rade », étymon du nom actuel.",
+   "section": "Possession hollandaise",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Possession_hollandaise",
+   "corroborated": false
+  },
+  {
+   "year": 1726,
+   "label": "1726",
+   "text": "Cependant, l'île de Gorée reste une place qui a joué un rôle non négligeable dans la traite, par la présence de captiveries françaises et le nombre d'esclaves déportés (environ 500 par an entre 1726 et 1755 et 15 476 entre 1761 et 1848).",
+   "section": "Fort de traite",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Fort_de_traite",
+   "corroborated": false
+  },
+  {
+   "year": 1850,
+   "label": "XIXe s.",
+   "text": "En parallèle du commerce des esclaves contrôlé par l'administration des Rois de France et d'Angleterre, le commerce de la gomme, de l'arachide, des peaux, de l'or du Galam, des épices pauvres ainsi que la fourniture d'ouvriers qualifiés (charpentiers, maçons…) assurent la prospérité économique des signares de l'île de Gorée du XVIIIe au XIXe siècle.",
+   "section": "Fort de traite",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Fort_de_traite",
+   "corroborated": true
+  },
+  {
+   "year": 1872,
+   "label": "1872",
+   "text": "En 1872 l'administration coloniale française crée les deux communes de Saint-Louis et Gorée, les deux premières communes d'Afrique de l'ouest sur le modèle occidental, dotées exactement du même statut que les autres communes françaises (statut ultérieurement étendu à Dakar et Rufisque : les quatre communes).",
+   "section": "Déclin à partir de seconde moitié du xixe siècle",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Déclin_à_partir_de_seconde_moitié_du_xixe_siècle",
+   "corroborated": true
+  },
+  {
+   "year": 1944,
+   "label": "1944",
+   "text": "Dès 1944, l'administration coloniale française décide de mesures de sauvegarde en vue de préserver l'authenticité du patrimoine historique de l'île.",
+   "section": "Patrimoine et sites touristiques",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Patrimoine_et_sites_touristiques",
+   "corroborated": false
+  },
+  {
+   "year": 1978,
+   "label": "1978",
+   "text": "C'est un lieu symbolique de la mémoire de la traite négrière en Afrique, reconnu officiellement par l'Organisation des Nations unies (ONU) en 1978.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée",
+   "corroborated": false
+  },
+  {
+   "year": 1979,
+   "label": "1979",
+   "text": "L'université des Mutants est un centre international de rencontres et de conférences fondé en 1979 à l'initiative du président Léopold Sédar Senghor et de l'écrivain et philosophe français Roger Garaudy.",
+   "section": "Université des Mutants",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Université_des_Mutants",
+   "corroborated": false
+  },
+  {
+   "year": 1980,
+   "label": "1980",
+   "text": "Sous le mandat d'Urbain Diagne, militaire de carrière et adjoint spécial au Maire de Dakar chargé de Gorée à partir de 1980, qui s'achèvera par sa retraite politique en 2001, Gorée renaît notamment par sa classification sur la liste du patrimoine mondial de l'Unesco (1978) avec le concours de son Secrétaire Général, le Sénégalais Amadou-Mahtar M'Bow et d'Abdou Diouf, alors Premier Ministre de Léopold Senghor.",
+   "section": "Administration",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Administration",
+   "corroborated": false
+  },
+  {
+   "year": 1996,
+   "label": "1996",
+   "text": "En 1996 le Parlement se prononce en faveur d'une profonde réforme de l'organisation territoriale du Sénégal.",
+   "section": "Administration",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Administration",
+   "corroborated": true
+  },
+  {
+   "year": 1999,
+   "label": "1999",
+   "text": "(Thèse de 3e cycle) Alain Sinou, Comptoirs et villes coloniales du Sénégal : Saint-Louis, Gorée, Dakar, Karthala, 1999, 344 p.",
+   "section": "Essais",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Essais",
+   "corroborated": false
+  },
+  {
+   "year": 2002,
+   "label": "2002",
+   "text": "Le maire actuel est Maître Augustin Senghor, élu en 2002, puis réélu en 2009.",
+   "section": "Administration",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Administration",
+   "corroborated": true
+  },
+  {
+   "year": 2005,
+   "label": "2005",
+   "text": "En 2005 a eu lieu la première édition du Gorée Diaspora Festival, une manifestation lancée par la commune et associant danses, musique, arts plastiques, conférences, sports, carnaval et spectacles sons et lumières.",
+   "section": "Gorée et les arts",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Gorée_et_les_arts",
+   "corroborated": false
+  },
+  {
+   "year": 2009,
+   "label": "2009",
+   "text": "Grâce au charisme et à la persévérance de son conservateur, Joseph Ndiaye, mort en février 2009, la Maison des Esclaves constitue le passage obligé de quiconque se rend à Gorée pour la première fois.",
+   "section": "Maison des Esclaves",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Maison_des_Esclaves",
+   "corroborated": false
+  },
+  {
+   "year": 2010,
+   "label": "2010",
+   "text": "A l'occasion du 3ème Festival mondial des arts nègres (FESMAN) à Dakar en 2010, le bassiste de jazz fusion Marcus Miller décide d'aller visiter la Maison des Esclaves, lui inspirant le morceau \"Gorée (Go-ray)\".",
+   "section": "Gorée et les arts",
+   "url": "https://fr.wikipedia.org/wiki/Île_de_Gorée#Gorée_et_les_arts",
+   "corroborated": false
+  }
+ ],
+ "intro": "L'île de Gorée, ou simplement Gorée, est à la fois une île de l'océan Atlantique située dans la baie de Dakar et l'une des 19 communes d'arrondissement de la capitale du Sénégal. C'est un lieu symbolique de la mémoire de la traite négrière en Afrique, reconnu officiellement par l'Organisation des Nations unies (ONU) en 1978. Gorée, « île-mémoire » de cette tragédie, fut ainsi l'un des tout premiers lieux à être portés sur la liste du patrimoine mondial de l'UNESCO.",
+ "stats": {
+  "events": 16,
+  "corroborated": 5
+ }
+}

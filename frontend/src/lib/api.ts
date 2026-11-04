@@ -64,6 +64,14 @@ export type Evaluation = {
   gaps: { tag: string; side: string; question: string }[]
 }
 
+export type PlaceHistory = {
+  lang: string
+  intro: string
+  sources: { n: number; title: string; url: string; lang: string; license: string; source: string }[]
+  events: { year: number; label: string; text: string; section: string; url: string; corroborated: boolean }[]
+  stats: { events: number; corroborated: number }
+}
+
 export type RunResult = {
   run: string
   place: PlaceSummary
@@ -105,6 +113,7 @@ export const api = {
   health: () => fetch('/api/health').then(r => json<Health>(r)),
   places: () => fetch('/api/places').then(r => json<PlaceSummary[]>(r)),
   place: (id: string) => fetch(`/api/places/${id}`).then(r => json<PlaceDetail>(r)),
+  history: (id: string) => fetch(`/api/places/${id}/history`).then(r => json<PlaceHistory>(r)),
   startRun: (id: string, opts: { year: number; currentId?: string; photo?: File }) => {
     const fd = new FormData()
     fd.append('year', String(opts.year))

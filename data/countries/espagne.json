@@ -70,9 +70,41 @@
      "image": "/media/places/madrid-puerta-del-sol/archive/09e9b4088366.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Puerta_del_Sol_i_Madrid_-_TEK_-_TEKA0117495.tif",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op het Puerta del Sol in Madrid met rechts het Real Casa de Correos, RP-F-2001-7-657-10",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/madrid-puerta-del-sol/archive/5ca87e710774.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Puerta_del_Sol_in_Madrid_met_rechts_het_Real_Casa_de_Correos,_RP-F-2001-7-657-10.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op Puerta del Sol in Madrid, RP-F-F16045-A",
+     "year": 1880,
+     "license": "CC0",
+     "image": "/media/places/madrid-puerta-del-sol/archive/945982181fea.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Puerta_del_Sol_in_Madrid,_RP-F-F16045-A.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tiro deportivo : [impresos relativos al tiro de pichón en Madrid en 1880",
+     "year": 1880,
+     "license": "Public domain",
+     "image": "/media/places/madrid-puerta-del-sol/archive/f8f8dd5f169b.jpg",
+     "page_url": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_611091_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Digital Library of Madrid"
+    },
+    {
+     "title": "[Traslado del féretro de Joselito a su paso por la Puerta del Sol]",
+     "year": 1920,
+     "license": "Public domain",
+     "image": "/media/places/madrid-puerta-del-sol/archive/cec3827164b1.jpg",
+     "page_url": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_16900_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+     "source": "Europeana · Digital Library of Madrid"
     }
    ],
-   "narrative": "Selon les extraits fournis, le pays s'enrichit du XVe siècle au XVIIIe siècle [S1]. Son influence décroît cependant avec l'accession à l'indépendance de ses colonies tout au long du XIXe siècle [S1]. Après une guerre civile et la période franquiste, il connaît une transition démocratique [S1]. Il devient ensuite membre de l'OTAN en 1982 et de l'Union européenne en 1986 [S1]. Il convient de noter que ces extraits ne reflètent qu'un point de vue centré sur la métropole et ne donnent pas la perspective des populations colonisées [S1]. Aucune autre information n'est fournie dans les extraits disponibles [S1]."
+   "narrative": "Selon le chapitre Introduction, du XVe siècle au XVIIIe siècle le pays s'enrichit, mais son influence décroît avec l'accession à l'indépendance de ses colonies tout au long du XIXe siècle [S1]. Par la suite, après une guerre civile et la période franquiste, le pays connaît une transition démocratique et devient membre de l'OTAN en 1982 et de l'Union européenne en 1986 [S1]. Il est important de souligner que les extraits fournis reflètent uniquement le point de vue du pays colonisateur, centré sur son enrichissement puis sur sa perte d'influence, sans inclure le point de vue des colonies ni d'autres acteurs [S1]."
   },
   {
    "title": "Préhistoire",
@@ -109,9 +141,23 @@
      "corroborated": false
     },
     {
+     "year": -209,
+     "label": "209 av. J.-C.",
+     "text": "En 209 av. J.-C., Carthagène est prise par les Romains.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
      "year": -202,
      "label": "202 av. J.-C.",
      "text": "Les Carthaginois sont finalement écrasés à la bataille de Zama en Afrique, en 202 av. J.-C. En Hispanie, la guérilla menée par les Celtibères entrave la romanisation complète et rapide de la région.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": -150,
+     "label": "IIe s. av. J.-C.",
+     "text": "La péninsule fut également divisée en deux provinces (Hispanie citérieure et Hispanie ultérieure, IIe siècle av. J.-C.), puis trois (sous Auguste).",
      "source": 2,
      "corroborated": false
     },
@@ -121,12 +167,26 @@
      "text": "Plusieurs Espagnols furent même empereurs au IIe siècle (Trajan et Hadrien) et au IVe siècle (Théodose Ier, Maxime).",
      "source": 2,
      "corroborated": false
+    },
+    {
+     "year": 350,
+     "label": "IVe s.",
+     "text": "Au IVe siècle, le diocèse d'Hispanie comprend la Tarraconaise, la Gallécie, la Carthaginoise, la Lusitanie, la Bétique, les Baléares et la Maurétanie tingitane.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 408,
+     "label": "408",
+     "text": "En 408 puis en 409, les deux usurpateurs Constantin III et Maxime étendent leur autorité sur l'Espagne.",
+     "source": 2,
+     "corroborated": false
     }
    ],
    "start": -550,
-   "end": 150,
+   "end": 408,
    "photos": [],
-   "narrative": "La péninsule Ibérique abrite des sites témoignant d'une occupation dès le Paléolithique inférieur à Orce, Pinedo, Aridos, Torralba, Ambrona et Atapuerca [S2]. Au VIe siècle av. J.-C., les habitants de Tartessos élaborèrent une langue et une écriture sous influence phénicienne et égyptienne [S2]. Après la première guerre punique (264-240 av. J.-C.), les Carthaginois étendirent leur influence depuis Carthagène sous les Barcides [S2]. En 218 av. J.-C., Hannibal partit de Tarragone avec 37 éléphants pour marcher sur Rome par la Gaule [S2]. Écrasés à Zama en 202 av. J.-C., les Carthaginois cédèrent l'Hispanie à Rome arrivée fin IIIe siècle av. J.-C. [S2]. Celle-ci acheva sa conquête sous Auguste au Ier siècle av. J.-C. avec la soumission du nord malgré la guérilla celtibère [S2]. Trajan et Hadrien furent empereurs au IIe siècle [S2]."
+   "narrative": "La péninsule Ibérique abrite de nombreux sites préhistoriques de renommée mondiale témoignant d'une occupation humaine dès le Paléolithique inférieur à Orce, Pinedo, Aridos, Torralba, Ambrona et Atapuerca [S2]. Au VIe siècle av. J.-C., les habitants de Tartessos élaborèrent une langue et une écriture distinctes et connurent l'influence des Phéniciens et des Égyptiens [S2]. Après la première guerre punique, les Carthaginois étendirent leur influence depuis Carthagène sous les Barcides, avant que Rome n'arrive à la fin du IIIe siècle av. J.-C. et n'achève la conquête sous Auguste au Ier siècle av. J.-C. [S2]. La péninsule fut divisée en deux puis trois provinces et fournit des empereurs comme Trajan, Hadrien et Théodose Ier [S2]. Les extraits reflètent essentiellement le point de vue des puissances méditerranéennes extérieures [S2]."
   },
   {
    "title": "Époque médiévale",
@@ -134,6 +194,13 @@
    "source": 3,
    "summary": "Pendant le haut Moyen Âge, la péninsule ibérique a vu l'arrivée et l'installation de plusieurs peuples barbares venus d'Europe centrale et d'Asie. Dès 408, les Vandales, les Suèves et une partie des Alains passent en Espagne.",
    "events": [
+    {
+     "year": 350,
+     "label": "IVe s.",
+     "text": "Les Wisigoths sont un peuple germanique, établis dans les Balkans mais qui sous la pression des Huns au IVe siècle se trouve poussés vers l'Empire romain.",
+     "source": 3,
+     "corroborated": false
+    },
     {
      "year": 418,
      "label": "418",
@@ -149,11 +216,32 @@
      "corroborated": true
     },
     {
+     "year": 554,
+     "label": "554",
+     "text": "Simultanément, l'empereur romain d'Orient, Justinien Ier, reconquiert l'ancienne province de Bétique (l'actuelle Andalousie) en 554 et impose sa suzeraineté au royaume des Wisigoths.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 711,
+     "label": "711",
+     "text": "Un long conflit de près de huit siècles se déroule en Espagne entre musulmans et chrétiens, de la conquête musulmane de l'Hispanie en 711 à l'année cruciale et finale de la Reconquista chrétienne en 1492.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
      "year": 718,
      "label": "718",
      "text": "Mais dès 718, les souverains chrétiens du Nord-Ouest amorcent lentement la Reconquista à partir du royaume des Asturies, qui s'achèvera par la conquête du Royaume de Grenade en 1492 et, à la suite de cette victoire, de l'élimination complète de l'islam et du judaïsme en terre ibérique, avec l'expulsion des Juifs d'Espagne en 1492 et celle des Morisques en 1609.",
      "source": 3,
      "corroborated": false
+    },
+    {
+     "year": 732,
+     "label": "732",
+     "text": "La bataille de Poitiers remportée par le Franc Charles Martel, marque un coup d'arrêt à la conquête arabe en Occident (732).",
+     "source": 3,
+     "corroborated": true
     },
     {
      "year": 1050,
@@ -177,10 +265,10 @@
      "corroborated": false
     }
    ],
-   "start": 418,
+   "start": 350,
    "end": 1491,
    "photos": [],
-   "narrative": "Au haut Moyen Âge, Vandales, Suèves et Alains passent en Espagne dès 408 [S3]. Par le fœdus de 418, Honorius accorde aux Wisigoths des terres en Aquitaine puis en Espagne [S3]. Chassés d'Aquitaine par Clovis après Vouillé en 507, ils se replient à Tolède [S3]. Dès 718, les chrétiens des Asturies amorcent la Reconquista, achevée en 1492 avec Grenade, suivie des expulsions des Juifs en 1492 et des Morisques en 1609 [S3]. Au XIe siècle, le califat de Cordoue éclate en taïfas entre 1031 et 1094 [S3]. En 1212, après l'appel d'Innocent III en 1209, les royaumes chrétiens et les Templiers défont les Almohades à Las Navas de Tolosa [S3]. Ces extraits reflètent un point de vue centré sur les chrétiens [S3]."
+   "narrative": "Au début du haut Moyen Âge, les Vandales, les Suèves et une partie des Alains passent en Espagne dès 408 [S3]. Les Wisigoths, peuple germanique poussé vers l'Empire romain sous la pression des Huns au IVe siècle, reçoivent des terres en Aquitaine puis en Espagne par le fœdus de 418 avec Honorius [S3]. Chassés d'Aquitaine par les Francs de Clovis après Vouillé en 507, ils se replient à Tolède [S3]. En 554, Justinien Ier reconquiert la Bétique et impose sa suzeraineté [S3]. La conquête musulmane de 711 ouvre un conflit de près de huit siècles jusqu'en 1492 [S3], tandis que la Reconquista amorcée depuis les Asturies en 718 s'achève avec la prise de Grenade fin 1491 [S3]. Ces extraits reflètent principalement un point de vue politico-militaire centré sur les pouvoirs chrétiens et impériaux [S3]."
   },
   {
    "title": "Construction d'un État centralisé et d'un empire colonial",
@@ -217,9 +305,37 @@
      "corroborated": false
     },
     {
+     "year": 1776,
+     "label": "1776",
+     "text": "En 1776, l'Espagne s'engage aux côtés de la France et des insurgés américains dans la guerre d'indépendance des États-Unis.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
      "year": 1793,
      "label": "1793",
      "text": "Et après l'exécution de Louis XVI en 1793, le souverain madrilène de la dynastie Bourbon déclare la guerre à la jeune République.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1802,
+     "label": "1802",
+     "text": "Un traité de paix est signé à Amiens en 1802 entre le Royaume-Uni d'une part, la France, les Pays-Bas et l'Espagne d'autre part.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1820,
+     "label": "1820",
+     "text": "Le 7 mars 1820, le palais royal de Madrid fut encerclé par les soldats du général Ballesteros, et dès le 10 mars, le roi accepta de rétablir la constitution.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1822,
+     "label": "1822",
+     "text": "Confronté à de violentes révoltes, il est contraint en 1822 de proclamer une Constitution qu'il ne respecte pas.",
      "source": 4,
      "corroborated": false
     },
@@ -234,6 +350,14 @@
    "start": 1492,
    "end": 1868,
    "photos": [
+    {
+     "title": "Gezicht op het Puerta del Sol te Madrid Madrid, Puerta del Sol. (titel op object), RP-F-F07737",
+     "year": 1850,
+     "license": "CC0",
+     "image": "/media/places/madrid-puerta-del-sol/archive/8b3b9082258d.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Puerta_del_Sol_te_Madrid_Madrid,_Puerta_del_Sol._(titel_op_object),_RP-F-F07737.jpg",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "1850-Jose-Maria-Romillo-papeles-libros-plumas",
      "year": 1850,
@@ -265,9 +389,33 @@
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Jenaro_P%C3%A9rez_Villaamil_%28Espa%C3%B1a_art%C3%ADstica_y_monumental%2C_1850%29_Palacio_Arzobispal_de_Alcal%C3%A1_de_Henares%2C_patio_de_Fonseca.png/960px-Jenaro_P%C3%A9rez_Villaamil_%28Espa%C3%B1a_art%C3%ADstica_y_monumental%2C_1850%29_Palacio_Arzobispal_de_Alcal%C3%A1_de_Henares%2C_patio_de_Fonseca.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:Jenaro_P%C3%A9rez_Villaamil_(Espa%C3%B1a_art%C3%ADstica_y_monumental,_1850)_Palacio_Arzobispal_de_Alcal%C3%A1_de_Henares,_patio_de_Fonseca.png",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Madrid, straatbeeld, RP-F-F01139-CX",
+     "year": 1850,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Madrid%2C_straatbeeld%2C_RP-F-F01139-CX.jpg/960px-Madrid%2C_straatbeeld%2C_RP-F-F01139-CX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Madrid,_straatbeeld,_RP-F-F01139-CX.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Madrid-ca.1850-Topográfico",
+     "year": 1850,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Madrid-ca.1850-Topogr%C3%A1fico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Madrid-ca.1850-Topogr%C3%A1fico.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op de Puerta del Sol en het Ministerie van Binnenlandse Zaken in Madrid MADRID.- La puerta del Sol con el Ministerio de la Gobernacion. (titel op object), RP-F-F01098-AC",
+     "year": 1857,
+     "license": "CC0",
+     "image": "/media/places/madrid-puerta-del-sol/archive/8566c2b93ac0.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Puerta_del_Sol_en_het_Ministerie_van_Binnenlandse_Zaken_in_Madrid_MADRID.-_La_puerta_del_Sol_con_el_Ministerio_de_la_Gobernacion._(titel_op_object),_RP-F-F01098-AC.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Cette partie amorce l'Histoire moderne de l'Espagne au XVe / XVIIe siècles [S4]. Au mois de juillet 1501, les Portugais lancent une expédition pour tenter d'accoster sur la plage des Andalouses [S4]. En 1492, année cruciale, les rois achèvent également la Reconquista en conquérant le Royaume de Grenade [S4]. Sainte Thérèse d'Avila (1515-1582) réforme et fonde de nombreux couvents et s'impose comme un maître de la spiritualité chrétienne [S4]. Il faudra attendre la guerre de Succession d'Espagne, au XVIIIe siècle pour que ces différentes entités soient fondues au sein du royaume d'Espagne [S4]. Ces extraits ne reflètent qu'un point de vue centré sur la monarchie espagnole et européenne, sans perspective des populations colonisées ou autres acteurs [S4]."
+   "narrative": "Selon les extraits, datés des XVe/XVIIe siècles, cette partie amorce l'Histoire moderne de l'Espagne [S4]. Au mois de juillet 1501, les Portugais lancent une expédition pour tenter d'accoster sur la plage des Andalouses [S4]. Les rois achèvent la Reconquista en conquérant le Royaume de Grenade en 1492, année cruciale [S4]. Sainte Thérèse d'Avila (1515-1582) réforme et fonde de nombreux couvents [S4]. La mort sans héritier en 1700 ouvre la guerre de Succession d'Espagne (1701-1713) entre les dynasties française et autrichienne [S4]. Il faut attendre cette guerre au XVIIIe siècle pour que les différentes entités soient fondues au sein du royaume d'Espagne [S4]. Les extraits présentent uniquement un point de vue centré sur la monarchie et l'État centralisé [S4]."
   }
  ],
  "sources": [
@@ -317,18 +465,13 @@
    "from": null,
    "to": -550,
    "text": "Avant 550 av. J.-C., l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
-  },
-  {
-   "from": 150,
-   "to": 418,
-   "text": "Entre 150 et 418, les sources consultées ne donnent aucune date précise."
   }
  ],
  "stats": {
   "chapters": 4,
-  "events": 20,
-  "corroborated": 3,
-  "share": 0.15,
+  "events": 32,
+  "corroborated": 4,
+  "share": 0.12,
   "span": [
    "550 av. J.-C.",
    "1982"
@@ -337,5 +480,5 @@
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "d6331ed0ef"
+ "run": "9b8b71c6dd"
 }

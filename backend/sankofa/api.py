@@ -11,7 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 
-from . import agent, chronicle, config, documentary
+from . import agent, chronicle, config, documentary, history
 from .sources import music
 from .countries import BY_ID as COUNTRY_BY_ID, COUNTRIES
 from .investigate import clean_title, load_manifest
@@ -70,6 +70,13 @@ def place(place_id: str):
                                key=lambda c: bool(re.search(r"detail|plaque|placa|año|sign|night|nuit|interior|neon|close",
                                                             c["title"], re.I))),
             "contributions": [card(a) for a in m.get("contributions", [])]}
+
+
+@app.get("/api/places/{place_id}/history")
+def place_history(place_id: str):
+    if place_id not in BY_ID:
+        raise HTTPException(404, "Lieu inconnu")
+    return history.get(place_id) or {"events": [], "sources": [], "intro": "", "stats": {"events": 0, "corroborated": 0}}
 
 
 @app.post("/api/places/{place_id}/runs")

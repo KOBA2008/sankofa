@@ -64,6 +64,8 @@ PLACES = [
                             "Place du Parvis Notre-Dame"],
         "current_queries": ["Notre-Dame de Paris façade", "Parvis Notre-Dame Paris", "Notre-Dame de Paris west facade"],
         "keywords": ["notre-dame", "notre dame"],
+        "require": ["paris", "parvis", "cité", "seine"],
+        "exclude": ["québec", "quebec", " qc", "montréal", "montreal", "reims", "chartres", "amiens", "rouen", "strasbourg"],
     },
     {
         "id": "new-york-flatiron",
@@ -117,6 +119,8 @@ PLACES = [
         "current_queries": ["Pyramids of Giza 2019", "Great Sphinx of Giza", "Giza pyramid complex"],
         "europeana_queries": ["pyramids Giza", "sphinx Gizeh"],
         "keywords": ["pyramid", "pyramide", "sphinx", "giza", "gizeh", "ghizeh", "cheops", "khufu"],
+        "require": ["giza", "gizeh", "ghizeh", "guizeh", "cairo", "caire", "egypt", "égypte", "egypte", "sphinx",
+                    "cheops", "khufu", "chéops", "kheops"],
         "exclude": ["louvre", "mexico", "teotihuacan", "las vegas", "luxor hotel", "nubia", "meroe", "sudan"],
     },
     {

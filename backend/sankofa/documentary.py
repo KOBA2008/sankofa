@@ -99,13 +99,33 @@ def place_storyboard(place_id: str, run_id: str | None = None, seed: int | None 
         scenes.append({"type": "compare", "image": result["current"], "image_b": result["reconstruction"],
                        "year": f"vers {result['year']}", "title": "La vue d'aujourd'hui se dissout dans le passé",
                        "duration": 6.5})
-    archives = sorted(m["archives"][:10], key=lambda a: a["year"])
+    archives = sorted(m["archives"][:12], key=lambda a: a["year"])
+    from . import history
+    hist = history.get(place_id) or {"events": []}
+    events = hist["events"]
+    if len(events) > 9:  # on garde un échantillon réparti sur toute la frise
+        events = [events[round(i * (len(events) - 1) / 8)] for i in range(9)]
+    if events:
+        scenes.append({"type": "chapter", "image": "/media/places/" + archives[0]["path"] if archives else None,
+                       "title": "Son histoire", "year": f"{events[0]['label']} – {events[-1]['label']}",
+                       "caption": f"Photo {archives[0]['year']}" if archives else None, "duration": 4.0})
+        for i, e in enumerate(events):
+            a = archives[(i + 1) % len(archives)] if archives else None
+            text = _trim(e["text"])
+            scenes.append({"type": "event", "image": "/media/places/" + a["path"] if a else None, "year": e["label"],
+                           "caption": f"Photo {a['year']}" if a else None, "text": text,
+                           "badge": "recoupé" if e["corroborated"] else "source unique", "source": "Wikipédia",
+                           "duration": _duration(text)})
+        scenes.append({"type": "chapter", "image": "/media/places/" + archives[-1]["path"] if archives else None,
+                       "title": "Les archives", "year": f"{archives[0]['year']} – {archives[-1]['year']}" if archives else "",
+                       "duration": 3.5})
     for a in archives:
         text = _trim(clean_title(a["title"]), 140)
         scenes.append({"type": "event", "image": "/media/places/" + a["path"], "year": str(a["year"]),
                        "text": text, "badge": a["license"], "source": a.get("source", ""), "duration": 5.0})
     scenes.append({"type": "gap", "image": None, "title": "Le lieu", "text": _trim(place["context"], 220), "duration": 7.0})
     credits = [f"{a['year']} · {clean_title(a['title'])[:70]} ({a['license']}, {a.get('source', '')})" for a in archives]
+    credits = [f"{s['title']} · Wikipédia ({s['license']})" for s in hist.get("sources", [])] + credits
     return _finish({"kind": "place", "id": place_id, "title": place["city"], "scenes": scenes}, credits, seed)
 
 

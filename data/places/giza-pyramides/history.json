@@ -1,0 +1,77 @@
+{
+ "place": "giza-pyramides",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Nécropole de Gizeh",
+   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Giza pyramid complex",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": -2500,
+   "label": "2500 av. J.-C.",
+   "text": "Réalisée vers -2500, elle serait attribuée à Djédefrê, l'un des pharaons de la IVe dynastie, représentant son père le roi Khéops, ou alors il s'agirait d'une réalisation de Khéphren ou de Khéops.",
+   "section": "Le Grand Sphinx",
+   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#Le_Grand_Sphinx",
+   "corroborated": false
+  },
+  {
+   "year": 200,
+   "label": "200",
+   "text": "Le village est situé au sud-est des complexes de Khéphren et Mykérinos, par delà le « mur du Corbeau » (mur en pierre calcaire de 200 m de long, 7 m de large et 10 m de haut).",
+   "section": "Le village des ouvriers",
+   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#Le_village_des_ouvriers",
+   "corroborated": false
+  },
+  {
+   "year": 1860,
+   "label": "1860",
+   "text": "Le temple bas a donné plusieurs statues de Khéphren, plusieurs d'entre elles ont été trouvées dans un puits du sol du temple par Mariette en 1860.",
+   "section": "La pyramide de Khéphren",
+   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#La_pyramide_de_Khéphren",
+   "corroborated": true
+  },
+  {
+   "year": 1909,
+   "label": "1909",
+   "text": "D'autres ont été découvertes lors de fouilles successives par Sieglin (en 1909-1910), Junker, Reisner et Hassan.",
+   "section": "La pyramide de Khéphren",
+   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#La_pyramide_de_Khéphren",
+   "corroborated": true
+  },
+  {
+   "year": 1932,
+   "label": "1932",
+   "text": "L'ensemble a été fouillé et identifié par Selim Hassan pendant les années 1932 et 1933.",
+   "section": "La pyramide de Khentkaous Ire",
+   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#La_pyramide_de_Khentkaous_Ire",
+   "corroborated": true
+  },
+  {
+   "year": 1990,
+   "label": "1990",
+   "text": "En 1990, des tombes appartenant aux ouvriers des pyramides ont été découvertes à côté des pyramides et un site funéraire supplémentaire a été découvert à proximité en 2009.",
+   "section": "Le cimetière des constructeurs des pyramides",
+   "url": "https://fr.wikipedia.org/wiki/Nécropole_de_Gizeh#Le_cimetière_des_constructeurs_des_pyramides",
+   "corroborated": false
+  }
+ ],
+ "intro": "La nécropole de Gizeh est un vaste ensemble funéraire situé sur un plateau désertique de la rive ouest du Nil, à Gizeh, qui jouxte la ville moderne du Caire. Faisant partie des nécropoles memphites qui s'étendent à l'ouest de la capitale égyptienne sur une trentaine de kilomètres (de Dahchour au sud à Abou Rawash au nord, elles regroupent 38 pyramides et plus de 9 000 tombes), elle est utilisée principalement sous l'Ancien Empire. Le site est connu mondialement car y sont situées les célèbres pyramides de Khéops, de Khéphren et de Mykérinos.",
+ "stats": {
+  "events": 6,
+  "corroborated": 3
+ }
+}

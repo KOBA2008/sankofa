@@ -1,0 +1,157 @@
+{
+ "place": "cotonou-wharf",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Cotonou",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Cotonou",
+   "url": "https://en.wikipedia.org/wiki/Cotonou",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 1650,
+   "label": "XVIIe s.",
+   "text": "Ce n'est qu'à partir du XVIIe siècle que cette portion du littoral commence à attirer l'attention des royaumes de l'intérieur et des commerçants européens, en raison de son potentiel d'accès direct à la mer, et donc au commerce atlantique.",
+   "section": "Territoire liminaire et inhospitalier (avant le XVIIe siècle)",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Territoire_liminaire_et_inhospitalier_(avant_le_XVIIe_siècle)",
+   "corroborated": false
+  },
+  {
+   "year": 1750,
+   "label": "XVIIIe s.",
+   "text": "Vers le milieu du XVIIIe siècle, le royaume du Dahomey soumet la région et fonde une nouvelle ville au nord du lac, Godomey, qui intègre le site de Jekin comme quartier.",
+   "section": "Premiers établissements (XVIIe – XVIIIe siècle)",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Premiers_établissements_(XVIIe – XVIIIe_siècle)",
+   "corroborated": false
+  },
+  {
+   "year": 1830,
+   "label": "1830",
+   "text": "Un comptoir est établi là où se trouve aujourd'hui la Cathédrale Notre-Dame-de-Miséricorde de Cotonou et le village d'esclaves de Kutònu est fondé vers 1830.",
+   "section": "Kutònu, village d'esclaves puis agricoles (1800 - 1850)",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Kutònu,_village_d'esclaves_puis_agricoles_(1800_-_1850)",
+   "corroborated": false
+  },
+  {
+   "year": 1832,
+   "label": "1832",
+   "text": "La tradition orale veut que des piroguiers xwla s'étaient déjà installés sur la plage de Kutònu en 1832 afin d'assurer les transports maritimes et faciliter les échanges.",
+   "section": "Kutònu, village d'esclaves puis agricoles (1800 - 1850)",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Kutònu,_village_d'esclaves_puis_agricoles_(1800_-_1850)",
+   "corroborated": false
+  },
+  {
+   "year": 1840,
+   "label": "1840",
+   "text": "La stratégie coloniale française est en application dès les années 1840 avec les premières installations sur la plage de Kutònu, dans l'actuel quartier de Placodji.",
+   "section": "Transformation de la ville",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Transformation_de_la_ville",
+   "corroborated": false
+  },
+  {
+   "year": 1850,
+   "label": "XIXe s.",
+   "text": "Au début du XIXe siècle, l'abolition progressive de la traite négrière par les puissances européennes, notamment le Royaume-Uni, pousse le royaume du Dahomey à chercher des itinéraires alternatifs pour maintenir ses échanges.",
+   "section": "Kutònu, village d'esclaves puis agricoles (1800 - 1850)",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Kutònu,_village_d'esclaves_puis_agricoles_(1800_-_1850)",
+   "corroborated": true
+  },
+  {
+   "year": 1851,
+   "label": "1851",
+   "text": "En 1851, la France obtient des privilèges commerciaux de la part du Dahomey et, en 1863, l'autorité sur la plage qui devient effective en 1878 avec la proclamation du « territoire de Cotonou ».",
+   "section": "Transformation de la ville",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Transformation_de_la_ville",
+   "corroborated": true
+  },
+  {
+   "year": 1861,
+   "label": "1861",
+   "text": "Entre 1861 et 1873, les administrateurs dahoméen soumettent au travail forcé les populations lacustres afin de consolider ces dunes et le chenal maritime.",
+   "section": "Transformation de la ville",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Transformation_de_la_ville",
+   "corroborated": false
+  },
+  {
+   "year": 1868,
+   "label": "1868",
+   "text": "Le 19 mai 1868, un traité est signé entre les Français et le Yovogan, représentant du roi Glélé.",
+   "section": "Conflit et cession du territoire",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Conflit_et_cession_du_territoire",
+   "corroborated": false
+  },
+  {
+   "year": 1878,
+   "label": "1878",
+   "text": "Ce traité est renouvelé le 19 avril 1878 avec des limites identiques.",
+   "section": "Conflit et cession du territoire",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Conflit_et_cession_du_territoire",
+   "corroborated": false
+  },
+  {
+   "year": 1885,
+   "label": "1885",
+   "text": "Mais c'est en 1885 que les Français étendent leur contrôle commercial et territorial en créant et consolidant un chenal permanent.",
+   "section": "Transformation de la ville",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Transformation_de_la_ville",
+   "corroborated": false
+  },
+  {
+   "year": 1890,
+   "label": "1890",
+   "text": "Début 1890, la France entreprend une occupation militaire.",
+   "section": "Conflit et cession du territoire",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Conflit_et_cession_du_territoire",
+   "corroborated": false
+  },
+  {
+   "year": 1910,
+   "label": "1910",
+   "text": "Les Xwla-toffinu du nord de Cotonou sont perçus comme les autochtones de la ville moderne, chassés de leurs villages lacustres par les colons français en 1910.",
+   "section": "Premiers établissements (XVIIe – XVIIIe siècle)",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Premiers_établissements_(XVIIe – XVIIIe_siècle)",
+   "corroborated": false
+  },
+  {
+   "year": 1961,
+   "label": "1961",
+   "text": "Le phénomène d'érosion du littoral constaté depuis plusieurs décennies s'est aggravé à partir de 1961, à la suite des grands travaux entrepris au Bénin (barrage de Nangbéto, port en eau profonde de Cotonou), au Ghana (barrage d'Akosombo) et au Togo (Port en eau profonde de Lomé).",
+   "section": "Hydrographie",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Hydrographie",
+   "corroborated": true
+  },
+  {
+   "year": 1977,
+   "label": "1977",
+   "text": "Probablement commandités par la monarchie marocaine, et avec l'aide du Gabon de Omar Bongo, des mercenaires dirigés par Bob Denard ont tenté, sans succès, un débarquement à l'aéroport de Cotonou en 1977 pour déstabiliser le gouvernement communiste béninois[réf. nécessaire].",
+   "section": "Essor pendant et après l'Indépendance (1958-présent)",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Essor_pendant_et_après_l'Indépendance_(1958-présent)",
+   "corroborated": false
+  },
+  {
+   "year": 2021,
+   "label": "2021",
+   "text": "Elle abrite aussi le CNE installé par le président Patrice Talon Du 7 au 14 août 2021, Cotonou a accueilli le 54e congrès international des enseignants d'espéranto organisé par la ligue internationale des enseignants d'espéranto.",
+   "section": "Éducation",
+   "url": "https://fr.wikipedia.org/wiki/Cotonou#Éducation",
+   "corroborated": false
+  }
+ ],
+ "intro": "Cotonou est la capitale économique et la plus grande ville du Bénin avec 1 228 667 habitants en 2021. Elle abrite aussi de nombreux services gouvernementaux et diplomatiques. Cotonou est connue dans toute l'Afrique de l'Ouest pour son marché international de 20 hectares (Dantokpa), le plus grand marché d'Afrique de l'Ouest, ses Zémidjans (motos-taxis) et un marché secondaire, Missebo, situé à quelques mètres du marché Dantokpa.",
+ "stats": {
+  "events": 16,
+  "corroborated": 3
+ }
+}

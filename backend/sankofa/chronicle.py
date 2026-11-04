@@ -178,10 +178,10 @@ def _photos(country: dict, start: int, end: int) -> list[dict]:
                 picked.append({"title": a["title"], "year": a["year"], "license": a["license"],
                                "image": "/media/places/" + a["path"], "page_url": a.get("page_url", ""),
                                "source": a.get("source", "")})
-    for name in country["old_names"][:2]:
-        if len(picked) >= 6:
+    decades = sorted({max(1850, min(1950, y // 10 * 10)) for y in (lo, mid, hi)})
+    for name, decade in [(n, d) for n in country["old_names"][:3] for d in decades]:
+        if len(picked) >= 12:
             break
-        decade = max(1850, min(1950, mid // 10 * 10))
         for d in wikimedia.search(f"{name} {decade}", limit=30, width=900):
             if not d["year"] or not (lo - 5 <= d["year"] <= hi + 5) or not is_open(d["license"]):
                 continue
@@ -190,7 +190,7 @@ def _photos(country: dict, start: int, end: int) -> list[dict]:
             picked.append({"title": d["title"], "year": d["year"], "license": d["license"], "image": d["thumb_url"],
                            "page_url": d["page_url"], "source": d["source"]})
     picked.sort(key=lambda p: abs(p["year"] - mid))
-    return picked[:4]
+    return picked[:8]
 
 
 def run_chronicle(country_id: str):
@@ -227,7 +227,7 @@ def run_chronicle(country_id: str):
                     continue
                 keep.append(c)
                 seen_years.add(c["year"])
-                if len(keep) >= 6:
+                if len(keep) >= 10:
                     break
             keep.sort(key=lambda e: e["year"])
             body = " ".join(p["text"] for p in ch["parts"])
@@ -278,7 +278,11 @@ def run_chronicle(country_id: str):
         # ---------------------------------------------------------------- illustrations
         run.emit("illustration", "running", "Je cherche des photos d'archives pour chaque période (sous les anciens noms du pays).")
         for c in chapters:
-            c["photos"] = _photos(country, c["start"], c["end"]) if c["start"] is not None else []
+            try:
+                c["photos"] = _photos(country, c["start"], c["end"]) if c["start"] is not None else []
+            except Exception as exc:  # une recherche de photos qui échoue ne doit pas arrêter la chronique
+                c["photos"] = []
+                run.emit("illustration", "log", f"« {c['title']} » : photos indisponibles ({type(exc).__name__}).")
             if c["photos"]:
                 run.emit("illustration", "log", f"« {c['title']} » : {len(c['photos'])} photo(s).")
         run.emit("illustration", "done", f"{sum(len(c['photos']) for c in chapters)} photos d'époque associées.")
@@ -294,9 +298,9 @@ def run_chronicle(country_id: str):
                 "des extraits, ni détail inventé (heure, météo, émotions, pensées). Si les extraits ne reflètent "
                 "qu'un point de vue (par exemple colonial), dis-le.",
                 f"Chapitre : {c['title']}. Source [S{c['source']}].\nRésumé : {c['summary']}\nÉvénements :\n{quotes}",
-                max_tokens=400) if meta.text_live else None
+                max_tokens=450, bulk=True) if meta.text_live else None
             if text:
-                engine = meta.text_engine
+                engine = meta.engine_for(bulk=True)
             c["narrative"] = text or (f"{c['summary']} [S{c['source']}]" if c["summary"] else "")
         run.emit("recit", "done", "Chronique prête." if engine != "local" else
                  "Chronique prête (mode local : le récit est fait d'extraits des sources).", engine=engine)

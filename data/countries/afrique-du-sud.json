@@ -41,6 +41,22 @@
    "end": 1950,
    "photos": [
     {
+     "title": "Adderley Street, Cape Town, South Africa, 22 June 1897 H0061-L351324055",
+     "year": 1897,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/180659ac01e0.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Adderley_Street,_Cape_Town,_South_Africa,_22_June_1897_H0061-L351324055.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "1898 General Post Office and Standard Bank of South Africa, Adderley Street",
+     "year": 1898,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/6c94d1fac4cf.png",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1898_General_Post_Office_and_Standard_Bank_of_South_Africa,_Adderley_Street.png",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "2 Cape Towns Second Train Station - viewed from Adderley Street - Cape Archives 1900",
      "year": 1900,
      "license": "Public domain",
@@ -71,6 +87,22 @@
      "image": "/media/places/cape-town-adderley/archive/8b53f3be2cf7.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Regiment_South_African_Light_Horse_in_Adderley_Street_in_Kaapstad_South_African_Light_Horse,_coming_down_Adderly_St._to_entrain_for_the_front,_Cape_Town_(titel_op_object),_RP-F-F09071.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cape Town QE4 138",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/e6ceeddd2748.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cape_Town_QE4_138.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "A Cape Garden - Claremont, Cape Town 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/37bcadcb3776.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:A_Cape_Garden_-_Claremont,_Cape_Town_1900.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
    "narrative": "L'histoire de l'Afrique du Sud est animée par des peuples et des cultures différentes qui se succèdent et se côtoient depuis la Préhistoire [S1]. Le peuple San y est présent depuis au moins 25 000 ans et les Bantous depuis au moins 1 500 ans [S1]. Vers la fin du XVIIIe siècle, les Britanniques contestent leur prééminence, ce qui mènera notamment au Grand Trek afrikaner et, à la fin du XIXe siècle, aux deux guerres anglo-boer [S1]. Le XXe siècle est marqué par le système législatif séparatiste et ségrégationniste de l'apartheid puis par l'élection de Nelson Mandela, premier président noir d'Afrique du Sud, à la suite des premières élections nationales multiraciales au suffrage universel organisées dans le pays [S1]."
@@ -84,7 +116,7 @@
    "start": null,
    "end": null,
    "photos": [],
-   "narrative": "L'histoire la plus ancienne de l'Afrique du Sud reste mal connue [S2]. Cette méconnaissance s'explique notamment par l'absence d'écrits et par la difficulté à dater les événements sur un territoire étendu et peu peuplé [S2]. Les découvertes archéologiques ont toutefois permis d'améliorer la compréhension de cette période [S2]. Parmi elles, la découverte de l'enfant de Taung en 1924 a joué un rôle important [S2]. Elle a contribué à affiner la connaissance des genres Australopithecus, Paranthropus et Homo [S2]. Grâce à ces apports scientifiques, l'Afrique du Sud est aujourd'hui considérée comme l'un des foyers majeurs de l'hominisation [S2]."
+   "narrative": "Le chapitre sur la Préhistoire repose uniquement sur le résumé fourni [S2]. L'histoire la plus ancienne est mal connue en raison notamment de l'absence d'écrits [S2]. Cette méconnaissance est également liée à la difficulté à dater les évènements concernant un territoire étendu et peu peuplé [S2]. Des découvertes archéologiques ont permis d'affiner la compréhension des genres Australopithecus, Paranthropus et Homo [S2]. Parmi ces découvertes archéologiques figure celle de l'enfant de Taung en 1924 [S2]. L'ensemble de ces découvertes fait de l'Afrique du Sud un des foyers de l'hominisation [S2]. Aucun autre événement n'est détaillé dans les extraits disponibles pour ce chapitre [S2]."
   },
   {
    "title": "Histoire précoloniale",
@@ -103,6 +135,13 @@
      "year": 950,
      "label": "Xe s.",
      "text": "Au nord, dans la vallée du fleuve Limpopo et de la Shashe, s'établit un premier royaume indigène régional à partir du Xe siècle.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1250,
+     "label": "XIIIe s.",
+     "text": "Il le demeure jusqu'à sa chute à la fin du XIIIe siècle, laquelle résulte d'un important changement climatique contraignant les habitants à se disperser.",
      "source": 3,
      "corroborated": false
     },
@@ -139,6 +178,22 @@
    "end": 1950,
    "photos": [
     {
+     "title": "Adderley Street, Cape Town, South Africa, 22 June 1897 H0061-L351324055",
+     "year": 1897,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/180659ac01e0.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Adderley_Street,_Cape_Town,_South_Africa,_22_June_1897_H0061-L351324055.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "1898 General Post Office and Standard Bank of South Africa, Adderley Street",
+     "year": 1898,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/6c94d1fac4cf.png",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1898_General_Post_Office_and_Standard_Bank_of_South_Africa,_Adderley_Street.png",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "2 Cape Towns Second Train Station - viewed from Adderley Street - Cape Archives 1900",
      "year": 1900,
      "license": "Public domain",
@@ -169,9 +224,25 @@
      "image": "/media/places/cape-town-adderley/archive/8b53f3be2cf7.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Regiment_South_African_Light_Horse_in_Adderley_Street_in_Kaapstad_South_African_Light_Horse,_coming_down_Adderly_St._to_entrain_for_the_front,_Cape_Town_(titel_op_object),_RP-F-F09071.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cape Town QE4 138",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/e6ceeddd2748.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cape_Town_QE4_138.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "A Cape Garden - Claremont, Cape Town 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/37bcadcb3776.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:A_Cape_Garden_-_Claremont,_Cape_Town_1900.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'historiographie sud-africaine a longtemps été largement eurocentrée, relatant majoritairement les faits postérieurs aux premières explorations européennes [S3]. Elle a aussi été très ethnicisante, retranscrivant de manière isolée et essentialisante l'histoire des différents groupes qui font l'Afrique du Sud, masquant ainsi les phénomènes de passage et d’échange entre ceux-ci [S3]. Avant l'expansion des agriculteurs bantou vers 1600-1700 ans AP, l'Afrique du Sud était majoritairement habitée par des populations Khoisan [S3]. La première vague de migrants de l'âge du fer, agriculteurs et éleveurs, atteint l'Afrique du Sud vers l'an 300 pour s'établir au KwaZulu-Natal vers 500 [S3]. Au nord, dans la vallée du Limpopo et de la Shashe, un premier royaume indigène régional s'établit à partir du Xe siècle [S3]."
+   "narrative": "L'historiographie sud-africaine a longtemps été eurocentrée et ethnicisante, masquant les passages et échanges entre groupes [S3]. Avant l'expansion bantou vers 1600-1700 ans AP, l'Afrique du Sud était majoritairement habitée par des populations Khoisan [S3]. La première vague de l'âge du fer atteint l'Afrique du Sud vers 300 pour s'établir au KwaZulu-Natal vers 500 [S3]. Au nord, un royaume s'établit dans la vallée du Limpopo et de la Shashe dès le Xe siècle jusqu'à sa chute à la fin du XIIIe siècle due à un changement climatique [S3]. Avant 1713, les sociétés khoïkhoï sont décrites uniquement par des voyageurs et colons européens, reflétant un point de vue colonial [S3]. Le terme « Khoisan » fut inventé dans les années 1920 par Leonhard Schultze [S3]."
   },
   {
    "title": "Découverte du Cap par les Portugais (1488/1497) et premières explorations européennes",
@@ -220,12 +291,33 @@
      "text": "En 1498, il contourne l'Afrique et pousse au nord-est, explorant des régions de l'actuel Mozambique, avant de se diriger vers l'Inde.",
      "source": 4,
      "corroborated": false
+    },
+    {
+     "year": 1550,
+     "label": "XVIe s.",
+     "text": "Durant la seconde partie du XVIe siècle, les Néerlandais, qui ont supplanté les Portugais sur les voies commerciales menant vers l'Asie, tentent à leur tour d'établir des contacts avec les Khoïkhoïs mais sans grands résultats.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1644,
+     "label": "1644",
+     "text": "En 1644, le Mauritius Eylant, un navire de la Compagnie néerlandaise des Indes orientales (VOC), s'échoue sur les rochers de Mouille Point, bloquant les 250 hommes d'équipage sur les rives de la baie de la Table pendant quatre mois.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1648,
+     "label": "1648",
+     "text": "En 1648, le Nieuwe Haarlem, un autre navire de la VOC, s'échoue à son tour au pied de la montagne de la Table.",
+     "source": 4,
+     "corroborated": false
     }
    ],
    "start": 1050,
-   "end": 1498,
+   "end": 1648,
    "photos": [],
-   "narrative": "Les extraits fournis présentent un point de vue uniquement eurocentré et colonial, affirmant que l'histoire écrite débute avec l'arrivée des Européens [S4]. Le savant persan du XIe siècle Al-Biruni, vivant en Inde, avait pourtant préfiguré l'existence d'une route permettant de contourner l'Afrique pour rejoindre l'océan Atlantique [S4]. Après avoir longé le sud-ouest de la côte africaine, la flotte commandée par le Portugais Bartolomeu Dias (1450-1500) est emportée vers le sud, dépassant le point le plus méridional du continent [S4]. Ce cap est rebaptisé cap de Bonne-Espérance par le roi du Portugal Jean II (1455-1495), y voyant une nouvelle route vers l'Asie et ses épices [S4]. C'est le 3 février 1488 à Mossel Bay que débarque pour la première fois un équipage européen sur les rives sud-africaines, avant que Vasco de Gama ne franchisse concrètement le cap en 1497 et ne le contourne en 1498 vers le Mozambique puis l'Inde [S4]."
+   "narrative": "L'histoire écrite débute avec l'arrivée des Européens [S4]. Al-Biruni, savant persan du XIe siècle vivant en Inde, avait préfiguré l'existence d'une route permettant de contourner l'Afrique pour rejoindre l'océan Atlantique [S4]. En 1488, la flotte commandée par Bartolomeu Dias dépasse le point le plus méridional du continent et le 3 février 1488 son équipage débarque à Mossel Bay [S4]. Ce cap est rebaptisé cap de Bonne-Espérance par le roi Jean II qui y voit une nouvelle route vers l'Asie et ses épices [S4]. Vasco de Gama franchit concrètement le cap en 1497 et contourne l'Afrique en 1498 vers le Mozambique puis l'Inde [S4]. Les extraits ne reflètent qu'un point de vue colonial centré sur les navigateurs européens [S4]."
   },
   {
    "title": "Fondation du Cap (1652) et développement d'une colonie",
@@ -241,9 +333,30 @@
      "corroborated": false
     },
     {
+     "year": 1657,
+     "label": "1657",
+     "text": "Dix-neuf d'entre eux ne passent pas le premier hiver.En 1657, van Riebeeck recommande que les hommes libérés de leurs obligations vis-à-vis de la compagnie soient autorisés à commercer et à s'installer comme citoyens libres.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1659,
+     "label": "1659",
+     "text": "Les relations dégénèrent et, en février 1659, les Khoïkhoïs, fédérés sous l'autorité du chef Doman, assiègent les Néerlandais, obligés de se retrancher dans le fort de Bonne-Espérance.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
      "year": 1662,
      "label": "1662",
      "text": "Quand van Riebeeck quitte le territoire en 1662, le comptoir commercial du Cap compte 134 salariés de la Compagnie des Indes orientales, 35 colons libres, 15 femmes, 22 enfants et 180 esclaves déportés de Batavia et de Madagascar.",
+     "source": 5,
+     "corroborated": false
+    },
+    {
+     "year": 1679,
+     "label": "1679",
+     "text": "En 1679, Simon van der Stel est nommé commandeur de la ville du Cap.",
      "source": 5,
      "corroborated": false
     },
@@ -274,12 +387,19 @@
      "text": "En 1779, les premières escarmouches ont lieu entre Boers du Zuurveld (en aval de la Fish River) et tribus indigènes xhosas pour la possession de bétail dans les zones frontalières (première guerre cafre).",
      "source": 5,
      "corroborated": true
+    },
+    {
+     "year": 1780,
+     "label": "1780",
+     "text": "En 1780, le gouverneur néerlandais, Joaquim van Plettenberg, fixe alors la frontière est de la colonie du Cap à la rivière Great Fish et au fleuve Gamtoos.",
+     "source": 5,
+     "corroborated": true
     }
    ],
    "start": 1650,
-   "end": 1779,
+   "end": 1780,
    "photos": [],
-   "narrative": "Le territoire est délimité par une haie d'amandes amères dont la trace demeure à Kirstenbosch [S5]. À l'arrivée des Néerlandais, la péninsule est habitée par les Khoïkhoïs et les San, peu nombreux, que les Hollandais nomment Hottentots (bégayeurs) [S5]. Dès la fin du XVIIe siècle, des esclaves venus de Guinée, de Madagascar, d'Angola et de Java pallient la pénurie de main-d'œuvre ; leurs descendants formeront les Malais du Cap [S5]. En 1662, au départ de van Riebeeck, le comptoir compte 134 salariés de la Compagnie des Indes orientales, 35 colons libres, 15 femmes, 22 enfants et 180 esclaves de Batavia et Madagascar [S5]. En 1685, 200 huguenots chassés de France rejoignent 800 colons [S5]. Les extraits ne reflètent qu'un point de vue colonial [S5]."
+   "narrative": "Les extraits fournis reflètent uniquement un point de vue colonial néerlandais [S5]. Lorsque les Néerlandais débarquent, la péninsule du Cap est habitée des Khoïkhoïs et des San, que les Hollandais baptisent du nom de Hottentots [S5]. Le territoire est délimité par une haie d'amandes amères, dont on retrouve la trace dans le jardin botanique de Kirstenbosch [S5]. Pour pallier la pénurie de main-d'œuvre, des esclaves avaient été importés de Guinée, de Madagascar, d'Angola et de Java [S5]. En février 1659, les Khoïkhoïs fédérés sous l'autorité du chef Doman assiègent les Néerlandais retranchés dans le fort de Bonne-Espérance [S5]. Quand van Riebeeck quitte le territoire en 1662, le comptoir compte 134 salariés de la Compagnie, 35 colons libres et 180 esclaves [S5]. En 1685, le groupe de 800 colons est rejoint par 200 huguenots chassés de France [S5]."
   },
   {
    "title": "Annexion britannique de la colonie du Cap (1797)",
@@ -291,6 +411,13 @@
      "year": 1797,
      "label": "1797",
      "text": "Le Royaume-Uni conquiert la région du cap de Bonne-Espérance en 1797 pendant les guerres anglo-néerlandaises.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
+     "year": 1803,
+     "label": "1803",
+     "text": "Après avoir chassé du pouvoir le Stathouder Guillaume V d'Orange-Nassau, qui se réfugie à Londres avec sa famille, les Pays-Bas récupèrent la colonie en 1803 lors de la paix d'Amiens, mais la déclarent en faillite en 1805.",
      "source": 6,
      "corroborated": false
     },
@@ -316,11 +443,32 @@
      "corroborated": false
     },
     {
+     "year": 1812,
+     "label": "1812",
+     "text": "En 1812, les missionnaires obtiennent que les plaintes déposées par les Hottentots contre leurs employeurs soient traitées par les tribunaux et que les audiences soient publiques.",
+     "source": 6,
+     "corroborated": false
+    },
+    {
      "year": 1819,
      "label": "1819",
      "text": "En 1819, après une guerre de frontière, les territoires situés entre les fleuves Great Fish et Keiskamma (en) sont annexés à la colonie du Cap[réf. souhaitée].",
      "source": 6,
      "corroborated": true
+    },
+    {
+     "year": 1820,
+     "label": "1820",
+     "text": "En 1820, près de 5 000 colons britanniques débarquent au sud-est du Cap. et fondent la ville de Port Elizabeth, à la frontière des territoires xhosas.",
+     "source": 6,
+     "corroborated": true
+    },
+    {
+     "year": 1823,
+     "label": "1823",
+     "text": "Cette stratégie échoue et, dès 1823, la moitié des colons s'est retirée dans les villes, notamment Grahamstown et Port Elizabeth.",
+     "source": 6,
+     "corroborated": false
     },
     {
      "year": 1833,
@@ -333,7 +481,7 @@
    "start": 1797,
    "end": 1833,
    "photos": [],
-   "narrative": "Les extraits, issus d'une source unique au point de vue colonial britannique [S6], décrivent l'annexion de la colonie du Cap [S6]. La faillite de la Compagnie néerlandaise des Indes orientales en 1798 et les menées de l'organisation des Patriotes du Cap, aidée par les Français, contribuent à la présence dans la région des Anglais [S6]. Le Royaume-Uni conquiert la région du cap de Bonne-Espérance en 1797 pendant les guerres anglo-néerlandaises [S6]. En 1806, la colonie est de nouveau occupée par le Royaume-Uni à qui elle est officiellement annexée en 1814 après le traité de Paris [S6]. En 1807, la colonie du Cap est rattachée au Colonial Office, représentée localement par un gouverneur [S6]."
+   "narrative": "Le Royaume-Uni conquiert la région du cap de Bonne-Espérance en 1797 pendant les guerres anglo-néerlandaises [S6]. La faillite de la Compagnie néerlandaise des Indes orientales en 1798 et les menées de l'organisation des Patriotes du Cap, aidée par les Français, contribuent à la présence des Anglais dans la région [S6]. Les Pays-Bas récupèrent la colonie en 1803 lors de la paix d'Amiens après avoir chassé le Stathouder Guillaume V d'Orange-Nassau réfugié à Londres, mais la déclarent en faillite en 1805 [S6]. En 1806 la colonie est de nouveau occupée par le Royaume-Uni à qui elle est officiellement annexée en 1814 après le traité de Paris [S6]. En 1807 la colonie du Cap est rattachée au Colonial Office, représentée localement par un gouverneur [S6]. Les extraits fournis reflètent uniquement un point de vue colonial centré sur les puissances européennes [S6]."
   },
   {
    "title": "Période 1810-1840 : Mfecane",
@@ -418,9 +566,41 @@
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town%2C_and_supporting_statement_signed_by_Chief_Cabin_passengers_%28transcript_available%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town,_and_supporting_statement_signed_by_Chief_Cabin_passengers_(transcript_available).jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Castle Eden - Thomas B Haylock to Godley regarding reasons for touching at Cape Town (transcript available)",
+     "year": 1850,
+     "license": "CC BY 2.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_%28transcript_available%29.jpg/960px-Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_%28transcript_available%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_(transcript_available).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Castle Eden - William Bowler to Canterbury Association - comments on Thomas B Haylock's action in diverting Castle Eden to Cape Town",
+     "year": 1850,
+     "license": "CC BY 2.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg/960px-Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Servet van linnendamast met een bloempatroon, BK-1974-47",
+     "year": 1850,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Servet_van_linnendamast_met_een_bloempatroon%2C_BK-1974-47.jpg/960px-Servet_van_linnendamast_met_een_bloempatroon%2C_BK-1974-47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Servet_van_linnendamast_met_een_bloempatroon,_BK-1974-47.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tafellaken, BK-1984-177",
+     "year": 1850,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Tafellaken%2C_BK-1984-177.jpg/960px-Tafellaken%2C_BK-1984-177.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tafellaken,_BK-1984-177.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Au début du XIXe siècle, la carte géopolitique de l'Afrique australe est complètement bouleversée par le Mfecane, soit écrasement, broyage et déplacement massif de populations [S7]. À l'époque des premiers contacts entre Blancs et Noirs, les peuples africains sont en pleine turbulence sociale et politique [S7]. Entre 1816 et 1828, Shaka constitue un vaste empire [S7]. Il succède à Dingiswayo et prend en 1818 la tête de la confédération formant la nation des Ngunis-Amazoulou, « ceux du ciel » [S7]. En 1826, la puissante tribu rivale des Ndwandwe s'effondre sous les coups de boutoir de l'armée de Shaka [S7]. À la mort de sa mère Nandi en 1827, Chaka fait exécuter plus de 7 000 personnes, puis est assassiné en 1828 dans un complot organisé par son demi-frère Dingane [S7]. Les extraits fournis reflètent un seul récit centré sur Shaka [S7]."
+   "narrative": "Au début du XIXe siècle, la carte géopolitique de l'Afrique australe est complètement bouleversée par un ensemble d'évènements complexes désignés sous le terme de Mfecane (écrasement, broyage, déplacement massif de populations) [S7]. Entre 1816 et 1828, Shaka constitue ainsi un vaste empire [S7]. Brillant officier de Dingiswayo, il lui succède à sa mort et prend en 1818 la tête de la confédération formant la nation des Ngunis-Amazoulou, « ceux du ciel » [S7]. En 1826, la puissante tribu rivale des Ndwandwe s'effondre sous les coups de boutoir de l'armée de Shaka [S7]. À la mort de sa mère Nandi en 1827, Shaka fait exécuter plus de 7 000 personnes [S7]. En 1828, Shaka est finalement assassiné, victime d'un complot organisé par son demi-frère Dingane (c.1795-1840) [S7]. Les extraits fournis portent les mentions [source insuffisante] et [réf. souhaitée] et reflètent un point de vue limité [S7]."
   },
   {
    "title": "Le Grand Trek (1835-1840)",
@@ -448,6 +628,27 @@
      "text": "Quand les Britanniques abolissent l'esclavage en 1833, les Boers considèrent que c'est un acte contre la volonté divine de la hiérarchie des races.",
      "source": 8,
      "corroborated": false
+    },
+    {
+     "year": 1835,
+     "label": "1835",
+     "text": "En 1835, entre 68 000 et 105 000 blancs vivaient alors dans la colonie du Cap.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1836,
+     "label": "1836",
+     "text": "En avril 1836, les deux premiers convois, comprenant chacun une trentaine de famille, menés par Louis Trichardt et Janse van Rensburg, franchissent le fleuve Vaal et traversent le haut-veld, poussant vers l'Est.",
+     "source": 8,
+     "corroborated": false
+    },
+    {
+     "year": 1837,
+     "label": "1837",
+     "text": "Digne du Far West américain, cette aventure constitue la genèse du volk afrikaner dont les motivations sont exposées dans un manifeste rédigé le 22 janvier 1837 par le voortrekker Piet Retief.",
+     "source": 8,
+     "corroborated": true
     },
     {
      "year": 1839,
@@ -505,9 +706,41 @@
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town%2C_and_supporting_statement_signed_by_Chief_Cabin_passengers_%28transcript_available%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town,_and_supporting_statement_signed_by_Chief_Cabin_passengers_(transcript_available).jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Castle Eden - Thomas B Haylock to Godley regarding reasons for touching at Cape Town (transcript available)",
+     "year": 1850,
+     "license": "CC BY 2.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_%28transcript_available%29.jpg/960px-Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_%28transcript_available%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_(transcript_available).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Castle Eden - William Bowler to Canterbury Association - comments on Thomas B Haylock's action in diverting Castle Eden to Cape Town",
+     "year": 1850,
+     "license": "CC BY 2.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg/960px-Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Servet van linnendamast met een bloempatroon, BK-1974-47",
+     "year": 1850,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Servet_van_linnendamast_met_een_bloempatroon%2C_BK-1974-47.jpg/960px-Servet_van_linnendamast_met_een_bloempatroon%2C_BK-1974-47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Servet_van_linnendamast_met_een_bloempatroon,_BK-1974-47.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tafellaken, BK-1984-177",
+     "year": 1850,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Tafellaken%2C_BK-1984-177.jpg/960px-Tafellaken%2C_BK-1984-177.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tafellaken,_BK-1984-177.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Selon les extraits fournis, qui reflètent uniquement un point de vue colonial centré sur les Boers et les Britanniques [S8], l'abolition de l'esclavage par les Britanniques en 1833 est perçue par les Boers comme contraire à la volonté divine de la hiérarchie des races [S8]. Pour apaiser les esprits, le gouverneur Benjamin D'Urban instaure un conseil législatif de douze membres permettant aux administrés du Cap de débattre des affaires publiques [S8]. Les extraits évoquent aussi la proclamation de la république des Voortrekkers à Potchefstroom après avoir repoussé les Sothos de Moshoeshoe, puis leur descente vers le Natal [S8]."
+   "narrative": "En 1833, quand les Britanniques abolissent l'esclavage, les Boers y voient un acte contre la volonté divine de la hiérarchie des races [S8]. Pour apaiser les esprits, le gouverneur Benjamin D'Urban instaure un conseil législatif de douze membres au Cap [S8]. Entre 68 000 et 105 000 blancs vivent alors dans la colonie en 1835 [S8]. En avril 1836, les convois de Louis Trichardt et Janse van Rensburg, d'une trentaine de familles chacun, franchissent le Vaal vers l'Est [S8]. Cette aventure, genèse du volk afrikaner, est exposée dans le manifeste de Piet Retief du 22 janvier 1837 [S8]. Les extraits reflètent uniquement un point de vue colonial centré sur les Boers et les Britanniques [S8]."
   },
   {
    "title": "Cafrerie britannique (1835-1866)",
@@ -547,6 +780,27 @@
      "year": 1846,
      "label": "1846",
      "text": "En mars 1846, une nouvelle guerre Cafre est déclenchée sur la frontière orientale et se conclut par la défaite des guerriers Xhosas.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1850,
+     "label": "1850",
+     "text": "Le 24 décembre 1850, les Xhosas se soulèvent de nouveau.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1853,
+     "label": "1853",
+     "text": "Le conflit débouche finalement sur une nouvelle défaite Xhosa en 1853.",
+     "source": 9,
+     "corroborated": false
+    },
+    {
+     "year": 1856,
+     "label": "1856",
+     "text": "En 1856, une jeune fille xhosa nommée Nongqawuse annonce avoir eu une vision, la puissance des Xhosas serait restaurée, le bétail multiplié et les Blancs chassés à la condition que, pour la pleine Lune, tout le bétail soit abattu, les récoltes brûlées et les réserves alimentaires détruites.",
      "source": 9,
      "corroborated": false
     },
@@ -592,9 +846,41 @@
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Castle_Eden_-_Report_from_ship%27s_Surgeon_Thomas_B_Haylock_to_Canterbury_Association_regarding_ship_putting_in_to_Cape_Town.jpg/960px-Castle_Eden_-_Report_from_ship%27s_Surgeon_Thomas_B_Haylock_to_Canterbury_Association_regarding_ship_putting_in_to_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_Report_from_ship%27s_Surgeon_Thomas_B_Haylock_to_Canterbury_Association_regarding_ship_putting_in_to_Cape_Town.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Castle Eden - Thomas B Haylock to Godley regarding reasons for touching at Cape Town, and supporting statement signed by Chief Cabin passengers (transcript available)",
+     "year": 1850,
+     "license": "CC BY 2.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town%2C_and_supporting_statement_signed_by_Chief_Cabin_passengers_%28transcript_available%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town,_and_supporting_statement_signed_by_Chief_Cabin_passengers_(transcript_available).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Castle Eden - Thomas B Haylock to Godley regarding reasons for touching at Cape Town (transcript available)",
+     "year": 1850,
+     "license": "CC BY 2.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_%28transcript_available%29.jpg/960px-Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_%28transcript_available%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_Thomas_B_Haylock_to_Godley_regarding_reasons_for_touching_at_Cape_Town_(transcript_available).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Castle Eden - William Bowler to Canterbury Association - comments on Thomas B Haylock's action in diverting Castle Eden to Cape Town",
+     "year": 1850,
+     "license": "CC BY 2.0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg/960px-Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Castle_Eden_-_William_Bowler_to_Canterbury_Association_-_comments_on_Thomas_B_Haylock%27s_action_in_diverting_Castle_Eden_to_Cape_Town.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Zonnebloem College - Xhosa graduates - Cape Town Cape Colony 1860",
+     "year": 1860,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Zonnebloem_College_-_Xhosa_graduates_-_Cape_Town_Cape_Colony_1860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Zonnebloem_College_-_Xhosa_graduates_-_Cape_Town_Cape_Colony_1860.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Sur la frontière orientale de la colonie du Cap, un chef de haut rang Xhosa est tué en 1834 lors d'un raid des commandos boers [S9]. Le 10 mai 1835, la région entre la Keiskamma et la Kei est annexée à la colonie du Cap comme province de la Reine Adélaïde, en hommage à l'épouse de Guillaume IV [S9]. En 1836, le secrétaire d'État aux colonies exige sa restitution aux indigènes et les troupes se replient près de la Keiskamma [S9]. En mars 1846 une nouvelle guerre se conclut par la défaite des Xhosas [S9]. En 1866 la Cafrerie britannique est incorporée à la colonie du Cap en districts de King William's Town et East London [S9]. Ces extraits reflètent uniquement un point de vue colonial [S9]."
+   "narrative": "En 1834, un chef Xhosa de haut rang est tué lors d'un raid des commandos boers [S9]. Le 10 mai 1835, la région entre la Keiskamma et la Kei est annexée à la colonie du Cap comme province de la Reine Adélaïde [S9]. En 1836, le secrétaire d'État aux colonies exige sa restitution aux indigènes et les troupes se retirent près de la Keiskamma [S9]. Une guerre déclenchée en mars 1846 se conclut par la défaite des Xhosas, puis un soulèvement du 24 décembre 1850 débouche sur une nouvelle défaite en 1853 [S9]. En 1856, Nongqawuse annonce une vision promettant la restauration de la puissance Xhosa contre l'abattage du bétail et la destruction des récoltes [S9]. En 1866, le territoire est incorporé à la colonie du Cap [S9]. Ces extraits reflètent un point de vue colonial [S9]."
   },
   {
    "title": "Développement des républiques boers et des colonies britanniques (1839-1902)",
@@ -638,16 +924,60 @@
      "corroborated": false
     },
     {
+     "year": 1886,
+     "label": "1886",
+     "text": "L'irruption d'un système industriel dans une société rurale, autarcique et conservatrice telle que celle du Transvaal a des répercussions considérables, déplaçant le centre de gravité économique de l'ensemble régional sud-africain vers Johannesbourg, ville nouvelle et cosmopolite au cœur du Witwatersrand, fondée en 1886 à une cinquante de kilomètres de Pretoria, la capitale du Transvaal.",
+     "source": 10,
+     "corroborated": true
+    },
+    {
+     "year": 1889,
+     "label": "1889",
+     "text": "En 1889, joignant ses ambitions politiques et ses intérêts privés, Rhodes crée la British South Africa Company (BSAC), qui obtient du gouvernement britannique une « charte royale » pour occuper le Matabeleland, le royaume du roi Lobengula, successeur de Mzilikazi, situé au nord du Transvaal.",
+     "source": 10,
+     "corroborated": true
+    },
+    {
+     "year": 1890,
+     "label": "1890",
+     "text": "Au milieu des années 1890, les tensions montent de nouveau entre le gouvernement colonial du Cap et le Transvaal, à propos notamment du montant des taxes ferroviaires et des tarifs douaniers appliqués par la république.",
+     "source": 10,
+     "corroborated": false
+    },
+    {
      "year": 1900,
      "label": "1900",
      "text": "En dépit des victoires remportées lors des premiers combats, du siège de Mafeking, de celui de Kimberley et du siège de Ladysmith, les Boers ne peuvent résister bien longtemps et les capitales des deux républiques sont occupées dès l'été 1900 par une armée britannique suréquipée et renforcée par les contingents envoyés des quatre coins de l'Empire, dont l'Australie et le Canada.",
      "source": 10,
      "corroborated": true
+    },
+    {
+     "year": 1902,
+     "label": "1902",
+     "text": "Leur commandement se résigne alors à négocier un traité de paix qui est signé à Pretoria, le 31 mai 1902, le traité de Vereeniging.",
+     "source": 10,
+     "corroborated": false
     }
    ],
    "start": 1840,
-   "end": 1900,
+   "end": 1902,
    "photos": [
+    {
+     "title": "Adderley Street, Cape Town, South Africa, 22 June 1897 H0061-L351324055",
+     "year": 1897,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/180659ac01e0.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Adderley_Street,_Cape_Town,_South_Africa,_22_June_1897_H0061-L351324055.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "1898 General Post Office and Standard Bank of South Africa, Adderley Street",
+     "year": 1898,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/6c94d1fac4cf.png",
+     "page_url": "https://commons.wikimedia.org/wiki/File:1898_General_Post_Office_and_Standard_Bank_of_South_Africa,_Adderley_Street.png",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "2 Cape Towns Second Train Station - viewed from Adderley Street - Cape Archives 1900",
      "year": 1900,
@@ -679,9 +1009,25 @@
      "image": "/media/places/cape-town-adderley/archive/8b53f3be2cf7.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Regiment_South_African_Light_Horse_in_Adderley_Street_in_Kaapstad_South_African_Light_Horse,_coming_down_Adderly_St._to_entrain_for_the_front,_Cape_Town_(titel_op_object),_RP-F-F09071.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cape Town QE4 138",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/e6ceeddd2748.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cape_Town_QE4_138.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "A Cape Garden - Claremont, Cape Town 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/cape-town-adderley/archive/37bcadcb3776.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:A_Cape_Garden_-_Claremont,_Cape_Town_1900.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Après l'annexion du Natal par les Britanniques au début des années 1840, l'épopée boer culmine en 1852-1854 avec la création de la Zuid Afrikaansche Republiek au Transvaal et de l'Oranje Frystaat, reconnues par le Traité de Sand River, républiques économiquement arriérées comptant 25 000 habitants au Transvaal et la moitié dans l'État libre [S10]. En mars 1854 la colonie du Cap se dote d'une constitution prévoyant deux assemblées élues au suffrage censitaire [S10]. La tentative de fusion des deux républiques par le président Marthinus Wessel Pretorius au début des années 1860 échoue [S10]. Prétextant l'incapacité à réduire la rébellion Pedi, les Britanniques annexent le Transvaal en 1877 [S10]. En 1884 John Tengo Jabavu fonde à King William's Town Imvo Zabantsundu, premier journal bantou indépendant d'une mission religieuse [S10]. Les capitales boers sont occupées dès l'été 1900 par une armée britannique renforcée par l'Australie et le Canada après les sièges de Mafeking, Kimberley et Ladysmith [S10]."
+   "narrative": "Après l'annexion du Natal par les Britanniques au début des années 1840, deux républiques indépendantes sont créées en 1852-1854, la Zuid Afrikaansche Republiek au Transvaal et l'Oranje Frystaat, reconnues par le traité de Sand River [S10]. En mars 1854, la colonie du Cap se dote d'une constitution prévoyant deux assemblées élues au suffrage censitaire [S10]. Les Britanniques annexent le Transvaal en 1877 en prétextant l'incapacité à réduire la rébellion Pedi [S10]. Fondée en 1886 près de Pretoria, Johannesbourg déplace le centre économique vers le Witwatersrand [S10]. Après les sièges de Mafeking, Kimberley et Ladysmith, les capitales boers sont occupées à l'été 1900 par l'armée britannique renforcée par l'Empire [S10], jusqu'au traité de Vereeniging signé à Pretoria le 31 mai 1902 [S10]. Ces extraits reflètent un point de vue centré sur les pouvoirs boers et britanniques [S10]."
   },
   {
    "title": "Ascension des Afrikaners (1903-1948)",
@@ -718,6 +1064,20 @@
      "corroborated": false
     },
     {
+     "year": 1948,
+     "label": "1948",
+     "text": "Après 1948, l'apartheid, ou développement séparé des races, vient rompre avec le pragmatisme de la Colour Bar et avec la discrimination conjoncturelle héritée de l'ère coloniale.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
+     "year": 1951,
+     "label": "1951",
+     "text": "De 1951 à 1956, le gouvernement Malan mène une véritable bataille constitutionnelle pour radier les Coloured des listes électorales communes et instituer des collèges électoraux séparés.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
      "year": 1961,
      "label": "1961",
      "text": "La « proclamation de la République d'Afrique du Sud » (RSA), le 31 mai 1961, accompagnée de la rupture des derniers liens avec le Royaume-Uni (retrait du Commonwealth) et la création effective du premier bantoustan noir, le Transkei, marquent l'apogée de l'apartheid.",
@@ -730,45 +1090,91 @@
      "text": "Aux élections du 30 mars 1966, le parti national remporte 58 % des suffrages, alors qu'à ses frontières, la « colonie » de Rhodésie du Sud de Ian Smith a déclaré unilatéralement son indépendance du Royaume-Uni pour maintenir le principe de la domination blanche sur son territoire.",
      "source": 11,
      "corroborated": false
+    },
+    {
+     "year": 1975,
+     "label": "1975",
+     "text": "Les pourparlers constitutionnels de la Conférence de la Turnhalle s'étalent de septembre 1975 à octobre 1977 et débouchent sur les premières élections multiraciales su Sud-Ouest Africain (boycottées par la SWAPO) en décembre 1978.",
+     "source": 11,
+     "corroborated": false
+    },
+    {
+     "year": 1983,
+     "label": "1983",
+     "text": "En août 1983, les divers mouvements opposés à l'apartheid s'allient au sein du front démocratique uni (United Democratic Front - UDF) pour coordonner la résistance au régime.",
+     "source": 11,
+     "corroborated": true
     }
    ],
    "start": 1910,
-   "end": 1966,
+   "end": 1983,
    "photos": [
     {
-     "title": "Cape Town in 1930s",
-     "year": 1930,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cape_Town_in_1930s.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Cape_Town_in_1930s.JPG",
+     "title": "The bonds of Africa; impressions of travel and sport from Cape Town to Cairo, 1902-1912 (1913) (19771562233)",
+     "year": 1913,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2819771562233%29.jpg/960px-The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2819771562233%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_bonds_of_Africa;_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo,_1902-1912_(1913)_(19771562233).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Silos on the waterfront, Cape Town",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Silos_on_the_waterfront%2C_Cape_Town.jpg/960px-Silos_on_the_waterfront%2C_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Silos_on_the_waterfront,_Cape_Town.jpg",
+     "title": "The bonds of Africa; impressions of travel and sport from Cape Town to Cairo, 1902-1912 (1913) (20204363940)",
+     "year": 1913,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820204363940%29.jpg/960px-The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820204363940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_bonds_of_Africa;_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo,_1902-1912_(1913)_(20204363940).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Views of Adderley Street, Cape Town",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Views_of_Adderley_Street%2C_Cape_Town.jpg/960px-Views_of_Adderley_Street%2C_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Views_of_Adderley_Street,_Cape_Town.jpg",
+     "title": "The bonds of Africa; impressions of travel and sport from Cape Town to Cairo, 1902-1912 (1913) (20204425458)",
+     "year": 1913,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820204425458%29.jpg/960px-The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820204425458%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_bonds_of_Africa;_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo,_1902-1912_(1913)_(20204425458).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Views of Adderley Street, Cape Town 2",
-     "year": 1920,
-     "license": "Public domain",
-     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Views_of_Adderley_Street%2C_Cape_Town_2.jpg/960px-Views_of_Adderley_Street%2C_Cape_Town_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Views_of_Adderley_Street,_Cape_Town_2.jpg",
+     "title": "The bonds of Africa; impressions of travel and sport from Cape Town to Cairo, 1902-1912 (1913) (20205847369)",
+     "year": 1913,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820205847369%29.jpg/960px-The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820205847369%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_bonds_of_Africa;_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo,_1902-1912_(1913)_(20205847369).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The bonds of Africa; impressions of travel and sport from Cape Town to Cairo, 1902-1912 (1913) (20366163166)",
+     "year": 1913,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820366163166%29.jpg/960px-The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820366163166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_bonds_of_Africa;_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo,_1902-1912_(1913)_(20366163166).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The bonds of Africa; impressions of travel and sport from Cape Town to Cairo, 1902-1912 (1913) (20366171226)",
+     "year": 1913,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820366171226%29.jpg/960px-The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820366171226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_bonds_of_Africa;_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo,_1902-1912_(1913)_(20366171226).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The bonds of Africa; impressions of travel and sport from Cape Town to Cairo, 1902-1912 (1913) (20366221076)",
+     "year": 1913,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820366221076%29.jpg/960px-The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820366221076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_bonds_of_Africa;_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo,_1902-1912_(1913)_(20366221076).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The bonds of Africa; impressions of travel and sport from Cape Town to Cairo, 1902-1912 (1913) (20383904152)",
+     "year": 1913,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820383904152%29.jpg/960px-The_bonds_of_Africa%3B_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo%2C_1902-1912_%281913%29_%2820383904152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_bonds_of_Africa;_impressions_of_travel_and_sport_from_Cape_Town_to_Cairo,_1902-1912_(1913)_(20383904152).jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "En 1904, l'Afrique du Sud compte environ quatre millions et demi d'habitants dont un million d'origine européenne, plus de deux tiers étant afrikaners [S11]. Les Blancs s'organisent en partis ethno-linguistiques comme Het Volk, Orangia Unie et Afrikaner Bond, tandis que les populations de couleur commencent aussi à s'organiser sur des bases ethniques [S11]. La constitution de 1910 maintient un système électoral ségrégationniste favorable aux Afrikaners du Transvaal et de l'Orange, alors qu'au Cap les coloured et les Noirs représentent 15 % du corps électoral sous conditions censitaires [S11]. En 1915 le dominion conquiert le Sud-Ouest Africain allemand [S11]. En 1939 la coalition gouvernementale se brise sur l'entrée en guerre aux côtés du Royaume-Uni [S11]. Ces extraits reflètent principalement une perspective centrée sur les populations d'origine européenne [S11]."
+   "narrative": "Sur environ quatre millions et demi d'habitants en 1904, un million est d'origine européenne dont plus de deux tiers sont afrikaners [S11]. Les Blancs s'organisent en partis ethno-linguistiques comme Het Volk, Orangia Unie et Afrikaner Bond, tandis que les populations de couleur s'organisent aussi sur des bases ethniques [S11]. La constitution de 1910 maintient un système électoral ségrégationniste favorable aux Afrikaners du Transvaal et de l'Orange, alors qu'au Cap les Coloured et les Noirs représentent 15 % du corps électoral sous conditions censitaires [S11]. En 1915 le dominion conquiert le Sud-Ouest Africain allemand et en 1939 la coalition gouvernementale éclate sur l'entrée en guerre aux côtés du Royaume-Uni [S11]. Ces extraits reflètent un point de vue centré sur l'histoire politique blanche [S11]."
   },
   {
    "title": "Depuis 1994 : l'Afrique du Sud post-apartheid",
@@ -784,6 +1190,27 @@
      "corroborated": true
     },
     {
+     "year": 1963,
+     "label": "1963",
+     "text": "(en) Noni Jabavu, The Ochre People, 1963 — de la vie des Xhosa en zone rurale pendant les années de l'apartheid.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 1987,
+     "label": "1987",
+     "text": "Pierre Haski, L'Afrique blanche : histoire et enjeux de l'apartheid, Le Seuil, 1987.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 1994,
+     "label": "1994",
+     "text": "Le 9 mai 1994, les quatre cents nouveaux députés élisent Nelson Mandela à la présidence de la République d'Afrique du Sud.",
+     "source": 12,
+     "corroborated": true
+    },
+    {
      "year": 1996,
      "label": "1996",
      "text": "Si son traitement de ses partenaires de la coalition révèle son aversion de l'opposition parlementaire libérale, la marginalisation de F.W. de Klerk, son second vice-président au sein du gouvernement d'unité nationale jusqu'en 1996, résulte de son hostilité personnelle envers l'ancien président.",
@@ -794,6 +1221,13 @@
      "year": 2007,
      "label": "2007",
      "text": "Lors de la conférence élective du président de l'ANC, qui se tient du 15 au 20 décembre 2007 à Polokwane, Jacob Zuma reçoit néanmoins le soutien de près des trois quarts des 3 900 délégués face à Thabo Mbeki.",
+     "source": 12,
+     "corroborated": false
+    },
+    {
+     "year": 2008,
+     "label": "2008",
+     "text": "Mis en cause indirectement pour des « interférences » politiques dans des affaires judiciaires impliquant son ancien vice-président, Thabo Mbeki est contraint de démissionner de la présidence sud-africaine le 21 septembre 2008 après avoir été désavoué par son parti.",
      "source": 12,
      "corroborated": false
     },
@@ -822,7 +1256,7 @@
    "start": 1960,
    "end": 2018,
    "photos": [],
-   "narrative": "Les premières élections générales non raciales au suffrage universel d'Afrique du Sud ont lieu du 26 au 28 avril 1994 pour 23 millions d'électeurs devant désigner le parlement et les neuf conseils provinciaux après réintégration des anciens bantoustans [S12]. Les opérations principales de vote se déroulent le 27 avril, le 26 étant réservé aux malades, âgés, handicapés et aux personnels de police et armée [S12]. Une commission est chargée de solder les années d'apartheid en recensant les crimes politiques commis entre le 1er mars 1960 et le 10 mai 1994 pour le gouvernement comme pour les mouvements anti-apartheid [S12]. Jacob Zuma, soutenu par près de trois quarts des 3900 délégués à Polokwane en décembre 2007 face à Thabo Mbeki et réélu en 2014 avec Cyril Ramaphosa comme vice-président, démissionne le 14 février 2018 [S12]."
+   "narrative": "Les premières élections générales non raciales au suffrage universel ont lieu du 26 au 28 avril 1994 pour 23 millions d'électeurs qui doivent désigner les membres du parlement et des neuf conseils provinciaux, les anciens bantoustans ayant été réintégrés [S12]. Les principales opérations de vote ont lieu le 27 avril, la première journée ayant été réservée aux personnes malades ou âgées, aux handicapés et aux personnels de la police et de l'armée [S12]. Le 9 mai 1994, les quatre cents nouveaux députés élisent Nelson Mandela à la présidence de la République d'Afrique du Sud [S12]. La Commission est chargée de solder les années d'apartheid en recensant tous les crimes et délits politiques commis non seulement pour le compte du gouvernement sud-africain mais aussi pour le compte des différents mouvements anti-apartheid sur la période du 1er mars 1960 au 10 mai 1994 [S12]."
   }
  ],
  "sources": [
@@ -938,11 +1372,6 @@
    "text": "Avant 300, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
   },
   {
-   "from": 1498,
-   "to": 1650,
-   "text": "Entre 1498 et 1650, les sources consultées ne donnent aucune date précise."
-  },
-  {
    "from": null,
    "to": null,
    "text": "Chapitres peu datés : Préhistoire."
@@ -950,9 +1379,9 @@
  ],
  "stats": {
   "chapters": 12,
-  "events": 62,
-  "corroborated": 10,
-  "share": 0.16,
+  "events": 92,
+  "corroborated": 17,
+  "share": 0.18,
   "span": [
    "300",
    "2018"
@@ -961,5 +1390,5 @@
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "b00d3f16af"
+ "run": "1d7ab77def"
 }

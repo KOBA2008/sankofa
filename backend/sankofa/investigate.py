@@ -35,7 +35,12 @@ def relevance(doc: dict, place: dict, target_year: int) -> float:
     if any(x in text for x in place.get("exclude", [])):
         return 0.0
     # gravures, peintures et intérieurs ne montrent pas le lieu tel qu'il était
-    if re.search(r"peinture|painting|lithograph|gravure|engraving|dîner|interior|intérieur|aquarelle", text):
+    if re.search(r"peinture|painting|lithograph|gravure|engraving|dîner|interior|intérieur|aquarelle|drawing|dessin|"
+                 r"sketch|watercolou?r|tableau|längsschnitt|laengsschnitt|schnitt|lumpenball|schwender|"
+                 r"musée des beaux|\bppp\d|livingstone|toverlantaarn|"
+                 # peintres repérés parmi les résultats
+                 r"maximilien luce|aivazovsky|duvieux|félix ziem|cammarano|raffaëlli|ernest lawson|colin campbell cooper|"
+                 r"pennell|romilly fedden", text):
         return 0.0
     score = min(hits, 3) * 2.0
     year = doc.get("year")
@@ -79,11 +84,14 @@ def collect(place: dict, target_year: int | None = None, log=lambda *_: None) ->
     target_year = target_year or place["era"]
     seen, keys, archives, currents = set(), set(), [], []
     def batches():
-        for q in place["archive_queries"] + place["current_queries"]:
+        # recherches par décennie, avec le nom le plus caractéristique du lieu
+        by_decade = [f"{place['keywords'][0]} {d}" for d in (1880, 1900, 1920, 1940)]
+        for q in place["archive_queries"] + by_decade + place["current_queries"]:
             log(f"Wikimedia Commons : « {q} »")
             yield wikimedia.search(q)
-        log(f"Wikimedia Commons : images géolocalisées à moins de {place.get('radius', 350)} m")
-        yield wikimedia.geosearch(place["lat"], place["lon"], place.get("radius", 350))
+        radius = int(place.get("radius", 350) * 1.5)
+        log(f"Wikimedia Commons : images géolocalisées à moins de {radius} m")
+        yield wikimedia.geosearch(place["lat"], place["lon"], radius, limit=120)
         for q in place.get("europeana_queries", place["archive_queries"][:2]):
             log(f"Europeana : « {q} »")
             yield europeana.search(q)
@@ -110,7 +118,7 @@ def collect(place: dict, target_year: int | None = None, log=lambda *_: None) ->
     return {"archives": archives, "currents": currents}
 
 
-def build_corpus(place: dict, n_archives: int = 16, n_currents: int = 10, log=print) -> dict:
+def build_corpus(place: dict, n_archives: int = 30, n_currents: int = 12, log=print) -> dict:
     """Télécharge le corpus d'un lieu dans data/places/<id>/ et écrit manifest.json."""
     root = PLACES_DIR / place["id"]
     (root / "archive").mkdir(parents=True, exist_ok=True)

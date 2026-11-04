@@ -41,11 +41,59 @@
    "end": 1947,
    "photos": [
     {
+     "title": "The Taj at Agra (Photo 430-21-54)",
+     "year": 1895,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/eb890109b50f.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_at_Agra_(Photo_430-21-54).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "Agra, Taj Mahal LCCN95505064",
      "year": 1890,
      "license": "Public domain",
      "image": "/media/places/agra-taj-mahal/archive/8f98f717d270.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Agra,_Taj_Mahal_LCCN95505064.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Taj Mahal, Agra, India, ca. 1900",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/168dd06b75a9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India,_ca._1900.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Taj Mahal (c. 1890s)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/62478b0b8766.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(c._1890s).JPG",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj Mahal 1 (c. 1890)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/3c8bc4c2c9a1.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_Mahal_1_(c._1890).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj Mahal 2 (c. 1890)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/0c3017e095f2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_Mahal_2_(c._1890).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Foggy view of Taj Mahal from Agra Fort",
+     "year": 1899,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/agra-taj-mahal/archive/7b9446305de7.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Foggy_view_of_Taj_Mahal_from_Agra_Fort.jpg",
      "source": "Wikimedia Commons"
     },
     {
@@ -55,25 +103,9 @@
      "image": "/media/places/agra-taj-mahal/archive/b298577f39a4.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_(Rear_View),_Agra.jpg",
      "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Taj Mahal in 1874",
-     "year": 1874,
-     "license": "Public domain",
-     "image": "/media/places/agra-taj-mahal/archive/13bdefe502e9.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_1874.JPG",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Toegangspoort tot de Taj Mahal, Darwaza-i rauza, RP-F-F80407",
-     "year": 1864,
-     "license": "CC0",
-     "image": "/media/places/agra-taj-mahal/archive/8d84695b2f2c.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Toegangspoort_tot_de_Taj_Mahal,_Darwaza-i_rauza,_RP-F-F80407.jpg",
-     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'histoire de l'Inde est particulièrement riche et peut se diviser en trois grandes ères : des origines à l'Empire moghol, dynasties musulmanes venues de Perse et d'Afghanistan dominant jusqu'au milieu du XVIIIe siècle, puis la période coloniale européenne [S1]. L'Empire britannique des Indes comprend alors le Bangladesh et le Pakistan contemporains [S1]. Depuis l'indépendance de l'Inde en 1947, son histoire est dominée par des conflits répétés avec le Pakistan, notamment les trois guerres de 1947-1948, 1965 et 1971 [S1]. Elle est également marquée par la domination intérieure du Parti du Congrès, ancien parti de Nehru et Gandhi, et par des tensions religieuses récurrentes entre hindous et musulmans, comme les émeutes de 1992 et 2002 [S1]."
+   "narrative": "L'histoire de l'Inde peut se diviser en trois grandes ères, des origines à l'Empire moghol, dynasties musulmanes venues de Perse et d'Afghanistan dominant jusqu'au milieu du XVIIIe siècle, puis la période coloniale européenne dont l'Empire britannique des Indes comprend alors le Bangladesh et le Pakistan contemporains, et enfin la période depuis l'indépendance de l'Inde en 1947 [S1]. Depuis 1947, l'histoire est dominée par des conflits répétés avec le Pakistan, avec les trois guerres indo-pakistanaises de 1947-1948, 1965 et 1971, par la domination intérieure du Parti du Congrès, ancien parti de Nehru et Gandhi, et par des tensions religieuses récurrentes entre hindous et musulmans avec les émeutes de 1992 et de 2002 [S1]."
   },
   {
    "title": "Préhistoire",
@@ -81,6 +113,13 @@
    "source": 2,
    "summary": "Les premières colonies d'humains modernes en Inde sont estimées à des dates entre 60 et 70 000 ans. Les plus anciennes traces humaines trouvées en Asie du Sud remontent à environ 30 000 ans.",
    "events": [
+    {
+     "year": -1550,
+     "label": "XVIe s. av. J.-C.",
+     "text": "L'Inde connaît une civilisation continue depuis le XVIe siècle av. J.-C., depuis que les habitants de la vallée de l'Indus ont développé une culture urbaine fondée sur l'agriculture et le commerce par mer et peut-être par terre avec la Mésopotamie.",
+     "source": 2,
+     "corroborated": false
+    },
     {
      "year": -250,
      "label": "IIIe s. av. J.-C.",
@@ -110,6 +149,13 @@
      "corroborated": true
     },
     {
+     "year": 1707,
+     "label": "1707",
+     "text": "Après l'éclatement de l'empire moghol, en 1707, qui se fragmente sous les invasions musulmanes (Iraniens et Afghans) et hindoues (Marathes), on assiste, pendant les XVIIIe et XIXe siècles, à une période d'expansion économique et de renouveau du soufisme ainsi que de la pensée politique et juridique.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
      "year": 1782,
      "label": "1782",
      "text": "Les Britanniques rencontrent encore une forte résistance de Haidar Alî, sultan de Mysore, jusqu'en 1782, de l'Empire marathe jusqu'en 1819, de l'Empire sikh du Penjab jusqu'en 1849.",
@@ -117,16 +163,46 @@
      "corroborated": false
     },
     {
+     "year": 1947,
+     "label": "1947",
+     "text": "Du 14 au 15 août 1947, l'Empire britannique des Indes est divisé en deux dominions indépendants : l'Union indienne et le Pakistan.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
      "year": 1950,
      "label": "1950",
      "text": "La Constitution, composée de 395 articles, entre en vigueur le 26 janvier 1950 et Rajendra Prasad est élu premier Président de l'Inde.",
      "source": 2,
      "corroborated": false
+    },
+    {
+     "year": 1971,
+     "label": "1971",
+     "text": "Après une nouvelle guerre indo-pakistanaise, durant laquelle l'Inde soutient avec succès l'indépendance du Bangladesh, Indira Gandhi est massivement réélue lors des élections de 1971.",
+     "source": 2,
+     "corroborated": false
     }
    ],
-   "start": -250,
-   "end": 1950,
+   "start": -1550,
+   "end": 1971,
    "photos": [
+    {
+     "title": "Foggy view of Taj Mahal from Agra Fort",
+     "year": 1899,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/agra-taj-mahal/archive/7b9446305de7.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Foggy_view_of_Taj_Mahal_from_Agra_Fort.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj at Agra (Photo 430-21-54)",
+     "year": 1895,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/eb890109b50f.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_at_Agra_(Photo_430-21-54).jpg",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "Agra, Taj Mahal LCCN95505064",
      "year": 1890,
@@ -136,31 +212,47 @@
      "source": "Wikimedia Commons"
     },
     {
+     "title": "Taj Mahal, Agra, India, ca. 1900",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/168dd06b75a9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India,_ca._1900.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Taj Mahal (c. 1890s)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/62478b0b8766.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(c._1890s).JPG",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj Mahal 1 (c. 1890)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/3c8bc4c2c9a1.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_Mahal_1_(c._1890).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj Mahal 2 (c. 1890)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/0c3017e095f2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_Mahal_2_(c._1890).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "The Taj (Rear View), Agra",
      "year": 1885,
      "license": "CC0",
      "image": "/media/places/agra-taj-mahal/archive/b298577f39a4.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_(Rear_View),_Agra.jpg",
      "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Taj Mahal in 1874",
-     "year": 1874,
-     "license": "Public domain",
-     "image": "/media/places/agra-taj-mahal/archive/13bdefe502e9.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_1874.JPG",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Toegangspoort tot de Taj Mahal, Darwaza-i rauza, RP-F-F80407",
-     "year": 1864,
-     "license": "CC0",
-     "image": "/media/places/agra-taj-mahal/archive/8d84695b2f2c.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Toegangspoort_tot_de_Taj_Mahal,_Darwaza-i_rauza,_RP-F-F80407.jpg",
-     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Les premières colonies d'humains modernes en Inde sont estimées entre 60 et 70 000 ans, les plus anciennes traces en Asie du Sud remontant à environ 30 000 ans [S2]. Au IIIe siècle av. J.-C., le royaume de Magadha annexe ou réduit d'autres États [S2]. Du XIe au XVe siècle, l'Inde du Nord est dominée par les sultans turco-afghans du sultanat de Delhi et le Sud par les Chola et Vijayanagar [S2]. En 1526, Babur descendant de Tamerlan défait Ibrahim Lodi à Pânipat [S2]. Les Britanniques rencontrent la résistance de Haidar Alî jusqu'en 1782, des Marathes jusqu'en 1819 et des Sikhs jusqu'en 1849 [S2]. La Constitution de 395 articles entre en vigueur le 26 janvier 1950 et Rajendra Prasad est élu premier Président [S2]."
+   "narrative": "Les premières colonies d'humains modernes en Inde sont estimées entre 60 et 70 000 ans, tandis que les plus anciennes traces humaines trouvées en Asie du Sud remontent à environ 30 000 ans [S2]. L'Inde connaît une civilisation continue depuis le XVIe siècle av. J.-C. avec une culture urbaine de la vallée de l'Indus fondée sur l'agriculture et le commerce par mer et peut-être par terre avec la Mésopotamie [S2]. Politiquement, au IIIe siècle av. J.-C., le royaume de Magadha annexe ou réduit d'autres États pour émerger comme entité principale [S2]. Du 14 au 15 août 1947, l'Empire britannique des Indes est divisé en deux dominions indépendants : l'Union indienne et le Pakistan [S2]."
   },
   {
    "title": "Relations internationales depuis 1947",
@@ -201,6 +293,14 @@
    "end": 2002,
    "photos": [
     {
+     "title": "Jawaharlal Nehru signing the Constitution of India, New Delhi, 24 January 1950",
+     "year": 1955,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Jawaharlal_Nehru_signing_the_Constitution_of_India%2C_New_Delhi%2C_24_January_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Jawaharlal_Nehru_signing_the_Constitution_of_India,_New_Delhi,_24_January_1950.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "1950 India showing Political Divisions in the New Republic by Survey of India",
      "year": 1950,
      "license": "Public domain",
@@ -231,9 +331,33 @@
      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Indian_National_Savings_Card_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page_url": "https://commons.wikimedia.org/wiki/File:Indian_National_Savings_Card_1950.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Pandit Nehru en Dr. Prasad bij proclamatie Republiek India, RP-F-F01604",
+     "year": 1950,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pandit_Nehru_en_Dr._Prasad_bij_proclamatie_Republiek_India%2C_RP-F-F01604.jpg/960px-Pandit_Nehru_en_Dr._Prasad_bij_proclamatie_Republiek_India%2C_RP-F-F01604.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Pandit_Nehru_en_Dr._Prasad_bij_proclamatie_Republiek_India,_RP-F-F01604.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Rajagopalachari declares India as a Republic",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rajagopalachari_declares_India_as_a_Republic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Rajagopalachari_declares_India_as_a_Republic.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tibetan Delegation in India in 1950",
+     "year": 1950,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tibetan_Delegation_in_India_in_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tibetan_Delegation_in_India_in_1950.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "De 1947 à 1949, la première guerre indo-pakistanaise a lieu à propos du Cachemire [S3]. En 1955, la conférence de Bandung voit la création du mouvement des non-alignés, tandis qu'en 1962 l'Inde est défaite lors de la guerre sino-indienne à propos des frontières de l'Himalaya [S3]. En 1965, une deuxième guerre indo-pakistanaise éclate à nouveau à propos du Cachemire [S3]. En décembre 1971, la troisième guerre indo-pakistanaise permet au Pakistan Oriental de devenir le Bangladesh avec l'aide militaire de l'Inde [S3]. Le 18 mai 1974, l'Inde réalise un essai nucléaire au Rajahstan [S3]. En mai 1998, l'Inde et le Pakistan se dotent successivement de l'arme nucléaire à la suite d'essais souterrains [S3]."
+   "narrative": "Entre 1947 et 1949, la première guerre indo-pakistanaise porte sur le Cachemire [S3]. En 1955, la conférence de Bandung voit la création du mouvement des non-alignés [S3]. En 1962, la guerre sino-indienne se solde par la défaite de l'Inde à propos des frontières de l'Himalaya [S3]. En 1965, la deuxième guerre indo-pakistanaise porte à nouveau sur le Cachemire [S3]. En décembre 1971, lors de la troisième guerre indo-pakistanaise, le Pakistan Oriental devient le Bangladesh avec l'aide militaire de l'Inde [S3]. Le 18 mai 1974, l'Inde réalise un essai nucléaire au Rajahstan [S3]. En mai 1998, l'Inde et le Pakistan se dotent successivement de l'arme nucléaire à la suite d'essais nucléaires souterrains [S3]."
   },
   {
    "title": "Historiographie",
@@ -260,11 +384,59 @@
    "end": 1947,
    "photos": [
     {
+     "title": "Foggy view of Taj Mahal from Agra Fort",
+     "year": 1899,
+     "license": "CC BY-SA 4.0",
+     "image": "/media/places/agra-taj-mahal/archive/7b9446305de7.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Foggy_view_of_Taj_Mahal_from_Agra_Fort.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj at Agra (Photo 430-21-54)",
+     "year": 1895,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/eb890109b50f.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_at_Agra_(Photo_430-21-54).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
      "title": "Agra, Taj Mahal LCCN95505064",
      "year": 1890,
      "license": "Public domain",
      "image": "/media/places/agra-taj-mahal/archive/8f98f717d270.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Agra,_Taj_Mahal_LCCN95505064.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Taj Mahal, Agra, India, ca. 1900",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/168dd06b75a9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India,_ca._1900.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Taj Mahal (c. 1890s)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/62478b0b8766.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(c._1890s).JPG",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj Mahal 1 (c. 1890)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/3c8bc4c2c9a1.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_Mahal_1_(c._1890).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Taj Mahal 2 (c. 1890)",
+     "year": 1890,
+     "license": "Public domain",
+     "image": "/media/places/agra-taj-mahal/archive/0c3017e095f2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_Mahal_2_(c._1890).jpg",
      "source": "Wikimedia Commons"
     },
     {
@@ -274,25 +446,9 @@
      "image": "/media/places/agra-taj-mahal/archive/b298577f39a4.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:The_Taj_(Rear_View),_Agra.jpg",
      "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Taj Mahal in 1874",
-     "year": 1874,
-     "license": "Public domain",
-     "image": "/media/places/agra-taj-mahal/archive/13bdefe502e9.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_1874.JPG",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Toegangspoort tot de Taj Mahal, Darwaza-i rauza, RP-F-F80407",
-     "year": 1864,
-     "license": "CC0",
-     "image": "/media/places/agra-taj-mahal/archive/8d84695b2f2c.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Toegangspoort_tot_de_Taj_Mahal,_Darwaza-i_rauza,_RP-F-F80407.jpg",
-     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Dans les études sur l'Inde au cours des dernières décennies, quatre grands courants historiographiques sont distingués : la « Cambridge school », l'historiographie nationaliste, l'historiographie marxiste et les « études subalternes » [S4]. L'approche « orientaliste » jadis commune, qui renvoyait de l'Inde l'image d'un pays entièrement spirituel, ou sensuel et impénétrable, s'est éteinte dans les études académiques [S4]. Elle a présenté la mutinerie de 1857 comme une guerre de libération [S4]. Le « Quit India » de Gandhi commencé en 1942 est présenté comme un événement historique [S4]. Les Subaltern Studies se concentrent sur l'ère coloniale avant 1947 et mettent généralement l'accent sur la caste plutôt que sur la classe sociale, au grand dam de l'école marxiste [S4]."
+   "narrative": "Dans les dernières décennies, quatre courants historiographiques majeurs sont distingués dans les études sur l'Inde : la « Cambridge school », l'historiographie nationaliste, l'historiographie marxiste et les « études subalternes » [S4]. L'approche « orientaliste », qui renvoyait l'image d'une Inde entièrement spirituelle, ou sensuelle et impénétrable, s'est éteinte dans les études académiques [S4]. L'historiographie nationaliste a présenté la mutinerie de 1857 comme une guerre de libération, ainsi que le « Quit India » de Gandhi commencé en 1942, comme des événements historiques [S4]. Les Subaltern Studies se concentrent sur l'ère coloniale avant 1947 et mettent l'accent sur la caste plutôt que sur la classe, au grand dam de l'école marxiste [S4]. Les extraits fournis ne reflètent pas uniquement un point de vue colonial mais présentent plusieurs courants historiographiques [S4]."
   }
  ],
  "sources": [
@@ -337,25 +493,19 @@
    "source": "Wikipedia"
   }
  ],
- "gaps": [
-  {
-   "from": null,
-   "to": -250,
-   "text": "Avant 250 av. J.-C., l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
-  }
- ],
+ "gaps": [],
  "stats": {
   "chapters": 4,
-  "events": 14,
-  "corroborated": 4,
-  "share": 0.29,
+  "events": 18,
+  "corroborated": 5,
+  "share": 0.28,
   "span": [
-   "250 av. J.-C.",
+   "1550 av. J.-C.",
    "2002"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "efd8563b67"
+ "run": "e12d342708"
 }

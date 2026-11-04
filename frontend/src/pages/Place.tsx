@@ -7,6 +7,7 @@ import { Backdrop, Footer } from '../components/Chrome'
 import { CompareViewer } from '../components/CompareViewer'
 import { ContributeModal } from '../components/ContributeModal'
 import { DocumentaryPlayer } from '../components/DocumentaryPlayer'
+import { PlaceHistory } from '../components/PlaceHistory'
 import { RephotoModal } from '../components/RephotoModal'
 import { ResultPanel } from '../components/ResultPanel'
 import { api, type AgentEvent, type PlaceDetail, type RunResult } from '../lib/api'
@@ -197,6 +198,8 @@ export default function Place() {
             <ResultPanel result={result} onContribute={() => setContribOpen(true)} />
           </div>
         )}
+
+        {place && <PlaceHistory placeId={place.id} />}
 
         {place && (
           <div id="documentaire" className="mt-16 scroll-mt-24">

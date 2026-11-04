@@ -288,6 +288,42 @@
       "score": 6.43,
       "id": "archive-15",
       "path": "cotonou-wharf/archive/5b2fad97c831.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Cotonou Station in 1930s",
+      "file": "Cotonou Station in 1930s.JPG",
+      "date_raw": "between 1930 and 1940 date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1930-00-00T00:00:",
+      "year": 1930,
+      "license": "Public domain",
+      "artist": "Shigemitsu Fukao",
+      "credit": "Japanese book \"Light and darkness of south sea\" published by ARS.",
+      "description": "Cotonou Station in 1930s ?????",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cotonou_Station_in_1930s.JPG",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Cotonou_Station_in_1930s.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "width": 1600,
+      "height": 1194,
+      "score": 6.17,
+      "id": "archive-16",
+      "path": "cotonou-wharf/archive/970892e3fa1f.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Ville de Cotonou - projet modificatif du plan de lotissement - dressé par le géomètre en chef ... J. Marthre ; approuvé ... par M. le Gouverneur général des colonies M. de Coppet, Gouverneur général de l'A.O.F. - btv1b531978462",
+      "file": "Ville de Cotonou - projet modificatif du plan de lotissement - dressé par le géomètre en chef ... J. Marthre ; approuvé ... par M. le Gouverneur général des colonies M. de Coppet, Gouverneur général de l'A.O.F. - btv1b531978462.jpg",
+      "date_raw": "1938 date QS:P571,+1938-00-00T00:00:00Z/9",
+      "year": 1938,
+      "license": "Public domain",
+      "artist": "Coppet, Marcel de (1881-1968). Fonction indéterminée",
+      "credit": "Bibliothèque nationale de France",
+      "description": "Sujet : Afrique Occidentale Française Dahomey Cotonou Échelle(s) : 1:5 000 Couverture : Bénin E 2°31' / N 6°24' Langue : français Éditeur : [s.n.]",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Ville_de_Cotonou_-_projet_modificatif_du_plan_de_lotissement_-_dress%C3%A9_par_le_g%C3%A9om%C3%A8tre_en_chef_..._J._Marthre_;_approuv%C3%A9_..._par_M._le_Gouverneur_g%C3%A9n%C3%A9ral_des_colonies_M._de_Coppet,_Gouverneur_g%C3%A9n%C3%A9ral_de_l%27A.O.F._-_btv1b531978462.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ville_de_Cotonou_-_projet_modificatif_du_plan_de_lotissement_-_dress%C3%A9_par_le_g%C3%A9om%C3%A8tre_en_chef_..._J._Marthre_%3B_approuv%C3%A9_..._par_M._le_Gouverneur_g%C3%A9n%C3%A9ral_des_colonies_M._de_Coppet%2C_Gouverneur_g%C3%A9n%C3%A9ral_de_l%27A.O.F._-_btv1b531978462.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 626,
+      "score": 5.63,
+      "id": "archive-17",
+      "path": "cotonou-wharf/archive/22f9eb25edb5.jpg"
     }
   ],
   "currents": [
@@ -312,6 +348,25 @@
     },
     {
       "source": "Wikimedia Commons",
+      "title": "Cotonou - cérémonie d'ouverture WikiConvention francophone 20251004-01",
+      "file": "Cotonou - cérémonie d'ouverture WikiConvention francophone 20251004-01.jpg",
+      "date_raw": "2025-10-04 10:04:31",
+      "year": 2025,
+      "license": "CC BY-SA 4.0",
+      "artist": "Pymouss",
+      "credit": "Own work",
+      "description": "Opening ceremony of WikiConvention francophone 2025 in Cotonou.",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cotonou_-_c%C3%A9r%C3%A9monie_d%27ouverture_WikiConvention_francophone_20251004-01.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Cotonou_-_c%C3%A9r%C3%A9monie_d%27ouverture_WikiConvention_francophone_20251004-01.jpg/1920px-Cotonou_-_c%C3%A9r%C3%A9monie_d%27ouverture_WikiConvention_francophone_20251004-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 1067,
+      "geo_dist": 514.7,
+      "score": 9.43,
+      "id": "current-01",
+      "path": "cotonou-wharf/current/1e361b1c42e7.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
       "title": "Vue sur xwlacodji, Cotonou depuis un immeuble",
       "file": "Vue sur xwlacodji, Cotonou depuis un immeuble.jpg",
       "date_raw": "4 May 2021 (according to Exif data)",
@@ -325,7 +380,7 @@
       "width": 1600,
       "height": 1200,
       "score": 9.3,
-      "id": "current-01",
+      "id": "current-02",
       "path": "cotonou-wharf/current/dfc7fbbf7f19.jpg"
     },
     {
@@ -343,7 +398,7 @@
       "width": 1600,
       "height": 1200,
       "score": 9.3,
-      "id": "current-02",
+      "id": "current-03",
       "path": "cotonou-wharf/current/44ac5a20bb81.jpg"
     },
     {
@@ -361,7 +416,7 @@
       "width": 1600,
       "height": 1200,
       "score": 9.17,
-      "id": "current-03",
+      "id": "current-04",
       "path": "cotonou-wharf/current/cb484ec618f5.jpg"
     },
     {
@@ -379,7 +434,7 @@
       "width": 1600,
       "height": 2134,
       "score": 9.17,
-      "id": "current-04",
+      "id": "current-05",
       "path": "cotonou-wharf/current/3870073a32be.jpg"
     },
     {
@@ -397,7 +452,7 @@
       "width": 1600,
       "height": 1200,
       "score": 7.43,
-      "id": "current-05",
+      "id": "current-06",
       "path": "cotonou-wharf/current/c185436c7508.jpg"
     },
     {
@@ -415,7 +470,7 @@
       "width": 1600,
       "height": 1200,
       "score": 7.43,
-      "id": "current-06",
+      "id": "current-07",
       "path": "cotonou-wharf/current/9c5052e27cc9.jpg"
     },
     {
@@ -433,7 +488,7 @@
       "width": 1600,
       "height": 901,
       "score": 7.43,
-      "id": "current-07",
+      "id": "current-08",
       "path": "cotonou-wharf/current/f89ebb9cefad.jpg"
     },
     {
@@ -451,26 +506,46 @@
       "width": 1600,
       "height": 1200,
       "score": 7.43,
-      "id": "current-08",
+      "id": "current-09",
       "path": "cotonou-wharf/current/6c8dc54082ed.jpg"
     },
     {
       "source": "Wikimedia Commons",
-      "title": "Port de pêche à Cotonou 01",
-      "file": "Port de pêche à Cotonou 01.jpg",
-      "date_raw": "2022-06-30 09:03:18",
-      "year": 2022,
-      "license": "CC BY-SA 4.0",
-      "artist": "Minyimin",
+      "title": "WIKI CONVENTION 25",
+      "file": "WIKI CONVENTION 25.jpg",
+      "date_raw": "2025-10-05 09:22:42",
+      "year": 2025,
+      "license": "CC BY 4.0",
+      "artist": "Yendifa",
       "credit": "Own work",
-      "description": "Port de pêche à Cotonou au Bénin",
-      "page_url": "https://commons.wikimedia.org/wiki/File:Port_de_p%C3%AAche_%C3%A0_Cotonou_01.jpg",
-      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Port_de_p%C3%AAche_%C3%A0_Cotonou_01.jpg/1920px-Port_de_p%C3%AAche_%C3%A0_Cotonou_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "WCFR COTONOU",
+      "page_url": "https://commons.wikimedia.org/wiki/File:WIKI_CONVENTION_25.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/WIKI_CONVENTION_25.jpg/1920px-WIKI_CONVENTION_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 1769,
+      "geo_dist": 496.4,
+      "score": 7.43,
+      "id": "current-10",
+      "path": "cotonou-wharf/current/9b1df3c1c045.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Équipe Togo à la WCFR2025",
+      "file": "Équipe Togo à la WCFR2025.jpg",
+      "date_raw": "5 October 2025 (according to Exif data)",
+      "year": 2025,
+      "license": "CC BY-SA 4.0",
+      "artist": "Hermannkass",
+      "credit": "Own work",
+      "description": "Hôtel de la Plage (bâtiment à Cotonou, au Bénin) WCFR2025",
+      "page_url": "https://commons.wikimedia.org/wiki/File:%C3%89quipe_Togo_%C3%A0_la_WCFR2025.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%C3%89quipe_Togo_%C3%A0_la_WCFR2025.jpg/1920px-%C3%89quipe_Togo_%C3%A0_la_WCFR2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "width": 1600,
       "height": 1200,
-      "score": 7.37,
-      "id": "current-09",
-      "path": "cotonou-wharf/current/0df8aae8c54a.jpg"
+      "geo_dist": 501.7,
+      "score": 7.43,
+      "id": "current-11",
+      "path": "cotonou-wharf/current/33a3fb367b82.jpg"
     }
   ]
 }

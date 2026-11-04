@@ -26,7 +26,11 @@ def _throttled_get(url: str, params: dict | None = None, binary: bool = False):
         if wait > 0:
             time.sleep(wait)
         _last_call = time.time()
-        r = httpx.get(url, params=params, headers=_HEADERS, timeout=60, follow_redirects=True)
+        try:
+            r = httpx.get(url, params=params, headers=_HEADERS, timeout=60, follow_redirects=True)
+        except httpx.TransportError:  # réseau instable (délai SSL, coupure) : on réessaie un peu plus tard
+            time.sleep(3 * (attempt + 1))
+            continue
         if r.status_code == 429 or r.status_code >= 500:
             time.sleep(float(r.headers.get("retry-after", 5 * (attempt + 1))))
             continue
@@ -96,7 +100,7 @@ def geosearch(lat: float, lon: float, radius: int = 400, limit: int = 60, width:
     """Toutes les images géolocalisées dans un rayon autour d'un lieu, anciennes comme récentes."""
     found = _cached_json({"action": "query", "format": "json", "list": "geosearch", "gscoord": f"{lat}|{lon}",
                           "gsradius": radius, "gsnamespace": 6, "gslimit": limit})
-    hits = {g["title"]: g.get("dist") for g in found.get("query", {}).get("geosearch", [])}
+    hits = {g["title"]: g.get("dist") for g in found.get("query", {}).get("geosearch", [])}  # 500 max côté API
     results = []
     titles = list(hits)
     for i in range(0, len(titles), 25):

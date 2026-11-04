@@ -1,0 +1,157 @@
+{
+ "place": "rome-colisee",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Colisée",
+   "url": "https://fr.wikipedia.org/wiki/Colisée",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Colosseum",
+   "url": "https://en.wikipedia.org/wiki/Colosseum",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 160,
+   "label": "160",
+   "text": "Ceux du premier et du deuxième étage (où ils ne font que 6,45 m de hauteur), étaient ornés de 160 statues en bronze doré hautes de cinq mètres, honorant probablement des divinités et d'autres personnages de la mythologie classique, tandis que 40 boucliers en bronze ajoutés par Titus rythmaient l'attique et symbolisaient les conquêtes militaires romaines avec le bouclier pris à l'ennemi.",
+   "section": "Extérieur",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Extérieur",
+   "corroborated": false
+  },
+  {
+   "year": 200,
+   "label": "200",
+   "text": "L'amphithéâtre va servir de modèle à plus de 200 amphithéâtres construits au siècle suivant en Italie et dans les provinces de l'empire, comme l'amphithéâtre de Capoue ou l'amphithéâtre d'El Jem — signe d'une grande importance au sein du monde romain.",
+   "section": "Antiquité",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "corroborated": false
+  },
+  {
+   "year": 217,
+   "label": "217",
+   "text": "En 217 apr. J.-C., l'amphithéâtre est endommagé par un incendie causé, selon Dion Cassius, par la foudre et les étages supérieurs des gradins construits en bois sont détruits.",
+   "section": "Antiquité",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "corroborated": true
+  },
+  {
+   "year": 443,
+   "label": "443",
+   "text": "D'autres dommages interviennent, notamment à la suite du tremblement de terre de 443.",
+   "section": "Antiquité",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "corroborated": false
+  },
+  {
+   "year": 500,
+   "label": "500",
+   "text": "Il est resté en service pendant près de 500 ans, les derniers jeux étant produits au VIe siècle.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Colisée",
+   "corroborated": false
+  },
+  {
+   "year": 550,
+   "label": "VIe s.",
+   "text": "L'arène continue d'être utilisée pour des concours jusqu'au VIe siècle au moins, les derniers combats de gladiateurs se produisant vers 435 apr. J.-C. et les ultimes chasses aux animaux sauvages en 523 apr. J.-C. Un combat de taureaux sera toutefois organisé en 1332.",
+   "section": "Antiquité",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "corroborated": false
+  },
+  {
+   "year": 1000,
+   "label": "1000",
+   "text": "Le colosse finit par disparaitre, probablement jeté bas pour pouvoir réutiliser ses éléments de bronze, mais le terme de Colosseum subsiste, désignant l'amphithéâtre vers l'an 1000.",
+   "section": "Dénominations du Colisée",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Dénominations_du_Colisée",
+   "corroborated": true
+  },
+  {
+   "year": 1350,
+   "label": "XIVe s.",
+   "text": "Un ordre religieux s'installe dans les ruines au milieu du XIVe siècle, et s'y maintient jusqu'à la fin du XIXe siècle.",
+   "section": "Moyen Âge",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Moyen_Âge",
+   "corroborated": false
+  },
+  {
+   "year": 1451,
+   "label": "1451",
+   "text": "En 1451, le pape Nicolas V (fl.  1447-1455) fait extraire, tailler et acheminer vers les fours à chaux les travertins et les placages de marbre qui serviront à les alimenter.",
+   "section": "Moyen Âge",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Moyen_Âge",
+   "corroborated": false
+  },
+  {
+   "year": 1550,
+   "label": "XVIe s.",
+   "text": "Les blocs de travertin sont systématiquement prélevés aux XVe et XVIe siècles pour de nouvelles constructions.",
+   "section": "Moyen Âge",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Moyen_Âge",
+   "corroborated": false
+  },
+  {
+   "year": 1650,
+   "label": "XVIIe s.",
+   "text": "Au cours des XVIe et XVIIe siècles, les fonctionnaires de l'Église cherchent à donner un rôle au monument à l'abandon.",
+   "section": "Époque moderne",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Époque_moderne",
+   "corroborated": false
+  },
+  {
+   "year": 1810,
+   "label": "1810",
+   "text": "Ce passage utilisé par les empereurs romains pour entrer discrètement dans le Colisée et portant le nom de celui qui y a subi une tentative d'assassinat, a été redécouvert dans les années 1810 ; il ouvre au public le 27 octobre 2025.",
+   "section": "Période contemporaine",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Période_contemporaine",
+   "corroborated": false
+  },
+  {
+   "year": 1928,
+   "label": "1928",
+   "text": "Les colonnades du Colisée figurent entre 1928 et 2000 sur les médailles des Jeux olympiques d'été, avant de créer la polémique au sein du champ journalistique.",
+   "section": "Autres",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Autres",
+   "corroborated": false
+  },
+  {
+   "year": 1980,
+   "label": "1980",
+   "text": "Avec l'ensemble du centre historique de Rome, le Colisée est inscrit sur la liste du patrimoine mondial de l'Unesco depuis 1980.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Colisée",
+   "corroborated": false
+  },
+  {
+   "year": 2010,
+   "label": "2010",
+   "text": "Le Colisée est représenté dans divers jeux vidéo : Assassin's Creed: Brotherhood (2010), Forge of Empires, Ryse: Son of Rome (2013), dans tous les opus principaux de la franchise de jeux vidéo Sid Meier's Civilization, ainsi que dans certains autres titres (Civilization Revolution, Civilization Revolution 2 et Civilization: Call to power).",
+   "section": "Jeux vidéo",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Jeux_vidéo",
+   "corroborated": true
+  },
+  {
+   "year": 2050,
+   "label": "XXIe s.",
+   "text": "Une stèle existe encore dans l'amphithéâtre, au début du XXIe siècle, rappelant que le consul et préfet de Rome Decius Marius Venantius Basilius a restauré à ses frais l'arène et le podium ruinés par un séisme.",
+   "section": "Antiquité",
+   "url": "https://fr.wikipedia.org/wiki/Colisée#Antiquité",
+   "corroborated": false
+  }
+ ],
+ "intro": "Le Colisée (en italien : Colosseo), à l'origine amphithéâtre Flavien (en latin : Amphitheatrum Flavium), est un amphithéâtre ovoïde situé dans le centre de la ville de Rome, entre l'Esquilin et le Cælius, le plus grand construit dans l'Empire romain. Il est l'une des plus grandes œuvres de l'architecture et de l'ingénierie romaines. Témoignage monumental de la propagande flavienne, sa construction, juste à l'est du Forum romain, a commencé entre 70 et 72 apr. J.-C., sous l'empereur Vespasien (r.  69-79), et s'est achevée en 80 apr. J.-C. sous Titus (r.  79-81).",
+ "stats": {
+  "events": 16,
+  "corroborated": 3
+ }
+}

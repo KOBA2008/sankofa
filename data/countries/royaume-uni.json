@@ -21,6 +21,13 @@
    "summary": "L'histoire du Royaume-Uni, État souverain englobant les quatre nations constitutives que sont l’Angleterre, l’Écosse, le pays de Galles et l’Irlande du Nord, est indissociable de celle du Parlement du Royaume-Uni. Elle débute en 1707 avec les actes d'Union qui opèrent une union politique du royaume d'Angleterre (incluant le pays de Galles) et du royaume d'Écosse et marquent la naissance du royaume de Grande-Bretagne.",
    "events": [
     {
+     "year": 1541,
+     "label": "1541",
+     "text": "En 1541, le Parlement reçoit l'ordre de changer le statut de l'Irlande en royaume, avec Henri VIII proclamé roi.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
      "year": 1550,
      "label": "XVIe s.",
      "text": "À partir de la fin du XVIe siècle, l'Angleterre établit des comptoirs commerciaux puis des colonies d'outre-mer pour finalement former un empire composé de nombreux dominions, colonies, protectorats, mandats et autres territoires gouvernés ou administrés par le Royaume-Uni.",
@@ -42,9 +49,23 @@
      "corroborated": false
     },
     {
+     "year": 1707,
+     "label": "1707",
+     "text": "Elle débute en 1707 avec les actes d'Union qui opèrent une union politique du royaume d'Angleterre (incluant le pays de Galles) et du royaume d'Écosse et marquent la naissance du royaume de Grande-Bretagne.",
+     "source": 1,
+     "corroborated": true
+    },
+    {
      "year": 1756,
      "label": "1756",
      "text": "Une série de guerres avec la France place l'Amérique du Nord sous le contrôle du Royaume-Uni à l'issue de la guerre de Sept Ans (1756-1763), juste avant la perte des Treize colonies à la suite de la guerre d'indépendance des États-Unis (1775-1783).",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1919,
+     "label": "1919",
+     "text": "Bien que ruiné par la Première Guerre mondiale, l'Empire britannique atteint son extension maximale après le traité de Versailles en 1919 (par lequel il acquiert un territoire grand de 4 700 000 km2).",
      "source": 1,
      "corroborated": false
     },
@@ -61,11 +82,74 @@
      "text": "De plus, dans le cadre de la décolonisation, la plupart des territoires et colonies, à commencer par l'Inde en 1947, obtiennent leur indépendance, et l'Empire entre en déclin.",
      "source": 1,
      "corroborated": true
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "text": "C'est sous le ministère de ce dernier que se tient un référendum sur l'indépendance de l'Écosse en 2014 (indépendance rejetée par les Écossais) et un référendum sur le maintien du Royaume-Uni dans l'Union européenne en 2016, lequel aboutit à un résultat favorable à une sortie du Royaume-Uni de l'Union européenne.",
+     "source": 1,
+     "corroborated": false
     }
    ],
-   "start": 1550,
-   "end": 1947,
+   "start": 1541,
+   "end": 2014,
    "photos": [
+    {
+     "title": "Tower Bridge circa 1900",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/2cd546af19c0.png",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_circa_1900.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "London. The Tower Bridge. (NBY 442881)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/f0844901e1b3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:London._The_Tower_Bridge._(NBY_442881).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge, London (NBY 437911)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/a625026317dc.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge,_London_(NBY_437911).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge, London (NBY 438488)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/eb481c07faf0.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge,_London_(NBY_438488).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge, London (NBY 439385)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/865a12c41367.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge,_London_(NBY_439385).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge. 770 (NBY 420877)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/f312285ce40b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge._770_(NBY_420877).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge London (NBY 441378)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/6d83b52572b7.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge_London_(NBY_441378).jpg",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "Tower Bridge under construction from History of the Tower Bridge, 1894",
      "year": 1894,
@@ -73,33 +157,9 @@
      "image": "/media/places/london-tower-bridge/archive/5969b48f8562.png",
      "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_under_construction_from_History_of_the_Tower_Bridge,_1894.png",
      "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Gezicht op Tower Bridge in Londen, RP-F-F20143",
-     "year": 1894,
-     "license": "CC0",
-     "image": "/media/places/london-tower-bridge/archive/e57020e7f62b.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Tower_Bridge_in_Londen,_RP-F-F20143.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Opening of Tower Bridge RMG PW0947",
-     "year": 1894,
-     "license": "Public domain",
-     "image": "/media/places/london-tower-bridge/archive/408b412c4a8c.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Opening_of_Tower_Bridge_RMG_PW0947.tiff",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Tower Bridge in aanbouw in Londen, RP-F-F16346",
-     "year": 1894,
-     "license": "CC0",
-     "image": "/media/places/london-tower-bridge/archive/e4e6ecef4e65.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_in_aanbouw_in_Londen,_RP-F-F16346.jpg",
-     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L'histoire du Royaume-Uni, englobant l'Angleterre, l'Écosse, le pays de Galles et l'Irlande du Nord, est indissociable de celle de son Parlement et débute en 1707 avec les actes d'Union entre le royaume d'Angleterre incluant le pays de Galles et le royaume d'Écosse, donnant naissance au royaume de Grande-Bretagne [S1]. Les extraits fournis reflètent un point de vue centré sur le Royaume-Uni et son expansion impériale. À partir de la fin du XVIe siècle, l'Angleterre établit des comptoirs puis des colonies formant un empire de dominions et protectorats [S1]. Pendant les Guerres des Trois Royaumes de 1639-1651, les rois anglais cherchent la primauté sur les autres royaumes Stuart et l'adhésion de Charles à la monarchie de droit divin provoque la guerre civile de 1642-1651 [S1]. Après la guerre de Sept Ans de 1756-1763 l'Amérique du Nord passe sous contrôle britannique avant la perte des Treize colonies en 1775-1783 [S1]. En 1921 l'État libre d'Irlande devient indépendant tandis que l'Irlande du Nord reste britannique, puis à partir de l'Inde en 1947 la décolonisation entraîne le déclin de l'Empire [S1]."
+   "narrative": "L'histoire du Royaume-Uni, État englobant l'Angleterre, l'Écosse, le pays de Galles et l'Irlande du Nord, est indissociable de celle du Parlement et débute en 1707 avec les actes d'Union entre l'Angleterre (incluant le pays de Galles) et l'Écosse donnant naissance au royaume de Grande-Bretagne [S1]. Précédemment, en 1541 le Parlement change le statut de l'Irlande en royaume avec Henri VIII proclamé roi, et à partir de la fin du XVIe siècle l'Angleterre établit comptoirs puis colonies formant un empire [S1]. Après la guerre de Sept Ans (1756-1763) l'Amérique du Nord passe sous contrôle britannique avant la perte des Treize colonies (1775-1783) [S1]. L'Empire atteint son extension maximale après Versailles en 1919 avant le déclin avec l'indépendance de l'Inde en 1947 [S1]. Les extraits fournis reflètent uniquement ce point de vue centré sur le Royaume-Uni [S1]."
   },
   {
    "title": "La Grande-Bretagne au XVIIIe siècle",
@@ -107,6 +167,13 @@
    "source": 2,
    "summary": "Pendant le XVIIIe siècle, la Grande-Bretagne émerge comme une grande puissance en Europe et dans le monde entier. Le siècle est marqué par une rivalité avec la France, qui se prolonge à leurs colonies outre-mer en Amérique du Nord, aux Antilles, et en Inde.",
    "events": [
+    {
+     "year": 1764,
+     "label": "1764",
+     "text": "Les guerres deviennent plus courtes : 7 ans pour prendre le Canada en 1764, 7 aussi pour céder l'indépendance des États-Unis en 1783.",
+     "source": 2,
+     "corroborated": false
+    },
     {
      "year": 1775,
      "label": "1775",
@@ -125,6 +192,27 @@
      "year": 1850,
      "label": "XIXe s.",
      "text": "La guerre continuera au XIXe siècle (guerres napoléoniennes).",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1867,
+     "label": "1867",
+     "text": "Entre 1867 et 1910, l'Australie, le Canada et la Nouvelle-Zélande reçoivent le statut de dominion (une indépendance au sein de l'Empire).",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1914,
+     "label": "1914",
+     "text": "Quand la Première Guerre mondiale éclate en 1914, la question de l'Irlande est oubliée pour la durée de la guerre.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1916,
+     "label": "1916",
+     "text": "Une République irlandaise s'autoproclame à Dublin en 1916 et est approuvée en 1919 par Dáil Éireann, le parlement lui aussi auto-déclaré.",
      "source": 2,
      "corroborated": false
     },
@@ -150,7 +238,7 @@
      "corroborated": true
     }
    ],
-   "start": 1775,
+   "start": 1764,
    "end": 1947,
    "photos": [
     {
@@ -170,23 +258,55 @@
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Opening of Tower Bridge RMG PW0947",
-     "year": 1894,
-     "license": "Public domain",
-     "image": "/media/places/london-tower-bridge/archive/408b412c4a8c.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Opening_of_Tower_Bridge_RMG_PW0947.tiff",
-     "source": "Wikimedia Commons"
-    },
-    {
      "title": "Tower Bridge in aanbouw in Londen, RP-F-F16346",
      "year": 1894,
      "license": "CC0",
      "image": "/media/places/london-tower-bridge/archive/e4e6ecef4e65.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_in_aanbouw_in_Londen,_RP-F-F16346.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Gezicht op de Tower Bridge in Londen, RP-F-F17561",
+     "year": 1894,
+     "license": "CC0",
+     "image": "/media/places/london-tower-bridge/archive/ca5582fb84f5.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Tower_Bridge_in_Londen,_RP-F-F17561.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Cassier's Magazine - The Tower Bridge, London, on the Opening Day, June 30, 1894",
+     "year": 1894,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/2297393fce22.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Cassier%27s_Magazine_-_The_Tower_Bridge,_London,_on_the_Opening_Day,_June_30,_1894.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tower Bridge (nearly)",
+     "year": 1892,
+     "license": "No restrictions",
+     "image": "/media/places/london-tower-bridge/archive/38b916334cd2.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_(nearly).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Tower bridge works 1892",
+     "year": 1892,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/72d741f65c24.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_bridge_works_1892.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "(Tower Bridge, III. (closed), London, England) LOC 8726536900",
+     "year": 1890,
+     "license": "No restrictions",
+     "image": "/media/places/london-tower-bridge/archive/9acb7f5132f9.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:(Tower_Bridge,_III._(closed),_London,_England)_LOC_8726536900.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Pendant le XVIIIe siècle, la Grande-Bretagne émerge comme une grande puissance en Europe et dans le monde entier [S2]. Le siècle est marqué par une rivalité avec la France, qui se prolonge à leurs colonies outre-mer en Amérique du Nord, aux Antilles, et en Inde [S2]. En 1775, 12 ans après la défaite de la France en Amérique du Nord, ses treize colonies lancent une guerre d'indépendance [S2]. La Révolution française préoccupe le gouvernement britannique, qui déclare la guerre contre la nouvelle République française en 1793 [S2]. La guerre continuera au XIXe siècle avec les guerres napoléoniennes [S2]. Les extraits fournis reflètent uniquement un point de vue centré sur la Grande-Bretagne."
+   "narrative": "Pendant le XVIIIe siècle, la Grande-Bretagne émerge comme une grande puissance en Europe et dans le monde entier [S2]. Le siècle est marqué par une rivalité avec la France, qui se prolonge à leurs colonies outre-mer en Amérique du Nord, aux Antilles et en Inde [S2]. Les guerres deviennent plus courtes : 7 ans pour prendre le Canada en 1764, 7 aussi pour céder l'indépendance des États-Unis en 1783 [S2]. En 1775, 12 ans après la défaite de la France en Amérique du Nord, ses treize colonies lancent une guerre d'indépendance [S2]. La Révolution française préoccupe le gouvernement britannique, qui déclare la guerre contre la nouvelle République française en 1793, guerre qui continuera au XIXe siècle [S2]. Ces extraits reflètent uniquement un point de vue britannique centré sur l'expansion impériale."
   },
   {
    "title": "Époque victorienne",
@@ -223,9 +343,23 @@
      "corroborated": false
     },
     {
+     "year": 1947,
+     "label": "1947",
+     "text": "L'indépendance intervient le 15 août 1947, mais le Royaume-Uni laisse un pays divisé en trois territoires : l'Inde à majorité hindouiste, et le Pakistan musulman, lui-même fragmenté entre une moitié occidentale et une moitié orientale (qui deviendra le Bangladesh), distants de 1 700 km.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
      "year": 1948,
      "label": "1948",
      "text": "La première vague de décolonisation asiatique prend fin en 1948 avec la proclamation d'indépendance de Ceylan et de la Birmanie[source insuffisante].",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1957,
+     "label": "1957",
+     "text": "Il confirme sa politique de décolonisation en accordant l'indépendance au Ghana et à la Malaisie (1957), au Nigeria (1960), au Kenya (1963), mais dans son discours « Wind of Change » de 1960, il maintient la présence britannique au Moyen-Orient (Irak, Oman).",
      "source": 3,
      "corroborated": false
     },
@@ -235,17 +369,79 @@
      "text": "Toutefois, le pays est profondément divisé sur le bien-fondé de cette adhésion, d'autant qu'aucun référendum pour approuver l'entrée dans la CEE n'a eu lieu au Royaume-Uni Harold Wilson, arrivé au gouvernement en 1974, forme un gouvernement minoritaire en attendant les élections d'octobre, où il n'obtiendra qu'une mince majorité.",
      "source": 3,
      "corroborated": false
+    },
+    {
+     "year": 1982,
+     "label": "1982",
+     "text": "Le 2 avril 1982, éclate la guerre des Malouines (la guerre des îles Falklands pour les Britanniques).",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1984,
+     "label": "1984",
+     "text": "En 1984 Margaret Thatcher obtient de la CEE le rabais britannique (avec la célèbre phrase apocryphe « I want my money back »), très populaire au Royaume-Uni, Mme Thatcher s'opposant ainsi à l'idée que le Royaume-Uni soit un contributeur net de la CEE.",
+     "source": 3,
+     "corroborated": false
     }
    ],
    "start": 1850,
-   "end": 1974,
+   "end": 1984,
    "photos": [
     {
-     "title": "Frederick Goff - Thames from Tower Bridge - circa 1900 - Goff-98506",
-     "year": 1900,
+     "title": "Tower Bridge. 769 (NBY 420307)",
+     "year": 1904,
      "license": "Public domain",
-     "image": "/media/places/london-tower-bridge/archive/949173542729.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Frederick_Goff_-_Thames_from_Tower_Bridge_-_circa_1900_-_Goff-98506.jpg",
+     "image": "/media/places/london-tower-bridge/archive/e02f5d1e88ec.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge._769_(NBY_420307).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "London. The Tower Bridge. (NBY 442881)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/f0844901e1b3.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:London._The_Tower_Bridge._(NBY_442881).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge, London (NBY 437911)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/a625026317dc.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge,_London_(NBY_437911).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge, London (NBY 438488)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/eb481c07faf0.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge,_London_(NBY_438488).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge, London (NBY 439385)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/865a12c41367.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge,_London_(NBY_439385).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge. 770 (NBY 420877)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/f312285ce40b.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge._770_(NBY_420877).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The Tower Bridge London (NBY 441378)",
+     "year": 1903,
+     "license": "Public domain",
+     "image": "/media/places/london-tower-bridge/archive/6d83b52572b7.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_Tower_Bridge_London_(NBY_441378).jpg",
      "source": "Wikimedia Commons"
     },
     {
@@ -255,25 +451,9 @@
      "image": "/media/places/london-tower-bridge/archive/2cd546af19c0.png",
      "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_circa_1900.png",
      "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Tower Bridge under construction from History of the Tower Bridge, 1894",
-     "year": 1894,
-     "license": "Public domain",
-     "image": "/media/places/london-tower-bridge/archive/5969b48f8562.png",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_under_construction_from_History_of_the_Tower_Bridge,_1894.png",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "Gezicht op Tower Bridge in Londen, RP-F-F20143",
-     "year": 1894,
-     "license": "CC0",
-     "image": "/media/places/london-tower-bridge/archive/e57020e7f62b.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Tower_Bridge_in_Londen,_RP-F-F20143.jpg",
-     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Selon les extraits fournis, le long règne victorien de 1837 à 1901 voit le Royaume-Uni à son apogée économique et politique [S3]. Lié à la France par l'Entente cordiale depuis le XIXe siècle, il est membre de la Triple Entente avec la Russie depuis 1907, en réaction aux puissances de l'Axe que sont l'Empire allemand, l'Autriche-Hongrie et l'Empire ottoman [S3]. Il entre en guerre le 4 août 1914 [S3]. La Royal Navy y affronte la Hochseeflotte lors de la bataille du Jutland en 1916 [S3]. Les extraits évoquent ensuite les traités de limitation des armements de Washington en 1922 et de Londres en 1930 [S3], la décolonisation de Ceylan et de la Birmanie en 1948 [S3] et les divisions sur l'adhésion à la CEE autour du gouvernement Wilson en 1974 [S3]."
+   "narrative": "Le long règne victorien (1837-1901) correspond à l'apogée économique et politique du Royaume-Uni [S3]. Lié à la France par l'Entente cordiale depuis le XIXe siècle, il rejoint la Triple Entente en 1907 avec la Russie en réaction aux puissances de l'Axe que sont l'Empire allemand, l'Autriche-Hongrie et l'Empire ottoman [S3]. Le Royaume-Uni entre en guerre le 4 août 1914 [S3]. La Royal Navy y affronte la Hochseeflotte lors de la bataille du Jutland en 1916, seule grande bataille navale du conflit [S3]. Ces extraits reflètent uniquement un point de vue britannique centré sur la puissance impériale et diplomatique [S3]."
   }
  ],
  "sources": [
@@ -313,22 +493,22 @@
  "gaps": [
   {
    "from": null,
-   "to": 1550,
-   "text": "Avant 1550, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": 1541,
+   "text": "Avant 1541, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
   }
  ],
  "stats": {
   "chapters": 3,
-  "events": 18,
-  "corroborated": 5,
-  "share": 0.28,
+  "events": 30,
+  "corroborated": 8,
+  "share": 0.27,
   "span": [
-   "1550",
-   "1974"
+   "1541",
+   "2014"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "b75bc5b166"
+ "run": "5a6e648c69"
 }

@@ -308,7 +308,9 @@ def _pipeline(run: Run) -> dict:
     # ------------------------------------------------------------------ 7. récit
     run.emit("recit", "running", "J'écris l'histoire du lieu, chaque phrase reliée à sa source.")
     numbered = archives[:8]
-    story = _narrate_live(place, run.year, numbered, counts) if meta.text_live else None
+    from . import history
+    hist = history.get(run.place_id)
+    story = _narrate_live(place, run.year, numbered, counts, hist) if meta.text_live else None
     story_engine = engine_text if story else "local"
     story = story or _narrate_local(place, run.year, numbered, counts, evaluation)
     run.emit("recit", "done", "Récit prêt.", engine=story_engine)
@@ -318,7 +320,11 @@ def _pipeline(run: Run) -> dict:
         "current": _rel(cur_path), "reconstruction": _rel(recon_path),
         "size": [current.shape[1], current.shape[0]],
         "tags": tags, "counts": counts, "evaluation": evaluation, "story": story,
-        "sources": [_source_card(a, i + 1) for i, a in enumerate(numbered)],
+        "sources": [_source_card(a, i + 1) for i, a in enumerate(numbered)] + ([{
+            "id": "wikipedia", "n": len(numbered) + 1, "title": hist["sources"][0]["title"], "year": None,
+            "license": "CC BY-SA 4.0", "source": "Wikipédia", "page_url": hist["sources"][0]["url"],
+            "image": "/favicon.svg", "description": ""}] if hist and hist.get("events") else []),
+        "history": hist,
         "aligned": [x["doc"]["id"] for x in aligned],
         "nearest": sorted(nearest, key=lambda n: (n["aligned"], n["inliers"]), reverse=True)[:6],
         "engines": {"segmentation": seg_engine, "reconstruction": recon_engine, "story": story_engine},
@@ -364,9 +370,13 @@ def _reconstruction_prompt(place: dict, year: int, archives: list[dict]) -> str:
             f"{plan or ''} Keep the exact street geometry and perspective. Period-accurate, sepia albumen print.")
 
 
-def _narrate_live(place: dict, year: int, sources: list[dict], counts: dict) -> dict | None:
+def _narrate_live(place: dict, year: int, sources: list[dict], counts: dict, hist: dict | None = None) -> dict | None:
     listing = "\n".join(f"[S{i + 1}] {clean_title(a['title'])} ({a['year']}) : {a['description'][:250]}"
                         for i, a in enumerate(sources))
+    if hist and hist.get("events"):
+        n = len(sources) + 1  # la frise Wikipédia devient une source numérotée de plus
+        listing += f"\n[S{n}] Article « {hist['sources'][0]['title']} », événements datés :\n" + "\n".join(
+            f"  ({e['label']}) {e['text']}" for e in hist["events"])
     return meta.chat_json(
         "Tu es historien. Écris un récit court (120 à 170 mots) sur un lieu à une date donnée. "
         "Chaque phrase factuelle cite sa source [S1], [S2]… N'invente AUCUN détail absent des sources : "

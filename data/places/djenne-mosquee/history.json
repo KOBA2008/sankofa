@@ -1,0 +1,93 @@
+{
+ "place": "djenne-mosquee",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Grande mosquée de Djenné",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Great Mosque of Djenné",
+   "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenné",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 1238,
+   "label": "1238",
+   "text": "Le roi Koi Kunboro (ou Komboro), fraîchement converti à l'Islam, fit démolir sa résidence et en 1238 fit construire à son emplacement la grande mosquée.",
+   "section": "Construction de la mosquée",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné#Construction_de_la_mosquée",
+   "corroborated": false
+  },
+  {
+   "year": 1250,
+   "label": "XIIIe s.",
+   "text": "Un premier édifice fut construit en ce lieu au XIIIe siècle, mais la construction actuelle date seulement de 1907.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné",
+   "corroborated": false
+  },
+  {
+   "year": 1819,
+   "label": "1819",
+   "text": "Le conquérant peul Amadou Lobbo, qui enleva Djenné, en 1819, à la suite d’une guerre sainte, fit démolir la grande mosquée de Koi Koumboro, dont la beauté offensait l’islam dépouillé qu’il prêchait et en fit construire une nouvelle.",
+   "section": "Destruction de la grande mosquée en 1819",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné#Destruction_de_la_grande_mosquée_en_1819",
+   "corroborated": false
+  },
+  {
+   "year": 1896,
+   "label": "1896",
+   "text": "Une restitution de l’édifice, à l’identique, fut terminée en 1896, mais fut ensuite démolie à nouveau pour faire place au bâtiment actuel alors que Djenné relevait du territoire de l’Afrique-Occidentale française.",
+   "section": "Destruction de la grande mosquée en 1819",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné#Destruction_de_la_grande_mosquée_en_1819",
+   "corroborated": false
+  },
+  {
+   "year": 1906,
+   "label": "1906",
+   "text": "En 1906, le gouverneur colonial français William Ponty accepta, à la demande du marabout Almamy Sonfo, de reconstruire à l’identique l’ancienne mosquée du roi Koi Kunboro.",
+   "section": "Reconstruction de la mosquée de Koi Kunboro",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné#Reconstruction_de_la_mosquée_de_Koi_Kunboro",
+   "corroborated": false
+  },
+  {
+   "year": 1920,
+   "label": "1920",
+   "text": "Une réplique en taille réduite de la grande mosquée de Djenné, la mosquée Missiri, fut construite à Fréjus par les troupes coloniales françaises dans les années 1920.",
+   "section": "Reconstruction de la mosquée de Koi Kunboro",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné#Reconstruction_de_la_mosquée_de_Koi_Kunboro",
+   "corroborated": false
+  },
+  {
+   "year": 1988,
+   "label": "1988",
+   "text": "Avec la ville de Djenné elle-même, elle est inscrite depuis 1988 à la liste du patrimoine mondial de l’UNESCO.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné",
+   "corroborated": true
+  },
+  {
+   "year": 1990,
+   "label": "1990",
+   "text": "Les efforts faits dans ce sens ont reçu l’approbation des tenants de l’authenticité et cette tendance s’est accrue depuis les années 1990.",
+   "section": "Reconstruction de la mosquée de Koi Kunboro",
+   "url": "https://fr.wikipedia.org/wiki/Grande_mosquée_de_Djenné#Reconstruction_de_la_mosquée_de_Koi_Kunboro",
+   "corroborated": false
+  }
+ ],
+ "intro": "La grande mosquée de Djenné est situé à Djenné, au Mali, dans la plaine alluviale du Bani, affluent du Niger. Cette mosquée est le plus grand édifice du monde en adobe ou banco (terre crue) ; elle est considérée comme la réalisation majeure du style architectural soudano-sahélien, tout en reflétant des influences islamiques. Un premier édifice fut construit en ce lieu au XIIIe siècle, mais la construction actuelle date seulement de 1907.",
+ "stats": {
+  "events": 8,
+  "corroborated": 1
+ }
+}

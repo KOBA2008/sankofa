@@ -78,9 +78,41 @@
      "image": "/media/places/cape-coast-castle/archive/a2736d66dc84.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-34-26-2-001.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The National Archives UK - CO 1069-34-24 1 001",
+     "year": 1890,
+     "license": "OGL v1.0",
+     "image": "/media/places/cape-coast-castle/archive/40e63105c1b1.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-34-24_1_001.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The National Archives UK - CO 1069-34-25-2-001",
+     "year": 1890,
+     "license": "OGL v1.0",
+     "image": "/media/places/cape-coast-castle/archive/e7b760d3a785.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-34-25-2-001.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The National Archives UK - CO 1069-33-52 002",
+     "year": 1890,
+     "license": "OGL v1.0",
+     "image": "/media/places/cape-coast-castle/archive/9e38268e0444.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-33-52_002.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "The National Archives UK - CO 1069-33-9-1-001",
+     "year": 1890,
+     "license": "OGL v1.0",
+     "image": "/media/places/cape-coast-castle/archive/487f5890aebb.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-33-9-1-001.jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Le Ghana est nommé d'après l'empire existant au Moyen Âge en Afrique de l'Ouest, l'Empire du Ghana [S1]. Cet Empire a lui-même été désigné en Europe et en Arabie, comme l'Empire du Ghana, d'après le titre de son empereur, le Ghana [S1]. L'Empire semble avoir été brisé en 1076 à la suite de la conquête du général almoravide Abou Bakr ben Omar [S1]. Une grande partie de la zone a été unifiée sous l'Empire ashanti au XVIe siècle [S1]. Ce pays accède à l'indépendance dès 1957 [S1]. L'ensemble de ces informations provient uniquement des extraits fournis qui se concentrent sur l'origine du nom et quelques repères chronologiques [S1]."
+   "narrative": "Le Ghana est nommé d'après l'Empire du Ghana, un empire existant au Moyen Âge en Afrique de l'Ouest [S1]. Cet Empire médiéval a lui-même été désigné en Europe et en Arabie comme l'Empire du Ghana, d'après le titre porté par son empereur, le Ghana [S1]. Selon les extraits, cet Empire semble avoir été brisé en 1076 à la suite de la conquête menée par le général almoravide Abou Bakr ben Omar [S1]. Plus tard, au XVIe siècle, une grande partie de la zone a été unifiée sous l'Empire ashanti [S1]. Enfin, ce pays accède à l'indépendance dès 1957 [S1]. La dénomination rapportée reflète ainsi un point de vue extérieur européen et arabe [S1]."
   },
   {
    "title": "Préhistoire et Antiquité",
@@ -103,6 +135,20 @@
      "corroborated": true
     },
     {
+     "year": 1450,
+     "label": "XVe s.",
+     "text": "Au XVe siècle, le royaume de Bono est un centre d'activités commerciales en plein essor.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1629,
+     "label": "1629",
+     "text": "Une carte néerlandaise de 1629 précise au sujet du royaume  « Bonnoe.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
      "year": 1650,
      "label": "XVIIe s.",
      "text": "Au XVIIe siècle apparaissent, sur la côte le royaume de Denkyira et un peu au nord le royaume Ashanti et son premier souverain Obiri Yeboa, dont le successeur Osei Tutu Ier remporte une série de victoires contre les états voisins.",
@@ -122,6 +168,20 @@
      "text": "Le premier établissement universitaire de l'Afrique sous domination coloniale est fondé en 1827, le collège de Fourah Bay.",
      "source": 2,
      "corroborated": false
+    },
+    {
+     "year": 1850,
+     "label": "XIXe s.",
+     "text": "Au cours du XIXe siècle, les Britanniques mènent de nombreuses guerres contre les Ashanti, armés de mousquets et regroupés dans une capitale de 100 000 habitants environ, Kumasi, découverte en 1817 par le premier explorateur anglais Thomas Bodwich.",
+     "source": 2,
+     "corroborated": true
+    },
+    {
+     "year": 1874,
+     "label": "1874",
+     "text": "Cette campagne est suivie de plusieurs autres, mais en 1874, les Fanti trouvent dans l'Angleterre, qui a racheté la colonie danoise de Christiansborg dès 1850, un allié providentiel qui défait le roi Ashanti.",
+     "source": 2,
+     "corroborated": true
     },
     {
      "year": 1901,
@@ -159,15 +219,47 @@
      "source": "Wikimedia Commons"
     },
     {
-     "title": "The National Archives UK - CO 1069-34-26-1-001",
-     "year": 1890,
-     "license": "OGL v1.0",
-     "image": "/media/places/cape-coast-castle/archive/d45ac2fd7c91.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-34-26-1-001.jpg",
+     "title": "COLLECTIE TROPENMUSEUM Kazerne te Cape Coast TMnr 60024040",
+     "year": 1870,
+     "license": "CC BY-SA 3.0",
+     "image": "/media/places/cape-coast-castle/archive/46713012c14a.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Kazerne_te_Cape_Coast_TMnr_60024040.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "COLLECTIE TROPENMUSEUM Stadsgezicht Cape Coast TMnr 60024042",
+     "year": 1870,
+     "license": "CC BY-SA 3.0",
+     "image": "/media/places/cape-coast-castle/archive/6b1ad93d1495.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Stadsgezicht_Cape_Coast_TMnr_60024042.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "COLLECTIE TROPENMUSEUM Stadsgezicht Cape Coast TMnr 60024043",
+     "year": 1870,
+     "license": "CC BY-SA 3.0",
+     "image": "/media/places/cape-coast-castle/archive/957426b53e3a.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Stadsgezicht_Cape_Coast_TMnr_60024043.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "COLLECTIE TROPENMUSEUM Ziekenhuis te Cape Coast TMnr 60024039",
+     "year": 1870,
+     "license": "CC BY-SA 3.0",
+     "image": "/media/places/cape-coast-castle/archive/3f8e871d41ce.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Ziekenhuis_te_Cape_Coast_TMnr_60024039.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "ROSSER(1869) p0652 CAPE COAST CASTLE",
+     "year": 1869,
+     "license": "Public domain",
+     "image": "/media/places/cape-coast-castle/archive/18775bc79e02.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:ROSSER(1869)_p0652_CAPE_COAST_CASTLE.jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Des fouilles attestent que la côte de l'actuel Ghana est habitée dès vers -4000 par des peuples pêcheurs, tandis que le centre du pays aurait été colonisé entre le IIe et le Ier millénaire av. J.-C. par des hommes venus du bassin du Niger [S2]. Al-Bakri décrit le royaume à l'époque du roi Tankâminîn [S2]. Au XIe siècle s'établit le royaume de Bono à la lisière forestière, entre États Akan du Sud et royaumes mossi [S2]. Au XVIIe siècle apparaissent Denkyira sur la côte et l'Ashanti avec Obiri Yeboa puis Osei Tutu Ier [S2]. En 1701, la bataille de Feyiase permet à la confédération ashanti de subjuguer Denkyira [S2]. Dès 1901, les colonisateurs fixent les frontières et rattachent l'Ashanti et le Nord à la colonie [S2]."
+   "narrative": "La côte de l'actuel Ghana est habitée dès -4000 par des peuples pêcheurs, tandis que le centre au nord de la forêt est colonisé entre le IIe et le Ier millénaire av. J.-C. par des populations venues du bassin du Niger [S2]. Al-Bakri décrit le royaume du Ouagadou à Koumbi Saleh sous Tankâminîn au XIe siècle où s'établit le royaume de Bono, centre commercial au XVe siècle noté « Bonnoe » en 1629, puis au XVIIe siècle apparaissent Denkyira et l'Ashanti d'Obiri Yeboa et d'Osei Tutu Ier victorieux à Feyiase en 1701 [S2]. Au XIXe siècle les Britanniques affrontent les Ashanti de Kumasi découverts en 1817 par Thomas Bodwich, défont le roi en 1874 avec les Fanti et fixent en 1901 les frontières en rattachant Ashanti et nord [S2]."
   },
   {
    "title": "Vers la décolonisation (1939)",
@@ -216,11 +308,95 @@
      "text": "Aux élections législatives qui suivent, Kwame Nkrumah devient chef du gouvernement local, et, en collaboration avec les autorités britanniques, il obtient l’indépendance, proclamée en janvier 1957.",
      "source": 3,
      "corroborated": false
+    },
+    {
+     "year": 1960,
+     "label": "1960",
+     "text": "En 1960, Nkrumah devient naturellement le premier président du pays.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1964,
+     "label": "1964",
+     "text": "Le collège électoral choisi comme président Edward Akufo-Addo, l'un des principaux hommes politiques nationalistes de l'United Gold Coast Convention (UGCC) qui, bien qu'ayant participé à la lutte pour l'indépendance aux côtés de Nkrumah, s’étaient opposé à lui à partir de 1964.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1966,
+     "label": "1966",
+     "text": "Un coup d'État militaire, le 24 février 1966, met fin à cette Première République.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1972,
+     "label": "1972",
+     "text": "Malgré un large soutien populaire lors de sa création et de fortes relations à l'étranger, le gouvernement de Busia tombe, victime d’un nouveau coup d’État de l’armée, après vingt-sept mois d’activité, le 13 janvier 1972 et alors qu’il est en traitement dans une clinique londonienne.",
+     "source": 3,
+     "corroborated": true
     }
    ],
    "start": 1939,
-   "end": 1957,
+   "end": 1972,
    "photos": [
+    {
+     "title": "Queensland State Archives 1716 Cattle property Upper Coomera Gold Coast July 1954",
+     "year": 1954,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Queensland_State_Archives_1716_Cattle_property_Upper_Coomera_Gold_Coast_July_1954.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Queensland_State_Archives_1716_Cattle_property_Upper_Coomera_Gold_Coast_July_1954.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Queensland State Archives 1717 Cattle property Upper Coomera Gold Coast July 1954",
+     "year": 1954,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Queensland_State_Archives_1717_Cattle_property_Upper_Coomera_Gold_Coast_July_1954.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Queensland_State_Archives_1717_Cattle_property_Upper_Coomera_Gold_Coast_July_1954.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Queensland State Archives 1718 Cattle property Upper Coomera Gold Coast July 1954",
+     "year": 1954,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Queensland_State_Archives_1718_Cattle_property_Upper_Coomera_Gold_Coast_July_1954.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Queensland_State_Archives_1718_Cattle_property_Upper_Coomera_Gold_Coast_July_1954.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Queensland State Archives 1719 Fence detail cattle property Upper Coomera Gold Coast July 1954",
+     "year": 1954,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Queensland_State_Archives_1719_Fence_detail_cattle_property_Upper_Coomera_Gold_Coast_July_1954.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Queensland_State_Archives_1719_Fence_detail_cattle_property_Upper_Coomera_Gold_Coast_July_1954.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Queensland State Archives 1723 Department of Agriculture and Stock Cattle Husbandry Branch field day at a farm in the Upper Coomera Gold Coast August 1954",
+     "year": 1954,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Queensland_State_Archives_1723_Department_of_Agriculture_and_Stock_Cattle_Husbandry_Branch_field_day_at_a_farm_in_the_Upper_Coomera_Gold_Coast_August_1954.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Queensland_State_Archives_1723_Department_of_Agriculture_and_Stock_Cattle_Husbandry_Branch_field_day_at_a_farm_in_the_Upper_Coomera_Gold_Coast_August_1954.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Queensland State Archives 1728 Department of Agriculture and Stock Cattle Husbandry Branch field day at a farm in the Upper Coomera Gold Coast August 1954",
+     "year": 1954,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Queensland_State_Archives_1728_Department_of_Agriculture_and_Stock_Cattle_Husbandry_Branch_field_day_at_a_farm_in_the_Upper_Coomera_Gold_Coast_August_1954.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Queensland_State_Archives_1728_Department_of_Agriculture_and_Stock_Cattle_Husbandry_Branch_field_day_at_a_farm_in_the_Upper_Coomera_Gold_Coast_August_1954.png",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Queensland State Archives 1868 Cattle grazing Woongoolba Gold Coast January 1956",
+     "year": 1956,
+     "license": "Public domain",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Queensland_State_Archives_1868_Cattle_grazing_Woongoolba_Gold_Coast_January_1956.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Queensland_State_Archives_1868_Cattle_grazing_Woongoolba_Gold_Coast_January_1956.png",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "Royal Air Force- West Africa Command, 1941-1945. CM3021",
      "year": 1941,
@@ -228,33 +404,9 @@
      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Royal_Air_Force-_West_Africa_Command%2C_1941-1945._CM3021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page_url": "https://commons.wikimedia.org/wiki/File:Royal_Air_Force-_West_Africa_Command,_1941-1945._CM3021.jpg",
      "source": "Wikimedia Commons"
-    },
-    {
-     "title": "British Overseas Airways Corporation and Qantas, 1940-1945. CH14063",
-     "year": 1940,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/British_Overseas_Airways_Corporation_and_Qantas%2C_1940-1945._CH14063.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:British_Overseas_Airways_Corporation_and_Qantas,_1940-1945._CH14063.jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "British Overseas Airways Corporation and Qantas, 1940-1945. CH14063 (cropped)",
-     "year": 1940,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/British_Overseas_Airways_Corporation_and_Qantas%2C_1940-1945._CH14063_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:British_Overseas_Airways_Corporation_and_Qantas,_1940-1945._CH14063_(cropped).jpg",
-     "source": "Wikimedia Commons"
-    },
-    {
-     "title": "IWM-CH14063 Ensign 205210607",
-     "year": 1940,
-     "license": "Public domain",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/IWM-CH14063_Ensign_205210607.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page_url": "https://commons.wikimedia.org/wiki/File:IWM-CH14063_Ensign_205210607.jpg",
-     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "En 1939, lors de la Seconde Guerre mondiale, le Royaume-Uni s'engage contre l'Allemagne nazie [S3]. Ses grandes villes sont bombardées et sa flotte est gravement endommagée [S3]. Deux ans après la guerre, en 1947, l'Inde, colonie gigantesque, devient indépendante [S3]. Un fait majeur dans le chemin vers l'indépendance a lieu en 1951 avec la victoire du Parti de la convention du peuple, fondé en 1949 par Kwame Nkrumah [S3]. Opposées au colonialisme, les superpuissances américaine et soviétique poussent la Grande-Bretagne à faire des réformes en 1956 [S3]. Devenu chef du gouvernement local après les élections législatives, Kwame Nkrumah obtient en collaboration avec les autorités britanniques l'indépendance proclamée en janvier 1957 [S3]. Le Ghana organise les 6e et 7e conférences panafricaines en 1953 à Kumasi et 1958 à Accra, cette dernière étant la première conférence des États Indépendants d'Afrique [S3]."
+   "narrative": "En 1939, lors de la Seconde Guerre mondiale, le Royaume-Uni s'engage contre l'Allemagne nazie [S3]. Les grandes villes britanniques sont bombardées et la flotte anglaise est gravement endommagée [S3]. L'Inde, colonie gigantesque, devient indépendante en 1947, deux ans après la guerre [S3]. Un fait majeur a lieu en 1951 avec la victoire du Convention People's Party (CPP), fondé en 1949 par Kwame Nkrumah [S3]. Aux élections législatives qui suivent, Nkrumah devient chef du gouvernement local et, en collaboration avec les autorités britanniques, obtient l'indépendance proclamée en janvier 1957 [S3]. En 1960, il devient le premier président du pays [S3]."
   }
  ],
  "sources": [
@@ -300,16 +452,16 @@
  ],
  "stats": {
   "chapters": 3,
-  "events": 15,
-  "corroborated": 4,
-  "share": 0.27,
+  "events": 23,
+  "corroborated": 8,
+  "share": 0.35,
   "span": [
    "1014",
-   "1957"
+   "1972"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "3c7f5b8ec9"
+ "run": "ce18b936a0"
 }

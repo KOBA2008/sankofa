@@ -33,6 +33,11 @@ class MetaClient:
     def text_live(self) -> bool:
         return self.live or self.baseten is not None
 
+    def engine_for(self, bulk: bool) -> str:
+        if bulk and self.baseten:
+            return f"meta:{(self.baseten_model or 'muse-spark-open').split('/')[-1]} (Baseten)"
+        return self.text_engine
+
     @property
     def text_engine(self) -> str:
         if self.live:
@@ -66,13 +71,15 @@ class MetaClient:
 
     # ------------------------------------------------------------------ Muse Spark
     def chat(self, system: str, user: str, images: list[Path] = (), json_mode: bool = False,
-             max_tokens: int = 1200) -> str | None:
+             max_tokens: int = 1200, bulk: bool = False) -> str | None:
+        """bulk=True : génération en série (chroniques) envoyée de préférence à Baseten pour ménager les crédits Meta."""
         if not self.text_live:
             return None
         content = [{"type": "text", "text": user}]
         for p in images:
             content.append({"type": "image_url", "image_url": {"url": self._data_url(p)}})
-        client, model = (self.client, config.MODEL_TEXT) if self.live else (self.baseten, self._baseten_model())
+        use_meta = self.live and not (bulk and self.baseten)
+        client, model = (self.client, config.MODEL_TEXT) if use_meta else (self.baseten, self._baseten_model())
         if not model:
             return None
         # Muse Spark (1.3 comme open) raisonne avant de répondre : effort réduit et large marge pour la
@@ -91,8 +98,8 @@ class MetaClient:
         except Exception as exc:
             return self._fail(exc)
 
-    def chat_json(self, system: str, user: str, images: list[Path] = ()) -> dict | None:
-        raw = self.chat(system, user, images, json_mode=True)
+    def chat_json(self, system: str, user: str, images: list[Path] = (), bulk: bool = False) -> dict | None:
+        raw = self.chat(system, user, images, json_mode=True, bulk=bulk)
         if not raw:
             return None
         m = re.search(r"\{.*\}", raw, re.S)

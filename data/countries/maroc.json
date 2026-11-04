@@ -23,6 +23,13 @@
    "summary": "L'histoire du Maroc et de son territoire remonte aux premiers peuplements du Paléolithique inférieur, dont certaines des plus anciennes traces ont été mises au jour à Djebel Irhoud. Durant l'Antiquité, la région connaît successivement des influences phéniciennes puis carthaginoises, parallèlement à l'émergence de royaumes berbères, notamment le royaume de Maurétanie.",
    "events": [
     {
+     "year": 698,
+     "label": "698",
+     "text": "La conquête musulmane du Maghreb s'interrompt quelque temps avant qu'Hassan Ibn Numan ne capture l'Exarchat de Carthage, dirigeant ensuite son armée vers la partie occidentale du Maghreb. toutefois, il est défait lors de la bataille de l'oued Nini en 698 par l'armée berbère de la reine Kahina.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
      "year": 757,
      "label": "757",
      "text": "La carte du Maghreb se morcelle alors en une série de petits États indépendants dont les principaux sont les royaumes sufrite de Tlemcen ainsi que l'Émirat de Nekor, le royaume Berghouata et l'Émirat de Sijilmassa (fondé en 757).",
@@ -37,9 +44,30 @@
      "corroborated": true
     },
     {
+     "year": 1672,
+     "label": "1672",
+     "text": "L'un des plus illustres Alaouites est le sultan Moulay Ismaïl, deuxième souverain de la dynastie, à qui les chroniqueurs et les témoins d'époque s'accordent à donner 26 ans lors de son avènement (1672).",
+     "source": 1,
+     "corroborated": true
+    },
+    {
+     "year": 1786,
+     "label": "1786",
+     "text": "Le sultan établit une amitié épistolaire avec George Washington, ce qui vaut aux États-Unis de conclure avec le Maroc un traité de paix, d'amitié et de commerce le 16 juillet 1786 (pour une durée de cinquante ans, renouvelé par le traité de Meknès de 1836).",
+     "source": 1,
+     "corroborated": false
+    },
+    {
      "year": 1850,
      "label": "XIXe s.",
      "text": "Au cours du XIXe siècle, le Maroc fait face à une pression croissante des puissances européennes et se trouve impliqué dans plusieurs conflits liés à l'expansion coloniale, notamment dans le contexte de la conquête de l'Algérie par la France, de la guerre franco-marocaine de 1844 et de la guerre hispano-marocaine de 1859-1860.",
+     "source": 1,
+     "corroborated": false
+    },
+    {
+     "year": 1870,
+     "label": "1870",
+     "text": "Grant, sortis depuis peu de leur guerre de Sécession, sous forme d'un protectorat américain sur l'Empire chérifien, afin de se soustraire aux pressions anglo-espagnoles (la France étant momentanément absente de la scène nord-africaine en raison de sa défaite face aux Allemands en 1870).",
      "source": 1,
      "corroborated": false
     },
@@ -65,9 +93,49 @@
      "corroborated": false
     }
    ],
-   "start": 757,
+   "start": 698,
    "end": 1934,
    "photos": [
+    {
+     "title": "Courtyard, Tetuan, Morocco MET DT267399",
+     "year": 1879,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Courtyard%2C_Tetuan%2C_Morocco_MET_DT267399.jpg/960px-Courtyard%2C_Tetuan%2C_Morocco_MET_DT267399.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Courtyard,_Tetuan,_Morocco_MET_DT267399.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Courtyard, Tetuan, Morocco MET ap50.130.6",
+     "year": 1879,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Courtyard%2C_Tetuan%2C_Morocco_MET_ap50.130.6.jpg/960px-Courtyard%2C_Tetuan%2C_Morocco_MET_ap50.130.6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Courtyard,_Tetuan,_Morocco_MET_ap50.130.6.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Open Doorway, Morocco MET DT355151",
+     "year": 1879,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Open_Doorway%2C_Morocco_MET_DT355151.jpg/960px-Open_Doorway%2C_Morocco_MET_DT355151.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Open_Doorway,_Morocco_MET_DT355151.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Open Doorway, Morocco MET ap50.130.5",
+     "year": 1879,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Open_Doorway%2C_Morocco_MET_ap50.130.5.jpg/960px-Open_Doorway%2C_Morocco_MET_ap50.130.5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Open_Doorway,_Morocco_MET_ap50.130.5.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "White Walls in Sunlight, Morocco MET ap50.130.4",
+     "year": 1879,
+     "license": "CC0",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/White_Walls_in_Sunlight%2C_Morocco_MET_ap50.130.4.jpg/960px-White_Walls_in_Sunlight%2C_Morocco_MET_ap50.130.4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:White_Walls_in_Sunlight,_Morocco_MET_ap50.130.4.jpg",
+     "source": "Wikimedia Commons"
+    },
     {
      "title": "Marrakech-Koutoubia 1919",
      "year": 1919,
@@ -77,31 +145,23 @@
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Koutoubia Moskee in Marrakech",
-     "year": 1923,
+     "title": "Benjamin Constant, Moroccan women, Tangiers",
+     "year": 1850,
      "license": "Public domain",
-     "image": "/media/places/marrakech-jemaa-el-fna/archive/61c3119c6df9.jpg",
-     "page_url": "https://www.europeana.eu/item/90402/RP_T_1949_677_15?utm_source=api&utm_medium=api&utm_campaign=api2demo",
-     "source": "Europeana · Rijksmuseum"
+     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Benjamin_Constant%2C_Moroccan_women%2C_Tangiers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Constant,_Moroccan_women,_Tangiers.jpg",
+     "source": "Wikimedia Commons"
     },
     {
-     "title": "Toren van de Koutoubia Moskee in Marrakech",
-     "year": 1923,
+     "title": "Embroidery (Morocco), 19th century (CH 18570963)",
+     "year": 1850,
      "license": "Public domain",
-     "image": "/media/places/marrakech-jemaa-el-fna/archive/2a71ebe42035.jpg",
-     "page_url": "https://www.europeana.eu/item/90402/RP_T_1949_677_17?utm_source=api&utm_medium=api&utm_campaign=api2demo",
-     "source": "Europeana · Rijksmuseum"
-    },
-    {
-     "title": "Historical photo of Jamaa el Fna in Marrakech",
-     "year": 1925,
-     "license": "Public domain",
-     "image": "/media/places/marrakech-jemaa-el-fna/archive/bf047ccbeb9c.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Historical_photo_of_Jamaa_el_Fna_in_Marrakech.jpg",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Embroidery_%28Morocco%29%2C_19th_century_%28CH_18570963%29.jpg/960px-Embroidery_%28Morocco%29%2C_19th_century_%28CH_18570963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Embroidery_(Morocco),_19th_century_(CH_18570963).jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "L’histoire du Maroc remonte aux premiers peuplements du Paléolithique inférieur, dont certaines des plus anciennes traces ont été mises au jour à Djebel Irhoud [S1]. Durant l’Antiquité, la région connaît des influences phéniciennes puis carthaginoises parallèlement à l’émergence de royaumes berbères comme celui de Maurétanie [S1]. Au VIIIe siècle, le Maghreb se morcelle en petits États dont l’Émirat de Sijilmassa fondé en 757, puis Idris Ier fonde en 788 l’État idrisside [S1]. Au XIXe siècle, le Maroc subit la pression européenne avec la guerre franco-marocaine de 1844 et la guerre hispano-marocaine de 1859-1860 [S1]. La politique d’Abd al-Aziz mène à la quasi-faillite et aboutit en 1912 au traité de Fès instaurant le protectorat français et espagnol [S1]. En 1934, Mohamed Hassan Ouazzani, rival d’Allal El Fassi, fonde le PDI en exil intérieur [S1]."
+   "narrative": "L'histoire du Maroc remonte aux premiers peuplements du Paléolithique inférieur dont des traces ont été trouvées à Djebel Irhoud, puis aux influences phéniciennes et carthaginoises parallèlement aux royaumes berbères comme la Maurétanie [S1]. En 698, Hassan Ibn Numan capture l'Exarchat de Carthage avant d'être défait par l'armée de la reine Kahina à l'oued Nini [S1]. En 788, Idris Ier fonde la dynastie des Idrissides après avoir fui les Abbassides [S1]. Moulay Ismaïl devient sultan en 1672 à 26 ans selon les chroniqueurs [S1]. Le Maroc signe en 1786 un traité de paix avec les États-Unis après une amitié épistolaire entre le sultan et George Washington [S1]. Au XIXe siècle, il subit la pression européenne et en 1912 le traité de Fès instaure le protectorat français [S1]."
   },
   {
    "title": "Historiographie du Maroc",
@@ -141,7 +201,7 @@
    "start": 1050,
    "end": 1750,
    "photos": [],
-   "narrative": "L'histoire du Maroc pose des défis méthodologiques pour toute synthèse encyclopédique ou chronologique, notamment la divergence entre spécialistes sur la datation de certains événements ou règnes qui impose des arbitrages entre sources primaires et historiographie secondaire [S2]. La période du VIIe au XIe siècle est traitée par Mohammed El Fasi dans l'Histoire générale de l'Afrique [S2]. Le Rawd al-qirtas d'Alī ibn Abd Allāh ibn Abī Zar al-Fāsī, écrit vers 1326, couvre l'histoire des souverains du Maghreb et les annales de Fès des Idrissides aux Mérinides [S2]. Les volumes dirigés par Djibril Tamsir Niane et Mohammed El Fasi couvrent respectivement L'Afrique du XIIe au XVIe siècle et du XVIe au XVIIIe siècle [S2]."
+   "narrative": "L'établissement d'une synthèse encyclopédique ou chronologique sur l'histoire du Maroc se heurte à plusieurs défis méthodologiques récurrents [S2]. La divergence entre spécialistes quant à la datation exacte de certains événements ou règnes nécessite fréquemment des arbitrages critiques entre sources primaires et historiographie secondaire [S2]. Parmi les références mobilisées figurent l'ouvrage de Mohammed El Fasi sur l'Afrique du VIIe au XIe siècle [S2], le Rawd al-qirtās d'Alī ibn Abd Allāh ibn Abī Zar al-Fāsī écrit vers 1326 [S2], ainsi que les volumes de l'Histoire générale de l'Afrique dirigés par Djibril Tamsir Niane pour la période du XIIe au XVIe siècle [S2] et par Mohammed El Fasi pour la période du XVIe au XVIIIe siècle [S2]."
   }
  ],
  "sources": [
@@ -173,22 +233,22 @@
  "gaps": [
   {
    "from": null,
-   "to": 757,
-   "text": "Avant 757, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": 698,
+   "text": "Avant 698, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
   }
  ],
  "stats": {
   "chapters": 2,
-  "events": 10,
-  "corroborated": 1,
-  "share": 0.1,
+  "events": 14,
+  "corroborated": 2,
+  "share": 0.14,
   "span": [
-   "757",
+   "698",
    "1934"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "6128b103cf"
+ "run": "840629f1ca"
 }

@@ -168,24 +168,6 @@
   "currents": [
     {
       "source": "Wikimedia Commons",
-      "title": "Drawing a henna, Jemaa el-Fnaa, Marrakesh (وشم الحناء، جامع الفنا، مراكش)",
-      "file": "Drawing a henna, Jemaa el-Fnaa, Marrakesh (وشم الحناء، جامع الفنا، مراكش).jpg",
-      "date_raw": "2024-03-23 12:23:06",
-      "year": 2024,
-      "license": "CC BY-SA 4.0",
-      "artist": "Petar Milošević",
-      "credit": "Own work",
-      "description": "Drawing a henna, Jemaa el-Fnaa, Marrakesh, Morocco",
-      "page_url": "https://commons.wikimedia.org/wiki/File:Drawing_a_henna,_Jemaa_el-Fnaa,_Marrakesh_(%D9%88%D8%B4%D9%85_%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1%D8%8C_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%8C_%D9%85%D8%B1%D8%A7%D9%83%D8%B4).jpg",
-      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Drawing_a_henna%2C_Jemaa_el-Fnaa%2C_Marrakesh_%28%D9%88%D8%B4%D9%85_%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1%D8%8C_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%8C_%D9%85%D8%B1%D8%A7%D9%83%D8%B4%29.jpg/1920px-Drawing_a_henna%2C_Jemaa_el-Fnaa%2C_Marrakesh_%28%D9%88%D8%B4%D9%85_%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1%D8%8C_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%8C_%D9%85%D8%B1%D8%A7%D9%83%D8%B4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "width": 1600,
-      "height": 1237,
-      "score": 9.5,
-      "id": "current-00",
-      "path": "marrakech-jemaa-el-fna/current/89fbb2721df1.jpg"
-    },
-    {
-      "source": "Wikimedia Commons",
       "title": "Jemaa el-Fnaa Marrakech at sunset",
       "file": "Jemaa el-Fnaa Marrakech at sunset.jpg",
       "date_raw": "2024-11-18 18:35:11",
@@ -199,7 +181,7 @@
       "width": 1600,
       "height": 1200,
       "score": 9.5,
-      "id": "current-01",
+      "id": "current-00",
       "path": "marrakech-jemaa-el-fna/current/a2e7ba688baf.jpg"
     },
     {
@@ -217,7 +199,7 @@
       "width": 1600,
       "height": 2133,
       "score": 9.43,
-      "id": "current-02",
+      "id": "current-01",
       "path": "marrakech-jemaa-el-fna/current/156da8ddcab7.jpg"
     },
     {
@@ -235,7 +217,7 @@
       "width": 1600,
       "height": 1067,
       "score": 9.43,
-      "id": "current-04",
+      "id": "current-03",
       "path": "marrakech-jemaa-el-fna/current/959584098ac4.jpg"
     },
     {
@@ -253,7 +235,7 @@
       "width": 1600,
       "height": 1207,
       "score": 9.37,
-      "id": "current-05",
+      "id": "current-04",
       "path": "marrakech-jemaa-el-fna/current/8ef3fa75dd7e.jpg"
     },
     {
@@ -271,7 +253,7 @@
       "width": 1600,
       "height": 901,
       "score": 9.37,
-      "id": "current-06",
+      "id": "current-05",
       "path": "marrakech-jemaa-el-fna/current/4c8eea3c47ce.jpg"
     },
     {
@@ -290,7 +272,7 @@
       "height": 1067,
       "geo_dist": 15.9,
       "score": 9.37,
-      "id": "current-07",
+      "id": "current-06",
       "path": "marrakech-jemaa-el-fna/current/a134fd386b40.jpg"
     },
     {
@@ -309,7 +291,7 @@
       "height": 1067,
       "geo_dist": 15.9,
       "score": 9.37,
-      "id": "current-08",
+      "id": "current-07",
       "path": "marrakech-jemaa-el-fna/current/01f3dca89a92.jpg"
     },
     {
@@ -328,8 +310,62 @@
       "height": 1200,
       "geo_dist": 18.7,
       "score": 9.37,
-      "id": "current-09",
+      "id": "current-08",
       "path": "marrakech-jemaa-el-fna/current/c8bacb34858d.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Jemaa El Fna Square Marrakech Morocco 173933 (49701985992)",
+      "file": "Jemaa El Fna Square Marrakech Morocco 173933 (49701985992).jpg",
+      "date_raw": "2020-03-09 16:39",
+      "year": 2020,
+      "license": "CC BY 2.0",
+      "artist": "bobistraveling",
+      "credit": "Jemaa El Fna Square Marrakech Morocco 173933",
+      "description": "Jemaa El Fna Square Marrakech Morocco 173933",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Jemaa_El_Fna_Square_Marrakech_Morocco_173933_(49701985992).jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Jemaa_El_Fna_Square_Marrakech_Morocco_173933_%2849701985992%29.jpg/1920px-Jemaa_El_Fna_Square_Marrakech_Morocco_173933_%2849701985992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 900,
+      "score": 9.23,
+      "id": "current-09",
+      "path": "marrakech-jemaa-el-fna/current/a0a8b68d4d18.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Jemaa El Fnaa 7",
+      "file": "Jemaa El Fnaa 7.jpg",
+      "date_raw": "2019-09-21 12:00:44",
+      "year": 2019,
+      "license": "CC BY-SA 4.0",
+      "artist": "Jonjobaker",
+      "credit": "Own work",
+      "description": "Jemaa El Fnaa 7",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Jemaa_El_Fnaa_7.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jemaa_El_Fnaa_7.jpg/1920px-Jemaa_El_Fnaa_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 1067,
+      "score": 9.17,
+      "id": "current-10",
+      "path": "marrakech-jemaa-el-fna/current/7fbf8de2b1c1.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Jemaa el-Fnaa Door",
+      "file": "Jemaa el-Fnaa Door.jpg",
+      "date_raw": "2019-10-08 14:03:49",
+      "year": 2019,
+      "license": "CC BY-SA 4.0",
+      "artist": "Hamed Gamaoun",
+      "credit": "Own work",
+      "description": "Door Jemaa el-Fnaa",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Jemaa_el-Fnaa_Door.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Jemaa_el-Fnaa_Door.jpg/1920px-Jemaa_el-Fnaa_Door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 2406,
+      "score": 9.17,
+      "id": "current-11",
+      "path": "marrakech-jemaa-el-fna/current/6c5941282a41.jpg"
     }
   ]
 }

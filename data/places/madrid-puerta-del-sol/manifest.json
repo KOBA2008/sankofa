@@ -39,6 +39,24 @@
     },
     {
       "source": "Wikimedia Commons",
+      "title": "Gezicht op Puerta del Sol in Madrid, RP-F-F16045-A",
+      "file": "Gezicht op Puerta del Sol in Madrid, RP-F-F16045-A.jpg",
+      "date_raw": "between 1880 and 1920 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1880-00-00T00:00:",
+      "year": 1880,
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "credit": "http://hdl.handle.net/10934/RM0001.COLLECT.254328",
+      "description": "Identificatie Titel(s): Gezicht op Puerta del Sol in Madrid Objecttype: foto Objectnummer: RP-F-F16045-A Opschriften / Merken: opschrift, recto onder, geschreven: ‘Madrid Puerta del Sol’ Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: onbekend Datering: 1880 - 1920 Fysieke kenmerken: albuminedruk Materiaal: papier karton Techniek: albuminedruk Afmetingen: foto: h 168 mm × b 224 mm, blad: h 259 mm × b 332 mm Onderwerp Waar: Madrid Verwerving en rechten Verwerving: overdracht van beheer 1994 Copyright: Publiek domein",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Puerta_del_Sol_in_Madrid,_RP-F-F16045-A.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Gezicht_op_Puerta_del_Sol_in_Madrid%2C_RP-F-F16045-A.jpg/1920px-Gezicht_op_Puerta_del_Sol_in_Madrid%2C_RP-F-F16045-A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 1245,
+      "score": 8.17,
+      "id": "archive-02",
+      "path": "madrid-puerta-del-sol/archive/945982181fea.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
       "title": "Fotografi av Madrid. Vista general de la Puerta del Sol - Hallwylska museet - 104981",
       "file": "Fotografi av Madrid. Vista general de la Puerta del Sol - Hallwylska museet - 104981.tif",
       "date_raw": "before 1895 date QS:P571,+1895-00-00T00:00:00Z/7,P1326,+1895-00-00T00:00:00Z/9",
@@ -52,7 +70,7 @@
       "width": 1600,
       "height": 1135,
       "score": 7.17,
-      "id": "archive-02",
+      "id": "archive-03",
       "path": "madrid-puerta-del-sol/archive/476705a325fc.jpg"
     },
     {
@@ -70,7 +88,7 @@
       "width": 1600,
       "height": 1329,
       "score": 7.17,
-      "id": "archive-03",
+      "id": "archive-04",
       "path": "madrid-puerta-del-sol/archive/8d33eed12481.jpg"
     },
     {
@@ -88,8 +106,26 @@
       "width": 1600,
       "height": 1163,
       "score": 6.63,
-      "id": "archive-04",
+      "id": "archive-05",
       "path": "madrid-puerta-del-sol/archive/8566c2b93ac0.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Gezicht op het Puerta del Sol te Madrid Madrid, Puerta del Sol. (titel op object), RP-F-F07737",
+      "file": "Gezicht op het Puerta del Sol te Madrid Madrid, Puerta del Sol. (titel op object), RP-F-F07737.jpg",
+      "date_raw": "ca. 1850 - voor 1880",
+      "year": 1850,
+      "license": "CC0",
+      "artist": "Rijksmuseum",
+      "credit": "http://hdl.handle.net/10934/RM0001.COLLECT.268353",
+      "description": "Identificatie Titel(s): Gezicht op het Puerta del Sol te Madrid. Madrid, Puerta del Sol. (titel op object) Objecttype: stereofoto Objectnummer: RP-F-F07737 Opschriften / Merken: opschrift, recto, gedrukt: ‘España’nummer, recto, gedrukt: ‘10’ Vervaardiging Vervaardiger: fotograaf: anoniem Plaats vervaardiging: Palacio de Galiana Datering: ca. 1850 - voor 1880 Fysieke kenmerken: albuminedruk Materiaal: karton fotopapier Techniek: albuminedruk Afmetingen: secundaire drager: h 85 mm × b 170 mm Onderwerp Wat: square, place, circus, etc. Waar: Palacio de Galiana Verwerving en rechten Verwerving: ove",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Puerta_del_Sol_te_Madrid_Madrid,_Puerta_del_Sol._(titel_op_object),_RP-F-F07737.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Gezicht_op_het_Puerta_del_Sol_te_Madrid_Madrid%2C_Puerta_del_Sol._%28titel_op_object%29%2C_RP-F-F07737.jpg/1920px-Gezicht_op_het_Puerta_del_Sol_te_Madrid_Madrid%2C_Puerta_del_Sol._%28titel_op_object%29%2C_RP-F-F07737.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 802,
+      "score": 6.5,
+      "id": "archive-06",
+      "path": "madrid-puerta-del-sol/archive/8b3b9082258d.jpg"
     },
     {
       "source": "Europeana · Digital Library of Madrid",
@@ -106,7 +142,7 @@
       "width": null,
       "height": null,
       "score": 5.67,
-      "id": "archive-05",
+      "id": "archive-07",
       "path": "madrid-puerta-del-sol/archive/cec3827164b1.jpg"
     },
     {
@@ -124,7 +160,7 @@
       "width": 1600,
       "height": 1156,
       "score": 5.5,
-      "id": "archive-06",
+      "id": "archive-08",
       "path": "madrid-puerta-del-sol/archive/629c0d5b1a34.jpg"
     },
     {
@@ -142,7 +178,7 @@
       "width": 1600,
       "height": 1279,
       "score": 4.83,
-      "id": "archive-07",
+      "id": "archive-09",
       "path": "madrid-puerta-del-sol/archive/e4448f0e61b9.jpg"
     },
     {
@@ -160,7 +196,7 @@
       "width": null,
       "height": null,
       "score": 4.6,
-      "id": "archive-08",
+      "id": "archive-10",
       "path": "madrid-puerta-del-sol/archive/459692f038c5.jpg"
     },
     {
@@ -178,7 +214,7 @@
       "width": null,
       "height": null,
       "score": 4.6,
-      "id": "archive-09",
+      "id": "archive-11",
       "path": "madrid-puerta-del-sol/archive/b6b8b72bd445.jpg"
     },
     {
@@ -196,7 +232,7 @@
       "width": null,
       "height": null,
       "score": 4.6,
-      "id": "archive-10",
+      "id": "archive-12",
       "path": "madrid-puerta-del-sol/archive/cf9c37777aaf.jpg"
     },
     {
@@ -214,7 +250,7 @@
       "width": null,
       "height": null,
       "score": 4.6,
-      "id": "archive-11",
+      "id": "archive-13",
       "path": "madrid-puerta-del-sol/archive/11f14a7a37e7.jpg"
     },
     {
@@ -232,7 +268,7 @@
       "width": null,
       "height": null,
       "score": 4.6,
-      "id": "archive-12",
+      "id": "archive-14",
       "path": "madrid-puerta-del-sol/archive/564b50f6dc81.jpg"
     },
     {
@@ -250,7 +286,7 @@
       "width": 1600,
       "height": 1066,
       "score": 4.5,
-      "id": "archive-13",
+      "id": "archive-15",
       "path": "madrid-puerta-del-sol/archive/8628f28a7a84.jpg"
     },
     {
@@ -268,8 +304,44 @@
       "width": null,
       "height": null,
       "score": 4.47,
-      "id": "archive-14",
+      "id": "archive-16",
       "path": "madrid-puerta-del-sol/archive/706d3200a9ed.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Publi S.F. 26",
+      "file": "Publi S.F. 26.jpg",
+      "date_raw": "1920s date QS:P,+1920-00-00T00:00:00Z/8",
+      "year": 1920,
+      "license": "Public domain",
+      "artist": "Unknown author Unknown author",
+      "credit": "Private collection institution QS:P195,somevalue,P3831,Q768717",
+      "description": "Anuncio de los Almacenes \"Puerta del Sol\". Madrid",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Publi_S.F._26.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Publi_S.F._26.jpg/1920px-Publi_S.F._26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 2198,
+      "score": 4.17,
+      "id": "archive-17",
+      "path": "madrid-puerta-del-sol/archive/f8454f47d1e6.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "1878-01-30, La Ilustración Española y Americana, Festejos reales en Madrid, Pellicer",
+      "file": "1878-01-30, La Ilustración Española y Americana, Festejos reales en Madrid, Pellicer.jpg",
+      "date_raw": "Published on 30 January 1878",
+      "year": 1878,
+      "license": "Public domain",
+      "artist": "Josep Lluis Pellicer / Enrique Alba",
+      "credit": "( 1878-01-30 ). \" Festejos reales en Madrid \". La Ilustración Española y Americana XXII (4): 69. ISSN 1889-8394 . From Biblioteca Nacional de España (CC BY 4.0)",
+      "description": "Clarines de los cuerpos montados de la guarnición tocando diana militar en la Puerta del Sol, en la mañana del 23.—(Dibujo del natural, por el Sr. Pellicer).",
+      "page_url": "https://commons.wikimedia.org/wiki/File:1878-01-30,_La_Ilustraci%C3%B3n_Espa%C3%B1ola_y_Americana,_Festejos_reales_en_Madrid,_Pellicer.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/1878-01-30%2C_La_Ilustraci%C3%B3n_Espa%C3%B1ola_y_Americana%2C_Festejos_reales_en_Madrid%2C_Pellicer.jpg/1920px-1878-01-30%2C_La_Ilustraci%C3%B3n_Espa%C3%B1ola_y_Americana%2C_Festejos_reales_en_Madrid%2C_Pellicer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 1111,
+      "score": 4.03,
+      "id": "archive-18",
+      "path": "madrid-puerta-del-sol/archive/127d50a683c3.jpg"
     },
     {
       "source": "Europeana · Digital Library of Madrid",
@@ -286,8 +358,98 @@
       "width": null,
       "height": null,
       "score": 3.67,
-      "id": "archive-15",
+      "id": "archive-19",
       "path": "madrid-puerta-del-sol/archive/9a837db8c173.jpg"
+    },
+    {
+      "source": "Europeana · Digital Library of Madrid",
+      "title": "Tiro deportivo : [impresos relativos al tiro de pichón en Madrid en 1880",
+      "file": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_611091_ent0",
+      "date_raw": "1880",
+      "year": 1880,
+      "license": "Public domain",
+      "artist": "",
+      "credit": "Digital Library of Madrid",
+      "description": "En dos de los documentos aparece en la parte inferior: \"Exposición, Puerta del Sol 14\"",
+      "page_url": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_611091_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "thumb_url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=12292685",
+      "width": null,
+      "height": null,
+      "score": 3.67,
+      "id": "archive-20",
+      "path": "madrid-puerta-del-sol/archive/f8f8dd5f169b.jpg"
+    },
+    {
+      "source": "Europeana · Digital Library of Madrid",
+      "title": "[Vandel] : [foto de estudio]",
+      "file": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_16690_ent0",
+      "date_raw": "1926",
+      "year": 1926,
+      "license": "Public domain",
+      "artist": "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:16690#ent2",
+      "credit": "Digital Library of Madrid",
+      "description": "Alcance y contenido: Retrato fotográfico del conocido operario de cámara y fotógrafo Juan Pacheco Vandel que vestido con gorra y chaqueta de lana apoya el brazo sobre el tomavistas que está colocado sobre un trípode, quizás en el propio estudio fotográfico que Vandel poseía en la Puerta del Sol de Madrid",
+      "page_url": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_16690_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "thumb_url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=11887245",
+      "width": null,
+      "height": null,
+      "score": 3.27,
+      "id": "archive-21",
+      "path": "madrid-puerta-del-sol/archive/4568e1a56eab.jpg"
+    },
+    {
+      "source": "Europeana · Digital Library of Madrid",
+      "title": "[Camión repartiendo periódicos] : [Madrid]",
+      "file": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_24640_ent0",
+      "date_raw": "1934",
+      "year": 1934,
+      "license": "Public domain",
+      "artist": "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:24640#ent2",
+      "credit": "Digital Library of Madrid",
+      "description": "Alcance y contenido: Instantánea de un grupo de personas alzando los brazos para recibir la prensa que están repartiendo desde un camión aparcado en la madrileña Puerta del Sol",
+      "page_url": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_24640_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "thumb_url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=12131554",
+      "width": null,
+      "height": null,
+      "score": 2.73,
+      "id": "archive-22",
+      "path": "madrid-puerta-del-sol/archive/93ff51087036.jpg"
+    },
+    {
+      "source": "Europeana · Library of the Bar Association of Madrid",
+      "title": "Marqués de Casa Fontanellas con Fallola",
+      "file": "/880/https___hispana_mcu_es_lod_oai_patrimoniodocumental_icam_es_95781_ent0",
+      "date_raw": "1864",
+      "year": 1864,
+      "license": "Public domain",
+      "artist": "",
+      "credit": "Library of the Bar Association of Madrid",
+      "description": "Sumario: Poder de Juan Manzanedo, marqués de Manzanedo, vecino de Madrid, para gestionar los contratos de arrendamiento de la casa situada en la Puerta del Sol, esquina a la calle de Alcalá y Carrera de San Jerónimo, solar que fue del Buen Suceso, comprada al marqués de Casa Fontanellas.",
+      "page_url": "https://www.europeana.eu/item/880/https___hispana_mcu_es_lod_oai_patrimoniodocumental_icam_es_95781_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "thumb_url": "https://patrimoniodocumental.icam.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=11184882",
+      "width": null,
+      "height": null,
+      "score": 2.6,
+      "id": "archive-23",
+      "path": "madrid-puerta-del-sol/archive/200b78c9d7dc.jpg"
+    },
+    {
+      "source": "Europeana · Digital Library of Madrid",
+      "title": "[Propaganda de guerra]",
+      "file": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_24564_ent0",
+      "date_raw": "1937",
+      "year": 1937,
+      "license": "Public domain",
+      "artist": "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:24564#ent2",
+      "credit": "Digital Library of Madrid",
+      "description": "Alcance y contenido: Instantánea del edificio que alberga el emblemático comercio \"La Mallorquina\" en la madrileña Puerta del Sol. Sobre la fachada cuelga un cartel de grandes dimensiones, de la Junta Delegada de Defensa, instando a la población a evacuar Madrid",
+      "page_url": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_24564_ent0?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "thumb_url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=12131462",
+      "width": null,
+      "height": null,
+      "score": 2.53,
+      "id": "archive-24",
+      "path": "madrid-puerta-del-sol/archive/2a32382be737.jpg"
     }
   ],
   "currents": [
@@ -478,6 +640,44 @@
       "score": 8.77,
       "id": "current-09",
       "path": "madrid-puerta-del-sol/current/f1514fec3c1d.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Madrid - Fuera mafia, hola democracia - 131005 190716",
+      "file": "Madrid - Fuera mafia, hola democracia - 131005 190716.jpg",
+      "date_raw": "2013-10-05 19:07:16",
+      "year": 2013,
+      "license": "CC BY-SA 3.0",
+      "artist": "Barcex",
+      "credit": "Own work",
+      "description": "Manifestación \"Fuera mafia, hola democracia\", Puerta del Sol, Madrid.",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Madrid_-_Fuera_mafia,_hola_democracia_-_131005_190716.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Madrid_-_Fuera_mafia%2C_hola_democracia_-_131005_190716.jpg/1920px-Madrid_-_Fuera_mafia%2C_hola_democracia_-_131005_190716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 2133,
+      "geo_dist": 7.8,
+      "score": 8.77,
+      "id": "current-10",
+      "path": "madrid-puerta-del-sol/current/92141b3da77b.jpg"
+    },
+    {
+      "source": "Wikimedia Commons",
+      "title": "Madrid - Fuera mafia, hola democracia - 131005 194252",
+      "file": "Madrid - Fuera mafia, hola democracia - 131005 194252.jpg",
+      "date_raw": "2013-10-05 19:42:52",
+      "year": 2013,
+      "license": "CC BY-SA 3.0",
+      "artist": "Barcex",
+      "credit": "Own work",
+      "description": "Manifestación \"Fuera mafia, hola democracia\", Puerta del Sol, Madrid.",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Madrid_-_Fuera_mafia,_hola_democracia_-_131005_194252.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Madrid_-_Fuera_mafia%2C_hola_democracia_-_131005_194252.jpg/1920px-Madrid_-_Fuera_mafia%2C_hola_democracia_-_131005_194252.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 1600,
+      "height": 2400,
+      "geo_dist": 8,
+      "score": 8.77,
+      "id": "current-11",
+      "path": "madrid-puerta-del-sol/current/79a48f648f97.jpg"
     }
   ]
 }

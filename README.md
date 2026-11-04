@@ -40,6 +40,8 @@ Every region of the image gets a verdict: **documented** (green), **unchanged** 
 
 *Notre-Dame de Paris: a real press photograph from 1912 (crowd, flags) is warped onto a 2014 view. SAM 3.1 outlines the buildings; the cathedral is classified as unchanged.*
 
+Each place also gets **its own dated history**: up to 16 events quoted word for word from its Wikipedia article (Notre-Dame from 1431 to its 2023 restoration, Hagia Sophia from 325, the Great Mosque of Djenné from 1238), cross-checked against the article in the other language, shown on the place page and woven into its narrative and documentary.
+
 A **re-photography guide** overlays the archive on the phone camera, so anyone standing in the street can find the exact angle of the 1900 photographer and give the agent a perfect match.
 
 ### 2. Country chronicles: history told only by its sources
@@ -74,7 +76,7 @@ Documentaries export to **MP4** (1280×720, H.264 + AAC) with ffmpeg.
 
 ## Coverage
 
-**16 places in 15 countries, 213 archive documents, 15 country chronicles.**
+**16 places in 15 countries, 350 archive documents, a dated history for every place, and 15 country chronicles with more than 550 cited events.**
 
 | Continent | Places |
 |---|---|
@@ -160,7 +162,7 @@ Add a place: one entry in `backend/sankofa/places.py`, then `cd backend && ../.v
 
 ## Data and licenses
 
-- **Archives**: Wikimedia Commons (keyword and GPS search) and Europeana (Rijksmuseum, national archives). Only open licenses are kept: public domain, CC0, CC BY, CC BY-SA, Open Government Licence. Collections include Albert Kahn's *Archives of the Planet* (1930 autochromes of Porto-Novo), the Library of Congress, the Bibliothèque nationale de France, the Tropenmuseum and the UK National Archives. Each image keeps its author, license and link in its place manifest and in the app.
+- **Archives**: Wikimedia Commons (keyword, decade and GPS search) and Europeana (Rijksmuseum, national archives). Only open licenses are kept: public domain, CC0, CC BY, CC BY-SA, Open Government Licence. Collections include Albert Kahn's *Archives of the Planet* (1930 autochromes of Porto-Novo), the Library of Congress, the Bibliothèque nationale de France, the Tropenmuseum and the UK National Archives. Each image keeps its author, license and link in its place manifest and in the app.
 - **Texts**: Wikipedia, CC BY-SA 4.0, cited section by section.
 - **Music**: public-domain and openly licensed recordings from Wikimedia Commons (including Musopen), credited in every documentary.
 - **Fonts**: Instrument Serif, Inter and JetBrains Mono, SIL Open Font License.

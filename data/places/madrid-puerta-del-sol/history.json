@@ -1,0 +1,109 @@
+{
+ "place": "madrid-puerta-del-sol",
+ "lang": "en",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Puerta del Sol",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  },
+  {
+   "n": 2,
+   "title": "Puerta del Sol",
+   "url": "https://fr.wikipedia.org/wiki/Puerta_del_Sol",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  }
+ ],
+ "events": [
+  {
+   "year": 1150,
+   "label": "12e s.",
+   "text": "Outside the wall, medieval suburbs began to grow around the Christian Wall of the 12th century.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#History",
+   "corroborated": false
+  },
+  {
+   "year": 1450,
+   "label": "15e s.",
+   "text": "The Puerta del Sol originated as one of the gates in the city wall that surrounded Madrid in the 15th century.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#History",
+   "corroborated": false
+  },
+  {
+   "year": 1766,
+   "label": "1766",
+   "text": "The House of the Post Office was built by French architect Jacques Marquet between 1766 and 1768.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#History",
+   "corroborated": false
+  },
+  {
+   "year": 1808,
+   "label": "1808",
+   "text": "There are two commemorative plaques in the front of the Royal House of the Post Office: one is devoted to the neighbours of Madrid who rose up against the Napoleonic invasion of Spain on 2 May 1808; the other one is a memorial of the victims of the 2004 Madrid bombings.",
+   "section": "Famous buildings and landmarks",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#Famous_buildings_and_landmarks",
+   "corroborated": false
+  },
+  {
+   "year": 1962,
+   "label": "1962",
+   "text": "The New Year's celebration has been broadcast live since 31 December 1962 on major radio and television networks including Atresmedia and RTVE.",
+   "section": "Introduction",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol",
+   "corroborated": false
+  },
+  {
+   "year": 2004,
+   "label": "2004",
+   "text": "The Puerta del Sol has seen protests against the 2004 Madrid bombings on commuter trains, and Spain's involvement in the Iraq War.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#History",
+   "corroborated": false
+  },
+  {
+   "year": 2009,
+   "label": "2009",
+   "text": "Until 2009, the statue stood on the north side at the entrance to Calle del Carmen.",
+   "section": "Famous buildings and landmarks",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#Famous_buildings_and_landmarks",
+   "corroborated": false
+  },
+  {
+   "year": 2011,
+   "label": "2011",
+   "text": "In 2011, the square became established as a focal point and a symbol for the ongoing anti-austerity movement in Spain.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#History",
+   "corroborated": false
+  },
+  {
+   "year": 2018,
+   "label": "2018",
+   "text": "During New Year's Eve 2018–2019, the clock of the Puerta del Sol for the first time in history rang the bells according to the schedule of the Canary Islands.",
+   "section": "Other events",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#Other_events",
+   "corroborated": false
+  },
+  {
+   "year": 2020,
+   "label": "2020",
+   "text": "Despite once being the meeting point of the six major radial roads of Spain, in 2020 the square was pedestrianized and closed to most traffic.",
+   "section": "History",
+   "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol#History",
+   "corroborated": false
+  }
+ ],
+ "intro": "The Puerta del Sol (Spanish: [ˈpweɾta ðel ˈsol], English: \"Gate of the Sun\") is a public square in Madrid, one of the best known and busiest places in the city. This is the centre (Km 0) of the radial network of Spanish roads. The square also contains the famous clock whose bells mark the traditional eating of the Twelve Grapes and the beginning of a new year.",
+ "stats": {
+  "events": 10,
+  "corroborated": 0
+ }
+}

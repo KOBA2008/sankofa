@@ -1,0 +1,157 @@
+{
+ "place": "agra-taj-mahal",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Taj Mahal",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Taj Mahal",
+   "url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 580,
+   "label": "580",
+   "text": "Il est situé au fond d'un jardin ornemental rectangulaire (de 580 par 305 mètres) clos par une enceinte percée sur chaque côté de quatre portes dont trois sont fausses.",
+   "section": "Situation",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Situation",
+   "corroborated": false
+  },
+  {
+   "year": 1605,
+   "label": "1605",
+   "text": "Il semble que le premier à avoir émis cette idée soit le joaillier Jean-Baptiste Tavernier (1605-1689) qui se rendit plusieurs fois aux Indes à la recherche de pierres et qui raconte avoir assisté à plusieurs stades de la construction du bâtiment.",
+   "section": "Réplique",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Réplique",
+   "corroborated": false
+  },
+  {
+   "year": 1631,
+   "label": "1631",
+   "text": "Celle-ci meurt le 17 juin 1631 en donnant naissance à leur quatorzième enfant, alors qu'elle accompagnait son mari pendant une campagne militaire.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal",
+   "corroborated": false
+  },
+  {
+   "year": 1632,
+   "label": "1632",
+   "text": "Sa construction commence en 1632, mais la date exacte de la fin des travaux demeure incertaine.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 1643,
+   "label": "1643",
+   "text": "Selon le chroniqueur officiel de Shâh Jahân, Abdul Hamid Lahori (en), le Taj Mahal est achevé à la fin de 1643 ou au début de 1644.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Histoire",
+   "corroborated": true
+  },
+  {
+   "year": 1648,
+   "label": "1648",
+   "text": "Mais une inscription dans l'entrée principale indique que la construction s'est achevée en 1648.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 1650,
+   "label": "XVIIe s.",
+   "text": "Le complexe serait alors, plutôt qu'un mausolée destiné à une épouse chérie, une invention du XVIIe siècle romantique répétée à l'envi, un instrument de pouvoir, comme a pu l'être le château de Versailles construit au cours du même siècle.",
+   "section": "Symbolique de l'édifice",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Symbolique_de_l'édifice",
+   "corroborated": false
+  },
+  {
+   "year": 1666,
+   "label": "1666",
+   "text": "Son époux, mort le 31 janvier 1666, est inhumé auprès d'elle.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal",
+   "corroborated": false
+  },
+  {
+   "year": 1942,
+   "label": "1942",
+   "text": "En 1942, le gouvernement érige un échafaudage pour anticiper les attaques aériennes de la Luftwaffe et plus tard des forces aériennes du Japon.",
+   "section": "Menaces et protections",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Menaces_et_protections",
+   "corroborated": false
+  },
+  {
+   "year": 1965,
+   "label": "1965",
+   "text": "Durant la guerre indo-pakistanaise de 1965 et 1971, des échafaudages sont encore érigés pour induire en erreur les pilotes[réf. souhaitée].",
+   "section": "Menaces et protections",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Menaces_et_protections",
+   "corroborated": false
+  },
+  {
+   "year": 1983,
+   "label": "1983",
+   "text": "Le complexe du Taj Mahal est inscrit au patrimoine mondial de l'UNESCO depuis 1983 et est l'une des sept nouvelles merveilles du monde dans un classement de 2007.",
+   "section": "Jardins",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Jardins",
+   "corroborated": true
+  },
+  {
+   "year": 2000,
+   "label": "2000",
+   "text": "En 2000, La Cour suprême de l'Inde a rejeté la requête de Purushottam Nagesh Oak de déclarer qu'un roi hindou a construit le Taj Mahal.",
+   "section": "Palais de Jai Singh ou temple de Shiva",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Palais_de_Jai_Singh_ou_temple_de_Shiva",
+   "corroborated": false
+  },
+  {
+   "year": 2001,
+   "label": "2001",
+   "text": "La sécurité est renforcée à la suite des attentats du 11 septembre 2001 et à la menace d'une guerre avec le Pakistan voisin.",
+   "section": "Menaces et protections",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Menaces_et_protections",
+   "corroborated": false
+  },
+  {
+   "year": 2004,
+   "label": "2004",
+   "text": "L'État de l'Uttar Pradesh, qui a célébré officiellement le 350e anniversaire de l'édifice en 2004, affirme quant à lui que les travaux se sont achevés en 1654.",
+   "section": "Histoire",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Histoire",
+   "corroborated": false
+  },
+  {
+   "year": 2019,
+   "label": "2019",
+   "text": "Visité par plus de 6 millions de touristes en 2019, c'était le site le plus touristique de l'Inde et un des dix monuments les plus visités du monde ː Liste des palais et monuments les plus visités.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal",
+   "corroborated": false
+  },
+  {
+   "year": 2024,
+   "label": "2024",
+   "text": "En 2024, le monument a attiré près de 7 millions de touristes, dont plus de 800 000 étrangers.",
+   "section": "Tourisme",
+   "url": "https://fr.wikipedia.org/wiki/Taj_Mahal#Tourisme",
+   "corroborated": false
+  }
+ ],
+ "intro": "Le Taj Mahal (en devanagari ताजमहल, en persan تاج محل, qui signifie « la couronne du palais » — mais ce nom peut aussi être vu comme une corruption de Mumtaz Mahal) est situé à Agra, au bord de la rivière Yamuna, dans l'État de l'Uttar Pradesh, en Inde. C'est un mausolée de marbre blanc construit par l'empereur moghol musulman Shâh Jahân en mémoire de son épouse Arjumand Bânu Begam, aussi connue sous le nom de Mumtaz Mahal, qui signifie en persan « lumière du palais ». Celle-ci meurt le 17 juin 1631 en donnant naissance à leur quatorzième enfant, alors qu'elle accompagnait son mari pendant une",
+ "stats": {
+  "events": 16,
+  "corroborated": 2
+ }
+}

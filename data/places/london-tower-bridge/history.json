@@ -1,0 +1,157 @@
+{
+ "place": "london-tower-bridge",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Tower Bridge",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Tower Bridge",
+   "url": "https://en.wikipedia.org/wiki/Tower_Bridge",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 200,
+   "label": "200",
+   "text": "Il est spécifié sur le projet que la portée du pont doit avoir une largeur de 61 mètres (200 pi) et une hauteur de 41 mètres (135 pi).",
+   "section": "Origines et plans initiaux",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Origines_et_plans_initiaux",
+   "corroborated": false
+  },
+  {
+   "year": 246,
+   "label": "246",
+   "text": "Au moment de sa construction, le Tower Bridge est le plus grand pont du monde (246 m de longueur et 65 m de hauteur) et le plus sophistiqué des ponts basculants jamais construits.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge",
+   "corroborated": false
+  },
+  {
+   "year": 410,
+   "label": "410",
+   "text": "Chaque tablier mobile du pont basculant pèse environ 1 200 tonnes (dont un contrepoids de 410 t).",
+   "section": "Système de bascule",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Système_de_bascule",
+   "corroborated": false
+  },
+  {
+   "year": 1850,
+   "label": "XIXe s.",
+   "text": "Durant la seconde moitié du XIXe siècle, le quartier d'East End est tellement peuplé que la population a besoin d'un nouveau pont, afin de faciliter les déplacements.",
+   "section": "Origines et plans initiaux",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Origines_et_plans_initiaux",
+   "corroborated": true
+  },
+  {
+   "year": 1870,
+   "label": "1870",
+   "text": "Le Tower Subway, qui ouvre ses portes en 1870, est l'un des premiers chemins de fer souterrains au monde, mais il ferme trois mois plus tard pour devenir un tunnel piétonnier.",
+   "section": "Inauguration et premières années",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Inauguration_et_premières_années",
+   "corroborated": true
+  },
+  {
+   "year": 1876,
+   "label": "1876",
+   "text": "Le Special bridge or Subway Committee est formé en 1876 et plus de 50 projets lui sont soumis, dont celui de l'ingénieur des ponts et chaussées Joseph Bazalgette.",
+   "section": "Origines et plans initiaux",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Origines_et_plans_initiaux",
+   "corroborated": true
+  },
+  {
+   "year": 1884,
+   "label": "1884",
+   "text": "Son projet est rejeté par manque de place et la conception n'est approuvée qu'en 1884, lorsqu'il est décidé de bâtir un pont basculant.",
+   "section": "Origines et plans initiaux",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Origines_et_plans_initiaux",
+   "corroborated": false
+  },
+  {
+   "year": 1885,
+   "label": "1885",
+   "text": "Une loi du Parlement est passée en 1885, autorisant la construction du pont.",
+   "section": "Origines et plans initiaux",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Origines_et_plans_initiaux",
+   "corroborated": false
+  },
+  {
+   "year": 1886,
+   "label": "1886",
+   "text": "La construction du pont, qui débute en 1886, demande huit ans de travail aux 432 ouvriers et cinq entrepreneurs principaux : John Jackson (fondations), Baron Armstrong (hydraulique), William Webster, H.",
+   "section": "Travaux de construction",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Travaux_de_construction",
+   "corroborated": true
+  },
+  {
+   "year": 1887,
+   "label": "1887",
+   "text": "Après le décès de Horace Jones le 21 mai 1887, George D.",
+   "section": "Travaux de construction",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Travaux_de_construction",
+   "corroborated": false
+  },
+  {
+   "year": 1894,
+   "label": "1894",
+   "text": "Le pont est officiellement ouvert le 30 juin 1894 par le prince de Galles, futur roi Édouard VII, et son épouse, la princesse de Galles, Alexandra de Danemark.",
+   "section": "Inauguration et premières années",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Inauguration_et_premières_années",
+   "corroborated": true
+  },
+  {
+   "year": 1898,
+   "label": "1898",
+   "text": "Ayant perdu l'essentiel de ses revenus, le tunnel est fermé en 1898.",
+   "section": "Inauguration et premières années",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Inauguration_et_premières_années",
+   "corroborated": false
+  },
+  {
+   "year": 1910,
+   "label": "1910",
+   "text": "N'étant accessibles que par des escaliers, elles sont rarement utilisées par les piétons et fermées en 1910.",
+   "section": "Inauguration et premières années",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Inauguration_et_premières_années",
+   "corroborated": false
+  },
+  {
+   "year": 1942,
+   "label": "1942",
+   "text": "Pendant la Seconde Guerre mondiale et par précaution pour éviter que les moteurs existants ne soient endommagés par l'action ennemie, un troisième moteur est installé en 1942 : c'est un moteur horizontal à gabarit de 150 cv, construit par Vickers Armstrong Ltd. dans son usine d'Elswick à Newcastle upon Tyne.",
+   "section": "Seconde Guerre mondiale",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Seconde_Guerre_mondiale",
+   "corroborated": false
+  },
+  {
+   "year": 1974,
+   "label": "1974",
+   "text": "Depuis la modification de 1974, la machinerie est électro-hydraulique : les moteurs des bascules fonctionnent à l’électricité et c'est de l'huile qui transmet la puissance.",
+   "section": "Système de bascule",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge#Système_de_bascule",
+   "corroborated": false
+  },
+  {
+   "year": 1982,
+   "label": "1982",
+   "text": "Les machineries du pont ouvrant sont accessibles au public depuis 1982, sous forme de musée présentant le fonctionnement du mécanisme hydraulique qui permet depuis 1894 (date de la construction du pont par Sir John Wolfe-Barry et Horace Jones) de mouvoir le pont à bascule.",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Tower_Bridge",
+   "corroborated": false
+  }
+ ],
+ "intro": "Le Tower Bridge (en français : « pont de la Tour ») est un pont basculant britannique situé à Londres et permettant notamment le passage de la Tamise aux véhicules motorisés. Ce pont, qui appartient à la classe des ponts suspendus, est composé de granite pour sa façade, d'acier pour sa structure et de béton pour ses fondations. Il est situé entre les arrondissements (« boroughs ») de Southwark et de Tower Hamlets, près de la tour de Londres, dont il tire son nom.",
+ "stats": {
+  "events": 16,
+  "corroborated": 5
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "place": "cape-town-adderley",
+ "lang": "fr",
+ "sources": [
+  {
+   "n": 1,
+   "title": "Le Cap",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap",
+   "lang": "fr",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipédia"
+  },
+  {
+   "n": 2,
+   "title": "Adderley Street",
+   "url": "https://en.wikipedia.org/wiki/Adderley_Street",
+   "lang": "en",
+   "license": "CC BY-SA 4.0",
+   "source": "Wikipedia"
+  }
+ ],
+ "events": [
+  {
+   "year": 1652,
+   "label": "1652",
+   "text": "Le Cap (en afrikaans : Kaapstad, en anglais : Cape Town, en xhosa : iKapa) est une ville d'Afrique du Sud, capitale de la colonie du Cap (1652-1910) puis de la province du Cap (1910-1994).",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap",
+   "corroborated": false
+  },
+  {
+   "year": 1654,
+   "label": "1654",
+   "text": "En 1654, des Asiatiques originaires de la colonie néerlandaise de Batavia sont déportés au Cap.",
+   "section": "Fondation de la cité-mère d'Afrique du Sud",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#Fondation_de_la_cité-mère_d'Afrique_du_Sud",
+   "corroborated": false
+  },
+  {
+   "year": 1658,
+   "label": "1658",
+   "text": "Au total, soixante mille esclaves sont déportés au Cap entre 1658 et 1807, le plus gros contingent étant originaire de Sulawesi en Indonésie.",
+   "section": "Fondation de la cité-mère d'Afrique du Sud",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#Fondation_de_la_cité-mère_d'Afrique_du_Sud",
+   "corroborated": false
+  },
+  {
+   "year": 1662,
+   "label": "1662",
+   "text": "Quand Van Riebeeck quitte le Cap en 1662 pour repartir vers les Indes orientales, l'embryon de colonie du Cap compte 134 salariés de la Compagnie des Indes orientales, 35 colons libres, 15 femmes, 22 enfants et 180 esclaves.",
+   "section": "Fondation de la cité-mère d'Afrique du Sud",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#Fondation_de_la_cité-mère_d'Afrique_du_Sud",
+   "corroborated": false
+  },
+  {
+   "year": 1679,
+   "label": "1679",
+   "text": "En 1679, quand Simon van der Stel est nommé commandeur du Cap, la station compte 289 résidents européens dont 142 citoyens libres ainsi que 191 esclaves.",
+   "section": "Fondation de la cité-mère d'Afrique du Sud",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#Fondation_de_la_cité-mère_d'Afrique_du_Sud",
+   "corroborated": false
+  },
+  {
+   "year": 1691,
+   "label": "1691",
+   "text": "En 1691, Le Cap devient officiellement une colonie de 1 400 personnes soit 1 000 citoyens blancs ou fonctionnaires de la VOC et 400 esclaves.",
+   "section": "La capitale de la colonie du Cap",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#La_capitale_de_la_colonie_du_Cap",
+   "corroborated": false
+  },
+  {
+   "year": 1708,
+   "label": "1708",
+   "text": "En 1708, Le Cap ne compte que 1 700 citoyens libres pour quelques centaines de fonctionnaires de la VOC, 1 250 esclaves et quelques milliers de métis et Malais.",
+   "section": "La capitale de la colonie du Cap",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#La_capitale_de_la_colonie_du_Cap",
+   "corroborated": false
+  },
+  {
+   "year": 1745,
+   "label": "1745",
+   "text": "De nouvelles villes sont aussi créées telles Swellendam (1745), du nom de Henry Swellengrebel, premier gouverneur colonial né au Cap, et Graaff-Reinet (1786).",
+   "section": "La capitale de la colonie du Cap",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#La_capitale_de_la_colonie_du_Cap",
+   "corroborated": false
+  },
+  {
+   "year": 1750,
+   "label": "XVIIIe s.",
+   "text": "Au XVIIIe siècle, la société du Cap est socialement très hiérarchisée avec au sommet les hauts fonctionnaires de la VOC, à un niveau nettement inférieur, les soldats de la compagnie et tout en bas les esclaves.",
+   "section": "La capitale de la colonie du Cap",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#La_capitale_de_la_colonie_du_Cap",
+   "corroborated": false
+  },
+  {
+   "year": 1778,
+   "label": "1778",
+   "text": "En 1778 émerge un mouvement des patriotes du Cap (Kaap Patrioten), influencé par les idéaux de la révolution américaine et favorable à l'établissement d'une république.",
+   "section": "La capitale de la colonie du Cap",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#La_capitale_de_la_colonie_du_Cap",
+   "corroborated": false
+  },
+  {
+   "year": 1781,
+   "label": "1781",
+   "text": "Ainsi, dans le cadre de l'alliance franco-hollandaise, des troupes de l'armée française stationnent au Cap de 1781 à 1784 afin de prévenir une invasion britannique.",
+   "section": "La capitale de la colonie du Cap",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#La_capitale_de_la_colonie_du_Cap",
+   "corroborated": false
+  },
+  {
+   "year": 1803,
+   "label": "1803",
+   "text": "L'occupation britannique prend fin en 1803 quand Le Cap est rétrocédé à la République batave (Paix d'Amiens).",
+   "section": "Le Cap sous domination britannique",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#Le_Cap_sous_domination_britannique",
+   "corroborated": false
+  },
+  {
+   "year": 1836,
+   "label": "1836",
+   "text": "En 1836, l'abolition de l'esclavage dans la colonie du Cap accélère la transformation économique et sociale de la Cité.",
+   "section": "Le Cap sous domination britannique",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#Le_Cap_sous_domination_britannique",
+   "corroborated": false
+  },
+  {
+   "year": 1905,
+   "label": "1905",
+   "text": "En 1905, Le Cap est déclarée capitale législative pour l'ensemble des colonies sud-africaines.",
+   "section": "Le Cap sous domination britannique",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#Le_Cap_sous_domination_britannique",
+   "corroborated": false
+  },
+  {
+   "year": 1910,
+   "label": "1910",
+   "text": "Depuis 1910, Le Cap est également la capitale parlementaire du pays aux côtés de Pretoria (capitale administrative) et de Bloemfontein (capitale judiciaire).",
+   "section": "Introduction",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap",
+   "corroborated": false
+  },
+  {
+   "year": 2000,
+   "label": "2000",
+   "text": "Aux élections municipales de décembre 2000, Peter Marais, candidat de la toute nouvelle Alliance démocratique (DA), est élu maire de la toute nouvelle municipalité du Cap, créée sur les fondements de plusieurs anciennes entités municipales locales dont celle de la ville du Grand Cap.",
+   "section": "Administration",
+   "url": "https://fr.wikipedia.org/wiki/Le_Cap#Administration",
+   "corroborated": false
+  }
+ ],
+ "intro": "Le Cap (en afrikaans : Kaapstad, en anglais : Cape Town, en xhosa : iKapa) est une ville d'Afrique du Sud, capitale de la colonie du Cap (1652-1910) puis de la province du Cap (1910-1994). Elle est actuellement la capitale provinciale du Cap-Occidental. Depuis 1910, Le Cap est également la capitale parlementaire du pays aux côtés de Pretoria (capitale administrative) et de Bloemfontein (capitale judiciaire).",
+ "stats": {
+  "events": 16,
+  "corroborated": 0
+ }
+}

@@ -71,9 +71,41 @@
      "image": "/media/places/djenne-mosquee/archive/d1273634f80f.jpg",
      "page_url": "https://commons.wikimedia.org/wiki/File:Djenne_Fortier_407.jpg",
      "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Djenne Fortier 413 - Ruines de l'ancienne Mosquée",
+     "year": 1906,
+     "license": "Public domain",
+     "image": "/media/places/djenne-mosquee/archive/f808bd90cb4f.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Djenne_Fortier_413_-_Ruines_de_l%27ancienne_Mosqu%C3%A9e.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Djenne Fortier 414 cropped",
+     "year": 1906,
+     "license": "Public domain",
+     "image": "/media/places/djenne-mosquee/archive/f6d158f2bd5c.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Djenne_Fortier_414_cropped.jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Djenné - pêcheur Bozo (Soudan français) (Début XXème siècle) - btv1b10122177n (1 of 2)",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/djenne-mosquee/archive/3f3082ba74f5.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_-_p%C3%AAcheur_Bozo_(Soudan_fran%C3%A7ais)_(D%C3%A9but_XX%C3%A8me_si%C3%A8cle)_-_btv1b10122177n_(1_of_2).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Djenné - pêcheur Bozo (Soudan français) (Début XXème siècle) - btv1b10122177n (2 of 2)",
+     "year": 1900,
+     "license": "Public domain",
+     "image": "/media/places/djenne-mosquee/archive/232805535bbe.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_-_p%C3%AAcheur_Bozo_(Soudan_fran%C3%A7ais)_(D%C3%A9but_XX%C3%A8me_si%C3%A8cle)_-_btv1b10122177n_(2_of_2).jpg",
+     "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Le Mali a été le berceau de plusieurs grands empires dont l'empire du Ghana (l'empire Wagadou), l'empire du Mali et l'Empire songhaï [S1]. Il est par la suite devenu une colonie française de 1895 à 1960 [S1]. Quelques années après son indépendance, il a subi la dictature de Moussa Traoré avant de connaître un régime démocratique depuis le début des années 1990 [S1]. Les extraits fournis présentent uniquement ce récit historique résumé et ne permettent pas de restituer d'autres perspectives sur cette histoire [S1]. Cette présentation chronologique provient exclusivement de la source [S1] fournie pour ce chapitre d'introduction [S1]."
+   "narrative": "Le Mali a été le berceau de plusieurs grands empires dont l'empire du Ghana (l'empire Wagadou), l'empire du Mali et l'Empire songhaï [S1]. Il est ensuite devenu une colonie française de 1895 à 1960 [S1]. Quelques années après son indépendance, il a subi la dictature de Moussa Traoré avant de connaître un régime démocratique depuis le début des années 1990 [S1]. Les extraits fournis présentent ces informations de manière factuelle et succincte sans refléter un point de vue colonial exclusif [S1]. Cette introduction résume ainsi l'histoire du Mali des empires à la période contemporaine [S1]."
   },
   {
    "title": "Préhistoire",
@@ -81,6 +113,13 @@
    "source": 2,
    "summary": "Les premières traces de peuplement humain remontent au Ve millénaire av. J.-C., on trouve en effet des vestiges néolithiques du Sahara vert dans l'Adrar des Ifoghas. Les premières formes de vie urbaine apparaissent vers 250 avant notre ère à Djenné-Djeno, près de l'actuelle Djenné, dans le delta intérieur du Niger.",
    "events": [
+    {
+     "year": 1050,
+     "label": "XIe s.",
+     "text": "Fondé au XIe siècle, il est unifié vers 1222 ou 1230 par Soundiata Keïta, roi du Mandé, région correspondant à peu près à l'actuel Mali.",
+     "source": 2,
+     "corroborated": true
+    },
     {
      "year": 1450,
      "label": "XVe s.",
@@ -110,6 +149,13 @@
      "corroborated": true
     },
     {
+     "year": 1766,
+     "label": "1766",
+     "text": "En 1766, Ngolo Diarra, un esclave pas tout à fait esclave (il est devenu captif à la suite des conditions de dettes d'impôts imposées par les Coulibaly), s’empare du trône et rétablit l’autorité sur les \"tondjons\".",
+     "source": 2,
+     "corroborated": false
+    },
+    {
      "year": 1818,
      "label": "1818",
      "text": "L’empire du Macina (parfois Massina) est un empire peul théocratique fondé en 1818 par le marabout Sékou Amadou du clan des Barry, et qui sera détruit par l'invasion des Toucouleurs sous la conduite d'El Hadj Omar en 1868.",
@@ -122,45 +168,91 @@
      "text": "Le Rassemblement démocratique africain (RDA) tient son congrès constitutif à Bamako du 18 au 21 octobre 1946 et le lendemain, sa section soudanaise, l'Union soudanaise-Rassemblement démocratique africain voit le jour par la fusion du Bloc démocratique soudanais et du Parti démocratique soudanais.",
      "source": 2,
      "corroborated": false
+    },
+    {
+     "year": 1958,
+     "label": "1958",
+     "text": "Le référendum du 28 septembre 1958 sur la Constitution de la République française voulue par le général De Gaulle contribue à la désunion, partageant les Africains en trois camps : les indépendantistes, les fédéralistes et les anti-fédéralistes.",
+     "source": 2,
+     "corroborated": false
+    },
+    {
+     "year": 1959,
+     "label": "1959",
+     "text": "Le 23 janvier 1959, l’Assemblée du Soudan adopte la constitution de la République soudanaise et la constitution fédérale.",
+     "source": 2,
+     "corroborated": false
     }
    ],
-   "start": 1450,
-   "end": 1946,
+   "start": 1050,
+   "end": 1959,
    "photos": [
     {
-     "title": "Djenne ruins ancient mosque - Albert Rousseau",
-     "year": 1894,
+     "title": "Djenné - pêcheur Bozo (Soudan français) (Début XXème siècle) - btv1b10122177n (1 of 2)",
+     "year": 1900,
      "license": "Public domain",
-     "image": "/media/places/djenne-mosquee/archive/c140db6acd92.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg",
+     "image": "/media/places/djenne-mosquee/archive/3f3082ba74f5.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_-_p%C3%AAcheur_Bozo_(Soudan_fran%C3%A7ais)_(D%C3%A9but_XX%C3%A8me_si%C3%A8cle)_-_btv1b10122177n_(1_of_2).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Djenne Fortier 407",
-     "year": 1906,
+     "title": "Djenné - pêcheur Bozo (Soudan français) (Début XXème siècle) - btv1b10122177n (2 of 2)",
+     "year": 1900,
      "license": "Public domain",
-     "image": "/media/places/djenne-mosquee/archive/d1273634f80f.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Djenne_Fortier_407.jpg",
+     "image": "/media/places/djenne-mosquee/archive/232805535bbe.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_-_p%C3%AAcheur_Bozo_(Soudan_fran%C3%A7ais)_(D%C3%A9but_XX%C3%A8me_si%C3%A8cle)_-_btv1b10122177n_(2_of_2).jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Djenne Fortier 413 - Ruines de l'ancienne Mosquée",
-     "year": 1906,
+     "title": "Notable sortant de sa maison en banco typique de l'architecture de la ville de Djenné - Paul Deringère - btv1b10103827z",
+     "year": 1900,
      "license": "Public domain",
-     "image": "/media/places/djenne-mosquee/archive/f808bd90cb4f.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Djenne_Fortier_413_-_Ruines_de_l%27ancienne_Mosqu%C3%A9e.jpg",
+     "image": "/media/places/djenne-mosquee/archive/8658fa0e6f14.jpg",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Notable_sortant_de_sa_maison_en_banco_typique_de_l%27architecture_de_la_ville_de_Djenn%C3%A9_-_Paul_Dering%C3%A8re_-_btv1b10103827z.jpg",
      "source": "Wikimedia Commons"
     },
     {
-     "title": "Djenne Fortier 414 cropped",
-     "year": 1906,
-     "license": "Public domain",
-     "image": "/media/places/djenne-mosquee/archive/f6d158f2bd5c.jpg",
-     "page_url": "https://commons.wikimedia.org/wiki/File:Djenne_Fortier_414_cropped.jpg",
+     "title": "Le Sénégal et le Soudan français (1898) (14576939130)",
+     "year": 1898,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814576939130%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814576939130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14576939130).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Le Sénégal et le Soudan français (1898) (14576955330)",
+     "year": 1898,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814576955330%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814576955330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14576955330).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Le Sénégal et le Soudan français (1898) (14577205167)",
+     "year": 1898,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814577205167%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814577205167%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14577205167).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Le Sénégal et le Soudan français (1898) (14740626006)",
+     "year": 1898,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814740626006%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814740626006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14740626006).jpg",
+     "source": "Wikimedia Commons"
+    },
+    {
+     "title": "Le Sénégal et le Soudan français (1898) (14740640036)",
+     "year": 1898,
+     "license": "No restrictions",
+     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814740640036%29.jpg/960px-Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_%281898%29_%2814740640036%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page_url": "https://commons.wikimedia.org/wiki/File:Le_S%C3%A9n%C3%A9gal_et_le_Soudan_fran%C3%A7ais_(1898)_(14740640036).jpg",
      "source": "Wikimedia Commons"
     }
    ],
-   "narrative": "Les premières traces de peuplement humain remontent au Ve millénaire av. J.-C. avec des vestiges néolithiques du Sahara vert dans l'Adrar des Ifoghas, tandis que les premières formes de vie urbaine apparaissent vers 250 avant notre ère à Djenné-Djeno [S2]. Au XVe siècle s'élève l'Empire songhaï, lequel se développe durant les XVe et XVIe siècles en s'appuyant sur une organisation politique largement inspirée de celle de l'empire du Mali [S2]. Tributaire de l'empire du Mali depuis 1300, le royaume du Songhaï met en place à partir de 1464 sous Sonni Ali Ber une politique de conquêtes territoriales rompant avec l'économie de razzia [S2]. À sa mort, la dynastie musulmane des Askia porte l'empire à son apogée au XVIe siècle [S2]. La bataille de Tondibi perdue contre les Saadiens le 12 avril 1591 marque la fin de l'empire et son allégeance au sultan du Maroc [S2]."
+   "narrative": "Les extraits disponibles pour ce chapitre de préhistoire sont limités à quelques informations générales [S2]. Les premières traces de peuplement humain remontent au Ve millénaire av. J.-C. [S2]. On trouve en effet des vestiges néolithiques du Sahara vert dans l'Adrar des Ifoghas [S2]. Les premières formes de vie urbaine apparaissent vers 250 avant notre ère à Djenné-Djeno, près de l'actuelle Djenné, dans le delta intérieur du Niger [S2]. Aucune autre information sur la préhistoire n'est fournie dans les extraits pour cette période [S2]. Ces données proviennent uniquement de la source indiquée et ne permettent pas de décrire plus en détail la période [S2]."
   },
   {
    "title": "Indépendance et première république (1960-1968)",
@@ -168,6 +260,13 @@
    "source": 3,
    "summary": "Le Mali est indépendant depuis le 22 septembre 1960, et membre des Nations unies le 28 septembre suivant. Le régime souhaite une modernisation de l'agriculture dans le sens d'un socialisme collectiviste.",
    "events": [
+    {
+     "year": 1960,
+     "label": "1960",
+     "text": "Le Mali est indépendant depuis le 22 septembre 1960, et membre des Nations unies le 28 septembre suivant.",
+     "source": 3,
+     "corroborated": true
+    },
     {
      "year": 1961,
      "label": "1961",
@@ -179,6 +278,13 @@
      "year": 1963,
      "label": "1963",
      "text": "Cependant, en février 1963, le président malien reçoit le président mauritanien Mokhtar Ould Daddah à Kayes et signe avec lui un accord frontalier.",
+     "source": 3,
+     "corroborated": false
+    },
+    {
+     "year": 1965,
+     "label": "1965",
+     "text": "En décembre 1965, le Mali rompt ses relations diplomatiques avec Londres pour protester contre l'attitude du Royaume-Uni en Rhodésie.",
      "source": 3,
      "corroborated": false
     },
@@ -209,12 +315,26 @@
      "text": "En 1984 est créé le Front démocratique des patriotes maliens, en 1986 le Front national démocratique populaire (FNDP) qui comprend le Parti malien du travail (PMT), le PMDR, le PDPM, rejoint en 1989 par l'US-RDA.",
      "source": 3,
      "corroborated": false
+    },
+    {
+     "year": 1990,
+     "label": "1990",
+     "text": "Une semaine plus tard, le 25 octobre 1990, l’Alliance pour la démocratie au Mali est créé par des militants du PMT, du PMDR, du FDPM et de l’US-RDA créent l’Alliance pour la démocratie au Mali (Adéma), présidée par Abdrahamane Baba Touré.",
+     "source": 3,
+     "corroborated": true
+    },
+    {
+     "year": 1991,
+     "label": "1991",
+     "text": "Le 3 mars 1991, une marche unitaire rassemble le Cnid, L’adéma, l’Association pour la justice, la démocratie et le progrès (AJDP) et la Jeunesse libre et démocratique (JLD).",
+     "source": 3,
+     "corroborated": false
     }
    ],
-   "start": 1961,
-   "end": 1984,
+   "start": 1960,
+   "end": 1991,
    "photos": [],
-   "narrative": "Ce chapitre porte sur l'indépendance et la première république entre 1960 et 1968 [S3]. Le Mali accède à l'indépendance le 22 septembre 1960 et devient membre des Nations unies le 28 septembre suivant [S3]. Le nouveau régime oriente la modernisation de l'agriculture vers un socialisme collectiviste [S3]. En janvier 1961, Modibo Keïta, soutenant les Algériens dans leur guerre d'indépendance, réclame le départ immédiat des 2 200 militaires français stationnés au Mali [S3]. En février 1963, il reçoit à Kayes le président mauritanien Mokhtar Ould Daddah et signe avec lui un accord frontalier [S3]. Les autres événements mentionnés dans les extraits sont postérieurs à 1968 et ne concernent donc pas ce chapitre [S3]."
+   "narrative": "Le Mali devient indépendant le 22 septembre 1960 et adhère aux Nations unies le 28 septembre suivant [S3]. Le régime nouvellement établi souhaite moderniser l'agriculture dans le sens d'un socialisme collectiviste [S3]. En janvier 1961, le président Modibo Keïta, soutenant les Algériens dans leur guerre d'indépendance, réclame le départ immédiat des 2 200 soldats français stationnés au Mali [S3]. En février 1963, il reçoit à Kayes le président mauritanien Mokhtar Ould Daddah et signe avec lui un accord frontalier [S3]. En décembre 1965, le Mali rompt ses relations diplomatiques avec Londres pour protester contre l'attitude du Royaume-Uni en Rhodésie [S3]."
   },
   {
    "title": "Transition démocratique (1991-1997)",
@@ -233,6 +353,13 @@
      "year": 1992,
      "label": "1992",
      "text": "Les maliens approuvent par référendum le 12 janvier 1992 la nouvelle constitution.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 1993,
+     "label": "1993",
+     "text": "En février 1993, Moussa Traoré est condamné à mort (puis gracié en 2002).",
      "source": 4,
      "corroborated": false
     },
@@ -263,12 +390,33 @@
      "text": "Il est élu président du Mali en mai 2002 avec 64,35 % des voix au second tour.",
      "source": 4,
      "corroborated": false
+    },
+    {
+     "year": 2007,
+     "label": "2007",
+     "text": "Le 29 avril 2007, Amadou Toumani Touré est réélu au premier tour avec 71,20 % des voix, mais cette élection est contestée par les principaux candidats de l’opposition.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 2012,
+     "label": "2012",
+     "text": "Le 22 mars 2012, le capitaine Amadou Haya Sanogo dirige un coup d’État militaire.",
+     "source": 4,
+     "corroborated": false
+    },
+    {
+     "year": 2013,
+     "label": "2013",
+     "text": "Celui-ci organise une élection présidentielle qui se tient les 28 juillet et 11 août 2013 et s'achève par la victoire d'Ibrahim Boubacar Keïta auquel Dioncouda Traoré transmet le pouvoir le 4 septembre suivant.",
+     "source": 4,
+     "corroborated": false
     }
    ],
    "start": 1991,
-   "end": 2002,
+   "end": 2013,
    "photos": [],
-   "narrative": "Le Comité de réconciliation nationale rencontre les organisations du CCAOD et décide de constituer le CTSP, composé de dix militaires et quinze représentants des organisations démocratiques dont quatre associations de jeunes et deux du mouvement de rébellion du nord [S4]. Le CTSP organise une conférence nationale du 29 juillet au 12 août 1991 pour élaborer une nouvelle constitution et définir le processus électoral [S4]. Celle-ci est approuvée par référendum le 12 janvier 1992 [S4]. Le 25 octobre 1996, la Cour constitutionnelle censure un projet de loi après saisine de l'opposition [S4]. Le premier tour du 13 avril 1997, organisé dans la confusion, est invalidé par la Cour [S4]."
+   "narrative": "Le Comité de réconciliation nationale rencontre les organisations démocratiques regroupées au sein du CCAOD et ils décident de constituer le CTSP, qui comprend dix militaires et quinze représentants des organisations démocratiques dont quatre représentations des associations de jeunes et deux du mouvement de rébellion du nord [S4]. Le CTSP organise une conférence nationale du 29 juillet 1991 au 12 août 1991 afin d’élaborer une nouvelle constitution et définir le processus électoral [S4]. Les Maliens approuvent par référendum le 12 janvier 1992 la nouvelle constitution [S4]. En février 1993, Moussa Traoré est condamné à mort puis gracié en 2002 [S4]. L'opposition, qui craint que cette réforme renforce le parti au pouvoir, saisit la Cour constitutionnelle qui censure le 25 octobre 1996 le projet de loi adopté par l'Assemblée nationale [S4]. Un premier tour organisé le 13 avril 1997 est invalidé par la Cour constitutionnelle [S4]."
   }
  ],
  "sources": [
@@ -324,22 +472,22 @@
  "gaps": [
   {
    "from": null,
-   "to": 1450,
-   "text": "Avant 1450, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
+   "to": 1050,
+   "text": "Avant 1050, l'histoire n'est pas datée dans ces sources : traditions orales, archéologie et sources locales restent à intégrer."
   }
  ],
  "stats": {
   "chapters": 4,
-  "events": 20,
-  "corroborated": 3,
-  "share": 0.15,
+  "events": 32,
+  "corroborated": 6,
+  "share": 0.19,
   "span": [
-   "1450",
-   "2002"
+   "1050",
+   "2013"
   ]
  },
  "engines": {
   "narrative": "meta:muse-spark-open-1026 (Baseten)"
  },
- "run": "1092adb670"
+ "run": "eb7508edf3"
 }
