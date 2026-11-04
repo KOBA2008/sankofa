@@ -196,3 +196,6 @@ data/places/salvador-pelourinho/current/b6106dccef53.jpg
 data/places/salvador-pelourinho/current/e4302dc0f764.jpg
 data/places/salvador-pelourinho/current/e66aa8ef0829.jpg
 data/places/salvador-pelourinho/current/f8ec19866d1b.jpg
+
+# branche backend : l'interface est sur main
+frontend/

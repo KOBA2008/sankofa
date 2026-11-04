@@ -1,4 +1,6 @@
-# SANKOFA
+# SANKOFA (backend)
+
+> **`backend` branch**: API, agent, archive corpus and chronicles only, deployed on Hugging Face Spaces with the `Dockerfile` at the root. The web interface lives on the `main` branch (`frontend/`).
 
 **An AI agent that builds a time machine for any city, and tells you what is proven and what is imagined.**
 
