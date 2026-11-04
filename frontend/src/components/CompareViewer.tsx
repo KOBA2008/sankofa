@@ -89,7 +89,7 @@ export function CompareViewer({ before, after, size, tags, year, sourceTitles, a
 
         {/* poignée en verre */}
         <div className="pointer-events-none absolute inset-y-0" style={{ left: `${pos}%` }}>
-          <div className="absolute inset-y-0 -left-px w-0.5 bg-white/80 shadow-[0_0_20px_rgba(255,255,255,.6)]" />
+          <div className="absolute inset-y-0 -left-px w-0.5 bg-white/80" />
           <div className="glass glass-refract absolute top-1/2 left-0 flex h-12 w-12 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full">
             <svg viewBox="0 0 24 24" className="h-5 w-5 text-white"><path d="M9 6l-6 6 6 6M15 6l6 6-6 6" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" /></svg>
           </div>

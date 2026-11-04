@@ -5,6 +5,7 @@ import {
 } from 'lucide-react'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { api } from '../lib/api'
+import { announceMedia } from './AmbientMusic'
 
 export type Scene = {
   type: 'title' | 'chapter' | 'event' | 'compare' | 'gap' | 'credits'
@@ -76,7 +77,7 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
       .catch(e => setError(e.message))
   }, [kind, id, run])
 
-  useEffect(() => { load(); return () => { audio.current?.pause(); stopExport.current?.() } }, [load])
+  useEffect(() => { load(); return () => { audio.current?.pause(); stopExport.current?.(); announceMedia(false) } }, [load])
 
   const starts = useMemo(() => {
     let t = 0
@@ -93,7 +94,7 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
       const t = (performance.now() - t0) / 1000
       if (t >= scene.duration) {
         if (index + 1 < board.scenes.length) { setIndex(index + 1); setOffset(0) }
-        else { setPlaying(false); setOffset(scene.duration); audio.current?.pause() }
+        else { setPlaying(false); setOffset(scene.duration); audio.current?.pause(); announceMedia(false) }
       } else setOffset(t)
     }, 100)
     return () => clearInterval(tick)
@@ -108,10 +109,10 @@ export function DocumentaryPlayer({ kind, id, run, title }: Props) {
   }, [])
 
   const play = () => {
-    setStarted(true); setPlaying(true)
+    setStarted(true); setPlaying(true); announceMedia(true)
     audio.current?.play().catch(() => {})
   }
-  const pause = () => { setPlaying(false); audio.current?.pause() }
+  const pause = () => { setPlaying(false); audio.current?.pause(); announceMedia(false) }
   const toggle = () => (playing ? pause() : play())
 
   const seekTo = (t: number) => {

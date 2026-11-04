@@ -3,6 +3,7 @@ import { AlertTriangle, ArrowLeft, Clapperboard, BookOpenText, Camera, CheckCirc
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { AgentTimeline } from '../components/AgentTimeline'
+import { announceMedia } from '../components/AmbientMusic'
 import { DocumentaryPlayer } from '../components/DocumentaryPlayer'
 import { Backdrop, Footer } from '../components/Chrome'
 import { Cited } from '../components/ResultPanel'
@@ -50,11 +51,11 @@ export default function Country() {
   const speak = () => {
     const synth = window.speechSynthesis
     if (!synth || !chron) return
-    if (speaking) { synth.cancel(); setSpeaking(false); return }
+    if (speaking) { synth.cancel(); setSpeaking(false); announceMedia(false); return }
     const text = chron.chapters.map(c => `${c.title}. ${c.narrative.replace(/\[S\d+\]/g, '')}`).join(' ')
     const u = new SpeechSynthesisUtterance(text)
-    u.lang = 'fr-FR'; u.rate = 0.97; u.onend = () => setSpeaking(false)
-    synth.speak(u); setSpeaking(true)
+    u.lang = 'fr-FR'; u.rate = 0.97; u.onend = () => { setSpeaking(false); announceMedia(false) }
+    synth.speak(u); setSpeaking(true); announceMedia(true)
   }
 
   const cite = (n: number) => {
@@ -68,7 +69,7 @@ export default function Country() {
   if (error && !country) return <div className="flex min-h-screen items-center justify-center text-white/60">{error}</div>
 
   return (
-    <div className="grain">
+    <div>
       <Backdrop images={backdrop} dim={0.8} />
       <main className="mx-auto max-w-6xl px-4 pt-28">
         <Link to="/pays" className="mb-6 inline-flex items-center gap-1.5 text-sm text-white/55 hover:text-white"><ArrowLeft size={15} /> Tous les pays</Link>
@@ -126,7 +127,7 @@ export default function Country() {
             <ol className="relative space-y-6 border-l border-white/10 pl-6 md:pl-10">
               {chron.chapters.map((c, i) => (
                 <motion.li key={c.title} initial={{ opacity: 0, y: 24 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: '-60px' }} transition={{ duration: 0.6 }} className="relative">
-                  <span className="absolute -left-[31px] top-7 h-3.5 w-3.5 rounded-full bg-gold shadow-[0_0_0_6px_rgba(233,196,106,.18)] md:-left-[47px]" />
+                  <span className="absolute -left-[31px] top-7 h-3.5 w-3.5 rounded-full border-2 border-gold bg-ink md:-left-[47px]" />
                   <article className="glass glass-strong rounded-[28px] p-5 md:p-7">
                     <div className="flex flex-wrap items-baseline justify-between gap-2">
                       <h2 className="font-serif text-4xl leading-tight">{c.title}</h2>

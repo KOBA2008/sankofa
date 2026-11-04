@@ -14,7 +14,7 @@ const DETAILS: Record<string, { what: string; model: string }> = {
 
 export default function Method() {
   return (
-    <div className="grain">
+    <div>
       <Backdrop images={[]} />
       <main className="mx-auto max-w-4xl px-4 pt-32">
         <p className="font-mono text-xs uppercase tracking-[0.25em] text-gold">Méthode</p>

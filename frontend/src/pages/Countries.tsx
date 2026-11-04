@@ -12,7 +12,7 @@ export default function Countries() {
   const covers = useMemo(() => list.map(c => c.cover).filter(Boolean) as string[], [list])
 
   return (
-    <div className="grain">
+    <div>
       <Backdrop images={covers} dim={0.75} />
       <main className="mx-auto max-w-6xl px-4 pt-32">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}>

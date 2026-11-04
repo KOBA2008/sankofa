@@ -11,7 +11,7 @@ import { api, type PlaceSummary } from '../lib/api'
 
 const pin = L.divIcon({
   className: '',
-  html: '<span style="display:block;width:16px;height:16px;border-radius:99px;background:radial-gradient(circle at 35% 30%,#fff,#f4dea0 45%,#c99a2e);box-shadow:0 0 0 6px rgba(233,196,106,.22),0 4px 14px rgba(0,0,0,.6)"></span>',
+  html: '<span style="display:block;width:14px;height:14px;border-radius:99px;background:#e9c46a;border:2px solid #0b0c10"></span>',
   iconSize: [16, 16],
   iconAnchor: [8, 8],
 })
@@ -31,7 +31,7 @@ export default function Home() {
   const shown = continent === 'Tous' ? places : places.filter(p => p.continent === continent)
 
   return (
-    <div className="grain">
+    <div>
       <Backdrop images={covers} />
 
       <section className="mx-auto flex min-h-[92vh] max-w-6xl flex-col justify-center px-4 pt-28">

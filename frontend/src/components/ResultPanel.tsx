@@ -2,6 +2,7 @@ import { AnimatePresence, motion } from 'framer-motion'
 import { ExternalLink, HelpCircle, Pause, Play } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { STATUS_META, type RunResult } from '../lib/api'
+import { announceMedia } from './AmbientMusic'
 
 const TABS = [
   { id: 'recit', label: 'Récit' },
@@ -41,13 +42,14 @@ export function ResultPanel({ result, onContribute }: { result: RunResult; onCon
   const speak = () => {
     const synth = window.speechSynthesis
     if (!synth) return
-    if (speaking) { synth.cancel(); setSpeaking(false); return }
+    if (speaking) { synth.cancel(); setSpeaking(false); announceMedia(false); return }
     const u = new SpeechSynthesisUtterance(result.story[lang].replace(/\[S\d+\]/g, ''))
     u.lang = lang === 'fr' ? 'fr-FR' : 'en-US'
     u.rate = 0.96
-    u.onend = () => setSpeaking(false)
+    u.onend = () => { setSpeaking(false); announceMedia(false) }
     synth.speak(u)
     setSpeaking(true)
+    announceMedia(true)
   }
 
   const cite = (n: number) => { setFocus(n); setTab('sources') }

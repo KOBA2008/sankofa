@@ -2,6 +2,7 @@ import { AnimatePresence, motion } from 'framer-motion'
 import { useEffect, useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { api, type Health } from '../lib/api'
+import { AmbientMusic } from './AmbientMusic'
 
 export function Logo({ className = '' }: { className?: string }) {
   return (
@@ -29,12 +30,15 @@ export function Nav() {
           <NavLink to="/pays" active={loc.pathname.startsWith('/pays')}>Pays</NavLink>
           <NavLink to="/methode" active={loc.pathname === '/methode'}>Méthode</NavLink>
         </div>
+        <div className="flex items-center gap-2">
+        <AmbientMusic />
         <div
           className={`flex items-center gap-2 rounded-full px-3 py-1.5 text-xs ${health?.text_live ? 'bg-proof/15 text-proof' : 'bg-white/8 text-white/60'}`}
           title={health?.meta_live ? 'Modèles Meta branchés' : health?.text_live ? `Texte et vision : ${health.text_engine}. Segmentation et génération d'image : moteur local.` : 'Aucune clé API : moteur local de démonstration'}
         >
-          <span className={`h-1.5 w-1.5 rounded-full ${health?.text_live ? 'bg-proof animate-pulse' : 'bg-white/40'}`} />
-          {health ? (health.meta_live ? 'Meta Model API' : health.text_live ? 'Llama · Baseten' : 'Mode local') : 'Hors ligne'}
+          <span className={`h-1.5 w-1.5 rounded-full ${health?.text_live ? 'bg-proof' : 'bg-white/40'}`} />
+          <span className="hidden sm:inline">{health ? (health.meta_live ? 'Meta Model API' : health.text_live ? 'Muse Spark · Baseten' : 'Mode local') : 'Hors ligne'}</span>
+        </div>
         </div>
       </nav>
     </header>

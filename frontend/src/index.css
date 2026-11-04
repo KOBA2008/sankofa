@@ -100,25 +100,6 @@ body {
 .gold-button:hover { transform: translateY(-1px); filter: brightness(1.05); box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.7), 0 16px 40px -8px rgb(233 196 106 / 0.7); }
 .gold-button:disabled { filter: grayscale(0.6) brightness(0.7); cursor: not-allowed; transform: none; }
 
-/* grain photographique global, très léger */
-.grain::after {
-  content: "";
-  position: fixed;
-  inset: -50%;
-  pointer-events: none;
-  z-index: 60;
-  opacity: 0.05;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
-  animation: grain 1.2s steps(6) infinite;
-}
-@keyframes grain {
-  0%, 100% { transform: translate(0, 0); }
-  20% { transform: translate(-3%, 2%); }
-  40% { transform: translate(2%, -3%); }
-  60% { transform: translate(-2%, -1%); }
-  80% { transform: translate(3%, 3%); }
-}
-
 /* ---------------------------------------------------------------- typographie */
 body { font-optical-sizing: auto; line-height: 1.55; }
 h1, h2, h3 { text-wrap: balance; }
@@ -156,6 +137,5 @@ input[type="range"].timeline::-moz-range-thumb {
 .leaflet-control-attribution a { color: #aaa !important; }
 
 @media (prefers-reduced-motion: reduce) {
-  .grain::after { animation: none; }
   * { scroll-behavior: auto !important; }
 }

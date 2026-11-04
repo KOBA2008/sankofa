@@ -77,7 +77,7 @@ export default function Place() {
   if (error && !place) return <div className="flex min-h-screen items-center justify-center text-white/60">{error}</div>
 
   return (
-    <div className="grain">
+    <div>
       <Backdrop images={backdrop} dim={0.78} />
       <main className="mx-auto max-w-6xl px-4 pt-28">
         <Link to="/" className="mb-6 inline-flex items-center gap-1.5 text-sm text-white/55 hover:text-white"><ArrowLeft size={15} /> Toutes les villes</Link>
